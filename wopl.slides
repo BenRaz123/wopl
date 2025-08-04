@@ -1,0 +1,26 @@
+!global
+!pfoot *WOPL* \<wopl.org>
+!sfoot <<%r %x>>
+!exec wopl.js
+!styles wopl.css
+
+!title
+!image logo.png
+*<<%r>>*
+<<%A, %B %d %Y>>
+
+!image logo-small.png
+Welcome to the Library
+The West Orange Public Library
+10 Rooney Circle, West Orange NJ 07052
++1 973-736-0198
+wopl.org
+
+!id yesterday
+Yesterday at the Library
+
+!id today
+Today at the Library
+
+!id tomorrow
+Tomorrow at the Library

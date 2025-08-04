@@ -1,0 +1,444 @@
+<!doctype html>
+<html>
+<body>
+<script>const URL = "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10341"
+const SHOW_UPDATE_DATE = true;
+
+// the entry point to the program
+async function main() {
+	updateDelta("today", 0);	
+}
+
+async function updateDelta(slideID, delta) {
+	const response = await fetch(URL);
+	if (!response.ok) {
+		console.error(`failed to get response: ${response.status}`);
+		return;
+	} else {
+		console.log(response);
+		return;
+	}
+	const ics = parseICS()
+	const slide = document.querySelector(`#${slideID}`);
+	
+}
+
+function ifStartsWith(s, pat, f) {
+  if (s.startsWith(pat)) f(s.split(pat)[1])
+}
+
+function parseDate(stamp) {
+  return new Date(stamp.replace(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/, '$1-$2-$3T$4:$5:$6Z'));
+
+}
+
+function parseICS(ics, deb) {
+  const events = String(ics).split("BEGIN:VEVENT").slice(1);
+  let output = [];
+  for (const ev of events) {
+    var parsedEv = {};
+    if (deb) parsedEv.raw = ev;
+    for (const evLine of ev.split("\n")) {
+      ifStartsWith(evLine, "DTSTART:", stamp => {
+        parsedEv.dtStart = parseDate(stamp);
+      });
+      ifStartsWith(evLine, "DTEND:", stamp => {
+        parsedEv.dtEnd = parseDate(stamp);
+      });
+      ifStartsWith(evLine, "DTSTAMP:", stamp => {
+        parsedEv.dtStamp = parseDate(stamp);
+      });
+      ifStartsWith(evLine, "SUMMARY:", summary => {
+        parsedEv.summary = summary;
+      });
+      ifStartsWith(evLine, "LOCATION:", loc => {
+        const spl = String(loc.split("West Orange - ")[1]);
+        parsedEv.location = spl.includes(`\\`) ? spl.split(`\\`)[0] : spl;
+      });
+    }
+    output.push(parsedEv);  
+  }
+  return output;
+}
+</script>
+<style>* {
+	font-family: arial, system-ui, sans-serif;
+}
+</style>
+<script>
+const regex = /(?<!%)%(([a-z])|([A-Z]))/g;
+function strftime(time, fmt) {
+    const table = {
+        "%a": () => shortDay(time.getDay()),
+        "%A": () => longDay(time.getDay()),
+        
+        "%b": () => shortMonth(time.getMonth()),
+        "%B": () => longMonth(time.getMonth()),
+        
+        "%C": () => Math.floor(time.getFullYear() / 100),
+        "%d": () => leftPad(time.getDate(), 2),
+        "%e": () => leftPad(time.getDate(), 2, " "),
+
+        "%D": () => strftime(time, `%m/%d/%y`),
+        "%F": () => strftime(time, `%Y-%m-%d`),
+        "%h": () => strftime(time, `%b`),
+
+        "%H": () => leftPad(time.getHours(), 2),
+        "%I": () => leftPad(time.getHours() % 12 === 0 ? 12 : time.getHours() % 12, 2),
+        "%j": () => leftPad(getDayOfYear(time), 3),
+        
+        "%k": () => leftPad(time.getHours(), 2, " "),
+        "%l": () => leftPad(time.getHours() % 12 === 0 ? 12 : time.getHours() % 12, 2, " "),
+        "%m": () => leftPad(time.getMonth()+1, 2),
+        "%M": () => leftPad(time.getMinutes(), 2),
+        "%n": () => "\\n",
+        "%p": () => time.getHours()<12 ? "AM" : "PM",
+        "%P": () => time.getHours()<12 ? "am" : "pm",
+        "%r": () => strftime(time, `%I:%M:%S %p`),
+        "%R": () => strftime(time, `%H:%M`),
+        "%s": () => Math.floor(time.getTime() / 1000),
+        "%S": () => leftPad(time.getSeconds(), 2),
+        "%t": () => "\\t",
+        "%T": () => strftime(time, `%H:%M:%S`),
+        "%u": () => time.getDay() === 0 ? 7 : time.getDay(),
+        "%U": () => leftPad(getWeekNumber(time), 2),
+        "%w": () => time.getDay(),
+        "%x": () => strftime(time, `%m/%d/%y`),
+        "%X": () => strftime(time, `%H:%M:%S`),
+        "%y": () => leftPad(time.getFullYear() % 100, 2),
+        "%Y": () => time.getFullYear(),
+    }
+    
+    fmt = fmt.replace(regex, match => table[match]() ?? "!err");
+    fmt = fmt.replaceAll(`%%`, `%`);
+
+    return fmt;
+}
+
+function getWeekNumber(date) {
+  var d = new Date(Date.UTC(date.getFullYear(), date.getMonth(), date.getDate()));
+  var dayNum = d.getUTCDay() || 7;
+  d.setUTCDate(d.getUTCDate() + 4 - dayNum);
+  var yearStart = new Date(Date.UTC(d.getUTCFullYear(),0,1));
+  return Math.ceil((((d - yearStart) / 86400000) + 1)/7)
+}
+
+function getDayOfYear(date) {
+  const start = new Date(date.getFullYear(), 0, 1);
+  const diff = date - start;
+  const oneDay = 1000 * 60 * 60 * 24;
+  return Math.floor(diff / oneDay) + 1;
+}
+
+function leftPad(str, num, ch="0") {
+    str = String(str);
+    if (num <= str.length) return str;
+    return ch.repeat(num-str.length) + str;
+}
+
+function longMonth(monthIndex) {
+    return [
+        "January", "February", "March",
+        "April",   "May",      "June",
+        "July",    "August",   "September",
+        "October", "November", "December"
+    ][monthIndex];
+}
+
+function shortMonth(monthIndex) {
+    return [
+        "Jan", "Feb", "Mar",
+        "Apr", "May", "Jun",
+        "Jul", "Aug", "Sep",
+        "Oct", "Nov", "Dec"
+    ][monthIndex];
+}
+
+function longDay(day) {
+    return ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"][day];
+}
+
+function shortDay(day) {
+    return ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"][day];
+}
+
+function sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms));
+}
+
+var slides;
+
+document.addEventListener("DOMContentLoaded", () => {
+    slides = document.querySelectorAll("slide");
+
+    (async () => { 
+        while (true) {
+			if (slides.length == 0) return;
+            for (const slide of slides) {
+				const time = slide.getAttribute('time') ??  10 ;
+                slide.setAttribute("active", "");
+				await sleep(time * 1000);
+                slide.removeAttribute("active")
+            }
+			
+			if (typeof main === 'function') main();
+			else console.error("main function not found")
+			
+        }
+    })();
+});
+
+
+</script>
+
+
+
+<script>console.log({"IsTitleSlide":true,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"logo.png","Has":true},"Id":{"Val":"","Has":false},"HeaderLines":["*\u003c\u003c%r\u003e\u003e*","\u003c\u003c%A, %B %d %Y\u003e\u003e"],"Bullets":null,"Lines":null})</script>
+
+	<slide class="title"  >
+		<main>
+			
+			<img src=logo.png>
+			
+			<h1><b><span id="clock-0">&lt;&lt;%r&gt;&gt;</span>
+<script>
+	document.querySelector("#clock-0").textContent = strftime(new Date(), "%r");
+	setInterval(() => {
+		document.querySelector("#clock-0").textContent = strftime(new Date(), "%r");
+	}, 1000);
+</script>
+</b><br><span id="clock-1">&lt;&lt;%A, %B %d %Y&gt;&gt;</span>
+<script>
+	document.querySelector("#clock-1").textContent = strftime(new Date(), "%A, %B %d %Y");
+	setInterval(() => {
+		document.querySelector("#clock-1").textContent = strftime(new Date(), "%A, %B %d %Y");
+	}, 1000);
+</script>
+<br></h1>
+		</main>
+	</slide>
+
+
+<script>console.log({"IsTitleSlide":false,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"logo-small.png","Has":true},"Id":{"Val":"","Has":false},"HeaderLines":["Welcome to the Library"],"Bullets":null,"Lines":["The West Orange Public Library","10 Rooney Circle, West Orange NJ 07052","+1 973-736-0198","wopl.org"]})</script>
+
+	<slide  >
+		<main>
+			<div class="side">
+				
+				<h1>Welcome to the Library</h1>
+				
+				
+				
+				<p>The West Orange Public Library</p>
+				
+				<p>10 Rooney Circle, West Orange NJ 07052</p>
+				
+				<p>+1 973-736-0198</p>
+				
+				<p>wopl.org</p>
+				
+				
+			</div>
+			 <img src=logo-small.png> 
+		</main>
+		
+		
+		<footer>					
+			<span class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</span>	
+			<span class="sfoot"><span id="clock-2">&lt;&lt;%r %x&gt;&gt;</span>
+<script>
+	document.querySelector("#clock-2").textContent = strftime(new Date(), "%r %x");
+	setInterval(() => {
+		document.querySelector("#clock-2").textContent = strftime(new Date(), "%r %x");
+	}, 1000);
+</script>
+</span>	
+		</footer>
+		
+		
+	</slide>
+
+
+<script>console.log({"IsTitleSlide":false,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"","Has":false},"Id":{"Val":"yesterday","Has":true},"HeaderLines":["Yesterday at the Library"],"Bullets":null,"Lines":null})</script>
+
+	<slide  id="yesterday"  >
+		<main>
+			<div class="side">
+				
+				<h1>Yesterday at the Library</h1>
+				
+				
+			</div>
+			
+		</main>
+		
+		
+		<footer>					
+			<span class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</span>	
+			<span class="sfoot"><span id="clock-3">&lt;&lt;%r %x&gt;&gt;</span>
+<script>
+	document.querySelector("#clock-3").textContent = strftime(new Date(), "%r %x");
+	setInterval(() => {
+		document.querySelector("#clock-3").textContent = strftime(new Date(), "%r %x");
+	}, 1000);
+</script>
+</span>	
+		</footer>
+		
+		
+	</slide>
+
+
+<script>console.log({"IsTitleSlide":false,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"","Has":false},"Id":{"Val":"today","Has":true},"HeaderLines":["Today at the Library"],"Bullets":null,"Lines":null})</script>
+
+	<slide  id="today"  >
+		<main>
+			<div class="side">
+				
+				<h1>Today at the Library</h1>
+				
+				
+			</div>
+			
+		</main>
+		
+		
+		<footer>					
+			<span class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</span>	
+			<span class="sfoot"><span id="clock-4">&lt;&lt;%r %x&gt;&gt;</span>
+<script>
+	document.querySelector("#clock-4").textContent = strftime(new Date(), "%r %x");
+	setInterval(() => {
+		document.querySelector("#clock-4").textContent = strftime(new Date(), "%r %x");
+	}, 1000);
+</script>
+</span>	
+		</footer>
+		
+		
+	</slide>
+
+
+<script>console.log({"IsTitleSlide":false,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"","Has":false},"Id":{"Val":"tomorrow","Has":true},"HeaderLines":["Tomorrow at the Library"],"Bullets":null,"Lines":null})</script>
+
+	<slide  id="tomorrow"  >
+		<main>
+			<div class="side">
+				
+				<h1>Tomorrow at the Library</h1>
+				
+				
+			</div>
+			
+		</main>
+		
+		
+		<footer>					
+			<span class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</span>	
+			<span class="sfoot"><span id="clock-5">&lt;&lt;%r %x&gt;&gt;</span>
+<script>
+	document.querySelector("#clock-5").textContent = strftime(new Date(), "%r %x");
+	setInterval(() => {
+		document.querySelector("#clock-5").textContent = strftime(new Date(), "%r %x");
+	}, 1000);
+</script>
+</span>	
+		</footer>
+		
+		
+	</slide>
+
+
+</body>
+<style>
+body, html, slide {
+	margin: 0;
+	width:100%;
+	height:100%;
+}
+
+slide {
+	display: none;
+}
+
+slide[active] {
+	display: block;
+}
+
+
+ 
+
+slide { margin: 0 }
+
+h1, p, li {
+	font-weight: 315;
+	font-size: 3.85em;
+}
+
+slide > main {
+	margin-top: 75px;
+	margin-left: 75px;
+	margin-right: 75px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between
+}
+
+img {
+	width: 100%;
+	height: auto;
+	max-width: 17%;
+	max-height: 100%;
+	align-self: flex-start;
+}
+
+slide:not(.title) h1 {
+	margin-top: 0;	
+	padding-bottom: 0.5em;
+}
+
+slide:not(.title) h1 {
+	border-bottom: solid 1px #0003
+}
+
+p, li {
+	color: #0009;
+}
+
+p {
+	margin-top: 0em;
+	margin-bottom: 0.1em;
+}
+
+footer {
+	position: fixed;
+	bottom: 75px;
+	right: 75px;
+}
+
+div.header {
+	display: flex;
+	flex-direction: row;
+	margin: 0
+}
+
+slide.title {
+	padding: 0;
+}
+
+slide.title main {
+	height: 100%;
+	display:flex;
+	flex-direction:column;
+	justify-content: space-between;
+	align-items: flex-start;
+	margin: 0;
+}
+
+slide.title h1, slide.title img {
+	padding: 75px;
+	margin: 0;
+}
+
+</style>
+</html>
