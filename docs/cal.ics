@@ -1,0 +1,2877 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Springshare//LibCal//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:West Orange Public Library
+X-WR-CALDESC:
+X-WR-TIMEZONE:America/New_York
+X-PUBLISHED-TTL:PT15M
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250704
+DTEND;VALUE=DATE:20250705
+DTSTAMP:20250704T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-13453755
+URL:https://bccls.libcal.com/event/13453755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250705T180000Z
+DTEND:20250705T193000Z
+DTSTAMP:20250705T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990303
+URL:https://bccls.libcal.com/event/14990303
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250707T190000Z
+DTEND:20250707T200000Z
+DTSTAMP:20250707T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14698027
+URL:https://bccls.libcal.com/event/14698027
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250707T200000Z
+DTEND:20250707T210000Z
+DTSTAMP:20250707T000000Z
+SUMMARY:Mini Artist Series: Color our Ocean
+DESCRIPTION:Drop in and join Ms. Shay in adding color to different parts of 
+ the world. For children in grades K-5
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14268014
+URL:https://bccls.libcal.com/event/14268014
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T150000Z
+DTEND:20250708T153000Z
+DTSTAMP:20250708T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 0-2
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267970
+URL:https://bccls.libcal.com/event/14267970
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250708T193000Z
+DTEND:20250708T203000Z
+DTSTAMP:20250708T000000Z
+SUMMARY:Tween Tuesdays
+DESCRIPTION:Join other tweens and learn how to finger crochet! All supplies 
+ provided. For anyone ages 9 - 12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14675092
+URL:https://bccls.libcal.com/event/14675092
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250709T170000Z
+DTEND:20250709T180000Z
+DTSTAMP:20250709T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-14849497
+URL:https://bccls.libcal.com/event/14849497
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250709T180000Z
+DTEND:20250709T190000Z
+DTSTAMP:20250709T000000Z
+SUMMARY:Zoophoria Animal Art Class
+DESCRIPTION:Join Ms. Samantha for a watercolor program that includes a meet 
+ & touch with a reptile and a craft. Children of all ages will be offered a 
+ photo of the animal to draw their likeness. All material will be provided. 
+ Registration Required. Please register with the child's name.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-14267943
+URL:https://bccls.libcal.com/event/14267943
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250709T180000Z
+DTEND:20250709T193000Z
+DTSTAMP:20250709T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849557
+URL:https://bccls.libcal.com/event/14849557
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250709T180000Z
+DTEND:20250709T200000Z
+DTSTAMP:20250709T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Teck talk\, we offer the following:\n\n\n	2 hour 
+ NorthStar Digital Literacy class.\n	Need assistance with your computer\, 
+ smartphone\, tablet in addition to different technology?\n	Sign up for 20 
+ minute private session.\n\n\nPlease call reference desk to make your 
+ appointment.\n\nLocation will be in the Computer lab
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830958
+URL:https://bccls.libcal.com/event/14830958
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250709T220000Z
+DTEND:20250709T230000Z
+DTSTAMP:20250709T000000Z
+SUMMARY:Teen Tarot
+DESCRIPTION:Join Miss Jenna for a mystical adventure into the world of 
+ Tarot! In this workshop\, we'll uncover the secrets and history of the 
+ Tarot deck\, bust some myths\, and embark on The Fool's Journey to unlock 
+ the hidden meanings behind the cards. Whether you're a Tarot newbie or a 
+ seasoned reader\, all are welcome! No need to have your own deck\, but feel 
+ free to bring one if you do!
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14568985
+URL:https://bccls.libcal.com/event/14568985
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250710T150000Z
+DTEND:20250710T153000Z
+DTSTAMP:20250710T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 2-5
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267992
+URL:https://bccls.libcal.com/event/14267992
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250710T180000Z
+DTEND:20250710T203000Z
+DTSTAMP:20250710T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-12824638
+URL:https://bccls.libcal.com/event/12824638
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250712T150000Z
+DTEND:20250712T153000Z
+DTSTAMP:20250712T000000Z
+SUMMARY:Wiggle & Giggle with Miss Bee
+DESCRIPTION:Join Miss Bee for an interactive\, multi-sensory\, creative\, 
+ musical experience for babies\, toddler\, and preschoolers. Experience the 
+ magic of music and movement through traditional and original children's 
+ songs\, puppets\, rhythm sticks and more.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14478292
+URL:https://bccls.libcal.com/event/14478292
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250712T180000Z
+DTEND:20250712T193000Z
+DTSTAMP:20250712T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990304
+URL:https://bccls.libcal.com/event/14990304
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250713T180000Z
+DTEND:20250713T200000Z
+DTSTAMP:20250713T000000Z
+SUMMARY:Jewelry Making Workshop-CANCELLED
+DESCRIPTION:Learn how to make your own beautiful glass bead bracelet with 
+ Maya Oren-Dahan of Maya Crafts. Working with beading wire\, Czech glass and 
+ metal beads\, spacers\, and charms\, participants will learn how to use 
+ beading wire\, crimp\, and attach a clasp.\n\nAll materials and tools 
+ provided.\n\nRegistration required.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14690942
+URL:https://bccls.libcal.com/event/14690942
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250714T190000Z
+DTEND:20250714T200000Z
+DTSTAMP:20250714T000000Z
+SUMMARY:Reading Buddies- CANCELLED
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14698028
+URL:https://bccls.libcal.com/event/14698028
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250714T200000Z
+DTEND:20250714T210000Z
+DTSTAMP:20250714T000000Z
+SUMMARY:Lego Mania- CANCELLED
+DESCRIPTION:Come create something new or old out of Legos. For children 7
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-14478435
+URL:https://bccls.libcal.com/event/14478435
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250714T220000Z
+DTEND:20250714T224500Z
+DTSTAMP:20250714T000000Z
+SUMMARY:Brian Richard's Magic Show- CANCELLED
+DESCRIPTION:Join us for a fun magic show that will be jam-packed with 
+ comedy\, puppets\, juggling\, story-telling\, and more.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-14177341
+URL:https://bccls.libcal.com/event/14177341
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250715T150000Z
+DTEND:20250715T153000Z
+DTSTAMP:20250715T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 0-2
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267971
+URL:https://bccls.libcal.com/event/14267971
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250715T180000Z
+DTEND:20250715T193000Z
+DTSTAMP:20250715T000000Z
+SUMMARY:Tween & Teen Needle Felting
+DESCRIPTION:Learn how to needle felt your own cute\, fuzzy cactus 
+ creations!\n\nSupplies provided. Grades 5 - 12.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14645957
+URL:https://bccls.libcal.com/event/14645957
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250715T200000Z
+DTEND:20250715T210000Z
+DTSTAMP:20250715T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games will be available to use for children 
+ in grades K-5 in the youth services programming room.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-14478838
+URL:https://bccls.libcal.com/event/14478838
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T170000Z
+DTEND:20250716T180000Z
+DTSTAMP:20250716T000000Z
+SUMMARY:English Conversation Class CANCELLED
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-14849498
+URL:https://bccls.libcal.com/event/14849498
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T180000Z
+DTEND:20250716T193000Z
+DTSTAMP:20250716T000000Z
+SUMMARY:Learn English- CANCELLED
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849558
+URL:https://bccls.libcal.com/event/14849558
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T180000Z
+DTEND:20250716T200000Z
+DTSTAMP:20250716T000000Z
+SUMMARY:Tech Talk-CANCELLED
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Computer Lab on the 
+ lower level.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830959
+URL:https://bccls.libcal.com/event/14830959
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T200000Z
+DTEND:20250716T210000Z
+DTSTAMP:20250716T000000Z
+SUMMARY:Messy Art Series: Candy Sushi
+DESCRIPTION:Join Ms. Shay for a series of messy art projects that include 
+ making candy sushi and decorating a t-shirt with puffy paint. For children 
+ 6
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14478474
+URL:https://bccls.libcal.com/event/14478474
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250716T220000Z
+DTEND:20250716T230000Z
+DTSTAMP:20250716T000000Z
+SUMMARY:Teen Sand Art-CANCELLED
+DESCRIPTION:Get creative and make your own sand art!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14645398
+URL:https://bccls.libcal.com/event/14645398
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250717T150000Z
+DTEND:20250717T153000Z
+DTSTAMP:20250717T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 2-5
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267993
+URL:https://bccls.libcal.com/event/14267993
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250717T180000Z
+DTEND:20250717T203000Z
+DTSTAMP:20250717T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-12824639
+URL:https://bccls.libcal.com/event/12824639
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250718T150000Z
+DTEND:20250718T160000Z
+DTSTAMP:20250718T000000Z
+SUMMARY:Book Club: Sea Wife
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\n\nOur July title is:\n\nSea Wife\nby Amity Gaige\n\nCopies 
+ are available by the Circulation Desk.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-14690401
+URL:https://bccls.libcal.com/event/14690401
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250718T180000Z
+DTEND:20250718T200000Z
+DTSTAMP:20250718T000000Z
+SUMMARY:Family Movie Afternoon: Dog Man
+DESCRIPTION:Join us for a showing of Dog Man the movie. Light refreshments 
+ will be served. The movie is rated PG.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-14478527
+URL:https://bccls.libcal.com/event/14478527
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250719T150000Z
+DTEND:20250719T160000Z
+DTSTAMP:20250719T000000Z
+SUMMARY:Ms. Jolie: Move & Groove
+DESCRIPTION:Join Ms. Jolie for a class filled with learning\, movement and 
+ music\, stories\, and lots of silliness.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Music/Dance
+UID:LibCal-10341-14478548
+URL:https://bccls.libcal.com/event/14478548
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250719T180000Z
+DTEND:20250719T193000Z
+DTSTAMP:20250719T000000Z
+SUMMARY:Learn English-CANCELLED
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990305
+URL:https://bccls.libcal.com/event/14990305
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250719T180000Z
+DTEND:20250719T200000Z
+DTSTAMP:20250719T000000Z
+SUMMARY:Saturday Tech Talk- CANCELLED
+DESCRIPTION: \n\nWelcome to Teck talk\, we offer the following:\n\n\n	2 
+ hour NorthStar Digital Literacy class.\n	Need assistance with your 
+ computer\, smartphone\, tablet in addition to different technology?\n	Sign 
+ up for 20 minute private session.\n\n\nPlease call reference desk to make 
+ your appointment.\n\nLocation will be in the Computer lab
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14406219
+URL:https://bccls.libcal.com/event/14406219
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250720T180000Z
+DTEND:20250720T190000Z
+DTSTAMP:20250720T000000Z
+SUMMARY:Jodelle: Singer-songwriter showcasing original pop rock music on piano.
+DESCRIPTION:Born and raised in New Jersey\, Jodelle is a rock/Americana 
+ singer-songwriter and pianist who has toured the US and Europe both as a 
+ solo artist and as a backing vocalist. Her musical influences include 
+ renowned artists such as Stevie Nicks\, Joni Mitchell\, and Sara 
+ Bareilles\, among others.\n\nJodelle will perform a collection of original 
+ songs\, some of which are featured on her last two released CDs. These 
+ songs draw inspiration from art\, life\, love\, and heartbreak.\n\nIn 
+ addition to her work as a writer\, performer\, and producer of music\, 
+ Jodelle also takes pleasure in her roles as a voice teacher and coach\, 
+ voice-over actor\, and film composer.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14690948
+URL:https://bccls.libcal.com/event/14690948
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250721T190000Z
+DTEND:20250721T200000Z
+DTSTAMP:20250721T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14698042
+URL:https://bccls.libcal.com/event/14698042
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250721T200000Z
+DTEND:20250721T210000Z
+DTSTAMP:20250721T000000Z
+SUMMARY:Mini Artist Series: Color our Land
+DESCRIPTION:Drop in and join Ms. Shay in adding color to different parts of 
+ the world. For children in grades K-5
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14268015
+URL:https://bccls.libcal.com/event/14268015
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250722T150000Z
+DTEND:20250722T153000Z
+DTSTAMP:20250722T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 0-2
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267972
+URL:https://bccls.libcal.com/event/14267972
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250722T193000Z
+DTEND:20250722T203000Z
+DTSTAMP:20250722T000000Z
+SUMMARY:Tween Tuesdays
+DESCRIPTION:Join other tweens and design your own book! All supplies 
+ provided. For anyone ages 9 - 12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14675113
+URL:https://bccls.libcal.com/event/14675113
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T170000Z
+DTEND:20250723T180000Z
+DTSTAMP:20250723T000000Z
+SUMMARY:English Conversation Class-CANCELLED
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversation\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-14849499
+URL:https://bccls.libcal.com/event/14849499
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T180000Z
+DTEND:20250723T193000Z
+DTSTAMP:20250723T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849559
+URL:https://bccls.libcal.com/event/14849559
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T180000Z
+DTEND:20250723T200000Z
+DTSTAMP:20250723T000000Z
+SUMMARY:Tech Talk- CANCELLED
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Computer Lab on the 
+ lower level.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830960
+URL:https://bccls.libcal.com/event/14830960
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T200000Z
+DTEND:20250723T210000Z
+DTSTAMP:20250723T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-14268026
+URL:https://bccls.libcal.com/event/14268026
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250723T213000Z
+DTEND:20250724T003000Z
+DTSTAMP:20250723T000000Z
+SUMMARY:Teen Super Smash Tournament
+DESCRIPTION:Join your friends for the ultimate tournament of Super Smash 
+ Bros. for Switch! Registration Required. Grades 6-12. Please note: this is 
+ a bracket tournament. All players must register in advance and arrive by 
+ 5:30pm in order to participate in the tournament.\n\n \n\nRegister at this 
+ link: Super Smash Tournament
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14463332
+URL:https://bccls.libcal.com/event/14463332
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T150000Z
+DTEND:20250724T153000Z
+DTSTAMP:20250724T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 2-5
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267994
+URL:https://bccls.libcal.com/event/14267994
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250724T180000Z
+DTEND:20250724T203000Z
+DTSTAMP:20250724T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-12824640
+URL:https://bccls.libcal.com/event/12824640
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250725T193000Z
+DTEND:20250725T210000Z
+DTSTAMP:20250725T000000Z
+SUMMARY:Spotted Canvas: Ceramics Class
+DESCRIPTION:Join The Spotted Canvas for a fun-filled\, creative afternoon 
+ filled with exciting Ceramic Painting\, where children can explore their 
+ artistic side. With a variety of ceramic pieces to choose from\, each child 
+ 6  will have the opportunity to select one item to paint and personalize. 
+ Registration required. Please sign up for the child's name.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-14267964
+URL:https://bccls.libcal.com/event/14267964
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250726T150000Z
+DTEND:20250726T153000Z
+DTSTAMP:20250726T000000Z
+SUMMARY:Mr. Corbitt Musical Storytime
+DESCRIPTION:Join Mr. Corbitt for an energetic and enriching 
+ storytime/singalong/concert hybrid for 6 months - 6 years old.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14478682
+URL:https://bccls.libcal.com/event/14478682
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250726T180000Z
+DTEND:20250726T193000Z
+DTSTAMP:20250726T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990306
+URL:https://bccls.libcal.com/event/14990306
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250727T180000Z
+DTEND:20250727T200000Z
+DTSTAMP:20250727T000000Z
+SUMMARY:Visible Mending Workshop-CANCELLED
+DESCRIPTION:** This event has been cancelled. **\n\nLearn how to mend your 
+ own clothing and make it even more beautiful! Talented fiber artist Arshad 
+ Aziz will teach you to repair and embellish plain articles of clothing with 
+ embroidery and patchwork techniques.\n\nParticipants are encouraged to 
+ bring a piece of clothing they no longer wear. Additional materials\, 
+ tools\, and supplies will be provided.\n\nThis workshop is geared towards 
+ adults\, but accompanied teens and tweens are welcome to participate. No 
+ registration required.\n\n** part of our Sustainable Fashion workshop 
+ series **
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14690954
+URL:https://bccls.libcal.com/event/14690954
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250728
+DTEND;VALUE=DATE:20250729
+DTSTAMP:20250728T000000Z
+SUMMARY:Grab & Create: Take Home Craft
+DESCRIPTION:Stop by the Youth Services Department to grab a craft to take 
+ home and make with a caregiver while supplies last.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14992983
+URL:https://bccls.libcal.com/event/14992983
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250728T190000Z
+DTEND:20250728T200000Z
+DTSTAMP:20250728T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14698046
+URL:https://bccls.libcal.com/event/14698046
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250728T200000Z
+DTEND:20250728T210000Z
+DTSTAMP:20250728T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create something new or old out of Legos. For children 7
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-14968842
+URL:https://bccls.libcal.com/event/14968842
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250728T220000Z
+DTEND:20250728T231500Z
+DTSTAMP:20250728T000000Z
+SUMMARY:Mountainside Stables Petting Zoo
+DESCRIPTION:Join us in the library parking lot for a petting zoo 
+ experience. There will be an alpaca\, goats\, sheep\, lambs\, mini donkey\, 
+ baby calf\, and rabbits. Children\, teens and adults of all ages will have 
+ the opportunity to view and feed the animals.
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-14283247
+URL:https://bccls.libcal.com/event/14283247
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250729T150000Z
+DTEND:20250729T153000Z
+DTSTAMP:20250729T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 0-2
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267973
+URL:https://bccls.libcal.com/event/14267973
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250729T200000Z
+DTEND:20250729T210000Z
+DTSTAMP:20250729T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games will be available to use for children 
+ in grades K-5 in the youth services programming room.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-14478839
+URL:https://bccls.libcal.com/event/14478839
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250729T203000Z
+DTEND:20250729T213000Z
+DTSTAMP:20250729T000000Z
+SUMMARY:Library Board Meeting
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14894614
+URL:https://bccls.libcal.com/event/14894614
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T170000Z
+DTEND:20250730T180000Z
+DTSTAMP:20250730T000000Z
+SUMMARY:English Conversation Class-CANCELLED
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-14849500
+URL:https://bccls.libcal.com/event/14849500
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T180000Z
+DTEND:20250730T193000Z
+DTSTAMP:20250730T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849560
+URL:https://bccls.libcal.com/event/14849560
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T180000Z
+DTEND:20250730T200000Z
+DTSTAMP:20250730T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830961
+URL:https://bccls.libcal.com/event/14830961
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T200000Z
+DTEND:20250730T210000Z
+DTSTAMP:20250730T000000Z
+SUMMARY:Spark Chasers Children's Book Group
+DESCRIPTION:\nA topic is selected each month\, read whatever title you like 
+ or check out the recommendation list at the youth services desk. Bring the 
+ book with you. After the discussion\, join us in making summer snow globes 
+ and a activity\n\nJuly Topic/ Theme: Shark Books\n\nRecommendation List: 
+ \n\n\n\n1 Shark and Bot. Vol. 3\, Zombie doughnut attack! by Brian 
+ Yanish\n\n2. Shark-cam by Margie Palatini \n\n3. Shark attack! by Abby 
+ Klein \n\n4. Tiger shark vs. leopard seal by Nathan Sommers \n\n5. Hark! a 
+ shark! : all about sharks by Bonnie Worth \n\n \n\n\n\n \n\n\n
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-14268035
+URL:https://bccls.libcal.com/event/14268035
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250730T230000Z
+DTEND:20250731T003000Z
+DTSTAMP:20250730T000000Z
+SUMMARY:Teen Open Mic Night
+DESCRIPTION:Calling all West Orange teen poets\, singers\, authors\, 
+ comedians\, and performers of all kinds! Share your talents at the summer 
+ open mic night or be in the audience- bring your friends for 
+ support.\n\nGrades 6 - 12.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14463312
+URL:https://bccls.libcal.com/event/14463312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250731T150000Z
+DTEND:20250731T153000Z
+DTSTAMP:20250731T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 2-5
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267995
+URL:https://bccls.libcal.com/event/14267995
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250731T180000Z
+DTEND:20250731T203000Z
+DTSTAMP:20250731T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-12824641
+URL:https://bccls.libcal.com/event/12824641
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250801T170000Z
+DTEND:20250801T190000Z
+DTSTAMP:20250801T000000Z
+SUMMARY:First Friday Film: Thelma
+DESCRIPTION:Join us for our monthly Friday film screening. Light 
+ refreshments provided.\n\n***\n\nThelma (2024)\nPG-13\, 1h 38m\n\nWhen 
+ 93-year-old Thelma Post gets duped by a phone scammer pretending to be her 
+ grandson\, she sets out on a treacherous quest across the city to reclaim 
+ what was taken from her.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-13453689
+URL:https://bccls.libcal.com/event/13453689
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250801T200000Z
+DTEND:20250801T210000Z
+DTSTAMP:20250801T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:Join us for buddy reading that will build confidence\, skill\, 
+ and more with a trained therapy dog from Creature Comfort.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-14478787
+URL:https://bccls.libcal.com/event/14478787
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250802T150000Z
+DTEND:20250802T153000Z
+DTSTAMP:20250802T000000Z
+SUMMARY:Wiggle & Giggle with Miss Bee
+DESCRIPTION:Join Miss Bee for an interactive\, multi-sensory\, creative\, 
+ musical experience for babies\, toddler\, and preschoolers. Experience the 
+ magic of music and movement through traditional and original children's 
+ songs\, puppets\, rhythm sticks and more.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15009619
+URL:https://bccls.libcal.com/event/15009619
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250802T180000Z
+DTEND:20250802T200000Z
+DTSTAMP:20250802T000000Z
+SUMMARY:Folded Book Art Workshop
+DESCRIPTION:for Adults\n\nLearn about the history of folded book art and 
+ make your own book hedgehog with Roz Janowski.\n\nSpace is limited. Please 
+ register to reserve your spot.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14758425
+URL:https://bccls.libcal.com/event/14758425
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250802T190000Z
+DTEND:20250802T203000Z
+DTSTAMP:20250802T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990307
+URL:https://bccls.libcal.com/event/14990307
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250803T180000Z
+DTEND:20250803T200000Z
+DTSTAMP:20250803T000000Z
+SUMMARY:Jewelry Making Workshop
+DESCRIPTION:for Adults\n\n** New Date **\n\nLearn how to make your own 
+ beautiful glass bead bracelet with Maya Oren-Dahan of Maya Crafts. Working 
+ with beading wire\, Czech glass and metal beads\, spacers\, and charms\, 
+ participants will learn how to use beading wire\, crimp\, and attach a 
+ clasp.\n\nAll materials and tools provided. Registration is required.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14958214
+URL:https://bccls.libcal.com/event/14958214
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250804T190000Z
+DTEND:20250804T200000Z
+DTSTAMP:20250804T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14698048
+URL:https://bccls.libcal.com/event/14698048
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250804T200000Z
+DTEND:20250804T210000Z
+DTSTAMP:20250804T000000Z
+SUMMARY:Mini Artist Series: Color our Sky
+DESCRIPTION:Drop in and join Ms. Shay in adding color to different parts of 
+ the world. For children in grades K-5
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14268016
+URL:https://bccls.libcal.com/event/14268016
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250805T150000Z
+DTEND:20250805T153000Z
+DTSTAMP:20250805T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 0-2
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267974
+URL:https://bccls.libcal.com/event/14267974
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250805T193000Z
+DTEND:20250805T203000Z
+DTSTAMP:20250805T000000Z
+SUMMARY:Tween Tuesdays
+DESCRIPTION:Join other tweens and get creative with melted crayons! All 
+ supplies provided. For anyone ages 9 - 12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14675116
+URL:https://bccls.libcal.com/event/14675116
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T170000Z
+DTEND:20250806T180000Z
+DTSTAMP:20250806T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-14849501
+URL:https://bccls.libcal.com/event/14849501
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T180000Z
+DTEND:20250806T193000Z
+DTSTAMP:20250806T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849561
+URL:https://bccls.libcal.com/event/14849561
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T180000Z
+DTEND:20250806T200000Z
+DTSTAMP:20250806T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830962
+URL:https://bccls.libcal.com/event/14830962
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T200000Z
+DTEND:20250806T210000Z
+DTSTAMP:20250806T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-14268027
+URL:https://bccls.libcal.com/event/14268027
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250806T223000Z
+DTEND:20250806T233000Z
+DTSTAMP:20250806T000000Z
+SUMMARY:Teens Crochet
+DESCRIPTION:Try out crochet! All levels welcome\, instruction and supplies 
+ available. Grades 6 - 12.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14407445
+URL:https://bccls.libcal.com/event/14407445
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250807T150000Z
+DTEND:20250807T153000Z
+DTSTAMP:20250807T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 2-5
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267996
+URL:https://bccls.libcal.com/event/14267996
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250807T180000Z
+DTEND:20250807T203000Z
+DTSTAMP:20250807T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-12824642
+URL:https://bccls.libcal.com/event/12824642
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250807T220000Z
+DTEND:20250807T230000Z
+DTSTAMP:20250807T000000Z
+SUMMARY:Swiftie Party
+DESCRIPTION:Celebrate Taylor Swift with music\, friendship bracelets\, and 
+ more! Anyone ages 9-18 welcome\, bring your friends!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14645960
+URL:https://bccls.libcal.com/event/14645960
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250807T220000Z
+DTEND:20250808T001500Z
+DTSTAMP:20250807T000000Z
+SUMMARY:Artist Reception: Cassandra Saint-Jean
+DESCRIPTION:*** NEW DATE: AUGUST 7 ***\n\nMeet exhibiting artist Cassandra 
+ Saint-Jean.\n\nLight refreshments provided.\n\nRenewal by Cassandra 
+ Saint-Jean is on display at the West Orange Public Library from July 1 to 
+ August 22\, 2025.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14690975
+URL:https://bccls.libcal.com/event/14690975
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250808T180000Z
+DTEND:20250808T200000Z
+DTSTAMP:20250808T000000Z
+SUMMARY:Family Movie Afternoon: Inside Out II
+DESCRIPTION:Join us for a showing of Inside Out II. Light refreshments will 
+ be served. The movie is rated PG.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-14478887
+URL:https://bccls.libcal.com/event/14478887
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250809T150000Z
+DTEND:20250809T170000Z
+DTSTAMP:20250809T000000Z
+SUMMARY:Candle Making Workshop
+DESCRIPTION:for Adults & Accompanied Teens\n\nAn introduction to the craft 
+ of candle making with Reis Chester\, Newark-based artisan & entrepreneur. 
+ Participants will learn about the history of candle making\, wax types\, 
+ modern-day scented candles\, and the basics of starting a candle business. 
+ For hands-on practice\, each participant will make their own candle using 
+ their own custom fragrance blend. All materials will be provided.  \n\nThis 
+ workshop is for adults and accompanied teens (age 13 ). \n\nRegistration is 
+ required.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Class, Craft
+UID:LibCal-10341-14748971
+URL:https://bccls.libcal.com/event/14748971
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250809T180000Z
+DTEND:20250809T200000Z
+DTSTAMP:20250809T000000Z
+SUMMARY:How to Sell on eBay
+DESCRIPTION:An eBay PowerSeller explains the eBay selling process from 
+ start to finish. Topics include: how eBay works\, registration\, safe 
+ trading\, selecting items to sell\, learning the value of your items\, 
+ writing descriptions\, taking photos\, shipping your goods\, eBay fees\, 
+ delivery confirmation\, handling feedback\, and more.\n\nRick Feingold is 
+ an Education Specialist trained by eBay. He operates an online eBay store 
+ and is an eBay PowerSeller.\n\nThis program will be presented in Community 
+ Room 1.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-14748624
+URL:https://bccls.libcal.com/event/14748624
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250809T190000Z
+DTEND:20250809T203000Z
+DTSTAMP:20250809T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990308
+URL:https://bccls.libcal.com/event/14990308
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250810T180000Z
+DTEND:20250810T193000Z
+DTSTAMP:20250810T000000Z
+SUMMARY:Reeds\, Rhythm\, and All That Brass
+DESCRIPTION:Reeds\, Rhythm\, and All That Brass (RRB) is a classic 17-piece 
+ big band known for performing the best of the swing-pop repertoire\, 
+ featuring music from iconic artists such as Basie\, Ellington\, Goodman\, 
+ Sinatra\, and Darin. Band members include Jeff Rantzer\, Darrell Courtley\, 
+ Henry Nerenberg\, Jay Wilensky\, and often Frank Sole.\n\nDon't miss this 
+ glorious tribute to the big band era of the 1930s and 1940s. Featuring the 
+ music America danced and swung to during World War II\, this era was one of 
+ the most musically influential periods in music history. RRB's performance 
+ offers a nostalgic journey\, recalling the times when Americans danced in 
+ music halls across the country to the greatest bandleaders in 
+ history.\n\nThis event will take place in the Community Room.\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-14831090
+URL:https://bccls.libcal.com/event/14831090
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250811T190000Z
+DTEND:20250811T200000Z
+DTSTAMP:20250811T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14698054
+URL:https://bccls.libcal.com/event/14698054
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250811T220000Z
+DTEND:20250811T230000Z
+DTSTAMP:20250811T000000Z
+SUMMARY:Robert Roger's Puppet Show: Leonardo Da Vinci
+DESCRIPTION:Join us for a family friendly play about young Leonardo da 
+ Vinci and his flying machine filled with action\, music and comedy. After 
+ the performance\, the audience is invited to visit with the puppets up 
+ close.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-14268005
+URL:https://bccls.libcal.com/event/14268005
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250812T150000Z
+DTEND:20250812T153000Z
+DTSTAMP:20250812T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 0-2
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267975
+URL:https://bccls.libcal.com/event/14267975
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250812T200000Z
+DTEND:20250812T210000Z
+DTSTAMP:20250812T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games will be available to use for children 
+ in grades K-5 in the youth services programming room.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15038622
+URL:https://bccls.libcal.com/event/15038622
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T170000Z
+DTEND:20250813T180000Z
+DTSTAMP:20250813T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-14849502
+URL:https://bccls.libcal.com/event/14849502
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T180000Z
+DTEND:20250813T193000Z
+DTSTAMP:20250813T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849562
+URL:https://bccls.libcal.com/event/14849562
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T180000Z
+DTEND:20250813T200000Z
+DTSTAMP:20250813T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830963
+URL:https://bccls.libcal.com/event/14830963
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T200000Z
+DTEND:20250813T210000Z
+DTSTAMP:20250813T000000Z
+SUMMARY:Messy Art Series: Decorating T-Shirt w/ Puffy Paint
+DESCRIPTION:Join Ms. Shay for a series of messy art projects that include 
+ making candy sushi and decorating a t-shirt with puffy paint. For children 
+ 6
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14478475
+URL:https://bccls.libcal.com/event/14478475
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250813T223000Z
+DTEND:20250813T233000Z
+DTSTAMP:20250813T000000Z
+SUMMARY:Teens Crochet
+DESCRIPTION:Try out crochet! All levels welcome\, instruction and supplies 
+ available.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14645365
+URL:https://bccls.libcal.com/event/14645365
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250814T150000Z
+DTEND:20250814T153000Z
+DTSTAMP:20250814T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 2-5
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267997
+URL:https://bccls.libcal.com/event/14267997
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250814T180000Z
+DTEND:20250814T203000Z
+DTSTAMP:20250814T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-12824643
+URL:https://bccls.libcal.com/event/12824643
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250814T213000Z
+DTEND:20250814T230000Z
+DTSTAMP:20250814T000000Z
+SUMMARY:Do You Know Gaming? Teen Gaming Trivia
+DESCRIPTION:Battle it out in this Jeopardy-style gaming trivia experience 
+ led by ultimate gamer Seth. Grades 6 - 12- no registration required.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14951955
+URL:https://bccls.libcal.com/event/14951955
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250814T223000Z
+DTEND:20250814T233000Z
+DTSTAMP:20250814T000000Z
+SUMMARY:Moving a Mountain: The story of I-280 construction
+DESCRIPTION:Learn how the construction of Interstate 280 forever reshaped 
+ the local landscape. The project\, which included a temporary railroad to 
+ move a mountain\, dramatically transformed West Orange. Featuring vintage 
+ photographs\, Fagan's presentation will draw from research and his own 
+ recollections of watching the highway take shape as a young boy in the late 
+ 1960s and early 1970s. \n\nJoseph Fagan is a fifth generation of his family 
+ to grow up in the Oranges with deep roots in the community. He currently 
+ serves as the Township's Public Information Officer and has held the 
+ honorary title of Township Historian since 2012. A passionate storyteller 
+ and advocate for local history\, Fagan hosted a cable television program 
+ focused on West Orange’s past. He is both a seasoned writer and published 
+ author. His weekly column ran for 15 years in the West Orange Chronicle\, 
+ and he has authored four books dedicated to chronicling the town’s 
+ history. Fagan has delivered numerous historical presentations for the West 
+ Orange Public Library\, civic organizations\, and community groups. In 
+ recognition of his contributions\, Governor Phil Murphy appointed him to 
+ the New Jersey State Historical Commission in January 2024.\n\nThis lecture 
+ will be presented in Community Room 1.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14831121
+URL:https://bccls.libcal.com/event/14831121
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250815T180000Z
+DTEND:20250815T200000Z
+DTSTAMP:20250815T000000Z
+SUMMARY:Family Movie Afternoon: Moana II
+DESCRIPTION:Join us for a showing of Moana II. Light refreshments will be 
+ served. The movie is rated PG.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-14479021
+URL:https://bccls.libcal.com/event/14479021
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250816T180000Z
+DTEND:20250816T190000Z
+DTSTAMP:20250816T000000Z
+SUMMARY:Summer Finale Craft
+DESCRIPTION:Join us in creating mini canvas creations with various items 
+ including paint\, feathers\, googly eyes and more.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14587629
+URL:https://bccls.libcal.com/event/14587629
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250816T180000Z
+DTEND:20250816T190000Z
+DTSTAMP:20250816T000000Z
+SUMMARY:Understanding Artificial Intelligence
+DESCRIPTION:\n	Understanding Artificial Intelligence - an engaging and 
+ informative presentation that introduces attendees to the world of 
+ artificial intelligence (AI) and how it is applied in the real world and 
+ why folks are concerned/excited about it. I will showcase the various ways 
+ AI is applied in different industries and provide a glimpse into some of 
+ the most exciting AI programs and platforms ranging from language AIs to 
+ text-to-image AIs\, text-to-video\, text-to-music\, etc. (ChatGPT\, 
+ Midjourney\, ElevenLabs\, Adobe Firefly\, HeyGen Labs etc.) We will discuss 
+ the implications all of this has on society. \n\n\nShort Bio: Eddi 
+ Khaytman\, MBA (from Montclair State University) is a web developer and AI 
+ consultant. He is the owner of PromoAmbitions LLC and has been involved in 
+ the field of AI for many years. \n\nThis program will be held in Community 
+ Room 1
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14831069
+URL:https://bccls.libcal.com/event/14831069
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250816T190000Z
+DTEND:20250816T203000Z
+DTSTAMP:20250816T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990309
+URL:https://bccls.libcal.com/event/14990309
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250818T200000Z
+DTEND:20250818T210000Z
+DTSTAMP:20250818T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create something new or old out of Legos. For children 7
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-14478436
+URL:https://bccls.libcal.com/event/14478436
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250819T150000Z
+DTEND:20250819T153000Z
+DTSTAMP:20250819T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 0-2
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267976
+URL:https://bccls.libcal.com/event/14267976
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250820T170000Z
+DTEND:20250820T180000Z
+DTSTAMP:20250820T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-14849503
+URL:https://bccls.libcal.com/event/14849503
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250820T180000Z
+DTEND:20250820T193000Z
+DTSTAMP:20250820T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849563
+URL:https://bccls.libcal.com/event/14849563
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250820T180000Z
+DTEND:20250820T200000Z
+DTSTAMP:20250820T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830964
+URL:https://bccls.libcal.com/event/14830964
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250820T200000Z
+DTEND:20250820T210000Z
+DTSTAMP:20250820T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-14268028
+URL:https://bccls.libcal.com/event/14268028
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250820T220000Z
+DTEND:20250821T003000Z
+DTSTAMP:20250820T000000Z
+SUMMARY:Teen Game and Lego Night
+DESCRIPTION:Calling all gamers in grades 6 - 12! Join us at the library for 
+ video games\, board games\, and now lego building-  YOU choose which games 
+ to play. Bring your friends- you can use the library's console or bring 
+ your own. Drop in any time between 6 and 8:30.\n\n \n\nQuestions? 
+ 973-736-0198 ex. 6 or teens@westorangelibrary.org
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15073682
+URL:https://bccls.libcal.com/event/15073682
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250821T150000Z
+DTEND:20250821T153000Z
+DTSTAMP:20250821T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
+ language development & adventure for caregivers & children ages 2-5
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-14267998
+URL:https://bccls.libcal.com/event/14267998
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250821T180000Z
+DTEND:20250821T203000Z
+DTSTAMP:20250821T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-12824644
+URL:https://bccls.libcal.com/event/12824644
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250823T190000Z
+DTEND:20250823T203000Z
+DTSTAMP:20250823T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990310
+URL:https://bccls.libcal.com/event/14990310
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250825
+DTEND;VALUE=DATE:20250826
+DTSTAMP:20250825T000000Z
+SUMMARY:Grab & Create: Take Home Craft
+DESCRIPTION:Stop by the Youth Services Department to grab a craft to take 
+ home and make with a caregiver while supplies last.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-14992984
+URL:https://bccls.libcal.com/event/14992984
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250827T170000Z
+DTEND:20250827T180000Z
+DTSTAMP:20250827T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-14849504
+URL:https://bccls.libcal.com/event/14849504
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250827T180000Z
+DTEND:20250827T193000Z
+DTSTAMP:20250827T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849564
+URL:https://bccls.libcal.com/event/14849564
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250827T180000Z
+DTEND:20250827T200000Z
+DTSTAMP:20250827T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830965
+URL:https://bccls.libcal.com/event/14830965
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250827T230000Z
+DTEND:20250828T003000Z
+DTSTAMP:20250827T000000Z
+SUMMARY:Teen Karaoke
+DESCRIPTION:Have fun and sing your favorite songs using the library's audio 
+ equipment- invite your friends!\n\nGrades 6 - 12.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15073393
+URL:https://bccls.libcal.com/event/15073393
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250828T180000Z
+DTEND:20250828T203000Z
+DTSTAMP:20250828T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-12824646
+URL:https://bccls.libcal.com/event/12824646
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250830
+DTEND;VALUE=DATE:20250831
+DTSTAMP:20250830T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14846462
+URL:https://bccls.libcal.com/event/14846462
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250830T190000Z
+DTEND:20250830T203000Z
+DTSTAMP:20250830T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990311
+URL:https://bccls.libcal.com/event/14990311
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250831
+DTEND;VALUE=DATE:20250901
+DTSTAMP:20250831T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14846465
+URL:https://bccls.libcal.com/event/14846465
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250901
+DTEND;VALUE=DATE:20250902
+DTSTAMP:20250901T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14846466
+URL:https://bccls.libcal.com/event/14846466
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250903T180000Z
+DTEND:20250903T193000Z
+DTSTAMP:20250903T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849565
+URL:https://bccls.libcal.com/event/14849565
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250903T180000Z
+DTEND:20250903T200000Z
+DTSTAMP:20250903T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830966
+URL:https://bccls.libcal.com/event/14830966
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250906T180000Z
+DTEND:20250906T190000Z
+DTSTAMP:20250906T000000Z
+SUMMARY:Garden State Home-Grown: A Tribute to New Jersey Musicians
+DESCRIPTION:We will make several stops along the way to honor New 
+ Jersey-based artists\, including Leslie Gore\, Patti Smith\, Paul Simon\, 
+ the Isley Brothers\, Connie Francis\, The 5th Dimension\, Frank & Nancy 
+ Sinatra\, and more!\n\nThis event will take place in Community room 1
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-14691018
+URL:https://bccls.libcal.com/event/14691018
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250906T190000Z
+DTEND:20250906T203000Z
+DTSTAMP:20250906T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990312
+URL:https://bccls.libcal.com/event/14990312
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250910T180000Z
+DTEND:20250910T193000Z
+DTSTAMP:20250910T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849566
+URL:https://bccls.libcal.com/event/14849566
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250910T180000Z
+DTEND:20250910T200000Z
+DTSTAMP:20250910T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830967
+URL:https://bccls.libcal.com/event/14830967
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250913T190000Z
+DTEND:20250913T203000Z
+DTSTAMP:20250913T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990313
+URL:https://bccls.libcal.com/event/14990313
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T180000Z
+DTEND:20250917T193000Z
+DTSTAMP:20250917T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849567
+URL:https://bccls.libcal.com/event/14849567
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T180000Z
+DTEND:20250917T200000Z
+DTSTAMP:20250917T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830968
+URL:https://bccls.libcal.com/event/14830968
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250920T190000Z
+DTEND:20250920T203000Z
+DTSTAMP:20250920T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990314
+URL:https://bccls.libcal.com/event/14990314
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250924T180000Z
+DTEND:20250924T193000Z
+DTSTAMP:20250924T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14849568
+URL:https://bccls.libcal.com/event/14849568
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250924T180000Z
+DTEND:20250924T200000Z
+DTSTAMP:20250924T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830969
+URL:https://bccls.libcal.com/event/14830969
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250927T170000Z
+DTEND:20250927T200000Z
+DTSTAMP:20250927T000000Z
+SUMMARY:MANHATTAN SHORT FILM FESTIVAL 2025
+DESCRIPTION:Manhattan Short Film Festival is back!\n\nThe 28th 
+ Annual\nMANHATTAN SHORT Film Festival.\n\nONE WORLD - ONE WEEK - ONE 
+ FESTIVAL\n\nJoin us September 25 to October 5\, 2025\, when over 100\,000 
+ film lovers in over 500 cities across six continents gather for one 
+ reason...to view and vote on the Finalists' Films in the 28th Annual 
+ MANHATTAN SHORT Film Festival.\n\n3 CONVENIENT SHOWINGS: \n\nSaturday\, 
+ September 27 @ 1 PM\n\nSunday\, September 28 @ 1 PM\n\nand/or\n\n Monday\, 
+ September 29 @ 6 PM
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14783213
+URL:https://bccls.libcal.com/event/14783213
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250927T190000Z
+DTEND:20250927T203000Z
+DTSTAMP:20250927T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990315
+URL:https://bccls.libcal.com/event/14990315
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250928T170000Z
+DTEND:20250928T200000Z
+DTSTAMP:20250928T000000Z
+SUMMARY:MANHATTAN SHORT FILM FESTIVAL 2025
+DESCRIPTION:Manhattan Short Film Festival is back!\n\nThe 28th 
+ Annual\nMANHATTAN SHORT Film Festival.\n\nONE WORLD - ONE WEEK - ONE 
+ FESTIVAL\n\nJoin us September 25 to October 5\, 2025\, when over 100\,000 
+ film lovers in over 500 cities across six continents gather for one 
+ reason...to view and vote on the Finalists' Films in the 28th Annual 
+ MANHATTAN SHORT Film Festival.\n\n3 CONVENIENT SHOWINGS: \n\nSaturday\, 
+ September 27 @ 1 PM\n\nSunday\, September 28 @ 1 PM\n\nand/or\n\nMonday\, 
+ September 29 @ 6 PM
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14882090
+URL:https://bccls.libcal.com/event/14882090
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250929T220000Z
+DTEND:20250930T010000Z
+DTSTAMP:20250929T000000Z
+SUMMARY:MANHATTAN SHORT FILM FESTIVAL 2025
+DESCRIPTION:Manhattan Short Film Festival is back!\n\nThe 28th 
+ Annual\nMANHATTAN SHORT Film Festival.\n\nONE WORLD - ONE WEEK - ONE 
+ FESTIVAL\n\nJoin us September 25 to October 5\, 2025\, when over 100\,000 
+ film lovers in over 500 cities across six continents gather for one 
+ reason...to view and vote on the Finalists' Films in the 28th Annual 
+ MANHATTAN SHORT Film Festival.\n\n3 CONVENIENT SHOWINGS: \n\nSaturday\, 
+ September 27 @ 1 PM\n\nSunday\, September 28 @ 1 PM\n\nand/or\n\nMonday\, 
+ September 29 @ 6 PM
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14882094
+URL:https://bccls.libcal.com/event/14882094
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251001T180000Z
+DTEND:20251001T193000Z
+DTSTAMP:20251001T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965205
+URL:https://bccls.libcal.com/event/14965205
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251001T180000Z
+DTEND:20251001T200000Z
+DTSTAMP:20251001T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830970
+URL:https://bccls.libcal.com/event/14830970
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251004T190000Z
+DTEND:20251004T203000Z
+DTSTAMP:20251004T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990316
+URL:https://bccls.libcal.com/event/14990316
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251006T220000Z
+DTEND:20251006T230000Z
+DTSTAMP:20251006T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965257
+URL:https://bccls.libcal.com/event/14965257
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251008T180000Z
+DTEND:20251008T193000Z
+DTSTAMP:20251008T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965206
+URL:https://bccls.libcal.com/event/14965206
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251008T180000Z
+DTEND:20251008T200000Z
+DTSTAMP:20251008T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830971
+URL:https://bccls.libcal.com/event/14830971
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251011T190000Z
+DTEND:20251011T203000Z
+DTSTAMP:20251011T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990317
+URL:https://bccls.libcal.com/event/14990317
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T220000Z
+DTEND:20251013T230000Z
+DTSTAMP:20251013T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965258
+URL:https://bccls.libcal.com/event/14965258
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T180000Z
+DTEND:20251015T193000Z
+DTSTAMP:20251015T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965207
+URL:https://bccls.libcal.com/event/14965207
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251015T180000Z
+DTEND:20251015T200000Z
+DTSTAMP:20251015T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830972
+URL:https://bccls.libcal.com/event/14830972
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251018T190000Z
+DTEND:20251018T203000Z
+DTSTAMP:20251018T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990318
+URL:https://bccls.libcal.com/event/14990318
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251020T220000Z
+DTEND:20251020T230000Z
+DTSTAMP:20251020T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965259
+URL:https://bccls.libcal.com/event/14965259
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T180000Z
+DTEND:20251022T193000Z
+DTSTAMP:20251022T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965208
+URL:https://bccls.libcal.com/event/14965208
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251022T180000Z
+DTEND:20251022T200000Z
+DTSTAMP:20251022T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830973
+URL:https://bccls.libcal.com/event/14830973
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T190000Z
+DTEND:20251025T203000Z
+DTSTAMP:20251025T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990319
+URL:https://bccls.libcal.com/event/14990319
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251027T220000Z
+DTEND:20251027T230000Z
+DTSTAMP:20251027T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965260
+URL:https://bccls.libcal.com/event/14965260
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T180000Z
+DTEND:20251029T193000Z
+DTSTAMP:20251029T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965209
+URL:https://bccls.libcal.com/event/14965209
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251029T180000Z
+DTEND:20251029T200000Z
+DTSTAMP:20251029T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830974
+URL:https://bccls.libcal.com/event/14830974
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251101T190000Z
+DTEND:20251101T203000Z
+DTSTAMP:20251101T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990320
+URL:https://bccls.libcal.com/event/14990320
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251103T230000Z
+DTEND:20251104T000000Z
+DTSTAMP:20251103T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965261
+URL:https://bccls.libcal.com/event/14965261
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T190000Z
+DTEND:20251105T203000Z
+DTSTAMP:20251105T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965210
+URL:https://bccls.libcal.com/event/14965210
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251105T190000Z
+DTEND:20251105T210000Z
+DTSTAMP:20251105T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830975
+URL:https://bccls.libcal.com/event/14830975
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251108T200000Z
+DTEND:20251108T213000Z
+DTSTAMP:20251108T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990321
+URL:https://bccls.libcal.com/event/14990321
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251110T230000Z
+DTEND:20251111T000000Z
+DTSTAMP:20251110T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965262
+URL:https://bccls.libcal.com/event/14965262
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T190000Z
+DTEND:20251112T203000Z
+DTSTAMP:20251112T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965211
+URL:https://bccls.libcal.com/event/14965211
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T190000Z
+DTEND:20251112T210000Z
+DTSTAMP:20251112T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830976
+URL:https://bccls.libcal.com/event/14830976
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T200000Z
+DTEND:20251115T213000Z
+DTSTAMP:20251115T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990322
+URL:https://bccls.libcal.com/event/14990322
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251117T230000Z
+DTEND:20251118T000000Z
+DTSTAMP:20251117T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965263
+URL:https://bccls.libcal.com/event/14965263
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T190000Z
+DTEND:20251119T203000Z
+DTSTAMP:20251119T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965212
+URL:https://bccls.libcal.com/event/14965212
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T190000Z
+DTEND:20251119T210000Z
+DTSTAMP:20251119T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830977
+URL:https://bccls.libcal.com/event/14830977
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251122T200000Z
+DTEND:20251122T213000Z
+DTSTAMP:20251122T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990323
+URL:https://bccls.libcal.com/event/14990323
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T230000Z
+DTEND:20251125T000000Z
+DTSTAMP:20251124T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965264
+URL:https://bccls.libcal.com/event/14965264
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251126
+DTEND;VALUE=DATE:20251127
+DTSTAMP:20251126T000000Z
+SUMMARY:CLOSING @ 5:30 PM
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14318324
+URL:https://bccls.libcal.com/event/14318324
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T190000Z
+DTEND:20251126T203000Z
+DTSTAMP:20251126T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965213
+URL:https://bccls.libcal.com/event/14965213
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251126T190000Z
+DTEND:20251126T210000Z
+DTSTAMP:20251126T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830978
+URL:https://bccls.libcal.com/event/14830978
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+DTEND;VALUE=DATE:20251128
+DTSTAMP:20251127T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14318200
+URL:https://bccls.libcal.com/event/14318200
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251129
+DTSTAMP:20251128T000000Z
+SUMMARY:NO BOOK CLUB
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14318975
+URL:https://bccls.libcal.com/event/14318975
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251129T200000Z
+DTEND:20251129T213000Z
+DTSTAMP:20251129T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990324
+URL:https://bccls.libcal.com/event/14990324
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251201T230000Z
+DTEND:20251202T000000Z
+DTSTAMP:20251201T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965265
+URL:https://bccls.libcal.com/event/14965265
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T190000Z
+DTEND:20251203T203000Z
+DTSTAMP:20251203T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965214
+URL:https://bccls.libcal.com/event/14965214
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251203T190000Z
+DTEND:20251203T210000Z
+DTSTAMP:20251203T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830979
+URL:https://bccls.libcal.com/event/14830979
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251206T200000Z
+DTEND:20251206T213000Z
+DTSTAMP:20251206T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990325
+URL:https://bccls.libcal.com/event/14990325
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T230000Z
+DTEND:20251209T000000Z
+DTSTAMP:20251208T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965266
+URL:https://bccls.libcal.com/event/14965266
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T190000Z
+DTEND:20251210T203000Z
+DTSTAMP:20251210T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965215
+URL:https://bccls.libcal.com/event/14965215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251210T190000Z
+DTEND:20251210T210000Z
+DTSTAMP:20251210T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830980
+URL:https://bccls.libcal.com/event/14830980
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T200000Z
+DTEND:20251213T213000Z
+DTSTAMP:20251213T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990326
+URL:https://bccls.libcal.com/event/14990326
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T230000Z
+DTEND:20251216T000000Z
+DTSTAMP:20251215T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965267
+URL:https://bccls.libcal.com/event/14965267
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T190000Z
+DTEND:20251217T203000Z
+DTSTAMP:20251217T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965216
+URL:https://bccls.libcal.com/event/14965216
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251217T190000Z
+DTEND:20251217T210000Z
+DTSTAMP:20251217T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830981
+URL:https://bccls.libcal.com/event/14830981
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251220T200000Z
+DTEND:20251220T213000Z
+DTSTAMP:20251220T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990327
+URL:https://bccls.libcal.com/event/14990327
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251222T230000Z
+DTEND:20251223T000000Z
+DTSTAMP:20251222T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965268
+URL:https://bccls.libcal.com/event/14965268
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251224
+DTEND;VALUE=DATE:20251225
+DTSTAMP:20251224T000000Z
+SUMMARY:CLOSING @ 1 PM
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14318215
+URL:https://bccls.libcal.com/event/14318215
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251224T190000Z
+DTEND:20251224T203000Z
+DTSTAMP:20251224T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965217
+URL:https://bccls.libcal.com/event/14965217
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251224T190000Z
+DTEND:20251224T210000Z
+DTSTAMP:20251224T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830982
+URL:https://bccls.libcal.com/event/14830982
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251225
+DTEND;VALUE=DATE:20251226
+DTSTAMP:20251225T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14318203
+URL:https://bccls.libcal.com/event/14318203
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251227T200000Z
+DTEND:20251227T213000Z
+DTSTAMP:20251227T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14990328
+URL:https://bccls.libcal.com/event/14990328
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251229T230000Z
+DTEND:20251230T000000Z
+DTSTAMP:20251229T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965269
+URL:https://bccls.libcal.com/event/14965269
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251231
+DTEND;VALUE=DATE:20260101
+DTSTAMP:20251231T000000Z
+SUMMARY:CLOSING @ 1 PM
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14318336
+URL:https://bccls.libcal.com/event/14318336
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251231T190000Z
+DTEND:20251231T203000Z
+DTSTAMP:20251231T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14965218
+URL:https://bccls.libcal.com/event/14965218
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251231T190000Z
+DTEND:20251231T210000Z
+DTSTAMP:20251231T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-14830983
+URL:https://bccls.libcal.com/event/14830983
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+DTSTAMP:20260101T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14318331
+URL:https://bccls.libcal.com/event/14318331
+END:VEVENT
+
+END:VCALENDAR
