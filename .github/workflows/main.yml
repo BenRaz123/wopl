@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT }}
 
       - name: Download iCal feed
         run: curl -sSL "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10341" -o docs/cal.ics
