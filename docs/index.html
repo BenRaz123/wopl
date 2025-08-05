@@ -51,7 +51,7 @@ async function updateDelta(data, slideID, delta) {
 	for (const ev of data) {
 		if (!ev.dtStart) continue;
 		if (isToday(ev.dtStart, new Date(), delta)) {
-			const time = strftime(ev.dtStart, "%I:%m%p");
+			const time = strftime(ev.dtStart, "%I:%M%p");
 			e("li", {
 				appendTo: ul,
 				class: "condensed",
@@ -73,8 +73,10 @@ function ifStartsWith(s, pat, f) {
 }
 
 function parseDate(stamp) {
-	return new Date(stamp.replace(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/, '$1-$2-$3T$4:$5:$6Z'));
-
+  const match = /^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/.exec(stamp);
+  if (!match) throw new Error("Invalid timestamp format");
+  const [_, year, month, day, hour, min, sec] = match;
+  return new Date(`${year}-${month}-${day}T${hour}:${min}:${sec}Z`);
 }
 
 function parseICS(ics, deb) {
