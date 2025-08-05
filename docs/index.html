@@ -1,70 +1,111 @@
 <!doctype html>
 <html>
 <body>
-<script>const URL = "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10341"
-const SHOW_UPDATE_DATE = true;
+<script>//const URL = "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10341"
+const URL = "/cal.ics"
+
+let oldText;
 
 // the entry point to the program
 async function main() {
-	updateDelta("today", 0);	
-}
-
-async function updateDelta(slideID, delta) {
-	const response = await fetch(URL);
-	if (!response.ok) {
-		console.error(`failed to get response: ${response.status}`);
-		return;
-	} else {
-		console.log(response);
-		return;
+	const events = await getData();
+	// this means that we dont have anything new
+	if (events===null) {
+		return
 	}
-	const ics = parseICS()
-	const slide = document.querySelector(`#${slideID}`);
-	
+
+	updateDelta(events, "yesterday", -1);
+	updateDelta(events, "today", 0);
+	updateDelta(events, "tomorrow", 1);
 }
 
+async function getData() {
+	const resp = await fetch(URL);
+	const text = await resp.text();
+	if (!oldText) oldText = text;
+	else if (oldText == text) return null;
+	const events = parseICS(text);
+	return events;
+}
+
+function e(name, data) {
+	const elem = document.createElement(name);
+	if (!data) return elem;
+	if (data.html) elem.innerHTML = data.html;
+	if (data.text) elem.textContent = data.text;
+	if (data.d) elem.appendChild(data.d);
+	if (data.appendTo) data.appendTo.appendChild(elem);
+	for (const key in data) if (key != "d" && key != "text" && key != "appendTo" && key != "html") elem.setAttribute(key, data[key])
+	return elem;
+}
+
+async function updateDelta(data, slideID, delta) {
+	const main = document.querySelector(`slide#${slideID}>main`);
+	let ul;
+	if (main.contains(main.querySelector("div.side>ul")))
+		ul = main.querySelector(`div.side>ul`)
+	else
+		ul = e("ul", { appendTo: main.querySelector("div.side") });
+	//https://stackoverflow.com/questions/3955229/remove-all-child-elements-of-a-dom-node-in-javascript
+	ul.replaceChildren();
+	for (const ev of data) {
+		if (!ev.dtStart) continue;
+		if (isToday(ev.dtStart, new Date(), delta)) {
+			const time = strftime(ev.dtStart, "%I:%m%p");
+			e("li", {
+				appendTo: ul,
+				class: "condensed",
+				text: `${ev.summary}: ${ev.location} at ${time}`
+			});
+		}
+	}
+}
+
+function isToday(d, today, delta) {
+	let targetDay = new Date(today); // clone
+	targetDay.setDate(targetDay.getDate() + delta);
+	return (d.getDate() == targetDay.getDate())
+		&& (d.getMonth() == targetDay.getMonth())
+		&& (d.getFullYear() == targetDay.getFullYear());
+}
 function ifStartsWith(s, pat, f) {
-  if (s.startsWith(pat)) f(s.split(pat)[1])
+	if (s.startsWith(pat)) f(s.split(pat)[1])
 }
 
 function parseDate(stamp) {
-  return new Date(stamp.replace(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/, '$1-$2-$3T$4:$5:$6Z'));
+	return new Date(stamp.replace(/^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z$/, '$1-$2-$3T$4:$5:$6Z'));
 
 }
 
 function parseICS(ics, deb) {
-  const events = String(ics).split("BEGIN:VEVENT").slice(1);
-  let output = [];
-  for (const ev of events) {
-    var parsedEv = {};
-    if (deb) parsedEv.raw = ev;
-    for (const evLine of ev.split("\n")) {
-      ifStartsWith(evLine, "DTSTART:", stamp => {
-        parsedEv.dtStart = parseDate(stamp);
-      });
-      ifStartsWith(evLine, "DTEND:", stamp => {
-        parsedEv.dtEnd = parseDate(stamp);
-      });
-      ifStartsWith(evLine, "DTSTAMP:", stamp => {
-        parsedEv.dtStamp = parseDate(stamp);
-      });
-      ifStartsWith(evLine, "SUMMARY:", summary => {
-        parsedEv.summary = summary;
-      });
-      ifStartsWith(evLine, "LOCATION:", loc => {
-        const spl = String(loc.split("West Orange - ")[1]);
-        parsedEv.location = spl.includes(`\\`) ? spl.split(`\\`)[0] : spl;
-      });
-    }
-    output.push(parsedEv);  
-  }
-  return output;
+	const events = String(ics).split("BEGIN:VEVENT").slice(1);
+	let output = [];
+	for (const ev of events) {
+		var parsedEv = {};
+		if (deb) parsedEv.raw = ev;
+		for (const evLine of ev.split("\n")) {
+			ifStartsWith(evLine, "DTSTART:", stamp => {
+				parsedEv.dtStart = parseDate(stamp);
+			});
+			ifStartsWith(evLine, "DTEND:", stamp => {
+				parsedEv.dtEnd = parseDate(stamp);
+			});
+			ifStartsWith(evLine, "DTSTAMP:", stamp => {
+				parsedEv.dtStamp = parseDate(stamp);
+			});
+			ifStartsWith(evLine, "SUMMARY:", summary => {
+				parsedEv.summary = summary;
+			});
+			ifStartsWith(evLine, "LOCATION:", loc => {
+				const spl = String(loc.split("West Orange - ")[1]);
+				parsedEv.location = spl.includes(`\\`) ? spl.split(`\\`)[0] : spl;
+			});
+		}
+		output.push(parsedEv);
+	}
+	return output;
 }
 </script>
-<style>* {
-	font-family: arial, system-ui, sans-serif;
-}
-</style>
 <script>
 const regex = /(?<!%)%(([a-z])|([A-Z]))/g;
 function strftime(time, fmt) {
@@ -174,16 +215,16 @@ document.addEventListener("DOMContentLoaded", () => {
     (async () => { 
         while (true) {
 			if (slides.length == 0) return;
+			
+			if (typeof main === 'function') main();
+			else console.error("main function not found")
+			
             for (const slide of slides) {
 				const time = slide.getAttribute('time') ??  10 ;
                 slide.setAttribute("active", "");
 				await sleep(time * 1000);
                 slide.removeAttribute("active")
             }
-			
-			if (typeof main === 'function') main();
-			else console.error("main function not found")
-			
         }
     })();
 });
@@ -193,7 +234,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 
-<script>console.log({"IsTitleSlide":true,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"logo.png","Has":true},"Id":{"Val":"","Has":false},"HeaderLines":["*\u003c\u003c%r\u003e\u003e*","\u003c\u003c%A, %B %d %Y\u003e\u003e"],"Bullets":null,"Lines":null})</script>
 
 	<slide class="title"  >
 		<main>
@@ -219,7 +259,6 @@ document.addEventListener("DOMContentLoaded", () => {
 	</slide>
 
 
-<script>console.log({"IsTitleSlide":false,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"logo-small.png","Has":true},"Id":{"Val":"","Has":false},"HeaderLines":["Welcome to the Library"],"Bullets":null,"Lines":["The West Orange Public Library","10 Rooney Circle, West Orange NJ 07052","+1 973-736-0198","wopl.org"]})</script>
 
 	<slide  >
 		<main>
@@ -244,22 +283,21 @@ document.addEventListener("DOMContentLoaded", () => {
 		
 		
 		<footer>					
-			<span class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</span>	
-			<span class="sfoot"><span id="clock-2">&lt;&lt;%r %x&gt;&gt;</span>
+			<div class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</div>	
+			<div class="sfoot"><span id="clock-2">&lt;&lt;%r %x&gt;&gt;</span>
 <script>
 	document.querySelector("#clock-2").textContent = strftime(new Date(), "%r %x");
 	setInterval(() => {
 		document.querySelector("#clock-2").textContent = strftime(new Date(), "%r %x");
 	}, 1000);
 </script>
-</span>	
+</div>	
 		</footer>
 		
 		
 	</slide>
 
 
-<script>console.log({"IsTitleSlide":false,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"","Has":false},"Id":{"Val":"yesterday","Has":true},"HeaderLines":["Yesterday at the Library"],"Bullets":null,"Lines":null})</script>
 
 	<slide  id="yesterday"  >
 		<main>
@@ -274,22 +312,21 @@ document.addEventListener("DOMContentLoaded", () => {
 		
 		
 		<footer>					
-			<span class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</span>	
-			<span class="sfoot"><span id="clock-3">&lt;&lt;%r %x&gt;&gt;</span>
+			<div class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</div>	
+			<div class="sfoot"><span id="clock-3">&lt;&lt;%r %x&gt;&gt;</span>
 <script>
 	document.querySelector("#clock-3").textContent = strftime(new Date(), "%r %x");
 	setInterval(() => {
 		document.querySelector("#clock-3").textContent = strftime(new Date(), "%r %x");
 	}, 1000);
 </script>
-</span>	
+</div>	
 		</footer>
 		
 		
 	</slide>
 
 
-<script>console.log({"IsTitleSlide":false,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"","Has":false},"Id":{"Val":"today","Has":true},"HeaderLines":["Today at the Library"],"Bullets":null,"Lines":null})</script>
 
 	<slide  id="today"  >
 		<main>
@@ -304,22 +341,21 @@ document.addEventListener("DOMContentLoaded", () => {
 		
 		
 		<footer>					
-			<span class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</span>	
-			<span class="sfoot"><span id="clock-4">&lt;&lt;%r %x&gt;&gt;</span>
+			<div class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</div>	
+			<div class="sfoot"><span id="clock-4">&lt;&lt;%r %x&gt;&gt;</span>
 <script>
 	document.querySelector("#clock-4").textContent = strftime(new Date(), "%r %x");
 	setInterval(() => {
 		document.querySelector("#clock-4").textContent = strftime(new Date(), "%r %x");
 	}, 1000);
 </script>
-</span>	
+</div>	
 		</footer>
 		
 		
 	</slide>
 
 
-<script>console.log({"IsTitleSlide":false,"CustomDuration":{"Val":0,"Has":false},"Image":{"Val":"","Has":false},"Id":{"Val":"tomorrow","Has":true},"HeaderLines":["Tomorrow at the Library"],"Bullets":null,"Lines":null})</script>
 
 	<slide  id="tomorrow"  >
 		<main>
@@ -334,15 +370,15 @@ document.addEventListener("DOMContentLoaded", () => {
 		
 		
 		<footer>					
-			<span class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</span>	
-			<span class="sfoot"><span id="clock-5">&lt;&lt;%r %x&gt;&gt;</span>
+			<div class="pfoot"><b>WOPL</b> &lt;wopl.org&gt;</div>	
+			<div class="sfoot"><span id="clock-5">&lt;&lt;%r %x&gt;&gt;</span>
 <script>
 	document.querySelector("#clock-5").textContent = strftime(new Date(), "%r %x");
 	setInterval(() => {
 		document.querySelector("#clock-5").textContent = strftime(new Date(), "%r %x");
 	}, 1000);
 </script>
-</span>	
+</div>	
 		</footer>
 		
 		
@@ -440,5 +476,47 @@ slide.title h1, slide.title img {
 	margin: 0;
 }
 
+</style>
+<style>@import url('https://fonts.googleapis.com/css2?family=Roboto:wdth,wght@75..100,100..900&display=swap');
+
+* {
+	font-family: roboto, arial, system-ui, sans-serif;
+}
+
+.condensed {
+	font-variation-settings: 'wdth' 75	
+}
+
+.title h1 {
+	font-size: 5rem;
+}
+
+.pfoot {
+	background-color: #0036;
+	padding: 10px 20px;
+	color: white;
+	margin: 0;
+}
+
+.sfoot {
+	margin: 0;
+	padding: 7px 13px;
+	padding-right: 75px;
+	background-color: lightgray;
+	color: black;
+	display: flex;
+	align-items: center;
+	height: fit-content;
+	font-variation-settings: 'wdth' 85
+}
+
+footer {
+	right: 0;
+	padding: 0;
+	margin: 0;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
 </style>
 </html>
