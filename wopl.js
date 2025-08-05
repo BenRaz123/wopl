@@ -1,5 +1,5 @@
 //const URL = "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10341"
-const URL = "/cal.ics"
+const URL = "cal.ics"
 
 let oldText;
 
