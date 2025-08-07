@@ -4,6 +4,10 @@
 	font-family: roboto, arial, system-ui, sans-serif;
 }
 
+b {
+	font-weight: 700;
+}
+
 .condensed {
 	font-variation-settings: 'wdth' 75	
 }
