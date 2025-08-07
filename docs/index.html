@@ -5,13 +5,22 @@
 const URL = "cal.ics"
 
 let oldText;
+let oldEvents;
 
 // the entry point to the program
 async function main() {
-	const events = await getData();
+	let events;
+
+	const newEvents = await getData();
 	// this means that we dont have anything new
-	if (events===null) {
-		return
+	if (newEvents===null) { 
+		console.info("[INFO] Using oldEvents");
+		events = oldEvents;
+	}
+	else { 
+		console.info("[INFO] Refresh events");
+		oldEvents = newEvents;
+		events = newEvents;
 	}
 
 	updateDelta(events, "yesterday", -1);
