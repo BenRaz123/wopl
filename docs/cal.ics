@@ -8,45 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250715T150000Z
-DTEND:20250715T153000Z
-DTSTAMP:20250715T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
- language development & adventure for caregivers & children ages 0-2
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14267971
-URL:https://bccls.libcal.com/event/14267971
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250715T180000Z
-DTEND:20250715T193000Z
-DTSTAMP:20250715T000000Z
-SUMMARY:Tween & Teen Needle Felting
-DESCRIPTION:Learn how to needle felt your own cute\, fuzzy cactus 
- creations!\n\nSupplies provided. Grades 5 - 12.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14645957
-URL:https://bccls.libcal.com/event/14645957
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250715T200000Z
-DTEND:20250715T210000Z
-DTSTAMP:20250715T000000Z
-SUMMARY:Board Games
-DESCRIPTION:A variety of board games will be available to use for children 
- in grades K-5 in the youth services programming room.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-14478838
-URL:https://bccls.libcal.com/event/14478838
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250716T170000Z
 DTEND:20250716T180000Z
 DTSTAMP:20250716T000000Z
@@ -1511,18 +1472,6 @@ UID:LibCal-10341-14846462
 URL:https://bccls.libcal.com/event/14846462
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20250830T190000Z
-DTEND:20250830T203000Z
-DTSTAMP:20250830T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990311
-URL:https://bccls.libcal.com/event/14990311
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250831
 DTEND;VALUE=DATE:20250901
 DTSTAMP:20250831T000000Z
@@ -1679,8 +1628,8 @@ DTSTART:20250910T223000Z
 DTEND:20250910T233000Z
 DTSTAMP:20250910T000000Z
 SUMMARY:Teen Crochet Hang Out
-DESCRIPTION:Try out crochet! All levels welcome\, instruction and supplies 
- available. Come and hang out while you crochet- grades  - 12.
+DESCRIPTION:Bring your current project\, or grab a provided pattern and 
+ enjoy the good vibes! Grades 6 - 12.
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1699,6 +1648,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992493
 URL:https://bccls.libcal.com/event/14992493
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250911T200000Z
+DTEND:20250911T210000Z
+DTSTAMP:20250911T000000Z
+SUMMARY:Tween Scene: Sand Art
+DESCRIPTION:Get creative and make your own sand art bottle! Ages 9 - 12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15110494
+URL:https://bccls.libcal.com/event/15110494
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250912T150000Z
@@ -1763,6 +1724,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990313
 URL:https://bccls.libcal.com/event/14990313
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250914T190000Z
+DTEND:20250914T200000Z
+DTSTAMP:20250914T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15033195
+URL:https://bccls.libcal.com/event/15033195
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250915T200000Z
@@ -1842,6 +1818,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990314
 URL:https://bccls.libcal.com/event/14990314
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250921T190000Z
+DTEND:20250921T200000Z
+DTSTAMP:20250921T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168038
+URL:https://bccls.libcal.com/event/15168038
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250922T200000Z
@@ -2008,6 +1999,21 @@ UID:LibCal-10341-14882090
 URL:https://bccls.libcal.com/event/14882090
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250928T190000Z
+DTEND:20250928T200000Z
+DTSTAMP:20250928T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168062
+URL:https://bccls.libcal.com/event/15168062
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250929
 DTEND;VALUE=DATE:20250930
 DTSTAMP:20250929T000000Z
@@ -2119,6 +2125,21 @@ UID:LibCal-10341-14990316
 URL:https://bccls.libcal.com/event/14990316
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251005T190000Z
+DTEND:20251005T200000Z
+DTSTAMP:20251005T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168063
+URL:https://bccls.libcal.com/event/15168063
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251006T220000Z
 DTEND:20251006T230000Z
 DTSTAMP:20251006T000000Z
@@ -2199,6 +2220,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990317
 URL:https://bccls.libcal.com/event/14990317
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251012T190000Z
+DTEND:20251012T200000Z
+DTSTAMP:20251012T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168074
+URL:https://bccls.libcal.com/event/15168074
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T220000Z
@@ -2297,6 +2333,21 @@ UID:LibCal-10341-14990318
 URL:https://bccls.libcal.com/event/14990318
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251019T190000Z
+DTEND:20251019T200000Z
+DTSTAMP:20251019T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168075
+URL:https://bccls.libcal.com/event/15168075
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251020T220000Z
 DTEND:20251020T230000Z
 DTSTAMP:20251020T000000Z
@@ -2379,6 +2430,21 @@ UID:LibCal-10341-14990319
 URL:https://bccls.libcal.com/event/14990319
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251026T190000Z
+DTEND:20251026T200000Z
+DTSTAMP:20251026T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168080
+URL:https://bccls.libcal.com/event/15168080
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251027T220000Z
 DTEND:20251027T230000Z
 DTSTAMP:20251027T000000Z
@@ -2459,6 +2525,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990320
 URL:https://bccls.libcal.com/event/14990320
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251102T200000Z
+DTEND:20251102T210000Z
+DTSTAMP:20251102T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168085
+URL:https://bccls.libcal.com/event/15168085
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251103T230000Z
@@ -2554,6 +2635,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990321
 URL:https://bccls.libcal.com/event/14990321
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251109T200000Z
+DTEND:20251109T210000Z
+DTSTAMP:20251109T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168088
+URL:https://bccls.libcal.com/event/15168088
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T230000Z
@@ -2652,6 +2748,21 @@ UID:LibCal-10341-14990322
 URL:https://bccls.libcal.com/event/14990322
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251116T200000Z
+DTEND:20251116T210000Z
+DTSTAMP:20251116T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168090
+URL:https://bccls.libcal.com/event/15168090
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251117T230000Z
 DTEND:20251118T000000Z
 DTSTAMP:20251117T000000Z
@@ -2706,6 +2817,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990323
 URL:https://bccls.libcal.com/event/14990323
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T200000Z
+DTEND:20251123T210000Z
+DTSTAMP:20251123T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at oneinmath.com
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15168095
+URL:https://bccls.libcal.com/event/15168095
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251124T230000Z
