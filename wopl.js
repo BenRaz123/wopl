@@ -1,13 +1,14 @@
 //const URL = "https://bccls.libcal.com/ical_subscribe.php?src=p&cid=10341"
 const URL = "cal.ics"
+const DEBUG=true;
 
 let oldText;
 let oldEvents;
 
+let events;
+
 // the entry point to the program
 async function main() {
-	let events;
-
 	const newEvents = await getData();
 	// this means that we dont have anything new
 	if (newEvents===null) { 
@@ -34,6 +35,18 @@ async function getData() {
 	return events;
 }
 
+function diff(dateA, dateB) {
+	const EN_DASH = "\u2013"
+	const strip_leading_ws = (s) => s[0] == " " ? s.slice(1) : s;
+	let res;
+	if (!dateB)
+		res = strftime(dateA, "at %I:%M%p");
+	else 
+		res = "from " + strip_leading_ws(strftime(dateA, dateA.getMinutes() ==  0 ? `%l${EN_DASH}` : `%l:%M${EN_DASH}`)) + strip_leading_ws(strftime(dateB, dateB.getMinutes() == 0 ? "%l%p" : "%l:%M%p"));
+	if (DEBUG) console.log(`DIFF(${strftime(dateA, "%X %x")}, ${strftime(dateB, "%X %x")}): ${res}`)
+	return res;
+}
+
 function e(name, data) {
 	const elem = document.createElement(name);
 	if (!data) return elem;
@@ -57,11 +70,11 @@ async function updateDelta(data, slideID, delta) {
 	for (const ev of data) {
 		if (!ev.dtStart) continue;
 		if (isToday(ev.dtStart, new Date(), delta)) {
-			const time = strftime(ev.dtStart, "%I:%M%p");
+			const time = diff(ev.dtStart, ev.dtEnd);
 			e("li", {
 				appendTo: ul,
 				class: "condensed",
-				text: `${ev.summary}: ${ev.location} at ${time}`
+				text: `${ev.summary}: ${ev.location} ${time}`
 			});
 		}
 	}
