@@ -8,47 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250719T150000Z
-DTEND:20250719T160000Z
-DTSTAMP:20250719T000000Z
-SUMMARY:Ms. Jolie: Move & Groove
-DESCRIPTION:Join Ms. Jolie for a class filled with learning\, movement and 
- music\, stories\, and lots of silliness.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Music/Dance
-UID:LibCal-10341-14478548
-URL:https://bccls.libcal.com/event/14478548
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250719T180000Z
-DTEND:20250719T193000Z
-DTSTAMP:20250719T000000Z
-SUMMARY:Learn English-CANCELLED
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990305
-URL:https://bccls.libcal.com/event/14990305
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250719T180000Z
-DTEND:20250719T200000Z
-DTSTAMP:20250719T000000Z
-SUMMARY:Saturday Tech Talk- CANCELLED
-DESCRIPTION: \n\nWelcome to Teck talk\, we offer the following:\n\n\n	2 
- hour NorthStar Digital Literacy class.\n	Need assistance with your 
- computer\, smartphone\, tablet in addition to different technology?\n	Sign 
- up for 20 minute private session.\n\n\nPlease call reference desk to make 
- your appointment.\n\nLocation will be in the Computer lab
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-14406219
-URL:https://bccls.libcal.com/event/14406219
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250720T180000Z
 DTEND:20250720T190000Z
 DTSTAMP:20250720T000000Z
