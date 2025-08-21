@@ -8,27 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250720T180000Z
-DTEND:20250720T190000Z
-DTSTAMP:20250720T000000Z
-SUMMARY:Jodelle: Singer-songwriter showcasing original pop rock music on piano.
-DESCRIPTION:Born and raised in New Jersey\, Jodelle is a rock/Americana 
- singer-songwriter and pianist who has toured the US and Europe both as a 
- solo artist and as a backing vocalist. Her musical influences include 
- renowned artists such as Stevie Nicks\, Joni Mitchell\, and Sara 
- Bareilles\, among others.\n\nJodelle will perform a collection of original 
- songs\, some of which are featured on her last two released CDs. These 
- songs draw inspiration from art\, life\, love\, and heartbreak.\n\nIn 
- addition to her work as a writer\, performer\, and producer of music\, 
- Jodelle also takes pleasure in her roles as a voice teacher and coach\, 
- voice-over actor\, and film composer.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14690948
-URL:https://bccls.libcal.com/event/14690948
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250721T190000Z
 DTEND:20250721T200000Z
 DTSTAMP:20250721T000000Z
