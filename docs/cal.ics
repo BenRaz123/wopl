@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250722T150000Z
-DTEND:20250722T153000Z
-DTSTAMP:20250722T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
- language development & adventure for caregivers & children ages 0-2
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14267972
-URL:https://bccls.libcal.com/event/14267972
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250722T193000Z
-DTEND:20250722T203000Z
-DTSTAMP:20250722T000000Z
-SUMMARY:Tween Tuesdays
-DESCRIPTION:Join other tweens and design your own book! All supplies 
- provided. For anyone ages 9 - 12.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14675113
-URL:https://bccls.libcal.com/event/14675113
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250723T170000Z
 DTEND:20250723T180000Z
 DTSTAMP:20250723T000000Z
