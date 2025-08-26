@@ -8,22 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250725T193000Z
-DTEND:20250725T210000Z
-DTSTAMP:20250725T000000Z
-SUMMARY:Spotted Canvas: Ceramics Class
-DESCRIPTION:Join The Spotted Canvas for a fun-filled\, creative afternoon 
- filled with exciting Ceramic Painting\, where children can explore their 
- artistic side. With a variety of ceramic pieces to choose from\, each child 
- 6  will have the opportunity to select one item to paint and personalize. 
- Registration required. Please sign up for the child's name.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-14267964
-URL:https://bccls.libcal.com/event/14267964
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250726T150000Z
 DTEND:20250726T153000Z
 DTSTAMP:20250726T000000Z
@@ -1061,6 +1045,26 @@ UID:LibCal-10341-14849504
 URL:https://bccls.libcal.com/event/14849504
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250827T170000Z
+DTEND:20250827T180000Z
+DTSTAMP:20250827T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242420
+URL:https://bccls.libcal.com/event/15242420
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250827T180000Z
 DTEND:20250827T193000Z
 DTSTAMP:20250827T000000Z
@@ -1151,6 +1155,26 @@ UID:LibCal-10341-14846466
 URL:https://bccls.libcal.com/event/14846466
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250903T170000Z
+DTEND:20250903T180000Z
+DTSTAMP:20250903T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242421
+URL:https://bccls.libcal.com/event/15242421
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250903T180000Z
 DTEND:20250903T193000Z
 DTSTAMP:20250903T000000Z
@@ -1178,6 +1202,42 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-14830966
 URL:https://bccls.libcal.com/event/14830966
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250904T150000Z
+DTEND:20250904T160000Z
+DTSTAMP:20250904T000000Z
+SUMMARY:N.J. Division of Consumer Affairs  Presents:  Don’t Get Scammed
+DESCRIPTION:Imposter scams and various frauds\, including IRS phone scams\, 
+ lottery schemes\, and the grandparent scam\, are increasingly common\, 
+ targeting potential victims in New Jersey through calls\, emails\, and 
+ other methods.\n\n\n\nTo protect yourself from falling victim to these 
+ scams\, we invite you to attend this session\, where a representative from 
+ the New Jersey Division of Consumer Affairs will teach you how to avoid 
+ them.\n\n\n\nThe Division of Consumer Affairs is a helpful resource for 
+ essential consumer information. For questions about New Jersey businesses 
+ or professional licenses\, or to report suspected fraud\, please contact 
+ our Consumer Service Center at 800-242-5846.\n\n\n\nFor continuous updates 
+ on Consumer Alerts and more information\, visit our website at 
+ www.NJConsumerAffairs.gov.\n\n \n\nMadeline Guzman Outreach Coordinator 
+ will be presenting in Community Room 1\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-15002048
+URL:https://bccls.libcal.com/event/15002048
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250904T180000Z
+DTEND:20250904T203000Z
+DTSTAMP:20250904T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240523
+URL:https://bccls.libcal.com/event/15240523
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250905T170000Z
@@ -1237,6 +1297,26 @@ UID:LibCal-10341-14992465
 URL:https://bccls.libcal.com/event/14992465
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250910T170000Z
+DTEND:20250910T180000Z
+DTSTAMP:20250910T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242422
+URL:https://bccls.libcal.com/event/15242422
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250910T180000Z
 DTEND:20250910T193000Z
 DTSTAMP:20250910T000000Z
@@ -1264,6 +1344,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-14830967
 URL:https://bccls.libcal.com/event/14830967
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250910T190000Z
+DTEND:20250910T210000Z
+DTSTAMP:20250910T000000Z
+SUMMARY:Teen De-Stress Zone
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15239350
+URL:https://bccls.libcal.com/event/15239350
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250910T200000Z
@@ -1303,6 +1395,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992493
 URL:https://bccls.libcal.com/event/14992493
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250911T180000Z
+DTEND:20250911T203000Z
+DTSTAMP:20250911T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240524
+URL:https://bccls.libcal.com/event/15240524
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250911T200000Z
@@ -1357,7 +1461,7 @@ BEGIN:VEVENT
 DTSTART:20250913T170000Z
 DTEND:20250913T180000Z
 DTSTAMP:20250913T000000Z
-SUMMARY:Soccor Shots: Storytime
+SUMMARY:Soccer Shots: Storytime
 DESCRIPTION:Children ages 2-8 years old can join trained coaches from 
  Soccer Shots for a special engaging soccer-themed storytime that sparks 
  imagination. A soccer class will follow after where children can run\, 
@@ -1384,9 +1488,10 @@ BEGIN:VEVENT
 DTSTART:20250914T190000Z
 DTEND:20250914T200000Z
 DTSTAMP:20250914T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
+SUMMARY:One in Math- Program Runs Weekly Sept 14 - Nov 23
+DESCRIPTION:Free K-3rd Math Program- runs weekly on Sundays Sept 14th - Nov 
+ 23rd and students should attend most sessions.\n\nUtilizes self-paced\, 
+ structured curriculum\n\nDesigned to overcome math anxiety and build 
  self-confidence\n\nTaught by trained high school students.\n\nPlease 
  register for the West Orange Class at oneinmath.com
 LOCATION:West Orange - Program Room
@@ -1419,6 +1524,26 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992466
 URL:https://bccls.libcal.com/event/14992466
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250917T170000Z
+DTEND:20250917T180000Z
+DTSTAMP:20250917T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242423
+URL:https://bccls.libcal.com/event/15242423
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250917T180000Z
@@ -1476,6 +1601,35 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992494
 URL:https://bccls.libcal.com/event/14992494
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T180000Z
+DTEND:20250918T203000Z
+DTSTAMP:20250918T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240525
+URL:https://bccls.libcal.com/event/15240525
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250918T223000Z
+DTEND:20250918T233000Z
+DTSTAMP:20250918T000000Z
+SUMMARY:Introduction to Bitcoin & Cryptocurrencies
+DESCRIPTION:Bitcoin is a form of digital money that can be exchanged 
+ directly\, person-to-person\, without the need of a third party or bank 
+ intermediary. It is not controlled by any group or government\, so it 
+ can’t be manipulated\, devalued\, confiscated\, or shut down. You’ll 
+ learn how bitcoin and cryptocurrencies work.  The class is designed for 
+ beginners. \n\n\n\nThe program will be held in Community room 1
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-15034241
+URL:https://bccls.libcal.com/event/15034241
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250920T190000Z
@@ -1541,6 +1695,26 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992467
 URL:https://bccls.libcal.com/event/14992467
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20250924T170000Z
+DTEND:20250924T180000Z
+DTSTAMP:20250924T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242424
+URL:https://bccls.libcal.com/event/15242424
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20250924T180000Z
@@ -1617,6 +1791,18 @@ UID:LibCal-10341-14992495
 URL:https://bccls.libcal.com/event/14992495
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250925T180000Z
+DTEND:20250925T203000Z
+DTSTAMP:20250925T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240526
+URL:https://bccls.libcal.com/event/15240526
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250926T200000Z
 DTEND:20250926T210000Z
 DTSTAMP:20250926T000000Z
@@ -1639,9 +1825,14 @@ DESCRIPTION:Manhattan Short Film Festival is back!\n\nThe 28th
  FESTIVAL\n\nJoin us September 25 to October 5\, 2025\, when over 100\,000 
  film lovers in over 500 cities across six continents gather for one 
  reason...to view and vote on the Finalists' Films in the 28th Annual 
- MANHATTAN SHORT Film Festival.\n\n3 CONVENIENT SHOWINGS: \n\nSaturday\, 
- September 27 @ 1 PM\n\nSunday\, September 28 @ 1 PM\n\nand/or\n\n Monday\, 
- September 29 @ 6 PM
+ MANHATTAN SHORT Film Festival.\n\nThe ten MANHATTAN SHORT Finalists hail 
+ from seven countries with films from Spain\, Israel\, United Kingdom\, 
+ Norway\, The Netherlands\, Belgium\, and Mexico\, alongside three films 
+ from the USA. More info about the festival here: 
+ https://www.manhattanshort.com/index.html\n\n \n\n3 CONVENIENT SHOWINGS 
+ with a 15 minute intermission:\n\nSaturday\, September 27 @ 1-4 
+ PM\n\nSunday\, September 28 @ 1-4 PM\n\nand/or  ( some attendees watch half 
+ the films at 2 showings!)\n\n Monday\, September 29 @ 6-9 PM
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1739,6 +1930,26 @@ UID:LibCal-10341-14992468
 URL:https://bccls.libcal.com/event/14992468
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251001T170000Z
+DTEND:20251001T180000Z
+DTSTAMP:20251001T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242425
+URL:https://bccls.libcal.com/event/15242425
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251001T180000Z
 DTEND:20251001T193000Z
 DTSTAMP:20251001T000000Z
@@ -1779,6 +1990,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992496
 URL:https://bccls.libcal.com/event/14992496
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251002T180000Z
+DTEND:20251002T203000Z
+DTSTAMP:20251002T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240527
+URL:https://bccls.libcal.com/event/15240527
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T170000Z
@@ -1849,6 +2072,26 @@ UID:LibCal-10341-14992469
 URL:https://bccls.libcal.com/event/14992469
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251008T170000Z
+DTEND:20251008T180000Z
+DTSTAMP:20251008T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242426
+URL:https://bccls.libcal.com/event/15242426
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251008T180000Z
 DTEND:20251008T193000Z
 DTSTAMP:20251008T000000Z
@@ -1889,6 +2132,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992497
 URL:https://bccls.libcal.com/event/14992497
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251009T180000Z
+DTEND:20251009T203000Z
+DTSTAMP:20251009T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240528
+URL:https://bccls.libcal.com/event/15240528
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T190000Z
@@ -1946,6 +2201,26 @@ UID:LibCal-10341-14992470
 URL:https://bccls.libcal.com/event/14992470
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251015T170000Z
+DTEND:20251015T180000Z
+DTSTAMP:20251015T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242427
+URL:https://bccls.libcal.com/event/15242427
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251015T180000Z
 DTEND:20251015T193000Z
 DTSTAMP:20251015T000000Z
@@ -1986,6 +2261,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992498
 URL:https://bccls.libcal.com/event/14992498
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T180000Z
+DTEND:20251016T203000Z
+DTSTAMP:20251016T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240529
+URL:https://bccls.libcal.com/event/15240529
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T150000Z
@@ -2057,6 +2344,26 @@ UID:LibCal-10341-14992471
 URL:https://bccls.libcal.com/event/14992471
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251022T170000Z
+DTEND:20251022T180000Z
+DTSTAMP:20251022T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242428
+URL:https://bccls.libcal.com/event/15242428
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T180000Z
 DTEND:20251022T193000Z
 DTSTAMP:20251022T000000Z
@@ -2097,6 +2404,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992499
 URL:https://bccls.libcal.com/event/14992499
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T180000Z
+DTEND:20251023T203000Z
+DTSTAMP:20251023T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240530
+URL:https://bccls.libcal.com/event/15240530
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T190000Z
@@ -2154,6 +2473,26 @@ UID:LibCal-10341-14992472
 URL:https://bccls.libcal.com/event/14992472
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251029T170000Z
+DTEND:20251029T180000Z
+DTSTAMP:20251029T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	All are welcome\, from any location\, educational 
+ experience and background\n	Conversation leader will help everyone practice 
+ speaking in English through group social interaction\n	Easy to read books 
+ in English will be introduced to improve vocabulary and 
+ comprehension\n	Come for a friendly\, lively atmosphere and get to know 
+ others who want to gain comfort with English conversatio\n\n\nThis program 
+ will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-15242429
+URL:https://bccls.libcal.com/event/15242429
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251029T180000Z
 DTEND:20251029T193000Z
 DTSTAMP:20251029T000000Z
@@ -2194,6 +2533,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992500
 URL:https://bccls.libcal.com/event/14992500
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T180000Z
+DTEND:20251030T203000Z
+DTSTAMP:20251030T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240531
+URL:https://bccls.libcal.com/event/15240531
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251101T190000Z
@@ -2291,6 +2642,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992501
 URL:https://bccls.libcal.com/event/14992501
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T190000Z
+DTEND:20251106T213000Z
+DTSTAMP:20251106T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240532
+URL:https://bccls.libcal.com/event/15240532
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251107T180000Z
@@ -2403,6 +2766,18 @@ UID:LibCal-10341-14992502
 URL:https://bccls.libcal.com/event/14992502
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T190000Z
+DTEND:20251113T213000Z
+DTSTAMP:20251113T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240533
+URL:https://bccls.libcal.com/event/15240533
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251114T160000Z
 DTEND:20251114T170000Z
 DTSTAMP:20251114T000000Z
@@ -2486,6 +2861,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-14830977
 URL:https://bccls.libcal.com/event/14830977
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T190000Z
+DTEND:20251120T213000Z
+DTSTAMP:20251120T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240534
+URL:https://bccls.libcal.com/event/15240534
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T200000Z
@@ -2583,6 +2970,18 @@ UID:LibCal-10341-14318200
 URL:https://bccls.libcal.com/event/14318200
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251127T190000Z
+DTEND:20251127T213000Z
+DTSTAMP:20251127T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240535
+URL:https://bccls.libcal.com/event/15240535
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 DTEND;VALUE=DATE:20251129
 DTSTAMP:20251128T000000Z
@@ -2649,6 +3048,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-14830979
 URL:https://bccls.libcal.com/event/14830979
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251204T190000Z
+DTEND:20251204T213000Z
+DTSTAMP:20251204T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240536
+URL:https://bccls.libcal.com/event/15240536
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T180000Z
@@ -2720,6 +3131,18 @@ UID:LibCal-10341-14830980
 URL:https://bccls.libcal.com/event/14830980
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251211T190000Z
+DTEND:20251211T213000Z
+DTSTAMP:20251211T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240537
+URL:https://bccls.libcal.com/event/15240537
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251212T160000Z
 DTEND:20251212T170000Z
 DTSTAMP:20251212T000000Z
@@ -2788,6 +3211,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-14830981
 URL:https://bccls.libcal.com/event/14830981
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251218T190000Z
+DTEND:20251218T213000Z
+DTSTAMP:20251218T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240538
+URL:https://bccls.libcal.com/event/15240538
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T200000Z
@@ -2870,6 +3305,18 @@ UID:LibCal-10341-14318203
 URL:https://bccls.libcal.com/event/14318203
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251225T190000Z
+DTEND:20251225T213000Z
+DTSTAMP:20251225T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240539
+URL:https://bccls.libcal.com/event/15240539
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251227T200000Z
 DTEND:20251227T213000Z
 DTSTAMP:20251227T000000Z
@@ -2948,6 +3395,282 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14318331
 URL:https://bccls.libcal.com/event/14318331
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260101T190000Z
+DTEND:20260101T213000Z
+DTSTAMP:20260101T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240540
+URL:https://bccls.libcal.com/event/15240540
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T190000Z
+DTEND:20260108T213000Z
+DTSTAMP:20260108T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240541
+URL:https://bccls.libcal.com/event/15240541
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T190000Z
+DTEND:20260115T213000Z
+DTSTAMP:20260115T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240542
+URL:https://bccls.libcal.com/event/15240542
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T190000Z
+DTEND:20260122T213000Z
+DTSTAMP:20260122T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240543
+URL:https://bccls.libcal.com/event/15240543
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T190000Z
+DTEND:20260129T213000Z
+DTSTAMP:20260129T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240544
+URL:https://bccls.libcal.com/event/15240544
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260205T190000Z
+DTEND:20260205T213000Z
+DTSTAMP:20260205T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240545
+URL:https://bccls.libcal.com/event/15240545
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T190000Z
+DTEND:20260212T213000Z
+DTSTAMP:20260212T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240546
+URL:https://bccls.libcal.com/event/15240546
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260219T190000Z
+DTEND:20260219T213000Z
+DTSTAMP:20260219T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240547
+URL:https://bccls.libcal.com/event/15240547
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T190000Z
+DTEND:20260226T213000Z
+DTSTAMP:20260226T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240548
+URL:https://bccls.libcal.com/event/15240548
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260305T190000Z
+DTEND:20260305T213000Z
+DTSTAMP:20260305T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240549
+URL:https://bccls.libcal.com/event/15240549
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T180000Z
+DTEND:20260312T203000Z
+DTSTAMP:20260312T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240550
+URL:https://bccls.libcal.com/event/15240550
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T180000Z
+DTEND:20260319T203000Z
+DTSTAMP:20260319T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240551
+URL:https://bccls.libcal.com/event/15240551
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T180000Z
+DTEND:20260326T203000Z
+DTSTAMP:20260326T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240552
+URL:https://bccls.libcal.com/event/15240552
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260402T180000Z
+DTEND:20260402T203000Z
+DTSTAMP:20260402T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240553
+URL:https://bccls.libcal.com/event/15240553
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260409T180000Z
+DTEND:20260409T203000Z
+DTSTAMP:20260409T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240554
+URL:https://bccls.libcal.com/event/15240554
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260416T180000Z
+DTEND:20260416T203000Z
+DTSTAMP:20260416T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240555
+URL:https://bccls.libcal.com/event/15240555
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260423T180000Z
+DTEND:20260423T203000Z
+DTSTAMP:20260423T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240556
+URL:https://bccls.libcal.com/event/15240556
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T180000Z
+DTEND:20260430T203000Z
+DTSTAMP:20260430T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240557
+URL:https://bccls.libcal.com/event/15240557
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T180000Z
+DTEND:20260507T203000Z
+DTSTAMP:20260507T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240558
+URL:https://bccls.libcal.com/event/15240558
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T180000Z
+DTEND:20260514T203000Z
+DTSTAMP:20260514T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240559
+URL:https://bccls.libcal.com/event/15240559
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T180000Z
+DTEND:20260521T203000Z
+DTSTAMP:20260521T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240560
+URL:https://bccls.libcal.com/event/15240560
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T180000Z
+DTEND:20260528T203000Z
+DTSTAMP:20260528T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240561
+URL:https://bccls.libcal.com/event/15240561
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260604T180000Z
+DTEND:20260604T203000Z
+DTSTAMP:20260604T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club, Games
+UID:LibCal-10341-15240562
+URL:https://bccls.libcal.com/event/15240562
 END:VEVENT
 
 END:VCALENDAR
