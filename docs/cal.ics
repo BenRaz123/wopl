@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250726T150000Z
-DTEND:20250726T153000Z
-DTSTAMP:20250726T000000Z
-SUMMARY:Mr. Corbitt Musical Storytime
-DESCRIPTION:Join Mr. Corbitt for an energetic and enriching 
- storytime/singalong/concert hybrid for 6 months - 6 years old.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14478682
-URL:https://bccls.libcal.com/event/14478682
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250726T180000Z
-DTEND:20250726T193000Z
-DTSTAMP:20250726T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990306
-URL:https://bccls.libcal.com/event/14990306
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250727T180000Z
 DTEND:20250727T200000Z
 DTSTAMP:20250727T000000Z
@@ -1207,20 +1182,20 @@ BEGIN:VEVENT
 DTSTART:20250904T150000Z
 DTEND:20250904T160000Z
 DTSTAMP:20250904T000000Z
-SUMMARY:N.J. Division of Consumer Affairs  Presents:  Don’t Get Scammed
-DESCRIPTION:Imposter scams and various frauds\, including IRS phone scams\, 
- lottery schemes\, and the grandparent scam\, are increasingly common\, 
- targeting potential victims in New Jersey through calls\, emails\, and 
- other methods.\n\n\n\nTo protect yourself from falling victim to these 
- scams\, we invite you to attend this session\, where a representative from 
- the New Jersey Division of Consumer Affairs will teach you how to avoid 
- them.\n\n\n\nThe Division of Consumer Affairs is a helpful resource for 
- essential consumer information. For questions about New Jersey businesses 
- or professional licenses\, or to report suspected fraud\, please contact 
- our Consumer Service Center at 800-242-5846.\n\n\n\nFor continuous updates 
- on Consumer Alerts and more information\, visit our website at 
- www.NJConsumerAffairs.gov.\n\n \n\nMadeline Guzman Outreach Coordinator 
- will be presenting in Community Room 1\n\n
+SUMMARY:Don’t Get Scammed
+DESCRIPTION:A program presented by the NJ Division of Consumer Affairs 
+ \n\nImposter scams and various frauds\, including IRS phone scams\, lottery 
+ schemes\, and the "grandparent scam\," are becoming increasingly common\, 
+ targeting potential victims through calls\, emails\, and other methods. To 
+ protect yourself from falling prey to these scams\, we invite you to attend 
+ this session\, led by Madeline Guzman\, Outreach Coordinator for the NJ 
+ Division of Consumer Affairs. \n\nThe New Jersey Division of Consumer 
+ Affairs is a helpful resource for essential consumer information. For 
+ questions about New Jersey businesses or professional licenses\, or to 
+ report suspected fraud\, please contact their Consumer Service Center at 
+ 1-800-242-5846. For continuous updates on Consumer Alerts and more 
+ information\, visit their website at: www.NJConsumerAffairs.gov \n\nThis 
+ program will take place in Community Room 1.\n\n \n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
@@ -1624,7 +1599,7 @@ DESCRIPTION:Bitcoin is a form of digital money that can be exchanged
  intermediary. It is not controlled by any group or government\, so it 
  can’t be manipulated\, devalued\, confiscated\, or shut down. You’ll 
  learn how bitcoin and cryptocurrencies work.  The class is designed for 
- beginners. \n\n\n\nThe program will be held in Community room 1
+ beginners. \n\n \n\nThe program will be held in Community Room 1.
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
@@ -1831,8 +1806,10 @@ DESCRIPTION:Manhattan Short Film Festival is back!\n\nThe 28th
  from the USA. More info about the festival here: 
  https://www.manhattanshort.com/index.html\n\n \n\n3 CONVENIENT SHOWINGS 
  with a 15 minute intermission:\n\nSaturday\, September 27 @ 1-4 
- PM\n\nSunday\, September 28 @ 1-4 PM\n\nand/or  ( some attendees watch half 
- the films at 2 showings!)\n\n Monday\, September 29 @ 6-9 PM
+ PM\n\nSunday\, September 28 @ 1-4 PM\n\nand/or  \n\n Monday\, September 29 
+ @ 6-9 PM  \n\nThree convenient showing sessions with 15-minute 
+ intermissions. Watch all ten films in one day\, or split your viewings and 
+ watch half the films one day and the rest on another.
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
