@@ -8,26 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250727T180000Z
-DTEND:20250727T200000Z
-DTSTAMP:20250727T000000Z
-SUMMARY:Visible Mending Workshop-CANCELLED
-DESCRIPTION:** This event has been cancelled. **\n\nLearn how to mend your 
- own clothing and make it even more beautiful! Talented fiber artist Arshad 
- Aziz will teach you to repair and embellish plain articles of clothing with 
- embroidery and patchwork techniques.\n\nParticipants are encouraged to 
- bring a piece of clothing they no longer wear. Additional materials\, 
- tools\, and supplies will be provided.\n\nThis workshop is geared towards 
- adults\, but accompanied teens and tweens are welcome to participate. No 
- registration required.\n\n** part of our Sustainable Fashion workshop 
- series **
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-14690954
-URL:https://bccls.libcal.com/event/14690954
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250728
 DTEND;VALUE=DATE:20250729
 DTSTAMP:20250728T000000Z
