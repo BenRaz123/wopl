@@ -8,22 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250803T180000Z
-DTEND:20250803T200000Z
-DTSTAMP:20250803T000000Z
-SUMMARY:Jewelry Making Workshop
-DESCRIPTION:for Adults\n\n** New Date **\n\nLearn how to make your own 
- beautiful glass bead bracelet with Maya Oren-Dahan of Maya Crafts. Working 
- with beading wire\, Czech glass and metal beads\, spacers\, and charms\, 
- participants will learn how to use beading wire\, crimp\, and attach a 
- clasp.\n\nAll materials and tools provided. Registration is required.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-14958214
-URL:https://bccls.libcal.com/event/14958214
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250804T190000Z
 DTEND:20250804T200000Z
 DTSTAMP:20250804T000000Z
