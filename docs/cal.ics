@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250804T190000Z
-DTEND:20250804T200000Z
-DTSTAMP:20250804T000000Z
-SUMMARY:Reading Buddies
-DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
- Children read together with a teen volunteer. \n\nAll ages.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14698048
-URL:https://bccls.libcal.com/event/14698048
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250804T200000Z
-DTEND:20250804T210000Z
-DTSTAMP:20250804T000000Z
-SUMMARY:Mini Artist Series: Color our Sky
-DESCRIPTION:Drop in and join Ms. Shay in adding color to different parts of 
- the world. For children in grades K-5
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-14268016
-URL:https://bccls.libcal.com/event/14268016
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250805T150000Z
 DTEND:20250805T153000Z
 DTSTAMP:20250805T000000Z
