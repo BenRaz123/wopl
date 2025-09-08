@@ -8,59 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250807T150000Z
-DTEND:20250807T153000Z
-DTSTAMP:20250807T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
- language development & adventure for caregivers & children ages 2-5
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14267996
-URL:https://bccls.libcal.com/event/14267996
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250807T180000Z
-DTEND:20250807T203000Z
-DTSTAMP:20250807T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-12824642
-URL:https://bccls.libcal.com/event/12824642
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250807T220000Z
-DTEND:20250807T230000Z
-DTSTAMP:20250807T000000Z
-SUMMARY:Swiftie Party
-DESCRIPTION:Celebrate Taylor Swift with music\, friendship bracelets\, and 
- more! Anyone ages 9-18 welcome\, bring your friends!
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14645960
-URL:https://bccls.libcal.com/event/14645960
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250807T220000Z
-DTEND:20250808T001500Z
-DTSTAMP:20250807T000000Z
-SUMMARY:Artist Reception: Cassandra Saint-Jean
-DESCRIPTION:*** NEW DATE: AUGUST 7 ***\n\nMeet exhibiting artist Cassandra 
- Saint-Jean.\n\nLight refreshments provided.\n\nRenewal by Cassandra 
- Saint-Jean is on display at the West Orange Public Library from July 1 to 
- August 22\, 2025.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14690975
-URL:https://bccls.libcal.com/event/14690975
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250808T180000Z
 DTEND:20250808T200000Z
 DTSTAMP:20250808T000000Z
