@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250808T180000Z
-DTEND:20250808T200000Z
-DTSTAMP:20250808T000000Z
-SUMMARY:Family Movie Afternoon: Inside Out II
-DESCRIPTION:Join us for a showing of Inside Out II. Light refreshments will 
- be served. The movie is rated PG.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Movie
-UID:LibCal-10341-14478887
-URL:https://bccls.libcal.com/event/14478887
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250809T150000Z
 DTEND:20250809T170000Z
 DTSTAMP:20250809T000000Z
@@ -841,7 +828,9 @@ DTSTART:20250910T190000Z
 DTEND:20250910T210000Z
 DTSTAMP:20250910T000000Z
 SUMMARY:Teen De-Stress Zone
-DESCRIPTION:
+DESCRIPTION:Drop in the Teen Area any time between 3 and 5 PM to play uno\, 
+ build with keva planks\, and make diamond art bookmarks! Anyone in grades 6 
+ - 12 welcome- tell your friends!
 LOCATION:West Orange - Off-site
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1262,7 +1251,12 @@ DTSTART:20250924T223000Z
 DTEND:20250924T233000Z
 DTSTAMP:20250924T000000Z
 SUMMARY:Teen Advisory Group
-DESCRIPTION:
+DESCRIPTION:High School students: want to give back to your community\, 
+ help plan library events\, and earn community service hours? Come see what 
+ it's all about... new members are always welcome\, bring a friend! 
+ Participants earn volunteer hours for attending.\n\nEmail 
+ teens@westorangelibrary.org with any questions- Teen Advisory Group meets 
+ in the library teen space!
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15106005
@@ -1500,9 +1494,17 @@ BEGIN:VEVENT
 DTSTART:20251003T170000Z
 DTEND:20251003T200000Z
 DTSTAMP:20251003T000000Z
-SUMMARY:First Friday Film
-DESCRIPTION:Join us for monthly film screenings\, usually held on the first 
- Friday of each month. \n\nLight refreshments provided.\n\n***
+SUMMARY:First Friday Film: Small Things Like These
+DESCRIPTION:Join us for monthly film screenings on the first Friday of the 
+ month. \n\nLight refreshments provided.\n\n***\n\nSmall Things Like These 
+ (2024)\nPG-13\, 1h 38m\n\n"Oscar-winner Cillian Murphy delivers a stunning 
+ performance as devoted father Bill Furlong in this film based on the 
+ best-selling novel of the same name by Claire Keegan. \n\n"While working as 
+ a coal merchant to support his family\, Furlong discovers disturbing 
+ secrets kept by the local convent -- and uncovers truths of his own -- 
+ forcing him to confront his past and the complicit silence of a small Irish 
+ town controlled by the Catholic Church." --LionsGate   
+ \n\n---\n\nInterested in reading the book? Check it out here.
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1771,10 +1773,22 @@ BEGIN:VEVENT
 DTSTART:20251017T150000Z
 DTEND:20251017T160000Z
 DTSTAMP:20251017T000000Z
-SUMMARY:Book Club: October
+SUMMARY:Book Club: True Biz
 DESCRIPTION:A book club for adults who want to read in community. We meet 
  one Friday morning a month to chat about a title we read in 
- common.\n\n--\n\nTitles are announced approximately one month in advance.
+ common.\n\n--\n\nOctober Title\n\nTRUE BIZ\nby Sara Nović \n\nA story of 
+ sign language and lip-reading\, disability and civil rights\, isolation and 
+ injustice\, first love and loss\, and\, above all\, great persistence\, 
+ daring\, and joy.\n\nReaders will be plunged into the halls of a 
+ residential school for the deaf\, where they'll meet Charlie\, a rebellious 
+ transfer student who's never met another deaf person before\; Austin\, the 
+ school's golden boy\, whose world is rocked when his baby sister is born 
+ hearing\; and February\, the headmistress\, who is fighting to keep her 
+ school open and her marriage intact\, but might not be able to do both. As 
+ a series of crises both personal and political threaten to unravel each of 
+ them\, Charlie\, Austin\, and February find their lives inextricable from 
+ one another's—and changed forever.\n\nCopies available by the Circulation 
+ Desk starting September 12.\n\n
 LOCATION:West Orange - Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Book Club
@@ -2274,10 +2288,16 @@ BEGIN:VEVENT
 DTSTART:20251114T160000Z
 DTEND:20251114T170000Z
 DTSTAMP:20251114T000000Z
-SUMMARY:Book Club: November
+SUMMARY:Book Club: The Mighty Red
 DESCRIPTION:A book club for adults who want to read in community. We meet 
  one Friday morning a month to chat about a title we read in 
- common.\n\n--\n\nTitles are announced approximately one month in advance.
+ common.\n\n--\n\nNovember Title\n\nTHE MIGHTY RED\nby Louise Erdrich\n\nIn 
+ Argus\, North Dakota\, a wedding intertwines the lives of Gary\, Kismet\, 
+ Hugo\, and Crystal. Amidst personal struggles and love triangles\, they 
+ face broader themes of time\, climate change\, and economic turmoil. The 
+ novel explores the complexities of ordinary people in a prairie community\, 
+ highlighting their dreams\, struggles\, and resilience. 
+ --NoveList\n\nCopies available by the Circulation Desk starting October 13.
 LOCATION:West Orange - Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Book Club
@@ -2639,10 +2659,24 @@ BEGIN:VEVENT
 DTSTART:20251212T160000Z
 DTEND:20251212T170000Z
 DTSTAMP:20251212T000000Z
-SUMMARY:Book Club: December
+SUMMARY:Book Club: Babel
 DESCRIPTION:A book club for adults who want to read in community. We meet 
  one Friday morning a month to chat about a title we read in 
- common.\n\n--\n\nTitles are announced approximately one month in advance.
+ common.\n\n--\n\nDecember Title\n\nBABEL\nby R.F. Kuang\n\nIn 1828\, Robin 
+ Swift\, orphaned by cholera in Canton\, is brought to London by the 
+ mysterious Professor Lovell. There\, he trains for years in Latin\, Ancient 
+ Greek\, and Chinese\, all in preparation for the day he’ll enroll in 
+ Oxford University’s prestigious Royal Institute of Translation—also 
+ known as Babel. For Robin\, Oxford is a utopia dedicated to the pursuit of 
+ knowledge. But knowledge obeys power\, and as a Chinese boy raised in 
+ Britain\, Robin realizes serving Babel means betraying his motherland. As 
+ his studies progress\, Robin finds himself caught between Babel and the 
+ shadowy Hermes Society\, an organization dedicated to stopping imperial 
+ expansion. When Britain pursues an unjust war with China over silver and 
+ opium\, Robin must decide: Can powerful institutions be changed from 
+ within\, or does revolution always require violence? 
+ --HarperCollins\n\nCopies available by the Circulation Desk starting 
+ November 10.\n\n
 LOCATION:West Orange - Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Book Club
