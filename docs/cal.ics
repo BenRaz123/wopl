@@ -8,56 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250809T150000Z
-DTEND:20250809T170000Z
-DTSTAMP:20250809T000000Z
-SUMMARY:Candle Making Workshop
-DESCRIPTION:for Adults & Accompanied Teens\n\nAn introduction to the craft 
- of candle making with Reis Chester\, Newark-based artisan & entrepreneur. 
- Participants will learn about the history of candle making\, wax types\, 
- modern-day scented candles\, and the basics of starting a candle business. 
- For hands-on practice\, each participant will make their own candle using 
- their own custom fragrance blend. All materials will be provided.  \n\nThis 
- workshop is for adults and accompanied teens (age 13 ). \n\nRegistration is 
- required.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Class, Craft
-UID:LibCal-10341-14748971
-URL:https://bccls.libcal.com/event/14748971
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250809T180000Z
-DTEND:20250809T200000Z
-DTSTAMP:20250809T000000Z
-SUMMARY:How to Sell on eBay
-DESCRIPTION:An eBay PowerSeller explains the eBay selling process from 
- start to finish. Topics include: how eBay works\, registration\, safe 
- trading\, selecting items to sell\, learning the value of your items\, 
- writing descriptions\, taking photos\, shipping your goods\, eBay fees\, 
- delivery confirmation\, handling feedback\, and more.\n\nRick Feingold is 
- an Education Specialist trained by eBay. He operates an online eBay store 
- and is an eBay PowerSeller.\n\nThis program will be presented in Community 
- Room 1.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Lecture
-UID:LibCal-10341-14748624
-URL:https://bccls.libcal.com/event/14748624
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250809T190000Z
-DTEND:20250809T203000Z
-DTSTAMP:20250809T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990308
-URL:https://bccls.libcal.com/event/14990308
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250810T180000Z
 DTEND:20250810T193000Z
 DTSTAMP:20250810T000000Z
