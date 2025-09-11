@@ -8,28 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250810T180000Z
-DTEND:20250810T193000Z
-DTSTAMP:20250810T000000Z
-SUMMARY:Reeds\, Rhythm\, and All That Brass
-DESCRIPTION:Reeds\, Rhythm\, and All That Brass (RRB) is a classic 17-piece 
- big band known for performing the best of the swing-pop repertoire\, 
- featuring music from iconic artists such as Basie\, Ellington\, Goodman\, 
- Sinatra\, and Darin. Band members include Jeff Rantzer\, Darrell Courtley\, 
- Henry Nerenberg\, Jay Wilensky\, and often Frank Sole.\n\nDon't miss this 
- glorious tribute to the big band era of the 1930s and 1940s. Featuring the 
- music America danced and swung to during World War II\, this era was one of 
- the most musically influential periods in music history. RRB's performance 
- offers a nostalgic journey\, recalling the times when Americans danced in 
- music halls across the country to the greatest bandleaders in 
- history.\n\nThis event will take place in the Community Room.\n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-14831090
-URL:https://bccls.libcal.com/event/14831090
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250811T190000Z
 DTEND:20250811T200000Z
 DTSTAMP:20250811T000000Z
