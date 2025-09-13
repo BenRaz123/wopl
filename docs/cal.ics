@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250812T150000Z
-DTEND:20250812T153000Z
-DTSTAMP:20250812T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
- language development & adventure for caregivers & children ages 0-2
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14267975
-URL:https://bccls.libcal.com/event/14267975
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250812T200000Z
-DTEND:20250812T210000Z
-DTSTAMP:20250812T000000Z
-SUMMARY:Board Games
-DESCRIPTION:A variety of board games will be available to use for children 
- in grades K-5 in the youth services programming room.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15038622
-URL:https://bccls.libcal.com/event/15038622
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250813T170000Z
 DTEND:20250813T180000Z
 DTSTAMP:20250813T000000Z
@@ -893,6 +867,18 @@ UID:LibCal-10341-14992950
 URL:https://bccls.libcal.com/event/14992950
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20250915T230000Z
+DTEND:20250916T010000Z
+DTSTAMP:20250915T000000Z
+SUMMARY:Friends of the Library Meeting
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15376634
+URL:https://bccls.libcal.com/event/15376634
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20250916T150000Z
 DTEND:20250916T153000Z
 DTSTAMP:20250916T000000Z
@@ -1394,7 +1380,7 @@ BEGIN:VEVENT
 DTSTART:20251003T170000Z
 DTEND:20251003T200000Z
 DTSTAMP:20251003T000000Z
-SUMMARY:First Friday Film: Small Things Like These
+SUMMARY:First Friday Film: Small Things Like These (PG-13)
 DESCRIPTION:Join us for monthly film screenings on the first Friday of the 
  month. \n\nLight refreshments provided.\n\n***\n\nSmall Things Like These 
  (2024)\nPG-13\, 1h 38m\n\n"Oscar-winner Cillian Murphy delivers a stunning 
@@ -1566,6 +1552,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15168074
 URL:https://bccls.libcal.com/event/15168074
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251013T180000Z
+DTEND:20251013T210000Z
+DTSTAMP:20251013T000000Z
+SUMMARY:Family Movie: Wicked (PG)
+DESCRIPTION:Wicked (2024)\nPG\, 2h 40m\n\nCounting down the days until 
+ Wicked: For Good hits theaters? Come watch the first movie with fellow 
+ fans.\n\nSinging along is highly encouraged\, and there will be snacks!
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-15098865
+URL:https://bccls.libcal.com/event/15098865
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251013T220000Z
@@ -1878,6 +1878,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-14992472
 URL:https://bccls.libcal.com/event/14992472
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251028T160000Z
+DTEND:20251028T200000Z
+DTSTAMP:20251028T000000Z
+SUMMARY:Senior Freeze/Stay NJ/ADAPT
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15376628
+URL:https://bccls.libcal.com/event/15376628
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251029T170000Z
