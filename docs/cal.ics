@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250815T180000Z
-DTEND:20250815T200000Z
-DTSTAMP:20250815T000000Z
-SUMMARY:Family Movie Afternoon: Moana II
-DESCRIPTION:Join us for a showing of Moana II. Light refreshments will be 
- served. The movie is rated PG.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Movie
-UID:LibCal-10341-14479021
-URL:https://bccls.libcal.com/event/14479021
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250816T180000Z
 DTEND:20250816T190000Z
 DTSTAMP:20250816T000000Z
@@ -1298,21 +1285,6 @@ UID:LibCal-10341-15168063
 URL:https://bccls.libcal.com/event/15168063
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251006T220000Z
-DTEND:20251006T230000Z
-DTSTAMP:20251006T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965257
-URL:https://bccls.libcal.com/event/14965257
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251007T150000Z
 DTEND:20251007T153000Z
 DTSTAMP:20251007T000000Z
@@ -1439,21 +1411,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Movie
 UID:LibCal-10341-15098865
 URL:https://bccls.libcal.com/event/15098865
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251013T220000Z
-DTEND:20251013T230000Z
-DTSTAMP:20251013T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965258
-URL:https://bccls.libcal.com/event/14965258
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251014T150000Z
@@ -1608,21 +1565,6 @@ UID:LibCal-10341-15168075
 URL:https://bccls.libcal.com/event/15168075
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251020T220000Z
-DTEND:20251020T230000Z
-DTSTAMP:20251020T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965259
-URL:https://bccls.libcal.com/event/14965259
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251021T150000Z
 DTEND:20251021T153000Z
 DTSTAMP:20251021T000000Z
@@ -1735,21 +1677,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15168080
 URL:https://bccls.libcal.com/event/15168080
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251027T220000Z
-DTEND:20251027T230000Z
-DTSTAMP:20251027T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965260
-URL:https://bccls.libcal.com/event/14965260
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251028T150000Z
@@ -1866,21 +1793,6 @@ UID:LibCal-10341-15168085
 URL:https://bccls.libcal.com/event/15168085
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251103T230000Z
-DTEND:20251104T000000Z
-DTSTAMP:20251103T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965261
-URL:https://bccls.libcal.com/event/14965261
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T160000Z
 DTEND:20251104T163000Z
 DTSTAMP:20251104T000000Z
@@ -1986,21 +1898,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15168088
 URL:https://bccls.libcal.com/event/15168088
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251110T230000Z
-DTEND:20251111T000000Z
-DTSTAMP:20251110T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965262
-URL:https://bccls.libcal.com/event/14965262
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T160000Z
@@ -2117,21 +2014,6 @@ UID:LibCal-10341-15168090
 URL:https://bccls.libcal.com/event/15168090
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251117T230000Z
-DTEND:20251118T000000Z
-DTSTAMP:20251117T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965263
-URL:https://bccls.libcal.com/event/14965263
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T190000Z
 DTEND:20251119T203000Z
 DTSTAMP:20251119T000000Z
@@ -2198,21 +2080,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15168095
 URL:https://bccls.libcal.com/event/15168095
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251124T230000Z
-DTEND:20251125T000000Z
-DTSTAMP:20251124T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965264
-URL:https://bccls.libcal.com/event/14965264
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251126
@@ -2304,21 +2171,6 @@ UID:LibCal-10341-14990324
 URL:https://bccls.libcal.com/event/14990324
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251201T230000Z
-DTEND:20251202T000000Z
-DTSTAMP:20251201T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965265
-URL:https://bccls.libcal.com/event/14965265
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251203T190000Z
 DTEND:20251203T203000Z
 DTSTAMP:20251203T000000Z
@@ -2383,21 +2235,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990325
 URL:https://bccls.libcal.com/event/14990325
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T230000Z
-DTEND:20251209T000000Z
-DTSTAMP:20251208T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965266
-URL:https://bccls.libcal.com/event/14965266
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T190000Z
@@ -2481,21 +2318,6 @@ UID:LibCal-10341-14990326
 URL:https://bccls.libcal.com/event/14990326
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251215T230000Z
-DTEND:20251216T000000Z
-DTSTAMP:20251215T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965267
-URL:https://bccls.libcal.com/event/14965267
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251217T190000Z
 DTEND:20251217T203000Z
 DTSTAMP:20251217T000000Z
@@ -2547,21 +2369,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990327
 URL:https://bccls.libcal.com/event/14990327
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251222T230000Z
-DTEND:20251223T000000Z
-DTSTAMP:20251222T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965268
-URL:https://bccls.libcal.com/event/14965268
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251224
@@ -2639,21 +2446,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990328
 URL:https://bccls.libcal.com/event/14990328
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251229T230000Z
-DTEND:20251230T000000Z
-DTSTAMP:20251229T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION: Learn a new language at your own pace! \n\nThis award winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965269
-URL:https://bccls.libcal.com/event/14965269
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
