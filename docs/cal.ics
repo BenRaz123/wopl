@@ -8,55 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250816T180000Z
-DTEND:20250816T190000Z
-DTSTAMP:20250816T000000Z
-SUMMARY:Summer Finale Craft
-DESCRIPTION:Join us in creating mini canvas creations with various items 
- including paint\, feathers\, googly eyes and more.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-14587629
-URL:https://bccls.libcal.com/event/14587629
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250816T180000Z
-DTEND:20250816T190000Z
-DTSTAMP:20250816T000000Z
-SUMMARY:Understanding Artificial Intelligence
-DESCRIPTION:\n	Understanding Artificial Intelligence - an engaging and 
- informative presentation that introduces attendees to the world of 
- artificial intelligence (AI) and how it is applied in the real world and 
- why folks are concerned/excited about it. I will showcase the various ways 
- AI is applied in different industries and provide a glimpse into some of 
- the most exciting AI programs and platforms ranging from language AIs to 
- text-to-image AIs\, text-to-video\, text-to-music\, etc. (ChatGPT\, 
- Midjourney\, ElevenLabs\, Adobe Firefly\, HeyGen Labs etc.) We will discuss 
- the implications all of this has on society. \n\n\nShort Bio: Eddi 
- Khaytman\, MBA (from Montclair State University) is a web developer and AI 
- consultant. He is the owner of PromoAmbitions LLC and has been involved in 
- the field of AI for many years. \n\nThis program will be held in Community 
- Room 1
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14831069
-URL:https://bccls.libcal.com/event/14831069
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250816T190000Z
-DTEND:20250816T203000Z
-DTSTAMP:20250816T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990309
-URL:https://bccls.libcal.com/event/14990309
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250818T200000Z
 DTEND:20250818T210000Z
 DTSTAMP:20250818T000000Z
@@ -1530,7 +1481,15 @@ DTSTART:20251018T140000Z
 DTEND:20251018T180000Z
 DTSTAMP:20251018T000000Z
 SUMMARY:Senior Freeze/Stay NJ/ADAPT
-DESCRIPTION:
+DESCRIPTION:These free events offer in-person assistance with tax relief 
+ services\, including the ANCHOR program. Seniors can also get help with the 
+ PAS-1 tax relief form\, a combined application that allows eligible people 
+ 65 years and older to claim benefits from Senior Freeze (Property Tax 
+ Reimbursement)\, ANCHOR\, and the new Stay NJ Program. Those seeking help 
+ with their PAS-1 form should refer to this checklist before attending a 
+ property tax relief event.\n\nAttendees who are under 65 years old and do 
+ not collect social security disability benefits need to bring a valid photo 
+ ID.
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -2145,18 +2104,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240535
 URL:https://bccls.libcal.com/event/15240535
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251128
-DTEND;VALUE=DATE:20251129
-DTSTAMP:20251128T000000Z
-SUMMARY:NO BOOK CLUB
-DESCRIPTION:
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14318975
-URL:https://bccls.libcal.com/event/14318975
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251129T200000Z
