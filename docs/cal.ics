@@ -1163,6 +1163,22 @@ UID:LibCal-10341-14830970
 URL:https://bccls.libcal.com/event/14830970
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251001T230000Z
+DTEND:20251002T003000Z
+DTSTAMP:20251001T000000Z
+SUMMARY:Teen Game and Lego Night
+DESCRIPTION:Calling all gamers in grades 6 - 12! Join us at the library for 
+ video games\, board games\, and now lego building-  YOU choose which games 
+ to play. Bring your friends- you can use the library's console or bring 
+ your own. Drop in any time between 6 and 8:30.\n\n \n\nQuestions? 
+ 973-736-0198 ex. 6 or teens@westorangelibrary.org
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344680
+URL:https://bccls.libcal.com/event/15344680
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251002T150000Z
 DTEND:20251002T153000Z
 DTSTAMP:20251002T000000Z
@@ -1186,6 +1202,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240527
 URL:https://bccls.libcal.com/event/15240527
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251002T203000Z
+DTEND:20251002T210000Z
+DTSTAMP:20251002T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun! 
+ October will feature some special guest Super Science leaders.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344687
+URL:https://bccls.libcal.com/event/15344687
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251003T170000Z
@@ -1221,6 +1250,23 @@ UID:LibCal-10341-14990316
 URL:https://bccls.libcal.com/event/14990316
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251005T180000Z
+DTEND:20251005T190000Z
+DTSTAMP:20251005T000000Z
+SUMMARY:Crowns of Heritage
+DESCRIPTION:Celebrate Hispanic Heritage Month with Art & 
+ Creativity.\n\nJoin us for a fun hands-on workshop inspired by 
+ Brooklyn-born artist Jean-Michel Basquiat. Participants will design and 
+ decorate their own "Crowns of Heritage" using colors and symbols that 
+ celebrate identity\, family\, and culture. \n\nAll ages 
+ welcome!\n\nWorkshop led by local artist Christina M. Ramos Palau.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15407083
+URL:https://bccls.libcal.com/event/15407083
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251005T190000Z
 DTEND:20251005T200000Z
 DTSTAMP:20251005T000000Z
@@ -1229,7 +1275,7 @@ DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured
  curriculum\n\nDesigned to overcome math anxiety and build 
  self-confidence\n\nTaught by trained high school students.\n\nPlease 
  register for the West Orange Class at oneinmath.com
-LOCATION:West Orange - Program Room
+LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15168063
@@ -1298,6 +1344,21 @@ UID:LibCal-10341-14830971
 URL:https://bccls.libcal.com/event/14830971
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251008T213000Z
+DTEND:20251008T233000Z
+DTSTAMP:20251008T000000Z
+SUMMARY:Teen Dungeons and Dragons
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!\n\nSign up at: tinyurl.com/WOPLDnD
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344685
+URL:https://bccls.libcal.com/event/15344685
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251009T150000Z
 DTEND:20251009T153000Z
 DTSTAMP:20251009T000000Z
@@ -1321,6 +1382,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240528
 URL:https://bccls.libcal.com/event/15240528
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251009T203000Z
+DTEND:20251009T210000Z
+DTSTAMP:20251009T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun! 
+ October will feature some special guest Super Science leaders.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344688
+URL:https://bccls.libcal.com/event/15344688
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251011T190000Z
@@ -1426,6 +1500,19 @@ UID:LibCal-10341-14830972
 URL:https://bccls.libcal.com/event/14830972
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251015T223000Z
+DTEND:20251015T233000Z
+DTSTAMP:20251015T000000Z
+SUMMARY:Teen Crochet Hang Out
+DESCRIPTION:Bring your current project\, or grab a provided pattern and 
+ enjoy the good vibes! Grades 6 - 12.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344679
+URL:https://bccls.libcal.com/event/15344679
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251016T150000Z
 DTEND:20251016T153000Z
 DTSTAMP:20251016T000000Z
@@ -1449,6 +1536,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240529
 URL:https://bccls.libcal.com/event/15240529
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251016T203000Z
+DTEND:20251016T210000Z
+DTSTAMP:20251016T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun! 
+ October will feature some special guest Super Science leaders.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344689
+URL:https://bccls.libcal.com/event/15344689
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251017T150000Z
@@ -1537,6 +1637,20 @@ UID:LibCal-10341-14992471
 URL:https://bccls.libcal.com/event/14992471
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251021T200000Z
+DTEND:20251021T210000Z
+DTSTAMP:20251021T000000Z
+SUMMARY:Tween Scene: Zombie Stuffed Animals!
+DESCRIPTION:Ages 9 - 12: Make  franken-toys out of pieces of other toys. 
+ Supplies provided.\n\n \n\nDonations of gently used\, clean plush or 
+ plastic toys to be transformed accepted.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344686
+URL:https://bccls.libcal.com/event/15344686
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T170000Z
 DTEND:20251022T180000Z
 DTSTAMP:20251022T000000Z
@@ -1586,6 +1700,22 @@ UID:LibCal-10341-14830973
 URL:https://bccls.libcal.com/event/14830973
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251022T223000Z
+DTEND:20251022T233000Z
+DTSTAMP:20251022T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High School students: want to give back to your community\, 
+ help plan library events\, and earn community service hours? Come see what 
+ it's all about... new members are always welcome\, bring a friend! 
+ Participants earn volunteer hours for attending.\n\nEmail 
+ teens@westorangelibrary.org with any questions- Teen Advisory Group meets 
+ in the library teen space!
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344684
+URL:https://bccls.libcal.com/event/15344684
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251023T150000Z
 DTEND:20251023T153000Z
 DTSTAMP:20251023T000000Z
@@ -1609,6 +1739,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240530
 URL:https://bccls.libcal.com/event/15240530
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T203000Z
+DTEND:20251023T210000Z
+DTSTAMP:20251023T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun! 
+ October will feature some special guest Super Science leaders.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344690
+URL:https://bccls.libcal.com/event/15344690
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T190000Z
@@ -1723,6 +1866,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240531
 URL:https://bccls.libcal.com/event/15240531
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251030T203000Z
+DTEND:20251030T210000Z
+DTSTAMP:20251030T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun! 
+ October will feature some special guest Super Science leaders.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15344691
+URL:https://bccls.libcal.com/event/15344691
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251101T190000Z
