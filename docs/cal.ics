@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250821T150000Z
-DTEND:20250821T153000Z
-DTSTAMP:20250821T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
- language development & adventure for caregivers & children ages 2-5
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14267998
-URL:https://bccls.libcal.com/event/14267998
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250821T180000Z
-DTEND:20250821T203000Z
-DTSTAMP:20250821T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-12824644
-URL:https://bccls.libcal.com/event/12824644
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250823T190000Z
 DTEND:20250823T203000Z
 DTSTAMP:20250823T000000Z
