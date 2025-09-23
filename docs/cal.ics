@@ -1195,6 +1195,24 @@ UID:LibCal-10341-14992469
 URL:https://bccls.libcal.com/event/14992469
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251008T150000Z
+DTEND:20251008T170000Z
+DTSTAMP:20251008T000000Z
+SUMMARY:AARP Workshop: "Spotting Scams & Staying Safe"
+DESCRIPTION:Workshop Summary: \nThis workshop offers practical advice for 
+ learning how to identify and avoid fraud\, phishing\, and imposter scams. 
+ It is a fitting and timely topic considering all the fraud happening in the 
+ world today\, and we provide practical and effective guidelines on how to 
+ spot the scam--and avoid it. We include real examples of fraud and imposter 
+ scams through a media-rich interactive session exposing how scammers 
+ operate--and what you can do to protect yourself and loved ones!
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-14832631
+URL:https://bccls.libcal.com/event/14832631
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251008T170000Z
 DTEND:20251008T180000Z
 DTSTAMP:20251008T000000Z
@@ -1717,6 +1735,23 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15344690
 URL:https://bccls.libcal.com/event/15344690
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251023T220000Z
+DTEND:20251024T000000Z
+DTSTAMP:20251023T000000Z
+SUMMARY:In Her Shoes/ Domestic Violence Awareness
+DESCRIPTION:October is Domestic Violence Awareness Month\n\nDo you ever 
+ wonder why a woman stays in an abusive relationship? Why a woman makes the 
+ choices she does? How a woman copes?\n\nWest Orange Township is hosting 
+ Rachel Coalition's\n\nIn Her Shoes\n\nThis workshop allows INDIVIDUALS to 
+ experience what a victim of domestic violence has to do once she decides to 
+ reach out for help
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15186978
+URL:https://bccls.libcal.com/event/15186978
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251024T200000Z
