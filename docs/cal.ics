@@ -1316,6 +1316,32 @@ UID:LibCal-10341-15224306
 URL:https://bccls.libcal.com/event/15224306
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251011T180000Z
+DTEND:20251011T200000Z
+DTSTAMP:20251011T000000Z
+SUMMARY:Adult Music Workshop: Percussion with Passion
+DESCRIPTION:With Dalys Torres\n\nExplore different non-traditional 
+ percussion instruments such as drums\, bongo drums\, buckets\, clave\, 
+ guiro\, tambourine\, cowbell\, agogô bell\, castanets\, maracas\, cabasa\, 
+ triangle\, cymbals\, and shakers. Find the musician within. No prior 
+ experience with music is necessary. \n\nSitting around a Drum Circle\, each 
+ participant will select a percussive instrument. The instructor will 
+ introduce an easy-to-repeat rhythm for the participants to follow\, 
+ establish\, improvise on\, and finalize at the same pace and format. This 
+ dynamic is easy to manage and fosters opportunities to learn about one 
+ another\, build confidence\, nurture creative impulses\, and maintain 
+ coherent rhythms within the group.\n\nThis program will be held in 
+ Community Room 1.\n\nAbout the Instructor\n\nBorn and raised in Panama\, 
+ public school educator Dalys E. Torres developed the program Percussion and 
+ Creative Movement for Women and has developed afterschool percussion 
+ programs for the Manhattan and Bronx NY Public Libraries.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-15110610
+URL:https://bccls.libcal.com/event/15110610
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251011T190000Z
 DTEND:20251011T203000Z
 DTSTAMP:20251011T000000Z
@@ -1671,6 +1697,25 @@ UID:LibCal-10341-14830973
 URL:https://bccls.libcal.com/event/14830973
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251022T200000Z
+DTEND:20251022T210000Z
+DTSTAMP:20251022T000000Z
+SUMMARY:Spark Chasers Children's Book Group
+DESCRIPTION:\nA topic is selected each month\, read whatever title you like 
+ or check out the recommendation list at the youth services desk. Bring the 
+ book with you. After the discussion\, join us in making haunted bird houses 
+ & and a activity\n\nOctober Topic/ Theme: Spooky Books\n\nRecommendation 
+ List: \n\n\n\n\n\n\n	Ellie's spooky surprise by Callie Barkley\n	\n	 Big 
+ Shark\, Little Shark and the Spooky Cave \n	\n	\n	BatCat 3 Cooking Contest 
+ \n	\n	\n	The Ghost Tree by Natasha Deen \n	\n	\n	Never Kick a Ghost & Other 
+ Silly Chillers\n	\n\n\n\n\n \n\n\n\n \n\n\n
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-15448045
+URL:https://bccls.libcal.com/event/15448045
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251022T223000Z
 DTEND:20251022T233000Z
 DTSTAMP:20251022T000000Z
@@ -1753,6 +1798,24 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-15224307
 URL:https://bccls.libcal.com/event/15224307
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251025T180000Z
+DTEND:20251025T200000Z
+DTSTAMP:20251025T000000Z
+SUMMARY:Collage Workshop: Wallpaper Self-Portrait
+DESCRIPTION:with Mansa Mussa\n\nGet ready for an interactive art adventure! 
+ In this workshop\, you'll use distinctive recycled and sumptuous 
+ out-of-print wallpaper samples to create an 11x14 self-portrait collage. 
+ Traditional cut-and-paste techniques will be employed to help you create a 
+ 'new you\,' with a dramatic hairstyle and a fabulous outfit. It's your 
+ chance to redefine yourself with bold colors and big flourishes.\n\n 
+ \n\nRegistration is required and all materials will be supplied.\n\n\n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15377714
+URL:https://bccls.libcal.com/event/15377714
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251025T190000Z
