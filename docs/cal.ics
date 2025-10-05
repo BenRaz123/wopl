@@ -8,42 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250904T150000Z
-DTEND:20250904T160000Z
-DTSTAMP:20250904T000000Z
-SUMMARY:Don’t Get Scammed
-DESCRIPTION:A program presented by the NJ Division of Consumer Affairs 
- \n\nImposter scams and various frauds\, including IRS phone scams\, lottery 
- schemes\, and the "grandparent scam\," are becoming increasingly common\, 
- targeting potential victims through calls\, emails\, and other methods. To 
- protect yourself from falling prey to these scams\, we invite you to attend 
- this session\, led by Madeline Guzman\, Outreach Coordinator for the NJ 
- Division of Consumer Affairs. \n\nThe New Jersey Division of Consumer 
- Affairs is a helpful resource for essential consumer information. For 
- questions about New Jersey businesses or professional licenses\, or to 
- report suspected fraud\, please contact their Consumer Service Center at 
- 1-800-242-5846. For continuous updates on Consumer Alerts and more 
- information\, visit their website at: www.NJConsumerAffairs.gov \n\nThis 
- program will take place in Community Room 1.\n\n \n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-15002048
-URL:https://bccls.libcal.com/event/15002048
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250904T180000Z
-DTEND:20250904T203000Z
-DTSTAMP:20250904T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240523
-URL:https://bccls.libcal.com/event/15240523
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250905T170000Z
 DTEND:20250905T200000Z
 DTSTAMP:20250905T000000Z
