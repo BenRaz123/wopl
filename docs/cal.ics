@@ -8,23 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250905T170000Z
-DTEND:20250905T200000Z
-DTSTAMP:20250905T000000Z
-SUMMARY:First Friday Film: The Phoenician Scheme
-DESCRIPTION:Join us for monthly film screenings\, usually held on the first 
- Friday of each month. \n\nLight refreshments provided.\n\n***\n\nThe 
- Phoenician Scheme (2025)\nPG-13\, 1h 41m\n\nWes Anderson's latest is a 
- black comedy caper featuring tycoons\, spies\, and nuns. Benicio del Toro 
- leads a star-studded task that includes Tom Hanks\, Bill Murray\, Scarlett 
- Johansson\, Michael Cera\, Riz Ahmed\, and Benedict Cumberbatch.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-13453690
-URL:https://bccls.libcal.com/event/13453690
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250906T180000Z
 DTEND:20250906T190000Z
 DTSTAMP:20250906T000000Z
@@ -943,6 +926,21 @@ UID:LibCal-10341-15131305
 URL:https://bccls.libcal.com/event/15131305
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251006T220000Z
+DTEND:20251006T230000Z
+DTSTAMP:20251006T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508006
+URL:https://bccls.libcal.com/event/15508006
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251007T150000Z
 DTEND:20251007T153000Z
 DTSTAMP:20251007T000000Z
@@ -1185,6 +1183,21 @@ UID:LibCal-10341-15377124
 URL:https://bccls.libcal.com/event/15377124
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251013T220000Z
+DTEND:20251013T230000Z
+DTSTAMP:20251013T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508007
+URL:https://bccls.libcal.com/event/15508007
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251014T150000Z
 DTEND:20251014T153000Z
 DTSTAMP:20251014T000000Z
@@ -1421,6 +1434,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
 UID:LibCal-10341-15131306
 URL:https://bccls.libcal.com/event/15131306
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251020T220000Z
+DTEND:20251020T230000Z
+DTSTAMP:20251020T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508008
+URL:https://bccls.libcal.com/event/15508008
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251021T150000Z
@@ -1673,6 +1701,21 @@ UID:LibCal-10341-15131303
 URL:https://bccls.libcal.com/event/15131303
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251027T220000Z
+DTEND:20251027T230000Z
+DTSTAMP:20251027T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508009
+URL:https://bccls.libcal.com/event/15508009
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251028T150000Z
 DTEND:20251028T153000Z
 DTSTAMP:20251028T000000Z
@@ -1859,6 +1902,21 @@ UID:LibCal-10341-15168085
 URL:https://bccls.libcal.com/event/15168085
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251103T230000Z
+DTEND:20251104T000000Z
+DTSTAMP:20251103T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508010
+URL:https://bccls.libcal.com/event/15508010
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251104T160000Z
 DTEND:20251104T163000Z
 DTSTAMP:20251104T000000Z
@@ -1964,6 +2022,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15168088
 URL:https://bccls.libcal.com/event/15168088
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251110T230000Z
+DTEND:20251111T000000Z
+DTSTAMP:20251110T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508011
+URL:https://bccls.libcal.com/event/15508011
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251111T160000Z
@@ -2080,6 +2153,21 @@ UID:LibCal-10341-15168090
 URL:https://bccls.libcal.com/event/15168090
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T230000Z
+DTEND:20251118T000000Z
+DTSTAMP:20251117T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508012
+URL:https://bccls.libcal.com/event/15508012
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251119T190000Z
 DTEND:20251119T203000Z
 DTSTAMP:20251119T000000Z
@@ -2146,6 +2234,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15168095
 URL:https://bccls.libcal.com/event/15168095
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251124T230000Z
+DTEND:20251125T000000Z
+DTSTAMP:20251124T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508013
+URL:https://bccls.libcal.com/event/15508013
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251126
@@ -2225,6 +2328,21 @@ UID:LibCal-10341-14990324
 URL:https://bccls.libcal.com/event/14990324
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251201T230000Z
+DTEND:20251202T000000Z
+DTSTAMP:20251201T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508014
+URL:https://bccls.libcal.com/event/15508014
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251203T190000Z
 DTEND:20251203T203000Z
 DTSTAMP:20251203T000000Z
@@ -2301,6 +2419,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990325
 URL:https://bccls.libcal.com/event/14990325
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251208T230000Z
+DTEND:20251209T000000Z
+DTSTAMP:20251208T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508015
+URL:https://bccls.libcal.com/event/15508015
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251210T190000Z
@@ -2384,6 +2517,21 @@ UID:LibCal-10341-14990326
 URL:https://bccls.libcal.com/event/14990326
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251215T230000Z
+DTEND:20251216T000000Z
+DTSTAMP:20251215T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508016
+URL:https://bccls.libcal.com/event/15508016
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251217T190000Z
 DTEND:20251217T203000Z
 DTSTAMP:20251217T000000Z
@@ -2435,6 +2583,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990327
 URL:https://bccls.libcal.com/event/14990327
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251222T230000Z
+DTEND:20251223T000000Z
+DTSTAMP:20251222T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508017
+URL:https://bccls.libcal.com/event/15508017
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251224
@@ -2512,6 +2675,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990328
 URL:https://bccls.libcal.com/event/14990328
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251229T230000Z
+DTEND:20251230T000000Z
+DTSTAMP:20251229T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and improve 
+ your language skills for travel\, work\, or fun.\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15508018
+URL:https://bccls.libcal.com/event/15508018
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
