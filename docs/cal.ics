@@ -8,34 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250913T170000Z
-DTEND:20250913T180000Z
-DTSTAMP:20250913T000000Z
-SUMMARY:Soccer Shots: Storytime - CANCELLED
-DESCRIPTION:Children ages 2-8 years old can join trained coaches from 
- Soccer Shots for a special engaging soccer-themed storytime that sparks 
- imagination. A soccer class will follow after where children can run\, 
- play\, and experience the joy of the game.\n\nThis event has been cancelled 
- - will be rescheduled to September 20th at 1pm
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15107134
-URL:https://bccls.libcal.com/event/15107134
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250913T190000Z
-DTEND:20250913T203000Z
-DTSTAMP:20250913T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990313
-URL:https://bccls.libcal.com/event/14990313
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250914T190000Z
 DTEND:20250914T200000Z
 DTSTAMP:20250914T000000Z
