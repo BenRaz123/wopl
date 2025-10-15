@@ -8,22 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250914T190000Z
-DTEND:20250914T200000Z
-DTSTAMP:20250914T000000Z
-SUMMARY:One in Math- Program Runs Weekly Sept 14 - Nov 23
-DESCRIPTION:Free K-3rd Math Program- runs weekly on Sundays Sept 14th - Nov 
- 23rd and students should attend most sessions.\n\nUtilizes self-paced\, 
- structured curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at oneinmath.com
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15033195
-URL:https://bccls.libcal.com/event/15033195
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250915T200000Z
 DTEND:20250915T210000Z
 DTSTAMP:20250915T000000Z
