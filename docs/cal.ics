@@ -8,48 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250918T150000Z
-DTEND:20250918T153000Z
-DTSTAMP:20250918T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
- language development & adventure for caregivers & children ages 2-5
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14992494
-URL:https://bccls.libcal.com/event/14992494
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250918T180000Z
-DTEND:20250918T203000Z
-DTSTAMP:20250918T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240525
-URL:https://bccls.libcal.com/event/15240525
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250918T223000Z
-DTEND:20250918T233000Z
-DTSTAMP:20250918T000000Z
-SUMMARY:Introduction to Bitcoin & Cryptocurrencies
-DESCRIPTION:Bitcoin is a form of digital money that can be exchanged 
- directly\, person-to-person\, without the need of a third party or bank 
- intermediary. It is not controlled by any group or government\, so it 
- can’t be manipulated\, devalued\, confiscated\, or shut down. You’ll 
- learn how bitcoin and cryptocurrencies work.  The class is designed for 
- beginners. \n\n \n\nThe program will be held in Community Room 1.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-15034241
-URL:https://bccls.libcal.com/event/15034241
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250920T170000Z
 DTEND:20250920T180000Z
 DTSTAMP:20250920T000000Z
