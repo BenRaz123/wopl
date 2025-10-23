@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250922T200000Z
-DTEND:20250922T210000Z
-DTSTAMP:20250922T000000Z
-SUMMARY:Lego Mania
-DESCRIPTION:Come create your own lego creation! For children 6
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-14992965
-URL:https://bccls.libcal.com/event/14992965
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250922T220000Z
-DTEND:20250922T224500Z
-DTSTAMP:20250922T000000Z
-SUMMARY:Brian Richard's Magic Show
-DESCRIPTION:Join us for a fun magic show that will be jam-packed with 
- comedy\, puppets\, juggling\, story-telling\, and more.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-14992460
-URL:https://bccls.libcal.com/event/14992460
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250923T150000Z
 DTEND:20250923T153000Z
 DTSTAMP:20250923T000000Z
@@ -1508,6 +1483,18 @@ UID:LibCal-10341-15168085
 URL:https://bccls.libcal.com/event/15168085
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251103T210000Z
+DTEND:20251103T220000Z
+DTSTAMP:20251103T000000Z
+SUMMARY:Drop-In Craft: Ice Cream Cone Teepees
+DESCRIPTION:     Join us in making ice cream cone teepees.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15472293
+URL:https://bccls.libcal.com/event/15472293
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251103T230000Z
 DTEND:20251104T000000Z
 DTSTAMP:20251103T000000Z
@@ -1584,6 +1571,19 @@ UID:LibCal-10341-14830975
 URL:https://bccls.libcal.com/event/14830975
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T210000Z
+DTEND:20251105T220000Z
+DTSTAMP:20251105T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-15472298
+URL:https://bccls.libcal.com/event/15472298
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251106T160000Z
 DTEND:20251106T163000Z
 DTSTAMP:20251106T000000Z
@@ -1634,6 +1634,19 @@ UID:LibCal-10341-13453692
 URL:https://bccls.libcal.com/event/13453692
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251107T210000Z
+DTEND:20251107T220000Z
+DTSTAMP:20251107T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games will be available to use for children 
+ in grades K-5 in the youth services programming room.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-15472301
+URL:https://bccls.libcal.com/event/15472301
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251108T200000Z
 DTEND:20251108T213000Z
 DTSTAMP:20251108T000000Z
@@ -1659,6 +1672,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15168088
 URL:https://bccls.libcal.com/event/15168088
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251110T210000Z
+DTEND:20251110T220000Z
+DTSTAMP:20251110T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create your own lego creation! For children 6
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-15472270
+URL:https://bccls.libcal.com/event/15472270
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251110T230000Z
@@ -1737,6 +1762,19 @@ UID:LibCal-10341-14830976
 URL:https://bccls.libcal.com/event/14830976
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251112T210000Z
+DTEND:20251112T220000Z
+DTSTAMP:20251112T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-15472299
+URL:https://bccls.libcal.com/event/15472299
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251113T160000Z
 DTEND:20251113T163000Z
 DTSTAMP:20251113T000000Z
@@ -1774,6 +1812,20 @@ UID:LibCal-10341-15533706
 URL:https://bccls.libcal.com/event/15533706
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251113T233000Z
+DTEND:20251114T013000Z
+DTSTAMP:20251113T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board games will be 
+ available & feel free to bring your own as well.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-15606040
+URL:https://bccls.libcal.com/event/15606040
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251114T160000Z
 DTEND:20251114T170000Z
 DTSTAMP:20251114T000000Z
@@ -1792,6 +1844,34 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Book Club
 UID:LibCal-10341-15097405
 URL:https://bccls.libcal.com/event/15097405
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251114T210000Z
+DTEND:20251114T220000Z
+DTSTAMP:20251114T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:Join us for buddy reading that will build confidence\, skill\, 
+ and more with a trained therapy dog.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-15472305
+URL:https://bccls.libcal.com/event/15472305
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T190000Z
+DTEND:20251115T200000Z
+DTSTAMP:20251115T000000Z
+SUMMARY:Robert Roger's Puppet Show: Leonardo Da Vinci
+DESCRIPTION:Join us for a family friendly play about young Leonardo da 
+ Vinci and his flying machine filled with action\, music and comedy. After 
+ the performance\, the audience is invited to visit with the puppets up 
+ close.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-15216522
+URL:https://bccls.libcal.com/event/15216522
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T200000Z
@@ -1933,6 +2013,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15533712
 URL:https://bccls.libcal.com/event/15533712
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251121T210000Z
+DTEND:20251121T220000Z
+DTSTAMP:20251121T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games will be available to use for children 
+ in grades K-5 in the youth services programming room.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-15533681
+URL:https://bccls.libcal.com/event/15533681
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251122T200000Z
