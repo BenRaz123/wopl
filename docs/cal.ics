@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250923T150000Z
-DTEND:20250923T153000Z
-DTSTAMP:20250923T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
- language development & adventure for caregivers & children ages 0-2
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14992467
-URL:https://bccls.libcal.com/event/14992467
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250924T170000Z
 DTEND:20250924T180000Z
 DTSTAMP:20250924T000000Z
@@ -1584,6 +1571,37 @@ UID:LibCal-10341-15472298
 URL:https://bccls.libcal.com/event/15472298
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251105T230000Z
+DTEND:20251106T000000Z
+DTSTAMP:20251105T000000Z
+SUMMARY:Teen Gaming Trivia Jeopardy
+DESCRIPTION:Do You Know Gaming? Battle it out in this Jeopardy-style gaming 
+ trivia experience. Grades 6 - 12- pizza will be served!  No registration 
+ required- pizza will be served!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15523181
+URL:https://bccls.libcal.com/event/15523181
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251106T000000Z
+DTEND:20251106T013000Z
+DTSTAMP:20251105T000000Z
+SUMMARY:Teen Game and Lego Night
+DESCRIPTION:Calling all gamers in grades 6 - 12! Join us at the library for 
+ video games\, board games\, and now lego building-  YOU choose which games 
+ to play. Bring your friends- you can use the library's console or bring 
+ your own. Drop in any time between 7 and 8:30 and don't forget to come to 
+ the gaming trivia happening right before at 6PM!\n\n \n\nQuestions? 
+ 973-736-0198 ex. 6 or teens@westorangelibrary.org
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15422329
+URL:https://bccls.libcal.com/event/15422329
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251106T160000Z
 DTEND:20251106T163000Z
 DTSTAMP:20251106T000000Z
@@ -1773,6 +1791,37 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-15472299
 URL:https://bccls.libcal.com/event/15472299
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T223000Z
+DTEND:20251113T003000Z
+DTSTAMP:20251112T000000Z
+SUMMARY:Teen Dungeons and Dragons
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!\n\nSign up at: tinyurl.com/NovWOPLDnD
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15427781
+URL:https://bccls.libcal.com/event/15427781
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251112T233000Z
+DTEND:20251113T003000Z
+DTSTAMP:20251112T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High School students: want to give back to your community\, 
+ help plan library events\, and earn community service hours? Come see what 
+ it's all about... new members are always welcome\, bring a friend! 
+ Participants earn volunteer hours for attending.\n\nEmail 
+ teens@westorangelibrary.org with any questions- Teen Advisory Group meets 
+ in the library teen space!
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15427465
+URL:https://bccls.libcal.com/event/15427465
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251113T160000Z
