@@ -8,92 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250924T170000Z
-DTEND:20250924T180000Z
-DTSTAMP:20250924T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	All are welcome\, from any location\, educational 
- experience and background\n	Conversation leader will help everyone practice 
- speaking in English through group social interaction\n	Easy to read books 
- in English will be introduced to improve vocabulary and 
- comprehension\n	Come for a friendly\, lively atmosphere and get to know 
- others who want to gain comfort with English conversatio\n\n\nThis program 
- will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-15242424
-URL:https://bccls.libcal.com/event/15242424
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250924T180000Z
-DTEND:20250924T193000Z
-DTSTAMP:20250924T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14849568
-URL:https://bccls.libcal.com/event/14849568
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250924T180000Z
-DTEND:20250924T200000Z
-DTSTAMP:20250924T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-14830969
-URL:https://bccls.libcal.com/event/14830969
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250924T200000Z
-DTEND:20250924T210000Z
-DTSTAMP:20250924T000000Z
-SUMMARY:Spark Chasers Children's Book Group
-DESCRIPTION:\nA topic is selected each month\, read whatever title you like 
- or check out the recommendation list at the youth services desk. Bring the 
- book with you. After the discussion\, join us in making fall chalk art & 
- and a activity.\n\nSeptember Topic/ Theme: Challenged Books (Books usually 
- are challenged with the best intentions—to protect others\, frequently 
- children\, from difficult ideas and information.)\n\nRecommendation List: 
- \n\n\n\n\n\n\n	Captain Underpants (series) by Dav Pilkey \n	Bad Kitty 
- (series) by Nick Bruel \n	The Adventures of Super Diaper Baby by Dav Pilkey 
- \n	Madeline and the Gypsies by Ludwig Bemelmans\n	Skippyjon Jones (series) 
- by Judith Schachner\n\n\n\n\n \n\n\n\n \n\n\n
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Book Club
-UID:LibCal-10341-14993030
-URL:https://bccls.libcal.com/event/14993030
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250924T223000Z
-DTEND:20250924T233000Z
-DTSTAMP:20250924T000000Z
-SUMMARY:Teen Advisory Group
-DESCRIPTION:High School students: want to give back to your community\, 
- help plan library events\, and earn community service hours? Come see what 
- it's all about... new members are always welcome\, bring a friend! 
- Participants earn volunteer hours for attending.\n\nEmail 
- teens@westorangelibrary.org with any questions- Teen Advisory Group meets 
- in the library teen space!
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15106005
-URL:https://bccls.libcal.com/event/15106005
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250925T150000Z
 DTEND:20250925T153000Z
 DTSTAMP:20250925T000000Z
@@ -1732,6 +1646,20 @@ UID:LibCal-10341-14992474
 URL:https://bccls.libcal.com/event/14992474
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251111T210000Z
+DTEND:20251111T220000Z
+DTSTAMP:20251111T000000Z
+SUMMARY:Tween Scene: Lububu Paper Squishy
+DESCRIPTION:Ages 9 - 12: \n\n \n\nCreate your own paper squishy Lububu- 
+ take home your creepy   cute creation!\n\n \n\nNo registration\, all 
+ supplies provided.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15480587
+URL:https://bccls.libcal.com/event/15480587
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251112T180000Z
 DTEND:20251112T190000Z
 DTSTAMP:20251112T000000Z
@@ -2038,6 +1966,33 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-14830977
 URL:https://bccls.libcal.com/event/14830977
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T210000Z
+DTEND:20251119T220000Z
+DTSTAMP:20251119T000000Z
+SUMMARY:Tween Lego Build
+DESCRIPTION:Tweens Ages 9 - 12: This is YOUR time to build with Lego! Build 
+ independently or collaboratively using the library legos.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15533825
+URL:https://bccls.libcal.com/event/15533825
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251119T233000Z
+DTEND:20251120T003000Z
+DTSTAMP:20251119T000000Z
+SUMMARY:Teen Crochet Hang Out
+DESCRIPTION:Bring your current project\, or grab a provided pattern and 
+ enjoy the good vibes! Grades 6 - 12. Special November Project: Make and 
+ crochet with Plarn using recycled plastic!
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15427502
+URL:https://bccls.libcal.com/event/15427502
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251120T190000Z
