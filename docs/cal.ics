@@ -8,44 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250927T170000Z
-DTEND:20250927T200000Z
-DTSTAMP:20250927T000000Z
-SUMMARY:MANHATTAN SHORT FILM FESTIVAL 2025
-DESCRIPTION:Manhattan Short Film Festival is back!\n\nThe 28th 
- Annual\nMANHATTAN SHORT Film Festival.\n\nONE WORLD - ONE WEEK - ONE 
- FESTIVAL\n\nJoin us September 25 to October 5\, 2025\, when over 100\,000 
- film lovers in over 500 cities across six continents gather for one 
- reason...to view and vote on the Finalists' Films in the 28th Annual 
- MANHATTAN SHORT Film Festival.\n\nThe ten MANHATTAN SHORT Finalists hail 
- from seven countries with films from Spain\, Israel\, United Kingdom\, 
- Norway\, The Netherlands\, Belgium\, and Mexico\, alongside three films 
- from the USA. More info about the festival here: 
- https://www.manhattanshort.com/index.html\n\n \n\n3 CONVENIENT SHOWINGS 
- with a 15 minute intermission:\n\nSaturday\, September 27 @ 1-4 
- PM\n\nSunday\, September 28 @ 1-4 PM\n\nand/or  \n\n Monday\, September 29 
- @ 6-9 PM  \n\nThree convenient showing sessions with 15-minute 
- intermissions. Watch all ten films in one day\, or split your viewings and 
- watch half the films one day and the rest on another.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14783213
-URL:https://bccls.libcal.com/event/14783213
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250927T190000Z
-DTEND:20250927T203000Z
-DTSTAMP:20250927T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990315
-URL:https://bccls.libcal.com/event/14990315
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250928T170000Z
 DTEND:20250928T200000Z
 DTSTAMP:20250928T000000Z
@@ -1867,6 +1829,19 @@ UID:LibCal-10341-15168090
 URL:https://bccls.libcal.com/event/15168090
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251117T153000Z
+DTEND:20251117T163000Z
+DTSTAMP:20251117T000000Z
+SUMMARY:Adult Craft Studio
+DESCRIPTION:A drop-in crafting space for adults\, led by library staff and 
+ volunteers. Each month we will make a new project. All materials provided.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15616332
+URL:https://bccls.libcal.com/event/15616332
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251117T230000Z
 DTEND:20251118T000000Z
 DTSTAMP:20251117T000000Z
@@ -2004,6 +1979,29 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990323
 URL:https://bccls.libcal.com/event/14990323
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251123T190000Z
+DTEND:20251123T210000Z
+DTSTAMP:20251123T000000Z
+SUMMARY:Adult Workshop: Parchment Craft
+DESCRIPTION:with Smriti Sangal of Culture Chauraha\n\nJoin us for a calming 
+ and creative Parchment Craft Tealight Holder Workshop\, where you’ll 
+ transform translucent parchment paper into a tealight holder with delicate 
+ floral or geometric designs. In this two-hour session\, participants will 
+ be introduced to the basics of parchment craft\, including tracing\, 
+ embossing\, and simple decorative techniques. Using pre-cut templates and 
+ guided instruction\, each participant will create their own tealight holder 
+ that will be safe for use with LED or real tealights.\n\nBeginners and 
+ experienced crafters welcome. This workshop is perfect for anyone looking 
+ to unwind\, explore a new technique\, and walk away with a handmade 
+ decorative piece that adds warmth and charm to any space.\n\nAll materials 
+ will be provided.\n\nRegistration required.\n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15413028
+URL:https://bccls.libcal.com/event/15413028
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251123T200000Z
@@ -2205,6 +2203,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240536
 URL:https://bccls.libcal.com/event/15240536
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251205T000000Z
+DTEND:20251205T020000Z
+DTSTAMP:20251204T000000Z
+SUMMARY:WOPL Board Meeting
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15630174
+URL:https://bccls.libcal.com/event/15630174
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251205T150000Z
