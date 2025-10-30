@@ -8,37 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250929
-DTEND;VALUE=DATE:20250930
-DTSTAMP:20250929T000000Z
-SUMMARY:Grab & Create: Take Home Craft
-DESCRIPTION:Stop by the Youth Services Department to grab a craft to take 
- home and make with a caregiver while supplies last.
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-14992996
-URL:https://bccls.libcal.com/event/14992996
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20250929T220000Z
-DTEND:20250930T010000Z
-DTSTAMP:20250929T000000Z
-SUMMARY:MANHATTAN SHORT FILM FESTIVAL 2025
-DESCRIPTION:Manhattan Short Film Festival is back!\n\nThe 28th 
- Annual\nMANHATTAN SHORT Film Festival.\n\nONE WORLD - ONE WEEK - ONE 
- FESTIVAL\n\nJoin us September 25 to October 5\, 2025\, when over 100\,000 
- film lovers in over 500 cities across six continents gather for one 
- reason...to view and vote on the Finalists' Films in the 28th Annual 
- MANHATTAN SHORT Film Festival.\n\n3 CONVENIENT SHOWINGS: \n\nSaturday\, 
- September 27 @ 1 PM\n\nSunday\, September 28 @ 1 PM\n\nand/or\n\nMonday\, 
- September 29 @ 6 PM
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14882094
-URL:https://bccls.libcal.com/event/14882094
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20250930T150000Z
 DTEND:20250930T153000Z
 DTSTAMP:20250930T000000Z
