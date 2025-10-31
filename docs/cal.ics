@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20250930T150000Z
-DTEND:20250930T153000Z
-DTSTAMP:20250930T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
- language development & adventure for caregivers & children ages 0-2
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14992468
-URL:https://bccls.libcal.com/event/14992468
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251001T170000Z
 DTEND:20251001T180000Z
 DTSTAMP:20251001T000000Z
@@ -1189,7 +1176,7 @@ DESCRIPTION:Tal Naccarato will  play old style ragtime and blues guitar
  2023\, and was also recently featured as a solo acoustic performer at the 
  famed 'MerleFest' Festival in North Carolina and has since taken his place 
  amongst the very best players worldwide.\n\nThis performance will be held 
- in the Community Room 1\n\n
+ in the Community Room 1.\n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Performance
@@ -1415,12 +1402,15 @@ BEGIN:VEVENT
 DTSTART:20251107T180000Z
 DTEND:20251107T210000Z
 DTSTAMP:20251107T000000Z
-SUMMARY:First Friday Film- Cabrini
+SUMMARY:First Friday Film: Cabrini (PG-13)
 DESCRIPTION:Join us for monthly film screenings\, usually held on the first 
- Friday of each month. \n\nLight refreshments provided.\n\n***
-LOCATION:West Orange - Community Room 2
+ Friday of each month. \n\nLight refreshments provided.\n\n***\n\nCabrini 
+ (2024)\nPG-13\, 2h 20m\n\nItalian immigrant Francesca Cabrini embarks on a 
+ daring journey advocating for housing and healthcare for orphaned children 
+ in 19th Century New York.\n\n
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
+CATEGORIES:Movie
 UID:LibCal-10341-13453692
 URL:https://bccls.libcal.com/event/13453692
 END:VEVENT
