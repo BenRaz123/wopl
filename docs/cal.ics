@@ -8,40 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251003T170000Z
-DTEND:20251003T200000Z
-DTSTAMP:20251003T000000Z
-SUMMARY:First Friday Film: Small Things Like These (PG-13)
-DESCRIPTION:Join us for monthly film screenings on the first Friday of the 
- month. \n\nLight refreshments provided.\n\n***\n\nSmall Things Like These 
- (2024)\nPG-13\, 1h 38m\n\n"Oscar-winner Cillian Murphy delivers a stunning 
- performance as devoted father Bill Furlong in this film based on the 
- best-selling novel of the same name by Claire Keegan. \n\n"While working as 
- a coal merchant to support his family\, Furlong discovers disturbing 
- secrets kept by the local convent -- and uncovers truths of his own -- 
- forcing him to confront his past and the complicit silence of a small Irish 
- town controlled by the Catholic Church." --LionsGate   
- \n\n---\n\nInterested in reading the book? Check it out here.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-13453691
-URL:https://bccls.libcal.com/event/13453691
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251003T200000Z
-DTEND:20251003T210000Z
-DTSTAMP:20251003T000000Z
-SUMMARY:Read to a Therapy Dog
-DESCRIPTION:Join us for buddy reading that will build confidence\, skill\, 
- and more with a trained therapy dog.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-15224312
-URL:https://bccls.libcal.com/event/15224312
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251004T143000Z
 DTEND:20251004T151500Z
 DTSTAMP:20251004T000000Z
