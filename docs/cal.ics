@@ -8,38 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251005T180000Z
-DTEND:20251005T190000Z
-DTSTAMP:20251005T000000Z
-SUMMARY:Crowns of Heritage
-DESCRIPTION:Celebrate Hispanic Heritage Month with Art & 
- Creativity.\n\nJoin us for a fun hands-on workshop inspired by 
- Brooklyn-born artist Jean-Michel Basquiat. Participants will design and 
- decorate their own "Crowns of Heritage" using colors and symbols that 
- celebrate identity\, family\, and culture. \n\nAll ages 
- welcome!\n\nWorkshop led by local artist Christina M. Ramos Palau.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15407083
-URL:https://bccls.libcal.com/event/15407083
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251005T190000Z
-DTEND:20251005T200000Z
-DTSTAMP:20251005T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at oneinmath.com
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15168063
-URL:https://bccls.libcal.com/event/15168063
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251006T200000Z
 DTEND:20251006T210000Z
 DTSTAMP:20251006T000000Z
@@ -1235,6 +1203,18 @@ UID:LibCal-10341-15533662
 URL:https://bccls.libcal.com/event/15533662
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251106T230000Z
+DTEND:20251107T003000Z
+DTSTAMP:20251106T000000Z
+SUMMARY:Medicare Info Session- Senior Services
+DESCRIPTION:Township Program regarding Open Enrollment\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15362044
+URL:https://bccls.libcal.com/event/15362044
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251107T180000Z
 DTEND:20251107T210000Z
 DTSTAMP:20251107T000000Z
@@ -1993,9 +1973,9 @@ BEGIN:VEVENT
 DTSTART:20251205T180000Z
 DTEND:20251205T210000Z
 DTSTAMP:20251205T000000Z
-SUMMARY:First Friday Film
-DESCRIPTION:Join us for monthly film screenings\, usually held on the first 
- Friday of each month. \n\nLight refreshments provided.\n\n***
+SUMMARY:First Friday Film: Downton Abbey: The Grand Finale
+DESCRIPTION:Join us for monthly film screenings held on the first Friday of 
+ each month. \n\nLight refreshments provided.\n\n***
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
