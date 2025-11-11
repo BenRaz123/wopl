@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251010T200000Z
-DTEND:20251010T210000Z
-DTSTAMP:20251010T000000Z
-SUMMARY:Board Games
-DESCRIPTION:A variety of board games will be available to use for children 
- in grades K-5 in the youth services programming room.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-15224306
-URL:https://bccls.libcal.com/event/15224306
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251011T180000Z
 DTEND:20251011T200000Z
 DTSTAMP:20251011T000000Z
@@ -1324,6 +1311,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
 UID:LibCal-10341-15472305
 URL:https://bccls.libcal.com/event/15472305
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251115T143000Z
+DTEND:20251115T163000Z
+DTSTAMP:20251115T000000Z
+SUMMARY:Megan Melamed Literacy Room
+DESCRIPTION:Daughter Lilou's book club - will have adult supervision
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15719037
+URL:https://bccls.libcal.com/event/15719037
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251115T190000Z
