@@ -8,44 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251011T180000Z
-DTEND:20251011T200000Z
-DTSTAMP:20251011T000000Z
-SUMMARY:Adult Music Workshop: Percussion with Passion
-DESCRIPTION:With Dalys Torres\n\nExplore different non-traditional 
- percussion instruments such as drums\, bongo drums\, buckets\, clave\, 
- guiro\, tambourine\, cowbell\, agogô bell\, castanets\, maracas\, cabasa\, 
- triangle\, cymbals\, and shakers. Find the musician within. No prior 
- experience with music is necessary. \n\nSitting around a Drum Circle\, each 
- participant will select a percussive instrument. The instructor will 
- introduce an easy-to-repeat rhythm for the participants to follow\, 
- establish\, improvise on\, and finalize at the same pace and format. This 
- dynamic is easy to manage and fosters opportunities to learn about one 
- another\, build confidence\, nurture creative impulses\, and maintain 
- coherent rhythms within the group.\n\nThis program will be held in 
- Community Room 1.\n\nAbout the Instructor\n\nBorn and raised in Panama\, 
- public school educator Dalys E. Torres developed the program Percussion and 
- Creative Movement for Women and has developed afterschool percussion 
- programs for the Manhattan and Bronx NY Public Libraries.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-15110610
-URL:https://bccls.libcal.com/event/15110610
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251011T190000Z
-DTEND:20251011T203000Z
-DTSTAMP:20251011T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990317
-URL:https://bccls.libcal.com/event/14990317
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251012T173000Z
 DTEND:20251012T181500Z
 DTSTAMP:20251012T000000Z
@@ -776,12 +738,12 @@ DTSTART:20251101T180000Z
 DTEND:20251101T191500Z
 DTSTAMP:20251101T000000Z
 SUMMARY:Joyous Fall Celebration: Live Folk-Blues Concert with Tal Naccarato!
-DESCRIPTION:Tal Naccarato will  play old style ragtime and blues guitar 
+DESCRIPTION:Tal Naccarato will play old-style ragtime and blues guitar 
  after the fashion of such greats as Happy Traum and Dave Van Ronk. He 
- delivers the classics of the folks like Reverend Gary Davis ...and his own 
- compositions in the same genre.\n\nAbout the Artist\,\n\nHe is a  
- composer\, songwriter\, teaching artist and instrumentalist was born in the 
- medieval mountain village of Fiumefreddo Bruzio in Calabria\, Italy and 
+ delivers the classics of folks like Reverend Gary Davis ...and his own 
+ compositions in the same genre.\n\nAbout the Artist\,\n\nHe is a composer\, 
+ songwriter\, teaching artist\, and instrumentalist who was born in the 
+ medieval mountain village of Fiumefreddo Bruzio in Calabria\, Italy\, and 
  raised in East Flatbush\, Brooklyn. His stylized original work\, 
  highlighting a deep appreciation for traditional Folk and Americana Roots 
  music\, is steeped heavily in Rock and Blues and includes his original 
@@ -1398,8 +1360,10 @@ DTSTART:20251117T153000Z
 DTEND:20251117T163000Z
 DTSTAMP:20251117T000000Z
 SUMMARY:Adult Craft Studio
-DESCRIPTION:A drop-in crafting space for adults\, led by library staff and 
- volunteers. Each month we will make a new project. All materials provided.
+DESCRIPTION:A drop-in creative crafting space for adults\, led by library 
+ staff and volunteers. Each session we will play with a new project or 
+ experiment with new materials.\n\nAll supplies provided. No registration 
+ required.\n\nStop by and make something with us!
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
@@ -1797,9 +1761,16 @@ BEGIN:VEVENT
 DTSTART:20251205T180000Z
 DTEND:20251205T210000Z
 DTSTAMP:20251205T000000Z
-SUMMARY:First Friday Film: Downton Abbey: The Grand Finale
+SUMMARY:First Friday Film: Downton Abbey\, the Grand Finale
 DESCRIPTION:Join us for monthly film screenings held on the first Friday of 
- each month. \n\nLight refreshments provided.\n\n***
+ each month. \n\nLight refreshments provided.\n\n***\n\nDOWNTON ABBEY\, THE 
+ GRAND FINALE (2025)\nPG\, 2h 03min\n\nThe cinematic return of the global 
+ phenomenon follows the Crawley family and their staff as they enter the 
+ 1930s. When Mary finds herself at the center of a public scandal and the 
+ family faces financial trouble\, the entire household grapples with the 
+ threat of social disgrace. The Crawleys must embrace change as the staff 
+ prepares for a new chapter with the next generation leading Downton Abbey 
+ into the future.
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1892,6 +1863,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240537
 URL:https://bccls.libcal.com/event/15240537
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T230000Z
+DTEND:20251212T013000Z
+DTSTAMP:20251211T000000Z
+SUMMARY:Artist Reception: Lynne Breitfeller
+DESCRIPTION:Meet exhibiting artist Lynne Breitfeller.\n\nLight refreshments 
+ provided.\n\nAfter the Fire: Water Damaged by Lynne Breitfeller is on 
+ display at the West Orange Public Library from October 29 to December 14\, 
+ 2025.\nVisit our Art Exhibit page for more information.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-15495875
+URL:https://bccls.libcal.com/event/15495875
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000Z
@@ -2046,38 +2032,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14318215
 URL:https://bccls.libcal.com/event/14318215
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251224T180000Z
-DTEND:20251224T190000Z
-DTSTAMP:20251224T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	All are welcome\, from any location\, educational 
- experience and background\n	Conversation leader will help everyone practice 
- speaking in English through group social interaction\n	Easy to read books 
- in English will be introduced to improve vocabulary and 
- comprehension\n	Come for a friendly\, lively atmosphere and get to know 
- others who want to gain comfort with English conversatio\n\n\nThis program 
- will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-15526142
-URL:https://bccls.libcal.com/event/15526142
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251224T190000Z
-DTEND:20251224T203000Z
-DTSTAMP:20251224T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965217
-URL:https://bccls.libcal.com/event/14965217
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251224T190000Z
