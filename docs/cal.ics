@@ -8,35 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251013T180000Z
-DTEND:20251013T210000Z
-DTSTAMP:20251013T000000Z
-SUMMARY:Family Movie: Wicked (PG)
-DESCRIPTION:Wicked (2024)\nPG\, 2h 40m\n\nCounting down the days until 
- Wicked: For Good hits theaters? Come watch the first movie with fellow 
- fans.\n\nSinging along is highly encouraged\, and there will be snacks!
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Movie
-UID:LibCal-10341-15377124
-URL:https://bccls.libcal.com/event/15377124
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251013T220000Z
-DTEND:20251013T230000Z
-DTSTAMP:20251013T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15508007
-URL:https://bccls.libcal.com/event/15508007
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251014T150000Z
 DTEND:20251014T153000Z
 DTSTAMP:20251014T000000Z
@@ -1202,11 +1173,11 @@ BEGIN:VEVENT
 DTSTART:20251113T233000Z
 DTEND:20251114T013000Z
 DTSTAMP:20251113T000000Z
-SUMMARY:Adult Game Night-CANCELED
-DESCRIPTION:** CANCELED due to road milling and paving **\n\nLooking for a 
- place to play or people to play with? Drop by for some fun & friendly 
- competition. A selection of board games will be available & feel free to 
- bring your own as well.
+SUMMARY:Adult Game Night-MOVED TO NOV 20
+DESCRIPTION:** RESCHEDULED FOR NOV 20 due to library's early closure today. 
+ **\n\nLooking for a place to play or people to play with? Drop by for some 
+ fun & friendly competition. A selection of board games will be available & 
+ feel free to bring your own as well.
 LOCATION:West Orange - Community Room 1\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft, Games
@@ -1443,6 +1414,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15533712
 URL:https://bccls.libcal.com/event/15533712
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251120T233000Z
+DTEND:20251121T013000Z
+DTSTAMP:20251120T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board games will be 
+ available & feel free to bring your own as well.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-15735634
+URL:https://bccls.libcal.com/event/15735634
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251121T210000Z
