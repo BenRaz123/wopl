@@ -8,45 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251020T200000Z
-DTEND:20251020T210000Z
-DTSTAMP:20251020T000000Z
-SUMMARY:Lego Mania
-DESCRIPTION:Come create your own lego creation! For children 6
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-15131306
-URL:https://bccls.libcal.com/event/15131306
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T220000Z
-DTEND:20251020T230000Z
-DTSTAMP:20251020T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15508008
-URL:https://bccls.libcal.com/event/15508008
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251020T230000Z
-DTEND:20251021T010000Z
-DTSTAMP:20251020T000000Z
-SUMMARY:Friends of the Library Board Meeting
-DESCRIPTION:Conference Room
-LOCATION:West Orange - Off-site
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15564529
-URL:https://bccls.libcal.com/event/15564529
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251021T150000Z
 DTEND:20251021T153000Z
 DTSTAMP:20251021T000000Z
