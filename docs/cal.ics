@@ -8,36 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251025T180000Z
-DTEND:20251025T200000Z
-DTSTAMP:20251025T000000Z
-SUMMARY:Collage Workshop: Wallpaper Self-Portrait
-DESCRIPTION:with Mansa Mussa\n\nGet ready for an interactive art adventure! 
- In this workshop\, you'll use distinctive recycled and sumptuous 
- out-of-print wallpaper samples to create an 11x14 self-portrait collage. 
- Traditional cut-and-paste techniques will be employed to help you create a 
- 'new you\,' with a dramatic hairstyle and a fabulous outfit. It's your 
- chance to redefine yourself with bold colors and big flourishes.\n\n 
- \n\nRegistration is required and all materials will be supplied.\n\n\n\n
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15377714
-URL:https://bccls.libcal.com/event/15377714
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251025T190000Z
-DTEND:20251025T203000Z
-DTSTAMP:20251025T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990319
-URL:https://bccls.libcal.com/event/14990319
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251026T173000Z
 DTEND:20251026T181500Z
 DTSTAMP:20251026T000000Z
@@ -1357,6 +1327,20 @@ UID:LibCal-10341-13453693
 URL:https://bccls.libcal.com/event/13453693
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251205T210000Z
+DTEND:20251205T220000Z
+DTSTAMP:20251205T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ registration required.\n\n\n\n\n \n\n\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-15541237
+URL:https://bccls.libcal.com/event/15541237
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251206T200000Z
 DTEND:20251206T213000Z
 DTSTAMP:20251206T000000Z
@@ -1367,6 +1351,29 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-14990325
 URL:https://bccls.libcal.com/event/14990325
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251207T190000Z
+DTEND:20251207T203000Z
+DTSTAMP:20251207T000000Z
+SUMMARY:Concert: Winter Soul with jazz guitarist Bob DeVos
+DESCRIPTION:With Bob DeVos\n\nAcclaimed jazz guitarist Bob DeVos celebrates 
+ the winter season with a soulful program of winter-themed jazz\, Great 
+ American Songbook\, and holiday standards from ballads—Moonlight in 
+ Vermont—to blues—Charles Brown’s Merry Christmas Baby. Joining Bob 
+ are his frequent\, longtime collaborators\, Dave Braham on organ and Steve 
+ Johns on drums\, all masters of the Soul Organ Trio. Expect outstanding 
+ musical interplay and an afternoon of superb\, joy-filled performance.\n\nA 
+ Few Words About  the artist Bob DeVos "Powerhouse guitarist Bob DeVos 
+ exemplifies what to look for in an artist. He digs deep into his 
+ distinctive\, prodigious style\, which is deeply rooted in both the bebop 
+ and beyond idiom and his blues acumen.” Jazz Journalist Zan Stewart\, 
+ SPOTLIGHT\n\nThis event will take place in Community Room 1
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-15661311
+URL:https://bccls.libcal.com/event/15661311
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T210000Z
@@ -1574,25 +1581,57 @@ SUMMARY:Book Club: Babel
 DESCRIPTION:A book club for adults who want to read in community. We meet 
  one Friday morning a month to chat about a title we read in 
  common.\n\n--\n\nDecember Title\n\nBABEL\nby R.F. Kuang\n\nIn 1828\, Robin 
- Swift\, orphaned by cholera in Canton\, is brought to London by the 
- mysterious Professor Lovell. There\, he trains for years in Latin\, Ancient 
- Greek\, and Chinese\, all in preparation for the day he’ll enroll in 
- Oxford University’s prestigious Royal Institute of Translation—also 
- known as Babel. For Robin\, Oxford is a utopia dedicated to the pursuit of 
- knowledge. But knowledge obeys power\, and as a Chinese boy raised in 
- Britain\, Robin realizes serving Babel means betraying his motherland. As 
- his studies progress\, Robin finds himself caught between Babel and the 
- shadowy Hermes Society\, an organization dedicated to stopping imperial 
- expansion. When Britain pursues an unjust war with China over silver and 
- opium\, Robin must decide: Can powerful institutions be changed from 
- within\, or does revolution always require violence? 
- --HarperCollins\n\nCopies available by the Circulation Desk starting 
- November 10.\n\n
+ Swift\, orphaned by cholera in Canton\, is brought to London by a 
+ mysterious professor to train for Oxford University’s prestigious Royal 
+ Institute of Translation—known as Babel. For Robin\, Oxford is a utopia 
+ dedicated to the pursuit of knowledge. But knowledge obeys power\, and as a 
+ Chinese boy raised in Britain\, when Britain pursues an unjust war with 
+ China over silver and opium\, Robin must decide: Can powerful institutions 
+ be changed from within\, or does revolution always require 
+ violence?\n\nCopies available by the Circulation Desk starting November 
+ 10.\n\n
 LOCATION:West Orange - Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Book Club
 UID:LibCal-10341-15097485
 URL:https://bccls.libcal.com/event/15097485
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251212T210000Z
+DTEND:20251212T220000Z
+DTSTAMP:20251212T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ registration required.\n\n\n\n\n \n\n\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-15541232
+URL:https://bccls.libcal.com/event/15541232
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251213T190000Z
+DTEND:20251213T210000Z
+DTSTAMP:20251213T000000Z
+SUMMARY:Adult Art Workshop: Printmaking
+DESCRIPTION:with Smriti Sangal of Culture Chauraha\n\nJoin us for a fun\, 
+ creative afternoon of printmaking\, a versatile and creative art medium 
+ that transfers images from one surface to another. In this two-hour 
+ session\, participants will be guided through an accessible and 
+ easy-to-replicate-at-home method using foam sheets and markers. Foam sheets 
+ serve as the printing plates\, allowing artists to carve or draw designs 
+ into them easily. These designs are then inked with markers\, and the image 
+ is transferred onto paper or fabric by pressing the foam sheet onto the 
+ surface. This technique is perfect for all experience levels\, as it 
+ requires minimal materials and setup while offering endless possibilities 
+ for artistic expression.\n\nAll materials will be provided.\n\nRegistration 
+ required. This workshop is designed for adults.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15693380
+URL:https://bccls.libcal.com/event/15693380
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251213T200000Z
@@ -1619,6 +1658,50 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
 UID:LibCal-10341-15698251
 URL:https://bccls.libcal.com/event/15698251
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251214T190000Z
+DTEND:20251214T210000Z
+DTSTAMP:20251214T000000Z
+SUMMARY:Adult Music: The Works of Duke Ellington and Billy Strayhorn\, featuring Vinnie Cutro on trumpet and Mitch Schechter on piano.
+DESCRIPTION:With Vinny Cultro & Mitch Schechter\n\nThe duo will present the 
+ work of the greatest composing duo in American jazz history\, Duke 
+ Ellington and Billy Strayhorn. Through musical interpretation and oral 
+ presentation—part musical performance and part history lesson—the 
+ musicians will showcase samples from the collaboration of Ellington and 
+ Strayhorn\, highlighting what made this partnership so remarkable and what 
+ continues to delight listeners almost 100 years later.\n\nAbout the 
+ Artist\n\nDuring the past 40 years\, Vinnie Cutro (musician\, educator\, 
+ and composer) has performed with renowned jazz legends such as Horace 
+ Silver\, Buddy Rich\, Lionel Hampton\, Ron Carter\, Aretha Franklin\, Ray 
+ Charles\, Barry Manilow\, Blood\, Sweat & Tears\, The Four Tops\, and The 
+ Temptations.\n\nHe has traveled extensively around the globe\, performing 
+ at jazz festivals and concerts across Europe\, Japan\, Africa\, Canada\, 
+ South America\, and the United States.\n\n\n\nThis event will take place in 
+ the Community Room 1
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15448271
+URL:https://bccls.libcal.com/event/15448271
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251215T153000Z
+DTEND:20251215T170000Z
+DTSTAMP:20251215T000000Z
+SUMMARY:Adult Craft Studio
+DESCRIPTION:\n\n \n\n \n\nA drop-in crafting space for adults\, led by 
+ library staff and volunteers. \n\nLooking for a quick\, satisfying project? 
+ Make your own mini pocket journal. \n\nIn the mood for a longer-term 
+ project?  Join us in creating altered book art using various crafting 
+ techniques. \n\nWe'll supply all the materials you need\, but feel free to 
+ bring your own meaningful bits & bobs if you want to incorporate something 
+ personal. \n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15693298
+URL:https://bccls.libcal.com/event/15693298
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251215T210000Z
@@ -1725,6 +1808,38 @@ UID:LibCal-10341-15541282
 URL:https://bccls.libcal.com/event/15541282
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251217T233000Z
+DTEND:20251218T010000Z
+DTSTAMP:20251217T000000Z
+SUMMARY:The Routledge History of Italian Americans
+DESCRIPTION:With Professor William Connell\n\nThe editors acknowledge that 
+ "Write or be written" is one of the tenets of the Italian American Writers 
+ Association. In other words\, it is essential to recognize Italian 
+ Americans as the authors of their history. Even so\, everyone should be 
+ interested in this history's emotional depth and social and cultural 
+ effects.Instead of hagiography\, we are providing a critical perspective 
+ and careful analysis of a convoluted trip from corporate office and the 
+ Supreme Court to steerage\, discrimination\, and violence\, coupled with a 
+ readiness to recognize the challenges and triumphs encountered along the 
+ route.\n\nAbout the author.\n\nWilliam J. Connell is Professor of History 
+ and holder of the Joseph M. and Geraldine. C. La Motta Chair in Italian 
+ Studies at Seton Hall University\, where he was also the Founding Director 
+ of the Charles and Joan Alberto Italian Studies Institute.  He has been a 
+ Fulbright Scholar\, a Fellow at Villa I Tatti/The Harvard Center for 
+ Renaissance Studies\, and a Member of the Institute for Advanced Study\, 
+ Princeton.  A specialist in early modern Italy\, he has written\, edited 
+ and translated numerous books in Italian and Italian American history\, 
+ including La città dei crucci\, Sacrilege and Redemption in Renaissance 
+ Florence\, Machiavelli’s Prince\, and Anti-Italianism: Essays on a 
+ Prejudice.  He is writing a book called Machiavelli’s Utopia.\n\n 
+ \n\nThis program will be held in Community Room 1
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15526112
+URL:https://bccls.libcal.com/event/15526112
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251218T000000Z
 DTEND:20251218T013000Z
 DTSTAMP:20251217T000000Z
@@ -1778,6 +1893,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft, Games
 UID:LibCal-10341-15378232
 URL:https://bccls.libcal.com/event/15378232
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251219T210000Z
+DTEND:20251219T220000Z
+DTSTAMP:20251219T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:Join us for buddy reading that will build confidence\, skill\, 
+ and more with a trained therapy dog. No registration required. All ages 
+ welcome.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-15541311
+URL:https://bccls.libcal.com/event/15541311
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251220T200000Z
