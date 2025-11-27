@@ -8,35 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251026T173000Z
-DTEND:20251026T181500Z
-DTSTAMP:20251026T000000Z
-SUMMARY:Creative Play Class
-DESCRIPTION:Join us for a interactive and engaging class that includes 
- acting\, improv\, creativity\, and play for children 5-6 years old. 
- Registration Required. Please sign-up with the child's name.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Class
-UID:LibCal-10341-15244253
-URL:https://bccls.libcal.com/event/15244253
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251026T190000Z
-DTEND:20251026T200000Z
-DTSTAMP:20251026T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at oneinmath.com
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15168080
-URL:https://bccls.libcal.com/event/15168080
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251027
 DTEND;VALUE=DATE:20251028
 DTSTAMP:20251027T000000Z
@@ -1572,6 +1543,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
 UID:LibCal-10341-15495875
 URL:https://bccls.libcal.com/event/15495875
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20251211T230000Z
+DTEND:20251212T013000Z
+DTSTAMP:20251211T000000Z
+SUMMARY:Artist Reception: Lynne Breitfeller
+DESCRIPTION:Alternate location.
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-15728864
+URL:https://bccls.libcal.com/event/15728864
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000Z
