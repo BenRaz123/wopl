@@ -8,46 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251101T180000Z
-DTEND:20251101T191500Z
-DTSTAMP:20251101T000000Z
-SUMMARY:Joyous Fall Celebration: Live Folk-Blues Concert with Tal Naccarato!
-DESCRIPTION:Tal Naccarato will play old-style ragtime and blues guitar 
- after the fashion of such greats as Happy Traum and Dave Van Ronk. He 
- delivers the classics of folks like Reverend Gary Davis ...and his own 
- compositions in the same genre.\n\nAbout the Artist\,\n\nHe is a composer\, 
- songwriter\, teaching artist\, and instrumentalist who was born in the 
- medieval mountain village of Fiumefreddo Bruzio in Calabria\, Italy\, and 
- raised in East Flatbush\, Brooklyn. His stylized original work\, 
- highlighting a deep appreciation for traditional Folk and Americana Roots 
- music\, is steeped heavily in Rock and Blues and includes his original 
- classical guitar inspired compositions\, performed with a 'bluesy 
- swing’.\n\nTal most recently won the 'Long Island Blues Society's' 2023 
- Solo/Duo Competition to compete in 'The Blues Foundation International 
- Worldwide Blues Challenge’ on Beale Street in Memphis\, Tennessee\, 
- 2023\, and was also recently featured as a solo acoustic performer at the 
- famed 'MerleFest' Festival in North Carolina and has since taken his place 
- amongst the very best players worldwide.\n\nThis performance will be held 
- in the Community Room 1.\n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-15420041
-URL:https://bccls.libcal.com/event/15420041
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251101T190000Z
-DTEND:20251101T203000Z
-DTSTAMP:20251101T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990320
-URL:https://bccls.libcal.com/event/14990320
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251102T190000Z
 DTEND:20251102T210000Z
 DTSTAMP:20251102T000000Z
@@ -1104,7 +1064,11 @@ DTSTART:20251205T150000Z
 DTEND:20251207T210000Z
 DTSTAMP:20251205T000000Z
 SUMMARY:WOPL FRIENDS Fall Book Sale
-DESCRIPTION:
+DESCRIPTION:Friday\, December 5\, MEMBERS ONLY!  Join at the door for 
+ $15\n\nSaturday\, December 6\, 10:30am-4:30 pm\n\nSunday\, December 7\, 
+ 1:00-5:00 pm\n\n\n\n\nDiscover thousands of books - current best sellers 
+ and cherished classics for all ages. Find your next read or the perfect 
+ holiday gift.\n\nPlus puzzles!\n\nAlmost everything priced $1-2.\n\n \n
 LOCATION:West Orange - Off-site
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
