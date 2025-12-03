@@ -8,40 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251102T190000Z
-DTEND:20251102T210000Z
-DTSTAMP:20251102T000000Z
-SUMMARY:Adult Art Workshop: Coffee Painting
-DESCRIPTION:with Smriti Sangal of Culture Chauraha\n\nDid you know that 
- coffee can awaken your creative senses? Experiment with coffee as a pigment 
- in this session. Learn to use coffee as a painting medium that not only 
- smells good but gives you the best sepia tones to create magic in 
- monotones. You'll use techniques similar to watercolors\, from creating 
- transparency to blending and bringing out the details. \n\nPerfect for 
- beginners\, hobbyists and enthusiasts. A great way to unwind and connect 
- with others who share your love and coffee.\n\nRegistration required.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15413126
-URL:https://bccls.libcal.com/event/15413126
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251102T200000Z
-DTEND:20251102T210000Z
-DTSTAMP:20251102T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at oneinmath.com
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15168085
-URL:https://bccls.libcal.com/event/15168085
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251103T210000Z
 DTEND:20251103T220000Z
 DTSTAMP:20251103T000000Z
@@ -1145,6 +1111,18 @@ UID:LibCal-10341-15661311
 URL:https://bccls.libcal.com/event/15661311
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20251208T160000Z
+DTEND:20251208T183000Z
+DTSTAMP:20251208T000000Z
+SUMMARY:Office of Congresswoman Lamonica McIver- Mobile Office Hours
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15827847
+URL:https://bccls.libcal.com/event/15827847
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20251208T210000Z
 DTEND:20251208T220000Z
 DTSTAMP:20251208T000000Z
@@ -1881,6 +1859,23 @@ UID:LibCal-10341-15240541
 URL:https://bccls.libcal.com/event/15240541
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+DTSTAMP:20260109T000000Z
+SUMMARY:Revolutionary Lives Exhibit
+DESCRIPTION:Revolutionary Lives: Living the American Experiment Then and 
+ Now\, a traveling exhibition designed for communities statewide. Available 
+ free of charge\, the exhibit highlights the often overlooked stories of 
+ everyday New Jerseyans whose lives\, labor\, and choices shaped the 
+ Revolutionary era and continue to inspire civic engagement today.\n\nsix 
+ double-sided stretch-fabric banners\, ideal for open gallery-style spaces\,
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15457193
+URL:https://bccls.libcal.com/event/15457193
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260112T230000Z
 DTEND:20260113T000000Z
 DTSTAMP:20260112T000000Z
@@ -1955,6 +1950,17 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240542
 URL:https://bccls.libcal.com/event/15240542
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+DTSTAMP:20260119T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15873997
+URL:https://bccls.libcal.com/event/15873997
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260119T230000Z
@@ -2259,6 +2265,17 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240546
 URL:https://bccls.libcal.com/event/15240546
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+DTSTAMP:20260216T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15874016
+URL:https://bccls.libcal.com/event/15874016
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260216T230000Z
@@ -2793,16 +2810,15 @@ UID:LibCal-10341-15240553
 URL:https://bccls.libcal.com/event/15240553
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260405
-DTEND;VALUE=DATE:20260406
-DTSTAMP:20260405T000000Z
-SUMMARY:Easter-CLOSED
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+DTSTAMP:20260403T000000Z
+SUMMARY:CLOSED
 DESCRIPTION:
-LOCATION:West Orange - Off-site
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
-UID:LibCal-10341-15548594
-URL:https://bccls.libcal.com/event/15548594
+UID:LibCal-10341-15874047
+URL:https://bccls.libcal.com/event/15874047
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T180000Z
@@ -3005,6 +3021,18 @@ UID:LibCal-10341-15548590
 URL:https://bccls.libcal.com/event/15548590
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+DTSTAMP:20260704T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15548591
+URL:https://bccls.libcal.com/event/15548591
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 DTSTAMP:20260905T000000Z
@@ -3015,6 +3043,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15548593
 URL:https://bccls.libcal.com/event/15548593
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261125T000000Z
+SUMMARY:CLOSING @ 5:30
+DESCRIPTION:
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15877892
+URL:https://bccls.libcal.com/event/15877892
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261126T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15877894
+URL:https://bccls.libcal.com/event/15877894
 END:VEVENT
 
 END:VCALENDAR
