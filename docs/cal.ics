@@ -8,33 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251103T210000Z
-DTEND:20251103T220000Z
-DTSTAMP:20251103T000000Z
-SUMMARY:Drop-In Craft: Ice Cream Cone Teepees
-DESCRIPTION:     Join us in making ice cream cone teepees.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15472293
-URL:https://bccls.libcal.com/event/15472293
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251103T230000Z
-DTEND:20251104T000000Z
-DTSTAMP:20251103T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15508010
-URL:https://bccls.libcal.com/event/15508010
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251104T160000Z
 DTEND:20251104T163000Z
 DTSTAMP:20251104T000000Z
@@ -1112,7 +1085,7 @@ URL:https://bccls.libcal.com/event/15661311
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251208T160000Z
-DTEND:20251208T183000Z
+DTEND:20251208T180000Z
 DTSTAMP:20251208T000000Z
 SUMMARY:Office of Congresswoman Lamonica McIver- Mobile Office Hours
 DESCRIPTION:
@@ -1961,21 +1934,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15873997
 URL:https://bccls.libcal.com/event/15873997
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260119T230000Z
-DTEND:20260120T000000Z
-DTSTAMP:20260119T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536464
-URL:https://bccls.libcal.com/event/15536464
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T180000Z
