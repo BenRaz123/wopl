@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251104T160000Z
-DTEND:20251104T163000Z
-DTSTAMP:20251104T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
- language development & adventure for caregivers & children ages 0-2
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-14992473
-URL:https://bccls.libcal.com/event/14992473
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251105T180000Z
 DTEND:20251105T190000Z
 DTSTAMP:20251105T000000Z
@@ -1923,6 +1910,22 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240542
 URL:https://bccls.libcal.com/event/15240542
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260116T160000Z
+DTEND:20260116T170000Z
+DTSTAMP:20260116T000000Z
+SUMMARY:Book Club: The Wilderness
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\n\nJanuary Title\n\nTHE WILDERNESS\nby Angela 
+ Flournoy\n\nCopies available by the Circulation Desk starting December 
+ 12.\n\n
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-15892815
+URL:https://bccls.libcal.com/event/15892815
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
