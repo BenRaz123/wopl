@@ -8,35 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251107T180000Z
-DTEND:20251107T210000Z
-DTSTAMP:20251107T000000Z
-SUMMARY:First Friday Film: Cabrini (PG-13)
-DESCRIPTION:Join us for monthly film screenings\, usually held on the first 
- Friday of each month. \n\nLight refreshments provided.\n\n***\n\nCabrini 
- (2024)\nPG-13\, 2h 20m\n\nItalian immigrant Francesca Cabrini embarks on a 
- daring journey advocating for housing and healthcare for orphaned children 
- in 19th Century New York.\n\n
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Movie
-UID:LibCal-10341-13453692
-URL:https://bccls.libcal.com/event/13453692
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251107T210000Z
-DTEND:20251107T220000Z
-DTSTAMP:20251107T000000Z
-SUMMARY:Board Games
-DESCRIPTION:A variety of board games will be available to use for children 
- in grades K-5 in the youth services programming room.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-15472301
-URL:https://bccls.libcal.com/event/15472301
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251108T200000Z
 DTEND:20251108T213000Z
 DTSTAMP:20251108T000000Z
