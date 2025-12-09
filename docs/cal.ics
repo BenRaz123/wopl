@@ -8,18 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251108T200000Z
-DTEND:20251108T213000Z
-DTSTAMP:20251108T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990321
-URL:https://bccls.libcal.com/event/14990321
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251109T200000Z
 DTEND:20251109T210000Z
 DTSTAMP:20251109T000000Z
@@ -1104,23 +1092,11 @@ DESCRIPTION:Meet exhibiting artist Lynne Breitfeller.\n\nLight refreshments
  provided.\n\nAfter the Fire: Water Damaged by Lynne Breitfeller is on 
  display at the West Orange Public Library from October 29 to December 14\, 
  2025.\nVisit our Art Exhibit page for more information.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
 UID:LibCal-10341-15495875
 URL:https://bccls.libcal.com/event/15495875
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T230000Z
-DTEND:20251212T013000Z
-DTSTAMP:20251211T000000Z
-SUMMARY:Artist Reception: Lynne Breitfeller
-DESCRIPTION:Alternate location.
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-15728864
-URL:https://bccls.libcal.com/event/15728864
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20251212T160000Z
