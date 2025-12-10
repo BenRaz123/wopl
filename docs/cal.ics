@@ -8,21 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251109T200000Z
-DTEND:20251109T210000Z
-DTSTAMP:20251109T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at oneinmath.com
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15168088
-URL:https://bccls.libcal.com/event/15168088
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251110T210000Z
 DTEND:20251110T220000Z
 DTSTAMP:20251110T000000Z
