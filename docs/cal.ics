@@ -8,33 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251115T190000Z
-DTEND:20251115T200000Z
-DTSTAMP:20251115T000000Z
-SUMMARY:Robert Roger's Puppet Show: Leonardo Da Vinci
-DESCRIPTION:Join us for a family friendly play about young Leonardo da 
- Vinci and his flying machine filled with action\, music and comedy. After 
- the performance\, the audience is invited to visit with the puppets up 
- close.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-15216522
-URL:https://bccls.libcal.com/event/15216522
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251115T200000Z
-DTEND:20251115T213000Z
-DTSTAMP:20251115T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990322
-URL:https://bccls.libcal.com/event/14990322
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251116T190000Z
 DTEND:20251116T200000Z
 DTSTAMP:20251116T000000Z
@@ -1394,6 +1367,24 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260112T153000Z
+DTEND:20260112T170000Z
+DTSTAMP:20260112T000000Z
+SUMMARY:Adult Craft Studio
+DESCRIPTION:\n\n \n\n \n\nA drop-in crafting space for adults\, led by 
+ library staff and volunteers. \n\nLooking for a quick\, satisfying project? 
+ Make your own mini pocket journal. \n\nIn the mood for a longer-term 
+ project?  Join us in creating altered book art using various crafting 
+ techniques. \n\nWe'll supply all the materials you need\, but feel free to 
+ bring your own meaningful bits & bobs if you want to incorporate something 
+ personal. \n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15988938
+URL:https://bccls.libcal.com/event/15988938
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T230000Z
