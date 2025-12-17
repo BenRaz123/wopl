@@ -8,48 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251116T190000Z
-DTEND:20251116T200000Z
-DTSTAMP:20251116T000000Z
-SUMMARY:The Pilgrims and the Mayflower
-DESCRIPTION:With Joel Farkas\n\nAn expert on our founding fathers and 
- mothers\, Joel Farkas will weave the tale of why and how the Pilgrims set 
- sail on the Mayflower and its legacy. Beginning with the Ancient Greeks 
- through a history of explorers\, he will connect the voyage of the 
- Mayflower to the wives of Henry VIII. Farkas’ talk proves to be a voyage 
- to remember.\n\nAbout the instructor\n\nMr. Farkas has lectured extensively 
- on the American Revolution\, including insights on George Washington\, the 
- Founding Fathers\, the war in New Jersey\, the lesser known heroes of the 
- Revolution\, and the role and impact of women during the war. He is a 
- Lecturer at the Lifelong Learning Institute at Fairleigh Dickinson 
- University and a volunteer docent at Washington’s headquarters in 
- Morristown\, NJ. He received the National Park Service Centennial Volunteer 
- Challenge Award. A collector of original historical autographs\, Mr. Farkas 
- is a graduate of Ohio State University and served as an officer in the 
- United States Army.\n\nThis presentation will be held in the Community Room 
- 1
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Lecture, Performance
-UID:LibCal-10341-15152653
-URL:https://bccls.libcal.com/event/15152653
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251116T200000Z
-DTEND:20251116T210000Z
-DTSTAMP:20251116T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at oneinmath.com
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15168090
-URL:https://bccls.libcal.com/event/15168090
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251117T153000Z
 DTEND:20251117T163000Z
 DTSTAMP:20251117T000000Z
