@@ -8,36 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251117T153000Z
-DTEND:20251117T163000Z
-DTSTAMP:20251117T000000Z
-SUMMARY:Adult Craft Studio
-DESCRIPTION:A drop-in creative crafting space for adults\, led by library 
- staff and volunteers. Each session we will play with a new project or 
- experiment with new materials.\n\nAll supplies provided. No registration 
- required.\n\nStop by and make something with us!
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15616332
-URL:https://bccls.libcal.com/event/15616332
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251117T230000Z
-DTEND:20251118T000000Z
-DTSTAMP:20251117T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15508012
-URL:https://bccls.libcal.com/event/15508012
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251119T180000Z
 DTEND:20251119T190000Z
 DTSTAMP:20251119T000000Z
