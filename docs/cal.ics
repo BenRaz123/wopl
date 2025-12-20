@@ -8,81 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251119T180000Z
-DTEND:20251119T190000Z
-DTSTAMP:20251119T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	All are welcome\, from any location\, educational 
- experience and background\n	Conversation leader will help everyone practice 
- speaking in English through group social interaction\n	Easy to read books 
- in English will be introduced to improve vocabulary and 
- comprehension\n	Come for a friendly\, lively atmosphere and get to know 
- others who want to gain comfort with English conversatio\n\n\nThis program 
- will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-15526137
-URL:https://bccls.libcal.com/event/15526137
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T190000Z
-DTEND:20251119T203000Z
-DTSTAMP:20251119T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965212
-URL:https://bccls.libcal.com/event/14965212
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T190000Z
-DTEND:20251119T210000Z
-DTSTAMP:20251119T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-14830977
-URL:https://bccls.libcal.com/event/14830977
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T210000Z
-DTEND:20251119T220000Z
-DTSTAMP:20251119T000000Z
-SUMMARY:Tween Lego Build
-DESCRIPTION:Tweens Ages 9 - 12: This is YOUR time to build with Lego! Build 
- independently or collaboratively using the library legos.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15533825
-URL:https://bccls.libcal.com/event/15533825
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251119T233000Z
-DTEND:20251120T003000Z
-DTSTAMP:20251119T000000Z
-SUMMARY:Teen Crochet Hang Out
-DESCRIPTION:Bring your current project\, or grab a provided pattern and 
- enjoy the good vibes! Grades 6 - 12. Special November Project: Make and 
- crochet with Plarn using recycled plastic!
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15427502
-URL:https://bccls.libcal.com/event/15427502
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251120T190000Z
 DTEND:20251120T213000Z
 DTSTAMP:20251120T000000Z
@@ -1204,6 +1129,20 @@ UID:LibCal-10341-14318331
 URL:https://bccls.libcal.com/event/14318331
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260103T200000Z
+DTEND:20260103T210000Z
+DTSTAMP:20260103T000000Z
+SUMMARY:New Years Teen Reading Party
+DESCRIPTION:Join the reading party! Bring Your Own Book (or choose one from 
+ the library) and enjoy the cozy reading vibes! Hot chocolate will be 
+ served- this program gives you a chance to read with a built in breaks.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-15929048
+URL:https://bccls.libcal.com/event/15929048
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260105T230000Z
 DTEND:20260106T000000Z
 DTSTAMP:20260105T000000Z
@@ -1217,6 +1156,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536462
 URL:https://bccls.libcal.com/event/15536462
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260106T210000Z
+DTEND:20260106T220000Z
+DTSTAMP:20260106T000000Z
+SUMMARY:Tween Scene: New Years Vision Boards
+DESCRIPTION:Get creative and make a vision board for 2026- materials 
+ provided by the library or bring photos you would like to include. Tween 
+ Scene is for anyone ages 9 - 12.\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-15929326
+URL:https://bccls.libcal.com/event/15929326
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260107T180000Z
@@ -1268,6 +1221,21 @@ UID:LibCal-10341-15536288
 URL:https://bccls.libcal.com/event/15536288
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260107T233000Z
+DTEND:20260108T003000Z
+DTSTAMP:20260107T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High school students: Be a library star & help shape teen 
+ services at the library. Earn volunteer hours for attending. \n\nEmail 
+ teens@westorangelibrary.org with any questions- Teen Advisory Group meets 
+ in the library teen space.\n\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-15929178
+URL:https://bccls.libcal.com/event/15929178
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260108T190000Z
 DTEND:20260108T213000Z
 DTSTAMP:20260108T000000Z
@@ -1278,6 +1246,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240541
 URL:https://bccls.libcal.com/event/15240541
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260108T213000Z
+DTEND:20260108T223000Z
+DTSTAMP:20260108T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
+ strategies on how to play better and enjoy chess more. All ages and skill 
+ levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-15929422
+URL:https://bccls.libcal.com/event/15929422
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260109
@@ -1330,6 +1312,19 @@ UID:LibCal-10341-15536463
 URL:https://bccls.libcal.com/event/15536463
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260113T210000Z
+DTEND:20260113T220000Z
+DTSTAMP:20260113T000000Z
+SUMMARY:Tween Lego Build
+DESCRIPTION:Tweens Ages 9 - 12: This is YOUR time to build with Lego! Build 
+ independently or together with the library legos.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-15929391
+URL:https://bccls.libcal.com/event/15929391
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260114T180000Z
 DTEND:20260114T190000Z
 DTSTAMP:20260114T000000Z
@@ -1379,6 +1374,19 @@ UID:LibCal-10341-15536289
 URL:https://bccls.libcal.com/event/15536289
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260115T000000Z
+DTEND:20260115T010000Z
+DTSTAMP:20260114T000000Z
+SUMMARY:Teen Game and Lego Night
+DESCRIPTION:Join us at the library for video games\, board games\, or lego 
+ building. For students in grades 6 - 12: bring your friends!
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15901275
+URL:https://bccls.libcal.com/event/15901275
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260115T190000Z
 DTEND:20260115T213000Z
 DTSTAMP:20260115T000000Z
@@ -1389,6 +1397,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240542
 URL:https://bccls.libcal.com/event/15240542
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260115T213000Z
+DTEND:20260115T223000Z
+DTSTAMP:20260115T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
+ strategies on how to play better and enjoy chess more. All ages and skill 
+ levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16043843
+URL:https://bccls.libcal.com/calendar/westorange/janchessclub
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260116T160000Z
@@ -1479,6 +1501,20 @@ UID:LibCal-10341-15240543
 URL:https://bccls.libcal.com/event/15240543
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260122T213000Z
+DTEND:20260122T223000Z
+DTSTAMP:20260122T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
+ strategies on how to play better and enjoy chess more. All ages and skill 
+ levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16043844
+URL:https://bccls.libcal.com/event/16043844
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T230000Z
 DTEND:20260127T000000Z
 DTSTAMP:20260126T000000Z
@@ -1553,6 +1589,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240544
 URL:https://bccls.libcal.com/event/15240544
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T213000Z
+DTEND:20260129T223000Z
+DTSTAMP:20260129T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
+ strategies on how to play better and enjoy chess more. All ages and skill 
+ levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16043857
+URL:https://bccls.libcal.com/event/16043857
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T230000Z
