@@ -8,44 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251120T190000Z
-DTEND:20251120T213000Z
-DTSTAMP:20251120T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240534
-URL:https://bccls.libcal.com/event/15240534
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T213000Z
-DTEND:20251120T220000Z
-DTSTAMP:20251120T000000Z
-SUMMARY:Super Science
-DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15533712
-URL:https://bccls.libcal.com/event/15533712
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251120T233000Z
-DTEND:20251121T013000Z
-DTSTAMP:20251120T000000Z
-SUMMARY:Adult Game Night
-DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
- some fun & friendly competition. A selection of board games will be 
- available & feel free to bring your own as well.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft, Games
-UID:LibCal-10341-15735634
-URL:https://bccls.libcal.com/event/15735634
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251121T210000Z
 DTEND:20251121T220000Z
 DTSTAMP:20251121T000000Z
