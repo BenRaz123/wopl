@@ -8,18 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251122T200000Z
-DTEND:20251122T213000Z
-DTSTAMP:20251122T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990323
-URL:https://bccls.libcal.com/event/14990323
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251123T190000Z
 DTEND:20251123T210000Z
 DTSTAMP:20251123T000000Z
@@ -1017,8 +1005,9 @@ BEGIN:VEVENT
 DTSTART:20251227T200000Z
 DTEND:20251227T213000Z
 DTSTAMP:20251227T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+SUMMARY:CANCELLED: Learn English
+DESCRIPTION:*This class will not be meeting today.*\n\nDrop in ESL Class 
+ with Instructor Jason Graves
 LOCATION:West Orange - Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1226,6 +1215,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260111T193000Z
+DTEND:20260111T203000Z
+DTSTAMP:20260111T000000Z
+SUMMARY:Splash Lab Experience: Winter Theme Slime Craft
+DESCRIPTION:Join Splash Lab for in making your own top notch slime with 
+ step by step guidance\, giving each and every child a true winter slime 
+ experience. For children 4 .
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15990983
+URL:https://bccls.libcal.com/event/15990983
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260112T153000Z
@@ -1552,6 +1555,22 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
 UID:LibCal-10341-16043857
 URL:https://bccls.libcal.com/event/16043857
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260131T160000Z
+DTEND:20260131T163000Z
+DTSTAMP:20260131T000000Z
+SUMMARY:Sign & Sing with Ms. Desiree
+DESCRIPTION:Join us for a fun and interactive music class that uses sign 
+ language! Learn basic American Sign\nLanguage (ASL) while we sing along to 
+ favorite songs and nursery rhymes. Move your body and\nplay with shaker 
+ eggs. Experience the joy of bubble play while we sing! For toddlers 
+ and\npreschoolers.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16051243
+URL:https://bccls.libcal.com/event/16051243
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260202T230000Z
@@ -3065,6 +3084,23 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034708
 URL:https://bccls.libcal.com/event/16034708
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T190000Z
+DTEND:20261223T210000Z
+DTSTAMP:20261223T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-16034709
+URL:https://bccls.libcal.com/event/16034709
 END:VEVENT
 
 END:VCALENDAR
