@@ -8,44 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251123T190000Z
-DTEND:20251123T210000Z
-DTSTAMP:20251123T000000Z
-SUMMARY:Adult Workshop: Parchment Craft
-DESCRIPTION:with Smriti Sangal of Culture Chauraha\n\nJoin us for a calming 
- and creative Parchment Craft Tealight Holder Workshop\, where you’ll 
- transform translucent parchment paper into a tealight holder with delicate 
- floral or geometric designs. In this two-hour session\, participants will 
- be introduced to the basics of parchment craft\, including tracing\, 
- embossing\, and simple decorative techniques. Using pre-cut templates and 
- guided instruction\, each participant will create their own tealight holder 
- that will be safe for use with LED or real tealights.\n\nBeginners and 
- experienced crafters welcome. This workshop is perfect for anyone looking 
- to unwind\, explore a new technique\, and walk away with a handmade 
- decorative piece that adds warmth and charm to any space.\n\nAll materials 
- will be provided.\n\nRegistration required.\n\n
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15413028
-URL:https://bccls.libcal.com/event/15413028
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251123T200000Z
-DTEND:20251123T210000Z
-DTSTAMP:20251123T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at oneinmath.com
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15168095
-URL:https://bccls.libcal.com/event/15168095
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
 DTSTAMP:20251124T000000Z
@@ -1067,6 +1029,18 @@ UID:LibCal-10341-14318331
 URL:https://bccls.libcal.com/event/14318331
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260102T210000Z
+DTEND:20260102T220000Z
+DTSTAMP:20260102T000000Z
+SUMMARY:Board Games
+DESCRIPTION:Children 3  can play various board games & puzzles.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-15997758
+URL:https://bccls.libcal.com/event/15997758
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260103T200000Z
 DTEND:20260103T210000Z
 DTSTAMP:20260103T000000Z
@@ -1079,6 +1053,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Book Club
 UID:LibCal-10341-15929048
 URL:https://bccls.libcal.com/event/15929048
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260105T210000Z
+DTEND:20260105T220000Z
+DTSTAMP:20260105T000000Z
+SUMMARY:Drop-In Craft: Cork Painted Snowflakes
+DESCRIPTION:Join us to make cork painted snowflakes. For children K-2nd 
+ grade
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15997658
+URL:https://bccls.libcal.com/event/15997658
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260105T230000Z
@@ -1159,6 +1146,19 @@ UID:LibCal-10341-15536288
 URL:https://bccls.libcal.com/event/15536288
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260107T210000Z
+DTEND:20260107T220000Z
+DTSTAMP:20260107T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Explore different stimulating sensory filled stations. For 
+ newborns - 5 years old.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-15997726
+URL:https://bccls.libcal.com/event/15997726
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260107T233000Z
 DTEND:20260108T003000Z
 DTSTAMP:20260107T000000Z
@@ -1217,6 +1217,19 @@ UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260109T210000Z
+DTEND:20260109T220000Z
+DTSTAMP:20260109T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:All ages can come read to a therapy dog and build reading 
+ skills & confidence.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-15997764
+URL:https://bccls.libcal.com/event/15997764
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260111T193000Z
 DTEND:20260111T203000Z
 DTSTAMP:20260111T000000Z
@@ -1249,6 +1262,18 @@ UID:LibCal-10341-15988938
 URL:https://bccls.libcal.com/event/15988938
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260112T210000Z
+DTEND:20260112T220000Z
+DTSTAMP:20260112T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create your own lego creation! For children 6 .
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-15997660
+URL:https://bccls.libcal.com/event/15997660
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260112T230000Z
 DTEND:20260113T000000Z
 DTSTAMP:20260112T000000Z
@@ -1262,6 +1287,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536463
 URL:https://bccls.libcal.com/event/15536463
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260113T160000Z
+DTEND:20260113T163000Z
+DTSTAMP:20260113T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997679
+URL:https://bccls.libcal.com/event/15997679
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260113T210000Z
@@ -1339,6 +1376,18 @@ UID:LibCal-10341-15901275
 URL:https://bccls.libcal.com/event/15901275
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260115T160000Z
+DTEND:20260115T163000Z
+DTSTAMP:20260115T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997738
+URL:https://bccls.libcal.com/event/15997738
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260115T190000Z
 DTEND:20260115T213000Z
 DTSTAMP:20260115T000000Z
@@ -1381,6 +1430,18 @@ UID:LibCal-10341-15892815
 URL:https://bccls.libcal.com/event/15892815
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260116T210000Z
+DTEND:20260116T220000Z
+DTSTAMP:20260116T000000Z
+SUMMARY:Board Games
+DESCRIPTION:Children 3  can play various board games & puzzles.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-15997760
+URL:https://bccls.libcal.com/event/15997760
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 DTSTAMP:20260119T000000Z
@@ -1390,6 +1451,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15873997
 URL:https://bccls.libcal.com/event/15873997
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260120T160000Z
+DTEND:20260120T163000Z
+DTSTAMP:20260120T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997680
+URL:https://bccls.libcal.com/event/15997680
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260121T180000Z
@@ -1441,6 +1514,31 @@ UID:LibCal-10341-15536290
 URL:https://bccls.libcal.com/event/15536290
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260121T210000Z
+DTEND:20260121T220000Z
+DTSTAMP:20260121T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Explore different stimulating sensory filled stations. For 
+ newborns - 5 years old.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-15997762
+URL:https://bccls.libcal.com/event/15997762
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260122T160000Z
+DTEND:20260122T163000Z
+DTSTAMP:20260122T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997739
+URL:https://bccls.libcal.com/event/15997739
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260122T190000Z
 DTEND:20260122T213000Z
 DTSTAMP:20260122T000000Z
@@ -1467,6 +1565,30 @@ UID:LibCal-10341-16043844
 URL:https://bccls.libcal.com/event/16043844
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260123T210000Z
+DTEND:20260123T220000Z
+DTSTAMP:20260123T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:All ages can come read to a therapy dog and build reading 
+ skills & confidence.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-15997765
+URL:https://bccls.libcal.com/event/15997765
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+DTSTAMP:20260126T000000Z
+SUMMARY:Grab & Create: Take Home Craft
+DESCRIPTION:Grab & Create a paper cup polar bear. For children of all ages
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15997662
+URL:https://bccls.libcal.com/event/15997662
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260126T230000Z
 DTEND:20260127T000000Z
 DTSTAMP:20260126T000000Z
@@ -1480,6 +1602,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536465
 URL:https://bccls.libcal.com/event/15536465
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260127T160000Z
+DTEND:20260127T163000Z
+DTSTAMP:20260127T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997681
+URL:https://bccls.libcal.com/event/15997681
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260128T180000Z
@@ -1529,6 +1663,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-15536291
 URL:https://bccls.libcal.com/event/15536291
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260129T160000Z
+DTEND:20260129T163000Z
+DTSTAMP:20260129T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997740
+URL:https://bccls.libcal.com/event/15997740
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260129T190000Z
@@ -1588,6 +1734,18 @@ UID:LibCal-10341-15536466
 URL:https://bccls.libcal.com/event/15536466
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260203T160000Z
+DTEND:20260203T163000Z
+DTSTAMP:20260203T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997682
+URL:https://bccls.libcal.com/event/15997682
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260204T180000Z
 DTEND:20260204T190000Z
 DTSTAMP:20260204T000000Z
@@ -1637,6 +1795,18 @@ UID:LibCal-10341-15536292
 URL:https://bccls.libcal.com/event/15536292
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T160000Z
+DTEND:20260205T163000Z
+DTSTAMP:20260205T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997741
+URL:https://bccls.libcal.com/event/15997741
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260205T190000Z
 DTEND:20260205T213000Z
 DTSTAMP:20260205T000000Z
@@ -1662,6 +1832,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536467
 URL:https://bccls.libcal.com/event/15536467
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260210T160000Z
+DTEND:20260210T163000Z
+DTSTAMP:20260210T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997683
+URL:https://bccls.libcal.com/event/15997683
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260211T180000Z
@@ -1713,6 +1895,18 @@ UID:LibCal-10341-15536293
 URL:https://bccls.libcal.com/event/15536293
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260212T160000Z
+DTEND:20260212T163000Z
+DTSTAMP:20260212T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997742
+URL:https://bccls.libcal.com/event/15997742
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260212T190000Z
 DTEND:20260212T213000Z
 DTSTAMP:20260212T000000Z
@@ -1749,6 +1943,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536468
 URL:https://bccls.libcal.com/event/15536468
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260217T160000Z
+DTEND:20260217T163000Z
+DTSTAMP:20260217T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997684
+URL:https://bccls.libcal.com/event/15997684
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260218T180000Z
@@ -1800,6 +2006,18 @@ UID:LibCal-10341-15536294
 URL:https://bccls.libcal.com/event/15536294
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260219T160000Z
+DTEND:20260219T163000Z
+DTSTAMP:20260219T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997743
+URL:https://bccls.libcal.com/event/15997743
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260219T190000Z
 DTEND:20260219T213000Z
 DTSTAMP:20260219T000000Z
@@ -1825,6 +2043,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536469
 URL:https://bccls.libcal.com/event/15536469
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260224T160000Z
+DTEND:20260224T163000Z
+DTSTAMP:20260224T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997685
+URL:https://bccls.libcal.com/event/15997685
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260225T180000Z
@@ -1876,6 +2106,18 @@ UID:LibCal-10341-15536295
 URL:https://bccls.libcal.com/event/15536295
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260226T160000Z
+DTEND:20260226T163000Z
+DTSTAMP:20260226T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997744
+URL:https://bccls.libcal.com/event/15997744
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260226T190000Z
 DTEND:20260226T213000Z
 DTSTAMP:20260226T000000Z
@@ -1901,6 +2143,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536470
 URL:https://bccls.libcal.com/event/15536470
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260303T160000Z
+DTEND:20260303T163000Z
+DTSTAMP:20260303T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997686
+URL:https://bccls.libcal.com/event/15997686
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T180000Z
@@ -1952,6 +2206,18 @@ UID:LibCal-10341-15536296
 URL:https://bccls.libcal.com/event/15536296
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T160000Z
+DTEND:20260305T163000Z
+DTSTAMP:20260305T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997745
+URL:https://bccls.libcal.com/event/15997745
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T190000Z
 DTEND:20260305T213000Z
 DTSTAMP:20260305T000000Z
@@ -1977,6 +2243,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536471
 URL:https://bccls.libcal.com/event/15536471
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260310T150000Z
+DTEND:20260310T153000Z
+DTSTAMP:20260310T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997687
+URL:https://bccls.libcal.com/event/15997687
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260311T170000Z
@@ -2028,6 +2306,18 @@ UID:LibCal-10341-15536297
 URL:https://bccls.libcal.com/event/15536297
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T150000Z
+DTEND:20260312T153000Z
+DTSTAMP:20260312T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997746
+URL:https://bccls.libcal.com/event/15997746
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T180000Z
 DTEND:20260312T203000Z
 DTSTAMP:20260312T000000Z
@@ -2053,6 +2343,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536472
 URL:https://bccls.libcal.com/event/15536472
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260317T150000Z
+DTEND:20260317T153000Z
+DTSTAMP:20260317T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997688
+URL:https://bccls.libcal.com/event/15997688
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260318T170000Z
@@ -2104,6 +2406,18 @@ UID:LibCal-10341-15536298
 URL:https://bccls.libcal.com/event/15536298
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T150000Z
+DTEND:20260319T153000Z
+DTSTAMP:20260319T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997747
+URL:https://bccls.libcal.com/event/15997747
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T180000Z
 DTEND:20260319T203000Z
 DTSTAMP:20260319T000000Z
@@ -2129,6 +2443,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536473
 URL:https://bccls.libcal.com/event/15536473
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T150000Z
+DTEND:20260324T153000Z
+DTSTAMP:20260324T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997689
+URL:https://bccls.libcal.com/event/15997689
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T170000Z
@@ -2180,6 +2506,18 @@ UID:LibCal-10341-15536299
 URL:https://bccls.libcal.com/event/15536299
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T150000Z
+DTEND:20260326T153000Z
+DTSTAMP:20260326T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997748
+URL:https://bccls.libcal.com/event/15997748
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T180000Z
 DTEND:20260326T203000Z
 DTSTAMP:20260326T000000Z
@@ -2205,6 +2543,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536474
 URL:https://bccls.libcal.com/event/15536474
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260331T150000Z
+DTEND:20260331T153000Z
+DTSTAMP:20260331T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997690
+URL:https://bccls.libcal.com/event/15997690
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T170000Z
@@ -2256,6 +2606,18 @@ UID:LibCal-10341-15536300
 URL:https://bccls.libcal.com/event/15536300
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260402T150000Z
+DTEND:20260402T153000Z
+DTSTAMP:20260402T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997749
+URL:https://bccls.libcal.com/event/15997749
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260402T180000Z
 DTEND:20260402T203000Z
 DTSTAMP:20260402T000000Z
@@ -2279,6 +2641,18 @@ UID:LibCal-10341-15874047
 URL:https://bccls.libcal.com/event/15874047
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260407T150000Z
+DTEND:20260407T153000Z
+DTSTAMP:20260407T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997691
+URL:https://bccls.libcal.com/event/15997691
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260408T180000Z
 DTEND:20260408T200000Z
 DTSTAMP:20260408T000000Z
@@ -2296,6 +2670,18 @@ UID:LibCal-10341-15536301
 URL:https://bccls.libcal.com/event/15536301
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T150000Z
+DTEND:20260409T153000Z
+DTSTAMP:20260409T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997750
+URL:https://bccls.libcal.com/event/15997750
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260409T180000Z
 DTEND:20260409T203000Z
 DTSTAMP:20260409T000000Z
@@ -2306,6 +2692,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240554
 URL:https://bccls.libcal.com/event/15240554
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260414T150000Z
+DTEND:20260414T153000Z
+DTSTAMP:20260414T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997692
+URL:https://bccls.libcal.com/event/15997692
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T180000Z
@@ -2325,6 +2723,18 @@ UID:LibCal-10341-15536302
 URL:https://bccls.libcal.com/event/15536302
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260416T150000Z
+DTEND:20260416T153000Z
+DTSTAMP:20260416T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997751
+URL:https://bccls.libcal.com/event/15997751
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260416T180000Z
 DTEND:20260416T203000Z
 DTSTAMP:20260416T000000Z
@@ -2335,6 +2745,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240555
 URL:https://bccls.libcal.com/event/15240555
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260421T150000Z
+DTEND:20260421T153000Z
+DTSTAMP:20260421T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997693
+URL:https://bccls.libcal.com/event/15997693
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T180000Z
@@ -2354,6 +2776,18 @@ UID:LibCal-10341-15536303
 URL:https://bccls.libcal.com/event/15536303
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260423T150000Z
+DTEND:20260423T153000Z
+DTSTAMP:20260423T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997752
+URL:https://bccls.libcal.com/event/15997752
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260423T180000Z
 DTEND:20260423T203000Z
 DTSTAMP:20260423T000000Z
@@ -2364,6 +2798,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240556
 URL:https://bccls.libcal.com/event/15240556
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260428T150000Z
+DTEND:20260428T153000Z
+DTSTAMP:20260428T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997694
+URL:https://bccls.libcal.com/event/15997694
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T180000Z
@@ -2381,6 +2827,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034675
 URL:https://bccls.libcal.com/event/16034675
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260430T150000Z
+DTEND:20260430T153000Z
+DTSTAMP:20260430T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-15997753
+URL:https://bccls.libcal.com/event/15997753
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260430T180000Z
@@ -3101,6 +3559,17 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034709
 URL:https://bccls.libcal.com/event/16034709
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+DTSTAMP:20261224T000000Z
+SUMMARY:CLOSING @ 1:00 PM
+DESCRIPTION:
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15878386
+URL:https://bccls.libcal.com/event/15878386
 END:VEVENT
 
 END:VCALENDAR
