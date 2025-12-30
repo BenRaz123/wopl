@@ -8,18 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251129T200000Z
-DTEND:20251129T213000Z
-DTSTAMP:20251129T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990324
-URL:https://bccls.libcal.com/event/14990324
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251201T230000Z
 DTEND:20251202T000000Z
 DTSTAMP:20251201T000000Z
@@ -1264,6 +1252,19 @@ UID:LibCal-10341-15536289
 URL:https://bccls.libcal.com/event/15536289
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260114T223000Z
+DTEND:20260114T233000Z
+DTSTAMP:20260114T000000Z
+SUMMARY:Teen Dungeons & Dragons
+DESCRIPTION:Discover the world of D&D with a Game Master.\nFor students in 
+ grades 7-12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-15929251
+URL:https://bccls.libcal.com/event/15929251
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260115T000000Z
 DTEND:20260115T010000Z
 DTSTAMP:20260114T000000Z
@@ -1315,6 +1316,18 @@ UID:LibCal-10341-16043843
 URL:https://bccls.libcal.com/calendar/westorange/janchessclub
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260115T233000Z
+DTEND:20260116T013000Z
+DTSTAMP:20260115T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-15377142
+URL:https://bccls.libcal.com/event/15377142
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260116T160000Z
 DTEND:20260116T170000Z
 DTSTAMP:20260116T000000Z
@@ -1341,6 +1354,33 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
 UID:LibCal-10341-15997760
 URL:https://bccls.libcal.com/event/15997760
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260117T190000Z
+DTEND:20260117T203000Z
+DTSTAMP:20260117T000000Z
+SUMMARY:Decluttering in the New Year
+DESCRIPTION:Maintaining sanity\, organizing\, and decluttering are the core 
+ goals of The Organized Lady. A fresh year\, a new you\n\nPROFESSIONAL 
+ ORGANIZER - DESIGN CONSULTANT - DECOR ENTHUSIAST\n\nWith Lisa Meyerowitz 
+ Nass\n\nFrom an early age\, my passion for assisting others\, my aptitude 
+ for problem-solving\, and my natural aptitude for organizing were evident. 
+ Combine those three magic ingredients and you have the perfect recipe for a 
+ professional organizer.\n\nBefore I decided to take organizing to the next 
+ level\, I held a 20-year career in higher education administration. In 
+ other words\, I successfully completed all tasks assigned to me. Combining 
+ my years of experience and innate childhood abilities\, I started helping 
+ others organize their spaces. Before long\, I took the plunge and launched 
+ my own business.\n\nWhen I am not engaged in organizing and designing homes 
+ for clients\, I enjoy spending quality time with my husband and boys\, 
+ communicating with my lively family through text messages\, and planning 
+ vacations and outings for my family's enjoyment.\n\nThis event will be 
+ presented in the Community room 1
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Class
+UID:LibCal-10341-15542145
+URL:https://bccls.libcal.com/event/15542145
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
@@ -1428,6 +1468,18 @@ UID:LibCal-10341-15997762
 URL:https://bccls.libcal.com/event/15997762
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260121T233000Z
+DTEND:20260122T010000Z
+DTSTAMP:20260121T000000Z
+SUMMARY:Social Security Benefits
+DESCRIPTION:with Neal Damato\, Professional Economic Growth Group \n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-15591660
+URL:https://bccls.libcal.com/event/15591660
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260122T160000Z
 DTEND:20260122T163000Z
 DTSTAMP:20260122T000000Z
@@ -1477,6 +1529,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
 UID:LibCal-10341-15997765
 URL:https://bccls.libcal.com/event/15997765
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260125T190000Z
+DTEND:20260125T203000Z
+DTSTAMP:20260125T000000Z
+SUMMARY:Swingin' Blues
+DESCRIPTION:featuring The FrostKings\n\nFrom the North Jersey region\, the 
+ FrostKings are an ensemble that specializes in R&B\, swing\, and blues. The 
+ FrostKings have performed at numerous festivals and venues in Northern New 
+ Jersey and Southern New York State\, making them well-known to music 
+ enthusiasts. Their repertoire encompasses a wide range of styles\, 
+ including the classic blues of Luther "Guitar Jr." Johnson\, B.B. King\, 
+ Eddie "Clean Head" Vinson\, and Muddy Waters\, as well as the R&B of Jackie 
+ Brenston and Otis Redding. They are equally comfortable playing swinging 
+ shuffles\, slow blues\, or full-tilt boogies. If you are not already a fan 
+ of swing-blues\, you will be after listening to their icy-cold tones. 
+ Therefore\, relax with the FrostKings!
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-15618448
+URL:https://bccls.libcal.com/event/15618448
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260126
@@ -3482,6 +3556,23 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15878746
 URL:https://bccls.libcal.com/event/15878746
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T190000Z
+DTEND:20261230T210000Z
+DTSTAMP:20261230T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-16034710
+URL:https://bccls.libcal.com/event/16034710
 END:VEVENT
 
 END:VCALENDAR
