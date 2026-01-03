@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251202T160000Z
-DTEND:20251202T163000Z
-DTSTAMP:20251202T000000Z
-SUMMARY:Winter Spectacular Storytime
-DESCRIPTION:A winter themed story time filled with rhymes\, music and 
- movement\, & early language development for caregivers & children ages 0-5
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15540934
-URL:https://bccls.libcal.com/event/15540934
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251202T210000Z
-DTEND:20251202T220000Z
-DTSTAMP:20251202T000000Z
-SUMMARY:The Twilight Saga Lego House Build
-DESCRIPTION:Celebrate the 20th anniversary of The Twilight Saga with us by 
- building the iconic Cullen Lego House. For teens ages 12 .
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-15541163
-URL:https://bccls.libcal.com/event/15541163
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251203T180000Z
 DTEND:20251203T190000Z
 DTSTAMP:20251203T000000Z
@@ -929,6 +903,18 @@ UID:LibCal-10341-15929048
 URL:https://bccls.libcal.com/event/15929048
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260103T200000Z
+DTEND:20260103T213000Z
+DTSTAMP:20260103T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094401
+URL:https://bccls.libcal.com/event/16094401
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260105T210000Z
 DTEND:20260105T220000Z
 DTSTAMP:20260105T000000Z
@@ -1102,6 +1088,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
 UID:LibCal-10341-15997764
 URL:https://bccls.libcal.com/event/15997764
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260110T200000Z
+DTEND:20260110T213000Z
+DTSTAMP:20260110T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094402
+URL:https://bccls.libcal.com/event/16094402
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260111T193000Z
@@ -1368,6 +1366,18 @@ UID:LibCal-10341-15542145
 URL:https://bccls.libcal.com/event/15542145
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260117T200000Z
+DTEND:20260117T213000Z
+DTSTAMP:20260117T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094403
+URL:https://bccls.libcal.com/event/16094403
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 DTSTAMP:20260119T000000Z
@@ -1514,6 +1524,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
 UID:LibCal-10341-15997765
 URL:https://bccls.libcal.com/event/15997765
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260124T200000Z
+DTEND:20260124T213000Z
+DTSTAMP:20260124T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094404
+URL:https://bccls.libcal.com/event/16094404
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260125T190000Z
@@ -1679,6 +1701,18 @@ UID:LibCal-10341-16051243
 URL:https://bccls.libcal.com/event/16051243
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260131T200000Z
+DTEND:20260131T213000Z
+DTSTAMP:20260131T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094405
+URL:https://bccls.libcal.com/event/16094405
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260202T230000Z
 DTEND:20260203T000000Z
 DTSTAMP:20260202T000000Z
@@ -1779,6 +1813,18 @@ UID:LibCal-10341-15240545
 URL:https://bccls.libcal.com/event/15240545
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260207T200000Z
+DTEND:20260207T213000Z
+DTSTAMP:20260207T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094406
+URL:https://bccls.libcal.com/event/16094406
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260209T230000Z
 DTEND:20260210T000000Z
 DTSTAMP:20260209T000000Z
@@ -1877,6 +1923,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240546
 URL:https://bccls.libcal.com/event/15240546
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260214T200000Z
+DTEND:20260214T213000Z
+DTSTAMP:20260214T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094407
+URL:https://bccls.libcal.com/event/16094407
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
@@ -1990,6 +2048,18 @@ UID:LibCal-10341-15240547
 URL:https://bccls.libcal.com/event/15240547
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260221T200000Z
+DTEND:20260221T213000Z
+DTSTAMP:20260221T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094408
+URL:https://bccls.libcal.com/event/16094408
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260223T230000Z
 DTEND:20260224T000000Z
 DTSTAMP:20260223T000000Z
@@ -2088,6 +2158,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240548
 URL:https://bccls.libcal.com/event/15240548
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T200000Z
+DTEND:20260228T213000Z
+DTSTAMP:20260228T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094409
+URL:https://bccls.libcal.com/event/16094409
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T230000Z
@@ -2190,6 +2272,18 @@ UID:LibCal-10341-15240549
 URL:https://bccls.libcal.com/event/15240549
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260307T200000Z
+DTEND:20260307T213000Z
+DTSTAMP:20260307T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094410
+URL:https://bccls.libcal.com/event/16094410
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T220000Z
 DTEND:20260309T230000Z
 DTSTAMP:20260309T000000Z
@@ -2288,6 +2382,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240550
 URL:https://bccls.libcal.com/event/15240550
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T190000Z
+DTEND:20260314T203000Z
+DTSTAMP:20260314T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094411
+URL:https://bccls.libcal.com/event/16094411
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260316T220000Z
@@ -2390,6 +2496,18 @@ UID:LibCal-10341-15240551
 URL:https://bccls.libcal.com/event/15240551
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260321T190000Z
+DTEND:20260321T203000Z
+DTSTAMP:20260321T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094412
+URL:https://bccls.libcal.com/event/16094412
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T220000Z
 DTEND:20260323T230000Z
 DTSTAMP:20260323T000000Z
@@ -2490,6 +2608,18 @@ UID:LibCal-10341-15240552
 URL:https://bccls.libcal.com/event/15240552
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260328T190000Z
+DTEND:20260328T203000Z
+DTSTAMP:20260328T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094413
+URL:https://bccls.libcal.com/event/16094413
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T220000Z
 DTEND:20260330T230000Z
 DTSTAMP:20260330T000000Z
@@ -2545,8 +2675,8 @@ DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
 LOCATION:West Orange - Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
-UID:LibCal-10341-15536619
-URL:https://bccls.libcal.com/event/15536619
+UID:LibCal-10341-16094614
+URL:https://bccls.libcal.com/event/16094614
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260401T180000Z
@@ -2601,6 +2731,33 @@ UID:LibCal-10341-15874047
 URL:https://bccls.libcal.com/event/15874047
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260404T190000Z
+DTEND:20260404T203000Z
+DTSTAMP:20260404T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094414
+URL:https://bccls.libcal.com/event/16094414
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260406T220000Z
+DTEND:20260406T230000Z
+DTSTAMP:20260406T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094948
+URL:https://bccls.libcal.com/event/16094948
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260407T150000Z
 DTEND:20260407T153000Z
 DTSTAMP:20260407T000000Z
@@ -2611,6 +2768,38 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-15997691
 URL:https://bccls.libcal.com/event/15997691
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T170000Z
+DTEND:20260408T180000Z
+DTSTAMP:20260408T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094520
+URL:https://bccls.libcal.com/event/16094520
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260408T180000Z
+DTEND:20260408T193000Z
+DTSTAMP:20260408T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094615
+URL:https://bccls.libcal.com/event/16094615
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260408T180000Z
@@ -2654,6 +2843,33 @@ UID:LibCal-10341-15240554
 URL:https://bccls.libcal.com/event/15240554
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260411T190000Z
+DTEND:20260411T203000Z
+DTSTAMP:20260411T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094415
+URL:https://bccls.libcal.com/event/16094415
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260413T220000Z
+DTEND:20260413T230000Z
+DTSTAMP:20260413T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094949
+URL:https://bccls.libcal.com/event/16094949
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260414T150000Z
 DTEND:20260414T153000Z
 DTSTAMP:20260414T000000Z
@@ -2664,6 +2880,38 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-15997692
 URL:https://bccls.libcal.com/event/15997692
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T170000Z
+DTEND:20260415T180000Z
+DTSTAMP:20260415T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094521
+URL:https://bccls.libcal.com/event/16094521
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260415T180000Z
+DTEND:20260415T193000Z
+DTSTAMP:20260415T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094616
+URL:https://bccls.libcal.com/event/16094616
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260415T180000Z
@@ -2707,6 +2955,33 @@ UID:LibCal-10341-15240555
 URL:https://bccls.libcal.com/event/15240555
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260418T190000Z
+DTEND:20260418T203000Z
+DTSTAMP:20260418T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094416
+URL:https://bccls.libcal.com/event/16094416
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260420T220000Z
+DTEND:20260420T230000Z
+DTSTAMP:20260420T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094950
+URL:https://bccls.libcal.com/event/16094950
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260421T150000Z
 DTEND:20260421T153000Z
 DTSTAMP:20260421T000000Z
@@ -2717,6 +2992,38 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-15997693
 URL:https://bccls.libcal.com/event/15997693
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T170000Z
+DTEND:20260422T180000Z
+DTSTAMP:20260422T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094522
+URL:https://bccls.libcal.com/event/16094522
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T180000Z
+DTEND:20260422T193000Z
+DTSTAMP:20260422T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094617
+URL:https://bccls.libcal.com/event/16094617
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T180000Z
@@ -2760,6 +3067,33 @@ UID:LibCal-10341-15240556
 URL:https://bccls.libcal.com/event/15240556
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260425T190000Z
+DTEND:20260425T203000Z
+DTSTAMP:20260425T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094417
+URL:https://bccls.libcal.com/event/16094417
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260427T220000Z
+DTEND:20260427T230000Z
+DTSTAMP:20260427T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094951
+URL:https://bccls.libcal.com/event/16094951
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T150000Z
 DTEND:20260428T153000Z
 DTSTAMP:20260428T000000Z
@@ -2770,6 +3104,38 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-15997694
 URL:https://bccls.libcal.com/event/15997694
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T170000Z
+DTEND:20260429T180000Z
+DTSTAMP:20260429T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094523
+URL:https://bccls.libcal.com/event/16094523
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260429T180000Z
+DTEND:20260429T193000Z
+DTSTAMP:20260429T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094618
+URL:https://bccls.libcal.com/event/16094618
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260429T180000Z
@@ -2813,6 +3179,65 @@ UID:LibCal-10341-15240557
 URL:https://bccls.libcal.com/event/15240557
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260502T190000Z
+DTEND:20260502T203000Z
+DTSTAMP:20260502T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094418
+URL:https://bccls.libcal.com/event/16094418
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T220000Z
+DTEND:20260504T230000Z
+DTSTAMP:20260504T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094952
+URL:https://bccls.libcal.com/event/16094952
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T170000Z
+DTEND:20260506T180000Z
+DTSTAMP:20260506T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094524
+URL:https://bccls.libcal.com/event/16094524
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260506T180000Z
+DTEND:20260506T193000Z
+DTSTAMP:20260506T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094619
+URL:https://bccls.libcal.com/event/16094619
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T180000Z
 DTEND:20260506T200000Z
 DTSTAMP:20260506T000000Z
@@ -2842,6 +3267,65 @@ UID:LibCal-10341-15240558
 URL:https://bccls.libcal.com/event/15240558
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260509T190000Z
+DTEND:20260509T203000Z
+DTSTAMP:20260509T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094419
+URL:https://bccls.libcal.com/event/16094419
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T220000Z
+DTEND:20260511T230000Z
+DTSTAMP:20260511T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094953
+URL:https://bccls.libcal.com/event/16094953
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T170000Z
+DTEND:20260513T180000Z
+DTSTAMP:20260513T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094525
+URL:https://bccls.libcal.com/event/16094525
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T180000Z
+DTEND:20260513T193000Z
+DTSTAMP:20260513T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094620
+URL:https://bccls.libcal.com/event/16094620
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260513T180000Z
 DTEND:20260513T200000Z
 DTSTAMP:20260513T000000Z
@@ -2869,6 +3353,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240559
 URL:https://bccls.libcal.com/event/15240559
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260516T190000Z
+DTEND:20260516T203000Z
+DTSTAMP:20260516T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094420
+URL:https://bccls.libcal.com/event/16094420
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260518T220000Z
+DTEND:20260518T230000Z
+DTSTAMP:20260518T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094954
+URL:https://bccls.libcal.com/event/16094954
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T170000Z
+DTEND:20260520T180000Z
+DTSTAMP:20260520T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094526
+URL:https://bccls.libcal.com/event/16094526
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T180000Z
+DTEND:20260520T193000Z
+DTSTAMP:20260520T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094621
+URL:https://bccls.libcal.com/event/16094621
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260520T180000Z
@@ -2912,6 +3455,65 @@ UID:LibCal-10341-15548592
 URL:https://bccls.libcal.com/event/15548592
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260523T190000Z
+DTEND:20260523T203000Z
+DTSTAMP:20260523T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094421
+URL:https://bccls.libcal.com/event/16094421
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260525T220000Z
+DTEND:20260525T230000Z
+DTSTAMP:20260525T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094955
+URL:https://bccls.libcal.com/event/16094955
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T170000Z
+DTEND:20260527T180000Z
+DTSTAMP:20260527T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094527
+URL:https://bccls.libcal.com/event/16094527
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T180000Z
+DTEND:20260527T193000Z
+DTSTAMP:20260527T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094622
+URL:https://bccls.libcal.com/event/16094622
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T180000Z
 DTEND:20260527T200000Z
 DTSTAMP:20260527T000000Z
@@ -2939,6 +3541,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240561
 URL:https://bccls.libcal.com/event/15240561
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260530T190000Z
+DTEND:20260530T203000Z
+DTSTAMP:20260530T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094422
+URL:https://bccls.libcal.com/event/16094422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260601T220000Z
+DTEND:20260601T230000Z
+DTSTAMP:20260601T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094956
+URL:https://bccls.libcal.com/event/16094956
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T170000Z
+DTEND:20260603T180000Z
+DTSTAMP:20260603T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094528
+URL:https://bccls.libcal.com/event/16094528
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T180000Z
+DTEND:20260603T193000Z
+DTSTAMP:20260603T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094623
+URL:https://bccls.libcal.com/event/16094623
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260603T180000Z
@@ -2970,6 +3631,65 @@ UID:LibCal-10341-15240562
 URL:https://bccls.libcal.com/event/15240562
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260606T190000Z
+DTEND:20260606T203000Z
+DTSTAMP:20260606T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094423
+URL:https://bccls.libcal.com/event/16094423
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260608T220000Z
+DTEND:20260608T230000Z
+DTSTAMP:20260608T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094957
+URL:https://bccls.libcal.com/event/16094957
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T170000Z
+DTEND:20260610T180000Z
+DTSTAMP:20260610T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094529
+URL:https://bccls.libcal.com/event/16094529
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T180000Z
+DTEND:20260610T193000Z
+DTSTAMP:20260610T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094624
+URL:https://bccls.libcal.com/event/16094624
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260610T180000Z
 DTEND:20260610T200000Z
 DTSTAMP:20260610T000000Z
@@ -2985,6 +3705,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034681
 URL:https://bccls.libcal.com/event/16034681
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260613T190000Z
+DTEND:20260613T203000Z
+DTSTAMP:20260613T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094424
+URL:https://bccls.libcal.com/event/16094424
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260615T220000Z
+DTEND:20260615T230000Z
+DTSTAMP:20260615T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094958
+URL:https://bccls.libcal.com/event/16094958
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T170000Z
+DTEND:20260617T180000Z
+DTSTAMP:20260617T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094530
+URL:https://bccls.libcal.com/event/16094530
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T180000Z
+DTEND:20260617T193000Z
+DTSTAMP:20260617T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094625
+URL:https://bccls.libcal.com/event/16094625
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T180000Z
@@ -3004,6 +3783,65 @@ UID:LibCal-10341-16034682
 URL:https://bccls.libcal.com/event/16034682
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260620T190000Z
+DTEND:20260620T203000Z
+DTSTAMP:20260620T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094425
+URL:https://bccls.libcal.com/event/16094425
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T220000Z
+DTEND:20260622T230000Z
+DTSTAMP:20260622T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094959
+URL:https://bccls.libcal.com/event/16094959
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260624T170000Z
+DTEND:20260624T180000Z
+DTSTAMP:20260624T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094531
+URL:https://bccls.libcal.com/event/16094531
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260624T180000Z
+DTEND:20260624T193000Z
+DTSTAMP:20260624T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094626
+URL:https://bccls.libcal.com/event/16094626
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260624T180000Z
 DTEND:20260624T200000Z
 DTSTAMP:20260624T000000Z
@@ -3019,6 +3857,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034683
 URL:https://bccls.libcal.com/event/16034683
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260627T190000Z
+DTEND:20260627T203000Z
+DTSTAMP:20260627T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094426
+URL:https://bccls.libcal.com/event/16094426
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T220000Z
+DTEND:20260629T230000Z
+DTSTAMP:20260629T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094960
+URL:https://bccls.libcal.com/event/16094960
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T170000Z
+DTEND:20260701T180000Z
+DTSTAMP:20260701T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094532
+URL:https://bccls.libcal.com/event/16094532
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260701T180000Z
+DTEND:20260701T193000Z
+DTSTAMP:20260701T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094627
+URL:https://bccls.libcal.com/event/16094627
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260701T180000Z
@@ -3062,6 +3959,65 @@ UID:LibCal-10341-15548591
 URL:https://bccls.libcal.com/event/15548591
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260704T190000Z
+DTEND:20260704T203000Z
+DTSTAMP:20260704T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094913
+URL:https://bccls.libcal.com/event/16094913
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260706T220000Z
+DTEND:20260706T230000Z
+DTSTAMP:20260706T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094961
+URL:https://bccls.libcal.com/event/16094961
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T170000Z
+DTEND:20260708T180000Z
+DTSTAMP:20260708T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094533
+URL:https://bccls.libcal.com/event/16094533
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T180000Z
+DTEND:20260708T193000Z
+DTSTAMP:20260708T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094628
+URL:https://bccls.libcal.com/event/16094628
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260708T180000Z
 DTEND:20260708T200000Z
 DTSTAMP:20260708T000000Z
@@ -3077,6 +4033,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034685
 URL:https://bccls.libcal.com/event/16034685
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260711T190000Z
+DTEND:20260711T203000Z
+DTSTAMP:20260711T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094914
+URL:https://bccls.libcal.com/event/16094914
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260713T220000Z
+DTEND:20260713T230000Z
+DTSTAMP:20260713T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094962
+URL:https://bccls.libcal.com/event/16094962
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260715T170000Z
+DTEND:20260715T180000Z
+DTSTAMP:20260715T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094534
+URL:https://bccls.libcal.com/event/16094534
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260715T180000Z
+DTEND:20260715T193000Z
+DTSTAMP:20260715T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094629
+URL:https://bccls.libcal.com/event/16094629
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260715T180000Z
@@ -3096,6 +4111,65 @@ UID:LibCal-10341-16034686
 URL:https://bccls.libcal.com/event/16034686
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260718T190000Z
+DTEND:20260718T203000Z
+DTSTAMP:20260718T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094915
+URL:https://bccls.libcal.com/event/16094915
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260720T220000Z
+DTEND:20260720T230000Z
+DTSTAMP:20260720T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094963
+URL:https://bccls.libcal.com/event/16094963
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260722T170000Z
+DTEND:20260722T180000Z
+DTSTAMP:20260722T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094535
+URL:https://bccls.libcal.com/event/16094535
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260722T180000Z
+DTEND:20260722T193000Z
+DTSTAMP:20260722T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094630
+URL:https://bccls.libcal.com/event/16094630
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260722T180000Z
 DTEND:20260722T200000Z
 DTSTAMP:20260722T000000Z
@@ -3111,6 +4185,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034687
 URL:https://bccls.libcal.com/event/16034687
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260725T190000Z
+DTEND:20260725T203000Z
+DTSTAMP:20260725T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094916
+URL:https://bccls.libcal.com/event/16094916
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260727T220000Z
+DTEND:20260727T230000Z
+DTSTAMP:20260727T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094964
+URL:https://bccls.libcal.com/event/16094964
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260729T170000Z
+DTEND:20260729T180000Z
+DTSTAMP:20260729T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094536
+URL:https://bccls.libcal.com/event/16094536
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260729T180000Z
+DTEND:20260729T193000Z
+DTSTAMP:20260729T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094631
+URL:https://bccls.libcal.com/event/16094631
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260729T180000Z
@@ -3130,6 +4263,65 @@ UID:LibCal-10341-16034688
 URL:https://bccls.libcal.com/event/16034688
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260801T190000Z
+DTEND:20260801T203000Z
+DTSTAMP:20260801T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094917
+URL:https://bccls.libcal.com/event/16094917
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260803T220000Z
+DTEND:20260803T230000Z
+DTSTAMP:20260803T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094965
+URL:https://bccls.libcal.com/event/16094965
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260805T170000Z
+DTEND:20260805T180000Z
+DTSTAMP:20260805T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094537
+URL:https://bccls.libcal.com/event/16094537
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260805T180000Z
+DTEND:20260805T193000Z
+DTSTAMP:20260805T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094632
+URL:https://bccls.libcal.com/event/16094632
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260805T180000Z
 DTEND:20260805T200000Z
 DTSTAMP:20260805T000000Z
@@ -3145,6 +4337,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034689
 URL:https://bccls.libcal.com/event/16034689
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260808T190000Z
+DTEND:20260808T203000Z
+DTSTAMP:20260808T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094918
+URL:https://bccls.libcal.com/event/16094918
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260810T220000Z
+DTEND:20260810T230000Z
+DTSTAMP:20260810T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094966
+URL:https://bccls.libcal.com/event/16094966
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260812T170000Z
+DTEND:20260812T180000Z
+DTSTAMP:20260812T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094538
+URL:https://bccls.libcal.com/event/16094538
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260812T180000Z
+DTEND:20260812T193000Z
+DTSTAMP:20260812T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094633
+URL:https://bccls.libcal.com/event/16094633
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260812T180000Z
@@ -3164,6 +4415,65 @@ UID:LibCal-10341-16034690
 URL:https://bccls.libcal.com/event/16034690
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260815T190000Z
+DTEND:20260815T203000Z
+DTSTAMP:20260815T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094919
+URL:https://bccls.libcal.com/event/16094919
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260817T220000Z
+DTEND:20260817T230000Z
+DTSTAMP:20260817T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094967
+URL:https://bccls.libcal.com/event/16094967
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260819T170000Z
+DTEND:20260819T180000Z
+DTSTAMP:20260819T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094539
+URL:https://bccls.libcal.com/event/16094539
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260819T180000Z
+DTEND:20260819T193000Z
+DTSTAMP:20260819T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094634
+URL:https://bccls.libcal.com/event/16094634
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260819T180000Z
 DTEND:20260819T200000Z
 DTSTAMP:20260819T000000Z
@@ -3181,6 +4491,65 @@ UID:LibCal-10341-16034691
 URL:https://bccls.libcal.com/event/16034691
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260822T190000Z
+DTEND:20260822T203000Z
+DTSTAMP:20260822T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094920
+URL:https://bccls.libcal.com/event/16094920
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260824T220000Z
+DTEND:20260824T230000Z
+DTSTAMP:20260824T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094968
+URL:https://bccls.libcal.com/event/16094968
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260826T170000Z
+DTEND:20260826T180000Z
+DTSTAMP:20260826T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094540
+URL:https://bccls.libcal.com/event/16094540
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260826T180000Z
+DTEND:20260826T193000Z
+DTSTAMP:20260826T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094635
+URL:https://bccls.libcal.com/event/16094635
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260826T180000Z
 DTEND:20260826T200000Z
 DTSTAMP:20260826T000000Z
@@ -3196,6 +4565,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034692
 URL:https://bccls.libcal.com/event/16034692
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260829T190000Z
+DTEND:20260829T203000Z
+DTSTAMP:20260829T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094921
+URL:https://bccls.libcal.com/event/16094921
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260831T220000Z
+DTEND:20260831T230000Z
+DTSTAMP:20260831T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094969
+URL:https://bccls.libcal.com/event/16094969
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260902T170000Z
+DTEND:20260902T180000Z
+DTSTAMP:20260902T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094541
+URL:https://bccls.libcal.com/event/16094541
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260902T180000Z
+DTEND:20260902T193000Z
+DTSTAMP:20260902T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094636
+URL:https://bccls.libcal.com/event/16094636
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260902T180000Z
@@ -3227,6 +4655,65 @@ UID:LibCal-10341-15548593
 URL:https://bccls.libcal.com/event/15548593
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260905T190000Z
+DTEND:20260905T203000Z
+DTSTAMP:20260905T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094922
+URL:https://bccls.libcal.com/event/16094922
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260907T220000Z
+DTEND:20260907T230000Z
+DTSTAMP:20260907T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094970
+URL:https://bccls.libcal.com/event/16094970
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260909T170000Z
+DTEND:20260909T180000Z
+DTSTAMP:20260909T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094542
+URL:https://bccls.libcal.com/event/16094542
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260909T180000Z
+DTEND:20260909T193000Z
+DTSTAMP:20260909T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094637
+URL:https://bccls.libcal.com/event/16094637
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260909T180000Z
 DTEND:20260909T200000Z
 DTSTAMP:20260909T000000Z
@@ -3242,6 +4729,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034694
 URL:https://bccls.libcal.com/event/16034694
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260912T190000Z
+DTEND:20260912T203000Z
+DTSTAMP:20260912T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094923
+URL:https://bccls.libcal.com/event/16094923
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260914T220000Z
+DTEND:20260914T230000Z
+DTSTAMP:20260914T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094971
+URL:https://bccls.libcal.com/event/16094971
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260916T170000Z
+DTEND:20260916T180000Z
+DTSTAMP:20260916T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094543
+URL:https://bccls.libcal.com/event/16094543
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260916T180000Z
+DTEND:20260916T193000Z
+DTSTAMP:20260916T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094638
+URL:https://bccls.libcal.com/event/16094638
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260916T180000Z
@@ -3261,6 +4807,65 @@ UID:LibCal-10341-16034695
 URL:https://bccls.libcal.com/event/16034695
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260919T190000Z
+DTEND:20260919T203000Z
+DTSTAMP:20260919T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094924
+URL:https://bccls.libcal.com/event/16094924
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260921T220000Z
+DTEND:20260921T230000Z
+DTSTAMP:20260921T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094972
+URL:https://bccls.libcal.com/event/16094972
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260923T170000Z
+DTEND:20260923T180000Z
+DTSTAMP:20260923T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094544
+URL:https://bccls.libcal.com/event/16094544
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260923T180000Z
+DTEND:20260923T193000Z
+DTSTAMP:20260923T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094639
+URL:https://bccls.libcal.com/event/16094639
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260923T180000Z
 DTEND:20260923T200000Z
 DTSTAMP:20260923T000000Z
@@ -3276,6 +4881,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034696
 URL:https://bccls.libcal.com/event/16034696
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260926T190000Z
+DTEND:20260926T203000Z
+DTSTAMP:20260926T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094925
+URL:https://bccls.libcal.com/event/16094925
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260928T220000Z
+DTEND:20260928T230000Z
+DTSTAMP:20260928T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094973
+URL:https://bccls.libcal.com/event/16094973
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T170000Z
+DTEND:20260930T180000Z
+DTSTAMP:20260930T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094545
+URL:https://bccls.libcal.com/event/16094545
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T180000Z
+DTEND:20260930T193000Z
+DTSTAMP:20260930T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094640
+URL:https://bccls.libcal.com/event/16094640
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T180000Z
@@ -3295,6 +4959,65 @@ UID:LibCal-10341-16034697
 URL:https://bccls.libcal.com/event/16034697
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261003T190000Z
+DTEND:20261003T203000Z
+DTSTAMP:20261003T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094926
+URL:https://bccls.libcal.com/event/16094926
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261005T220000Z
+DTEND:20261005T230000Z
+DTSTAMP:20261005T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094974
+URL:https://bccls.libcal.com/event/16094974
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T170000Z
+DTEND:20261007T180000Z
+DTSTAMP:20261007T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094546
+URL:https://bccls.libcal.com/event/16094546
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261007T180000Z
+DTEND:20261007T193000Z
+DTSTAMP:20261007T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094641
+URL:https://bccls.libcal.com/event/16094641
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261007T180000Z
 DTEND:20261007T200000Z
 DTSTAMP:20261007T000000Z
@@ -3310,6 +5033,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034698
 URL:https://bccls.libcal.com/event/16034698
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261010T190000Z
+DTEND:20261010T203000Z
+DTSTAMP:20261010T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094927
+URL:https://bccls.libcal.com/event/16094927
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261012T220000Z
+DTEND:20261012T230000Z
+DTSTAMP:20261012T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094975
+URL:https://bccls.libcal.com/event/16094975
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T170000Z
+DTEND:20261014T180000Z
+DTSTAMP:20261014T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094547
+URL:https://bccls.libcal.com/event/16094547
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T180000Z
+DTEND:20261014T193000Z
+DTSTAMP:20261014T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094642
+URL:https://bccls.libcal.com/event/16094642
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261014T180000Z
@@ -3329,6 +5111,65 @@ UID:LibCal-10341-16034699
 URL:https://bccls.libcal.com/event/16034699
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261017T190000Z
+DTEND:20261017T203000Z
+DTSTAMP:20261017T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094928
+URL:https://bccls.libcal.com/event/16094928
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T220000Z
+DTEND:20261019T230000Z
+DTSTAMP:20261019T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094976
+URL:https://bccls.libcal.com/event/16094976
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T170000Z
+DTEND:20261021T180000Z
+DTSTAMP:20261021T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094548
+URL:https://bccls.libcal.com/event/16094548
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261021T180000Z
+DTEND:20261021T193000Z
+DTSTAMP:20261021T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094643
+URL:https://bccls.libcal.com/event/16094643
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261021T180000Z
 DTEND:20261021T200000Z
 DTSTAMP:20261021T000000Z
@@ -3344,6 +5185,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034700
 URL:https://bccls.libcal.com/event/16034700
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261024T190000Z
+DTEND:20261024T203000Z
+DTSTAMP:20261024T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094929
+URL:https://bccls.libcal.com/event/16094929
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T220000Z
+DTEND:20261026T230000Z
+DTSTAMP:20261026T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094977
+URL:https://bccls.libcal.com/event/16094977
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T170000Z
+DTEND:20261028T180000Z
+DTSTAMP:20261028T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094549
+URL:https://bccls.libcal.com/event/16094549
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261028T180000Z
+DTEND:20261028T193000Z
+DTSTAMP:20261028T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094644
+URL:https://bccls.libcal.com/event/16094644
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261028T180000Z
@@ -3363,6 +5263,65 @@ UID:LibCal-10341-16034701
 URL:https://bccls.libcal.com/event/16034701
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261031T190000Z
+DTEND:20261031T203000Z
+DTSTAMP:20261031T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094930
+URL:https://bccls.libcal.com/event/16094930
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261102T230000Z
+DTEND:20261103T000000Z
+DTSTAMP:20261102T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094978
+URL:https://bccls.libcal.com/event/16094978
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T180000Z
+DTEND:20261104T190000Z
+DTSTAMP:20261104T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094550
+URL:https://bccls.libcal.com/event/16094550
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261104T190000Z
+DTEND:20261104T203000Z
+DTSTAMP:20261104T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094645
+URL:https://bccls.libcal.com/event/16094645
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T190000Z
 DTEND:20261104T210000Z
 DTSTAMP:20261104T000000Z
@@ -3378,6 +5337,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034702
 URL:https://bccls.libcal.com/event/16034702
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261107T200000Z
+DTEND:20261107T213000Z
+DTSTAMP:20261107T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094931
+URL:https://bccls.libcal.com/event/16094931
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261109T230000Z
+DTEND:20261110T000000Z
+DTSTAMP:20261109T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094979
+URL:https://bccls.libcal.com/event/16094979
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T180000Z
+DTEND:20261111T190000Z
+DTSTAMP:20261111T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094551
+URL:https://bccls.libcal.com/event/16094551
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T190000Z
+DTEND:20261111T203000Z
+DTSTAMP:20261111T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094646
+URL:https://bccls.libcal.com/event/16094646
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T190000Z
@@ -3397,6 +5415,65 @@ UID:LibCal-10341-16034703
 URL:https://bccls.libcal.com/event/16034703
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261114T200000Z
+DTEND:20261114T213000Z
+DTSTAMP:20261114T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094932
+URL:https://bccls.libcal.com/event/16094932
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261116T230000Z
+DTEND:20261117T000000Z
+DTSTAMP:20261116T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094980
+URL:https://bccls.libcal.com/event/16094980
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T180000Z
+DTEND:20261118T190000Z
+DTSTAMP:20261118T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094552
+URL:https://bccls.libcal.com/event/16094552
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261118T190000Z
+DTEND:20261118T203000Z
+DTSTAMP:20261118T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094647
+URL:https://bccls.libcal.com/event/16094647
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T190000Z
 DTEND:20261118T210000Z
 DTSTAMP:20261118T000000Z
@@ -3414,6 +5491,33 @@ UID:LibCal-10341-16034704
 URL:https://bccls.libcal.com/event/16034704
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261121T200000Z
+DTEND:20261121T213000Z
+DTSTAMP:20261121T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094933
+URL:https://bccls.libcal.com/event/16094933
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261123T230000Z
+DTEND:20261124T000000Z
+DTSTAMP:20261123T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094981
+URL:https://bccls.libcal.com/event/16094981
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 DTSTAMP:20261125T000000Z
@@ -3423,6 +5527,38 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15877892
 URL:https://bccls.libcal.com/event/15877892
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T180000Z
+DTEND:20261125T190000Z
+DTSTAMP:20261125T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094553
+URL:https://bccls.libcal.com/event/16094553
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261125T190000Z
+DTEND:20261125T203000Z
+DTSTAMP:20261125T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094648
+URL:https://bccls.libcal.com/event/16094648
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261125T190000Z
@@ -3453,6 +5589,65 @@ UID:LibCal-10341-15877894
 URL:https://bccls.libcal.com/event/15877894
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261128T200000Z
+DTEND:20261128T213000Z
+DTSTAMP:20261128T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094934
+URL:https://bccls.libcal.com/event/16094934
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261130T230000Z
+DTEND:20261201T000000Z
+DTSTAMP:20261130T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094982
+URL:https://bccls.libcal.com/event/16094982
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T180000Z
+DTEND:20261202T190000Z
+DTSTAMP:20261202T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094554
+URL:https://bccls.libcal.com/event/16094554
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T190000Z
+DTEND:20261202T203000Z
+DTSTAMP:20261202T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094649
+URL:https://bccls.libcal.com/event/16094649
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261202T190000Z
 DTEND:20261202T210000Z
 DTSTAMP:20261202T000000Z
@@ -3468,6 +5663,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034706
 URL:https://bccls.libcal.com/event/16034706
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T200000Z
+DTEND:20261205T213000Z
+DTSTAMP:20261205T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094935
+URL:https://bccls.libcal.com/event/16094935
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261207T230000Z
+DTEND:20261208T000000Z
+DTSTAMP:20261207T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094984
+URL:https://bccls.libcal.com/event/16094984
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T180000Z
+DTEND:20261209T190000Z
+DTSTAMP:20261209T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094555
+URL:https://bccls.libcal.com/event/16094555
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T190000Z
+DTEND:20261209T203000Z
+DTSTAMP:20261209T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094650
+URL:https://bccls.libcal.com/event/16094650
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261209T190000Z
@@ -3487,6 +5741,65 @@ UID:LibCal-10341-16034707
 URL:https://bccls.libcal.com/event/16034707
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261212T200000Z
+DTEND:20261212T213000Z
+DTSTAMP:20261212T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094936
+URL:https://bccls.libcal.com/event/16094936
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261214T230000Z
+DTEND:20261215T000000Z
+DTSTAMP:20261214T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094985
+URL:https://bccls.libcal.com/event/16094985
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T180000Z
+DTEND:20261216T190000Z
+DTSTAMP:20261216T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094556
+URL:https://bccls.libcal.com/event/16094556
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T190000Z
+DTEND:20261216T203000Z
+DTSTAMP:20261216T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094651
+URL:https://bccls.libcal.com/event/16094651
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261216T190000Z
 DTEND:20261216T210000Z
 DTSTAMP:20261216T000000Z
@@ -3502,6 +5815,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034708
 URL:https://bccls.libcal.com/event/16034708
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T200000Z
+DTEND:20261219T213000Z
+DTSTAMP:20261219T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094937
+URL:https://bccls.libcal.com/event/16094937
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T230000Z
+DTEND:20261222T000000Z
+DTSTAMP:20261221T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094986
+URL:https://bccls.libcal.com/event/16094986
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T180000Z
+DTEND:20261223T190000Z
+DTSTAMP:20261223T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094557
+URL:https://bccls.libcal.com/event/16094557
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T190000Z
+DTEND:20261223T203000Z
+DTSTAMP:20261223T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094652
+URL:https://bccls.libcal.com/event/16094652
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261223T190000Z
@@ -3541,6 +5913,65 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15878746
 URL:https://bccls.libcal.com/event/15878746
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261226T200000Z
+DTEND:20261226T213000Z
+DTSTAMP:20261226T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094938
+URL:https://bccls.libcal.com/event/16094938
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261228T230000Z
+DTEND:20261229T000000Z
+DTSTAMP:20261228T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094987
+URL:https://bccls.libcal.com/event/16094987
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T180000Z
+DTEND:20261230T190000Z
+DTSTAMP:20261230T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-16094558
+URL:https://bccls.libcal.com/event/16094558
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T190000Z
+DTEND:20261230T203000Z
+DTSTAMP:20261230T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16094653
+URL:https://bccls.libcal.com/event/16094653
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T190000Z
