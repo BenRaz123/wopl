@@ -8,55 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251204T160000Z
-DTEND:20251204T163000Z
-DTSTAMP:20251204T000000Z
-SUMMARY:Boogie Woogie Babies
-DESCRIPTION:Join Ms. Tiffany for a dance class filled with singing\, 
- movement & working on fine motor skills.
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Music/Dance
-UID:LibCal-10341-15538749
-URL:https://bccls.libcal.com/event/15538749
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T190000Z
-DTEND:20251204T213000Z
-DTSTAMP:20251204T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240536
-URL:https://bccls.libcal.com/event/15240536
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251204T213000Z
-DTEND:20251204T220000Z
-DTSTAMP:20251204T000000Z
-SUMMARY:Super Science
-DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15700519
-URL:https://bccls.libcal.com/event/15700519
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T000000Z
-DTEND:20251205T020000Z
-DTSTAMP:20251204T000000Z
-SUMMARY:WOPL Board Meeting
-DESCRIPTION:
-LOCATION:West Orange - Off-site
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15630174
-URL:https://bccls.libcal.com/event/15630174
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251205T150000Z
 DTEND:20251207T210000Z
 DTSTAMP:20251205T000000Z
