@@ -24,40 +24,6 @@ UID:LibCal-10341-15413196
 URL:https://bccls.libcal.com/event/15413196
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251205T180000Z
-DTEND:20251205T210000Z
-DTSTAMP:20251205T000000Z
-SUMMARY:First Friday Film: Downton Abbey\, the Grand Finale
-DESCRIPTION:Join us for monthly film screenings held on the first Friday of 
- each month. \n\nLight refreshments provided.\n\n***\n\nDOWNTON ABBEY\, THE 
- GRAND FINALE (2025)\nPG\, 2h 03min\n\nThe cinematic return of the global 
- phenomenon follows the Crawley family and their staff as they enter the 
- 1930s. When Mary finds herself at the center of a public scandal and the 
- family faces financial trouble\, the entire household grapples with the 
- threat of social disgrace. The Crawleys must embrace change as the staff 
- prepares for a new chapter with the next generation leading Downton Abbey 
- into the future.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-13453693
-URL:https://bccls.libcal.com/event/13453693
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251205T210000Z
-DTEND:20251205T220000Z
-DTSTAMP:20251205T000000Z
-SUMMARY:Board Games
-DESCRIPTION:A variety of board games and puzzles will be available to use 
- for children in grades K-5 in the youth services programming room. No 
- registration required.\n\n\n\n\n \n\n\n\n
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-15541237
-URL:https://bccls.libcal.com/event/15541237
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251206T200000Z
 DTEND:20251206T213000Z
 DTSTAMP:20251206T000000Z
