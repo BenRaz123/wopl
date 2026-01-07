@@ -24,18 +24,6 @@ UID:LibCal-10341-15413196
 URL:https://bccls.libcal.com/event/15413196
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20251206T200000Z
-DTEND:20251206T213000Z
-DTSTAMP:20251206T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990325
-URL:https://bccls.libcal.com/event/14990325
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251207T190000Z
 DTEND:20251207T203000Z
 DTSTAMP:20251207T000000Z
@@ -907,12 +895,21 @@ DTSTART;VALUE=DATE:20260109
 DTEND;VALUE=DATE:20260110
 DTSTAMP:20260109T000000Z
 SUMMARY:Revolutionary Lives Exhibit
-DESCRIPTION:Revolutionary Lives: Living the American Experiment Then and 
- Now\, a traveling exhibition designed for communities statewide. Available 
- free of charge\, the exhibit highlights the often overlooked stories of 
- everyday New Jerseyans whose lives\, labor\, and choices shaped the 
- Revolutionary era and continue to inspire civic engagement today.\n\nsix 
- double-sided stretch-fabric banners\, ideal for open gallery-style spaces\,
+DESCRIPTION:The West Orange Public Library will host the RevolutionNJ 
+ traveling exhibit Revolutionary Lives: Living the American Experiment Then 
+ and Now from January 9-22. This engaging experience highlights the often 
+ overlooked stories of everyday New Jerseyans whose lives\, labor\, and 
+ choices shaped the Revolutionary era and continue to inspire civic 
+ engagement today.\n\nNew Jersey's diversity mirrors its Revolutionary 
+ narrative. Like today\, the state was a rich mix of distinct languages\, 
+ religions\, and cultures. Loyalties were roughly divided between those 
+ supporting the Revolution\, those opposed and the rest who were 
+ uncommitted. Allegiances bred bitter division and deep suspicion\, creating 
+ in many ways a civil war.\n\nThe Revolutionary Lives traveling exhibit 
+ explores this tumultuous period through the stories of everyday people 
+ under extraordinary circumstances. They inspire visitors to consider how 
+ their stories echo through time and what can be done to fulfill the 
+ promises and ideals of the American Revolution.\n\nUnited We Stand!
 LOCATION:West Orange - Off-site
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1354,6 +1351,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
 UID:LibCal-10341-16043844
 URL:https://bccls.libcal.com/event/16043844
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260123T000000Z
+DTEND:20260123T020000Z
+DTSTAMP:20260122T000000Z
+SUMMARY:Library Board Meeting
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16123161
+URL:https://bccls.libcal.com/event/16123161
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260123T210000Z
