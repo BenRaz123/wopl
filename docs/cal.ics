@@ -8,46 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251208T160000Z
-DTEND:20251208T180000Z
-DTSTAMP:20251208T000000Z
-SUMMARY:Office of Congresswoman Lamonica McIver- Mobile Office Hours
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15827847
-URL:https://bccls.libcal.com/event/15827847
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T210000Z
-DTEND:20251208T220000Z
-DTSTAMP:20251208T000000Z
-SUMMARY:Drop In Craft: Paper Winter Hats
-DESCRIPTION:Join us for paper winter hat making! For children in grades 
- K-2nd Grade. No registration required.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15540878
-URL:https://bccls.libcal.com/event/15540878
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251208T230000Z
-DTEND:20251209T000000Z
-DTSTAMP:20251208T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15508015
-URL:https://bccls.libcal.com/event/15508015
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251209T160000Z
 DTEND:20251209T163000Z
 DTSTAMP:20251209T000000Z
@@ -852,9 +812,22 @@ UID:LibCal-10341-15929422
 URL:https://bccls.libcal.com/event/15929422
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260109
-DTEND;VALUE=DATE:20260110
+DTSTART:20260109T210000Z
+DTEND:20260109T220000Z
 DTSTAMP:20260109T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:All ages can come read to a therapy dog and build reading 
+ skills & confidence.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-15997764
+URL:https://bccls.libcal.com/event/15997764
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+DTSTAMP:20260110T000000Z
 SUMMARY:Revolutionary Lives Exhibit
 DESCRIPTION:The West Orange Public Library will host the RevolutionNJ 
  traveling exhibit Revolutionary Lives: Living the American Experiment Then 
@@ -876,19 +849,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260109T210000Z
-DTEND:20260109T220000Z
-DTSTAMP:20260109T000000Z
-SUMMARY:Read to a Therapy Dog
-DESCRIPTION:All ages can come read to a therapy dog and build reading 
- skills & confidence.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-15997764
-URL:https://bccls.libcal.com/event/15997764
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260110T200000Z
@@ -1556,7 +1516,7 @@ BEGIN:VEVENT
 DTSTART:20260204T180000Z
 DTEND:20260204T190000Z
 DTSTAMP:20260204T000000Z
-SUMMARY:English Conversation Class
+SUMMARY:English Conversation Class(CANCELLED)
 DESCRIPTION:\n	Join this informal get together for anyone who wants to 
  learn English\, improve their English or just listen to others enjoying 
  English conversation\n	All are welcome\, from any location\, educational 
@@ -1633,7 +1593,7 @@ SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
 LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
+CATEGORIES:ESL
 UID:LibCal-10341-16094406
 URL:https://bccls.libcal.com/event/16094406
 END:VEVENT
@@ -1668,7 +1628,7 @@ BEGIN:VEVENT
 DTSTART:20260211T180000Z
 DTEND:20260211T190000Z
 DTSTAMP:20260211T000000Z
-SUMMARY:English Conversation Class
+SUMMARY:English Conversation Class(CANCELLED)
 DESCRIPTION:\n	Join this informal get together for anyone who wants to 
  learn English\, improve their English or just listen to others enjoying 
  English conversation\n	All are welcome\, from any location\, educational 
@@ -1759,21 +1719,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15874016
 URL:https://bccls.libcal.com/event/15874016
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260216T230000Z
-DTEND:20260217T000000Z
-DTSTAMP:20260216T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536468
-URL:https://bccls.libcal.com/event/15536468
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260217T160000Z
