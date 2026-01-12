@@ -8,60 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251211T160000Z
-DTEND:20251211T170000Z
-DTSTAMP:20251211T000000Z
-SUMMARY:Winter Special Sensory Frenzy
-DESCRIPTION:Discover the magic of learning through play with Exploration 
- Stations. A sensory play program designed to engage toddlers and 
- preschoolers from 1-5 years old in imaginative and educational activities. 
- Promotes early literacy\, cognitive development and more.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-15695207
-URL:https://bccls.libcal.com/event/15695207
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T190000Z
-DTEND:20251211T213000Z
-DTSTAMP:20251211T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240537
-URL:https://bccls.libcal.com/event/15240537
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T213000Z
-DTEND:20251211T220000Z
-DTSTAMP:20251211T000000Z
-SUMMARY:Super Science
-DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15700516
-URL:https://bccls.libcal.com/event/15700516
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251211T230000Z
-DTEND:20251212T013000Z
-DTSTAMP:20251211T000000Z
-SUMMARY:Artist Reception: Lynne Breitfeller
-DESCRIPTION:Meet exhibiting artist Lynne Breitfeller.\n\nLight refreshments 
- provided.\n\nAfter the Fire: Water Damaged by Lynne Breitfeller is on 
- display at the West Orange Public Library from October 29 to December 14\, 
- 2025.\nVisit our Art Exhibit page for more information.
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-15495875
-URL:https://bccls.libcal.com/event/15495875
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251212T160000Z
 DTEND:20251212T170000Z
 DTSTAMP:20251212T000000Z
