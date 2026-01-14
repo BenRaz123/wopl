@@ -8,41 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251213T190000Z
-DTEND:20251213T210000Z
-DTSTAMP:20251213T000000Z
-SUMMARY:Adult Art Workshop: Printmaking
-DESCRIPTION:with Smriti Sangal of Culture Chauraha\n\nJoin us for a fun\, 
- creative afternoon of printmaking\, a versatile and creative art medium 
- that transfers images from one surface to another. In this two-hour 
- session\, participants will be guided through an accessible and 
- easy-to-replicate-at-home method using foam sheets and markers. Foam sheets 
- serve as the printing plates\, allowing artists to carve or draw designs 
- into them easily. These designs are then inked with markers\, and the image 
- is transferred onto paper or fabric by pressing the foam sheet onto the 
- surface. This technique is perfect for all experience levels\, as it 
- requires minimal materials and setup while offering endless possibilities 
- for artistic expression.\n\nAll materials will be provided.\n\nRegistration 
- required. This workshop is designed for adults.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15693380
-URL:https://bccls.libcal.com/event/15693380
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251213T200000Z
-DTEND:20251213T213000Z
-DTSTAMP:20251213T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14990326
-URL:https://bccls.libcal.com/event/14990326
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251214T190000Z
 DTEND:20251214T200000Z
 DTSTAMP:20251214T000000Z
@@ -727,19 +692,6 @@ UID:LibCal-10341-15997679
 URL:https://bccls.libcal.com/event/15997679
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260113T210000Z
-DTEND:20260113T220000Z
-DTSTAMP:20260113T000000Z
-SUMMARY:Tween Lego Build
-DESCRIPTION:Tweens Ages 9 - 12: This is YOUR time to build with Lego! Build 
- independently or together with the library legos.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-15929391
-URL:https://bccls.libcal.com/event/15929391
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260114T180000Z
 DTEND:20260114T190000Z
 DTSTAMP:20260114T000000Z
@@ -932,6 +884,23 @@ UID:LibCal-10341-16094403
 URL:https://bccls.libcal.com/event/16094403
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260118T200000Z
+DTEND:20260118T210000Z
+DTSTAMP:20260118T000000Z
+SUMMARY:One in Math
+DESCRIPTION:\n\nFree K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765196
+URL:https://bccls.libcal.com/event/15765196
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 DTSTAMP:20260119T000000Z
@@ -1020,8 +989,12 @@ BEGIN:VEVENT
 DTSTART:20260121T233000Z
 DTEND:20260122T010000Z
 DTSTAMP:20260121T000000Z
-SUMMARY:Social Security Benefits
-DESCRIPTION:with Neal Damato\, Professional Economic Growth Group \n\n
+SUMMARY:Social Security Benefits: Know your options.
+DESCRIPTION:with Neal Damato\, Professional Economic Growth Group 
+ \n\nSocial Security is a complex and confusing program.\n\nIt is important 
+ to understand how it works and how to maximize your benefits.\n\nWisely 
+ managing your Social Security starts with understanding the facts and 
+ knowing your options.\n\nThis presentation will be held in Community room 1
 LOCATION:West Orange - Community Room 1\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Lecture
@@ -1124,6 +1097,23 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Performance
 UID:LibCal-10341-15618448
 URL:https://bccls.libcal.com/event/15618448
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260125T200000Z
+DTEND:20260125T210000Z
+DTSTAMP:20260125T000000Z
+SUMMARY:One in Math
+DESCRIPTION:\n\nFree K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765198
+URL:https://bccls.libcal.com/event/15765198
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260126
@@ -1669,6 +1659,18 @@ UID:LibCal-10341-15240547
 URL:https://bccls.libcal.com/event/15240547
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260219T230000Z
+DTEND:20260220T010000Z
+DTSTAMP:20260219T000000Z
+SUMMARY:Inspire Her: Network Leadership & Confidence Building
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16198671
+URL:https://bccls.libcal.com/event/16198671
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260221T200000Z
 DTEND:20260221T213000Z
 DTSTAMP:20260221T000000Z
@@ -1807,6 +1809,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240548
 URL:https://bccls.libcal.com/event/15240548
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T230000Z
+DTEND:20260227T010000Z
+DTSTAMP:20260226T000000Z
+SUMMARY:Inspire Her: Network Leadership & Confidence Building
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16198672
+URL:https://bccls.libcal.com/event/16198672
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T200000Z
@@ -1949,6 +1963,18 @@ UID:LibCal-10341-15240549
 URL:https://bccls.libcal.com/event/15240549
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T230000Z
+DTEND:20260306T010000Z
+DTSTAMP:20260305T000000Z
+SUMMARY:Inspire Her: Network Leadership & Confidence Building
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16198673
+URL:https://bccls.libcal.com/event/16198673
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260307T200000Z
 DTEND:20260307T213000Z
 DTSTAMP:20260307T000000Z
@@ -2087,6 +2113,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240550
 URL:https://bccls.libcal.com/event/15240550
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T220000Z
+DTEND:20260313T000000Z
+DTSTAMP:20260312T000000Z
+SUMMARY:Inspire Her: Network Leadership & Confidence Building
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16198674
+URL:https://bccls.libcal.com/event/16198674
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260314T190000Z
@@ -2229,6 +2267,18 @@ UID:LibCal-10341-15240551
 URL:https://bccls.libcal.com/event/15240551
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260319T220000Z
+DTEND:20260320T000000Z
+DTSTAMP:20260319T000000Z
+SUMMARY:Inspire Her: Network Leadership & Confidence Building
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16198675
+URL:https://bccls.libcal.com/event/16198675
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260321T190000Z
 DTEND:20260321T203000Z
 DTSTAMP:20260321T000000Z
@@ -2367,6 +2417,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240552
 URL:https://bccls.libcal.com/event/15240552
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260326T220000Z
+DTEND:20260327T000000Z
+DTSTAMP:20260326T000000Z
+SUMMARY:Inspire Her: Network Leadership & Confidence Building
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16198676
+URL:https://bccls.libcal.com/event/16198676
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T190000Z
