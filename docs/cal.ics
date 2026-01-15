@@ -8,46 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251214T190000Z
-DTEND:20251214T200000Z
-DTSTAMP:20251214T000000Z
-SUMMARY:CANCELLED: Splash Lab Experience: Winter Theme Slime Craft
-DESCRIPTION:Join Splash Lab for in making your own top notch slime with 
- step by step guidance\, giving each and every child a true winter slime 
- experience. For children 4 .
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15698251
-URL:https://bccls.libcal.com/event/15698251
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251214T190000Z
-DTEND:20251214T210000Z
-DTSTAMP:20251214T000000Z
-SUMMARY:CANCELLED- Adult Music: The Works of Duke Ellington and Billy Strayhorn\, featuring Vinnie Cutro on trumpet and Mitch Schechter on piano.
-DESCRIPTION:With Vinny Cultro & Mitch Schechter\n\nThe duo will present the 
- work of the greatest composing duo in American jazz history\, Duke 
- Ellington and Billy Strayhorn. Through musical interpretation and oral 
- presentation—part musical performance and part history lesson—the 
- musicians will showcase samples from the collaboration of Ellington and 
- Strayhorn\, highlighting what made this partnership so remarkable and what 
- continues to delight listeners almost 100 years later.\n\nAbout the 
- Artist\n\nDuring the past 40 years\, Vinnie Cutro (musician\, educator\, 
- and composer) has performed with renowned jazz legends such as Horace 
- Silver\, Buddy Rich\, Lionel Hampton\, Ron Carter\, Aretha Franklin\, Ray 
- Charles\, Barry Manilow\, Blood\, Sweat & Tears\, The Four Tops\, and The 
- Temptations.\n\nHe has traveled extensively around the globe\, performing 
- at jazz festivals and concerts across Europe\, Japan\, Africa\, Canada\, 
- South America\, and the United States.\n\n\n\nThis event will take place in 
- the Community Room 1
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15448271
-URL:https://bccls.libcal.com/event/15448271
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251215T153000Z
 DTEND:20251215T170000Z
 DTSTAMP:20251215T000000Z
@@ -742,12 +702,12 @@ URL:https://bccls.libcal.com/event/15536289
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260114T223000Z
-DTEND:20260114T233000Z
+DTEND:20260115T003000Z
 DTSTAMP:20260114T000000Z
 SUMMARY:Teen Dungeons & Dragons
 DESCRIPTION:Discover the world of D&D with a Game Master.\nFor students in 
  grades 7-12.
-LOCATION:West Orange - Program Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
 UID:LibCal-10341-15929251
@@ -1397,6 +1357,27 @@ UID:LibCal-10341-15240545
 URL:https://bccls.libcal.com/event/15240545
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260206T180000Z
+DTEND:20260206T203000Z
+DTSTAMP:20260206T000000Z
+SUMMARY:First Friday Film: F1
+DESCRIPTION:Join us for monthly film screenings held on the first Friday of 
+ each month. \n\nLight refreshments provided.\n\n***\n\nF1 (2025)\nPG-13\, 
+ 2h 35min\n\nStarring: Brad Pitt\, Damson Idris\, Javier Bardem & Kerry 
+ Condon\nDirected by: Joseph Kosinski\n\n"In the 1990s\, Sonny Hayes was 
+ Formula 1's most promising driver until an accident on the track nearly 
+ ended his career. Thirty years later\, the owner of a struggling Formula 1 
+ team convinces Sonny to return to racing and become the best in the world. 
+ Driving alongside the team's hotshot rookie\, Sonny soon learns that the 
+ road to redemption is not something you can travel alone."  --film 
+ publicity
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15097710
+URL:https://bccls.libcal.com/event/15097710
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260207T200000Z
 DTEND:20260207T213000Z
 DTSTAMP:20260207T000000Z
@@ -1669,6 +1650,22 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16198671
 URL:https://bccls.libcal.com/event/16198671
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260220T160000Z
+DTEND:20260220T170000Z
+DTSTAMP:20260220T000000Z
+SUMMARY:Book Club: Happy Land
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\n\nFebruary Title\n\nHAPPY LAND\nby Dolen Perkins 
+ Valdez\n\nCopies available by the Circulation Desk starting January 
+ 16.\n\n\n\n
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-16198394
+URL:https://bccls.libcal.com/event/16198394
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260221T200000Z
@@ -2125,6 +2122,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16198674
 URL:https://bccls.libcal.com/event/16198674
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260314T140000Z
+DTEND:20260314T210000Z
+DTSTAMP:20260314T000000Z
+SUMMARY:Boots to Business
+DESCRIPTION:Small Business Administration Entrepreneurship Course for 
+ Veterans
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16202844
+URL:https://bccls.libcal.com/event/16202844
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260314T190000Z
