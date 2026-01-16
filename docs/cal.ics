@@ -8,51 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251215T153000Z
-DTEND:20251215T170000Z
-DTSTAMP:20251215T000000Z
-SUMMARY:Adult Craft Studio
-DESCRIPTION:\n\n \n\n \n\nA drop-in crafting space for adults\, led by 
- library staff and volunteers. \n\nLooking for a quick\, satisfying project? 
- Make your own mini pocket journal. \n\nIn the mood for a longer-term 
- project?  Join us in creating altered book art using various crafting 
- techniques. \n\nWe'll supply all the materials you need\, but feel free to 
- bring your own meaningful bits & bobs if you want to incorporate something 
- personal. \n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15693298
-URL:https://bccls.libcal.com/event/15693298
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251215T210000Z
-DTEND:20251215T220000Z
-DTSTAMP:20251215T000000Z
-SUMMARY:Lego Mania
-DESCRIPTION:Come create your own lego creation! For children 6
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-15541271
-URL:https://bccls.libcal.com/event/15541271
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251215T230000Z
-DTEND:20251216T000000Z
-DTSTAMP:20251215T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15508016
-URL:https://bccls.libcal.com/event/15508016
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251216T210000Z
 DTEND:20251216T220000Z
 DTSTAMP:20251216T000000Z
@@ -1232,7 +1187,7 @@ BEGIN:VEVENT
 DTSTART:20260202T150000Z
 DTEND:20260202T190000Z
 DTSTAMP:20260202T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -1273,7 +1228,7 @@ BEGIN:VEVENT
 DTSTART:20260204T150000Z
 DTEND:20260204T190000Z
 DTSTAMP:20260204T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -1333,6 +1288,21 @@ UID:LibCal-10341-15536292
 URL:https://bccls.libcal.com/event/15536292
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260204T233000Z
+DTEND:20260205T003000Z
+DTSTAMP:20260204T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High school students: Be a library star & help shape teen 
+ services at the library. Earn volunteer hours for attending- new members 
+ always welcome! Teen Advisory Group meets in the library teen 
+ space.\n\nEmail teens@westorangelibrary.org \n\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16159154
+URL:https://bccls.libcal.com/event/16159154
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260205T160000Z
 DTEND:20260205T163000Z
 DTSTAMP:20260205T000000Z
@@ -1357,6 +1327,18 @@ UID:LibCal-10341-15240545
 URL:https://bccls.libcal.com/event/15240545
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260205T213000Z
+DTEND:20260205T220000Z
+DTSTAMP:20260205T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16187067
+URL:https://bccls.libcal.com/event/16187067
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260206T180000Z
 DTEND:20260206T203000Z
 DTSTAMP:20260206T000000Z
@@ -1378,6 +1360,21 @@ UID:LibCal-10341-15097710
 URL:https://bccls.libcal.com/event/15097710
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260207T160000Z
+DTEND:20260207T170000Z
+DTSTAMP:20260207T000000Z
+SUMMARY:Rockness Music: Music Lab
+DESCRIPTION:Join the Music Lab with Rockness Music! You’ll get hands-on 
+ experience with real musical instruments and drumming as well as a chance 
+ to move and explore the world of music.\n\nFor children 3-7 years old & 
+ caregivers.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16177121
+URL:https://bccls.libcal.com/event/16177121
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260207T200000Z
 DTEND:20260207T213000Z
 DTSTAMP:20260207T000000Z
@@ -1390,10 +1387,27 @@ UID:LibCal-10341-16094406
 URL:https://bccls.libcal.com/event/16094406
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260208T200000Z
+DTEND:20260208T210000Z
+DTSTAMP:20260208T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765199
+URL:https://bccls.libcal.com/event/15765199
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260209T150000Z
 DTEND:20260209T190000Z
 DTSTAMP:20260209T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -1434,7 +1448,7 @@ BEGIN:VEVENT
 DTSTART:20260211T150000Z
 DTEND:20260211T190000Z
 DTSTAMP:20260211T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -1494,6 +1508,35 @@ UID:LibCal-10341-15536293
 URL:https://bccls.libcal.com/event/15536293
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260211T213000Z
+DTEND:20260211T223000Z
+DTSTAMP:20260211T000000Z
+SUMMARY:Tween Scratch Meetup- Computer Lab
+DESCRIPTION:Do you enjoy creative coding with Scratch ? Join us in the 
+ computer lab to talk and create with other Scratch enthusiasts. Ages 8 - 
+ 12.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16167469
+URL:https://bccls.libcal.com/event/16167469
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260211T223000Z
+DTEND:20260211T233000Z
+DTSTAMP:20260211T000000Z
+SUMMARY:Teen Dungeons & Dragons
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!\n\nSign up at: tinyurl.com/FEB2026WOPLDND
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16186311
+URL:https://bccls.libcal.com/event/16186311
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260212T160000Z
 DTEND:20260212T163000Z
 DTSTAMP:20260212T000000Z
@@ -1516,6 +1559,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240546
 URL:https://bccls.libcal.com/event/15240546
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260212T213000Z
+DTEND:20260212T220000Z
+DTSTAMP:20260212T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16187097
+URL:https://bccls.libcal.com/event/16187097
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260214T200000Z
@@ -1553,10 +1608,25 @@ UID:LibCal-10341-15997684
 URL:https://bccls.libcal.com/event/15997684
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260217T210000Z
+DTEND:20260217T220000Z
+DTSTAMP:20260217T000000Z
+SUMMARY:Tween Scene: Memory Box
+DESCRIPTION:Get creative and customize a memory box to put your favorite 
+ items in- boxes and customizing items provided by the library or bring 
+ photos you would like to include. Tween Scene is for anyone ages 9 - 
+ 12.\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16186345
+URL:https://bccls.libcal.com/event/16186345
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260218T150000Z
 DTEND:20260218T190000Z
 DTSTAMP:20260218T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -1640,6 +1710,18 @@ UID:LibCal-10341-15240547
 URL:https://bccls.libcal.com/event/15240547
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260219T213000Z
+DTEND:20260219T220000Z
+DTSTAMP:20260219T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16187107
+URL:https://bccls.libcal.com/event/16187107
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260219T230000Z
 DTEND:20260220T010000Z
 DTSTAMP:20260219T000000Z
@@ -1668,6 +1750,20 @@ UID:LibCal-10341-16198394
 URL:https://bccls.libcal.com/event/16198394
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260221T190000Z
+DTEND:20260221T200000Z
+DTSTAMP:20260221T000000Z
+SUMMARY:Lunar New Year Stories and Crafts
+DESCRIPTION:Celebrate the Year of the Horse with Stories and Crafts for all 
+ ages! Crafts and Stories led by members of the West Orange High School 
+ Asian Culture Club and United Asian Voices of West Orange.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16188698
+URL:https://bccls.libcal.com/event/16188698
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260221T200000Z
 DTEND:20260221T213000Z
 DTSTAMP:20260221T000000Z
@@ -1680,10 +1776,27 @@ UID:LibCal-10341-16094408
 URL:https://bccls.libcal.com/event/16094408
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260222T200000Z
+DTEND:20260222T210000Z
+DTSTAMP:20260222T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765202
+URL:https://bccls.libcal.com/event/15765202
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260223T150000Z
 DTEND:20260223T190000Z
 DTSTAMP:20260223T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -1721,10 +1834,23 @@ UID:LibCal-10341-15997685
 URL:https://bccls.libcal.com/event/15997685
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260224T210000Z
+DTEND:20260224T220000Z
+DTSTAMP:20260224T000000Z
+SUMMARY:Tween Lego Build
+DESCRIPTION:Tweens Ages 9 - 12: This is YOUR time to build with Lego! Build 
+ independently or together with the library legos.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16186394
+URL:https://bccls.libcal.com/event/16186394
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260225T150000Z
 DTEND:20260225T190000Z
 DTSTAMP:20260225T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -1784,6 +1910,22 @@ UID:LibCal-10341-15536295
 URL:https://bccls.libcal.com/event/15536295
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260226T000000Z
+DTEND:20260226T013000Z
+DTSTAMP:20260225T000000Z
+SUMMARY:Teen Game and Lego Night
+DESCRIPTION:Calling all gamers in grades 6 - 12! Join us at the library for 
+ video games\, board games\, and now lego building-  YOU choose which games 
+ to play. Bring your friends- you can use the library's console or bring 
+ your own. Drop in any time between 6 and 8:30.\n\n \n\nQuestions? 
+ 973-736-0198 ex. 6 or teens@westorangelibrary.org
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16186324
+URL:https://bccls.libcal.com/event/16186324
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260226T160000Z
 DTEND:20260226T163000Z
 DTSTAMP:20260226T000000Z
@@ -1806,6 +1948,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240548
 URL:https://bccls.libcal.com/event/15240548
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260226T213000Z
+DTEND:20260226T220000Z
+DTSTAMP:20260226T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16187112
+URL:https://bccls.libcal.com/event/16187112
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260226T230000Z
@@ -1832,10 +1986,27 @@ UID:LibCal-10341-16094409
 URL:https://bccls.libcal.com/event/16094409
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260301T200000Z
+DTEND:20260301T210000Z
+DTSTAMP:20260301T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765203
+URL:https://bccls.libcal.com/event/15765203
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260302T150000Z
 DTEND:20260302T190000Z
 DTSTAMP:20260302T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -1876,7 +2047,7 @@ BEGIN:VEVENT
 DTSTART:20260304T150000Z
 DTEND:20260304T190000Z
 DTSTAMP:20260304T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -1936,6 +2107,24 @@ UID:LibCal-10341-15536296
 URL:https://bccls.libcal.com/event/15536296
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T230000Z
+DTEND:20260305T000000Z
+DTSTAMP:20260304T000000Z
+SUMMARY:The Penny Power Project
+DESCRIPTION:Financial literacy for kids\, tweens\, and teens taught by 
+ volunteer Jonathan!\n\n \n\nThis fun\, interactive program will explore 
+ budgeting\, saving\, investing\, loans\, the history of money\, the 
+ functions of money\, exchange rates\, and how interest works. Full of hands 
+ on activities that encourage you to apply your learning to real life!\n\n 
+ \n\nThis 2 part series is February 25th and March 4th\, ok to attend only 
+ one week.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16207489
+URL:https://bccls.libcal.com/event/16207489
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T160000Z
 DTEND:20260305T163000Z
 DTSTAMP:20260305T000000Z
@@ -1984,10 +2173,27 @@ UID:LibCal-10341-16094410
 URL:https://bccls.libcal.com/event/16094410
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260308T190000Z
+DTEND:20260308T200000Z
+DTSTAMP:20260308T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765204
+URL:https://bccls.libcal.com/event/15765204
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260309T140000Z
 DTEND:20260309T180000Z
 DTSTAMP:20260309T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2028,7 +2234,7 @@ BEGIN:VEVENT
 DTSTART:20260311T140000Z
 DTEND:20260311T180000Z
 DTSTAMP:20260311T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2149,10 +2355,27 @@ UID:LibCal-10341-16094411
 URL:https://bccls.libcal.com/event/16094411
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260315T190000Z
+DTEND:20260315T200000Z
+DTSTAMP:20260315T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765205
+URL:https://bccls.libcal.com/event/15765205
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260316T140000Z
 DTEND:20260316T180000Z
 DTSTAMP:20260316T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2193,7 +2416,7 @@ BEGIN:VEVENT
 DTSTART:20260318T140000Z
 DTEND:20260318T180000Z
 DTSTAMP:20260318T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2304,7 +2527,7 @@ BEGIN:VEVENT
 DTSTART:20260323T140000Z
 DTEND:20260323T180000Z
 DTSTAMP:20260323T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2345,7 +2568,7 @@ BEGIN:VEVENT
 DTSTART:20260325T140000Z
 DTEND:20260325T180000Z
 DTSTAMP:20260325T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2453,10 +2676,27 @@ UID:LibCal-10341-16094413
 URL:https://bccls.libcal.com/event/16094413
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260329T190000Z
+DTEND:20260329T200000Z
+DTSTAMP:20260329T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765206
+URL:https://bccls.libcal.com/event/15765206
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260330T140000Z
 DTEND:20260330T180000Z
 DTSTAMP:20260330T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2497,7 +2737,7 @@ BEGIN:VEVENT
 DTSTART:20260401T140000Z
 DTEND:20260401T180000Z
 DTSTAMP:20260401T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2607,7 +2847,7 @@ BEGIN:VEVENT
 DTSTART:20260406T140000Z
 DTEND:20260406T180000Z
 DTSTAMP:20260406T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2648,7 +2888,7 @@ BEGIN:VEVENT
 DTSTART:20260408T140000Z
 DTEND:20260408T180000Z
 DTSTAMP:20260408T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2744,10 +2984,27 @@ UID:LibCal-10341-16094415
 URL:https://bccls.libcal.com/event/16094415
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260412T190000Z
+DTEND:20260412T200000Z
+DTSTAMP:20260412T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765229
+URL:https://bccls.libcal.com/event/15765229
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260413T140000Z
 DTEND:20260413T180000Z
 DTSTAMP:20260413T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2788,7 +3045,7 @@ BEGIN:VEVENT
 DTSTART:20260415T140000Z
 DTEND:20260415T180000Z
 DTSTAMP:20260415T000000Z
-SUMMARY:AARP Tax Aide
+SUMMARY:AARP Tax Assistance
 DESCRIPTION:Tax Assistance available on Mondays & 
  Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
  973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
@@ -2882,6 +3139,23 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094416
 URL:https://bccls.libcal.com/event/16094416
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260419T190000Z
+DTEND:20260419T200000Z
+DTSTAMP:20260419T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765248
+URL:https://bccls.libcal.com/event/15765248
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260420T220000Z
@@ -2994,6 +3268,23 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094417
 URL:https://bccls.libcal.com/event/16094417
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260426T190000Z
+DTEND:20260426T200000Z
+DTSTAMP:20260426T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
+ - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-15765249
+URL:https://bccls.libcal.com/event/15765249
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260427T220000Z
