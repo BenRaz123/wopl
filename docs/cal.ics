@@ -8,22 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251216T210000Z
-DTEND:20251216T220000Z
-DTSTAMP:20251216T000000Z
-SUMMARY:Tween Scene: Warriors Celebration
-DESCRIPTION:Are you a fan of Erin Hunter's Warriors? Enjoy cats and 
- interested in this book series with over 100 volumes (and counting)? Join 
- us for the library's first-ever Warriors fans can play create\, discuss\, 
- and play games inspired by the characters and world of Warriors! Ages 9 - 
- 12.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15540754
-URL:https://bccls.libcal.com/event/15540754
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251217T180000Z
 DTEND:20251217T190000Z
 DTSTAMP:20251217T000000Z
@@ -1366,7 +1350,7 @@ DTSTAMP:20260207T000000Z
 SUMMARY:Rockness Music: Music Lab
 DESCRIPTION:Join the Music Lab with Rockness Music! You’ll get hands-on 
  experience with real musical instruments and drumming as well as a chance 
- to move and explore the world of music.\n\nFor children 3-7 years old & 
+ to move and explore the world of music.\n\nFor children 0-5 years old & 
  caregivers.
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -1751,7 +1735,7 @@ URL:https://bccls.libcal.com/event/16198394
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260221T190000Z
-DTEND:20260221T200000Z
+DTEND:20260221T210000Z
 DTSTAMP:20260221T000000Z
 SUMMARY:Lunar New Year Stories and Crafts
 DESCRIPTION:Celebrate the Year of the Horse with Stories and Crafts for all 
@@ -1908,6 +1892,24 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-15536295
 URL:https://bccls.libcal.com/event/15536295
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260225T230000Z
+DTEND:20260226T000000Z
+DTSTAMP:20260225T000000Z
+SUMMARY:The Penny Power Project
+DESCRIPTION:Financial literacy for kids\, tweens\, and teens taught by 
+ volunteer Jonathan!\n\n \n\nThis fun\, interactive program will explore 
+ budgeting\, saving\, investing\, loans\, the history of money\, the 
+ functions of money\, exchange rates\, and how interest works. Full of hands 
+ on activities that encourage you to apply your learning to real life!\n\n 
+ \n\nThis 2 part series is February 25th and March 4th\, ok to attend only 
+ one week.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16207487
+URL:https://bccls.libcal.com/event/16207487
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260226T000000Z
@@ -4253,6 +4255,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094914
 URL:https://bccls.libcal.com/event/16094914
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260713T220000Z
+DTEND:20260713T230000Z
+DTSTAMP:20260713T000000Z
+SUMMARY:Jester Jim Summer Reading Performance (BOOKING BOTH SIDES)
+DESCRIPTION:
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16232418
+URL:https://bccls.libcal.com/event/16232418
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260713T220000Z
