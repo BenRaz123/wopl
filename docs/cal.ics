@@ -8,115 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251217T180000Z
-DTEND:20251217T190000Z
-DTSTAMP:20251217T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	All are welcome\, from any location\, educational 
- experience and background\n	Conversation leader will help everyone practice 
- speaking in English through group social interaction\n	Easy to read books 
- in English will be introduced to improve vocabulary and 
- comprehension\n	Come for a friendly\, lively atmosphere and get to know 
- others who want to gain comfort with English conversatio\n\n\nThis program 
- will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-15526141
-URL:https://bccls.libcal.com/event/15526141
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T190000Z
-DTEND:20251217T203000Z
-DTSTAMP:20251217T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-14965216
-URL:https://bccls.libcal.com/event/14965216
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T190000Z
-DTEND:20251217T210000Z
-DTSTAMP:20251217T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-14830981
-URL:https://bccls.libcal.com/event/14830981
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T210000Z
-DTEND:20251217T220000Z
-DTSTAMP:20251217T000000Z
-SUMMARY:Sensory Frenzy Playtime
-DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
- through various sensory activities.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-15541282
-URL:https://bccls.libcal.com/event/15541282
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251217T233000Z
-DTEND:20251218T010000Z
-DTSTAMP:20251217T000000Z
-SUMMARY:The Routledge History of Italian Americans
-DESCRIPTION:With Professor William Connell\n\nThe editors acknowledge that 
- "Write or be written" is one of the tenets of the Italian American Writers 
- Association. In other words\, it is essential to recognize Italian 
- Americans as the authors of their history. Even so\, everyone should be 
- interested in this history's emotional depth and social and cultural 
- effects.Instead of hagiography\, we are providing a critical perspective 
- and careful analysis of a convoluted trip from corporate office and the 
- Supreme Court to steerage\, discrimination\, and violence\, coupled with a 
- readiness to recognize the challenges and triumphs encountered along the 
- route.\n\nAbout the author.\n\nWilliam J. Connell is Professor of History 
- and holder of the Joseph M. and Geraldine. C. La Motta Chair in Italian 
- Studies at Seton Hall University\, where he was also the Founding Director 
- of the Charles and Joan Alberto Italian Studies Institute.  He has been a 
- Fulbright Scholar\, a Fellow at Villa I Tatti/The Harvard Center for 
- Renaissance Studies\, and a Member of the Institute for Advanced Study\, 
- Princeton.  A specialist in early modern Italy\, he has written\, edited 
- and translated numerous books in Italian and Italian American history\, 
- including La città dei crucci\, Sacrilege and Redemption in Renaissance 
- Florence\, Machiavelli’s Prince\, and Anti-Italianism: Essays on a 
- Prejudice.  He is writing a book called Machiavelli’s Utopia.\n\n 
- \n\nThis program will be held in Community Room 1
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15526112
-URL:https://bccls.libcal.com/event/15526112
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T000000Z
-DTEND:20251218T013000Z
-DTSTAMP:20251217T000000Z
-SUMMARY:Teen Game and Lego Night
-DESCRIPTION:Calling all gamers in grades 6 - 12! Join us at the library for 
- video games\, board games\, and now lego building-  YOU choose which games 
- to play. Bring your friends- you can use the library's console or bring 
- your own. Drop in any time between 6 and 8:30.\n\n \n\nQuestions? 
- 973-736-0198 ex. 6 or teens@westorangelibrary.org
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15427836
-URL:https://bccls.libcal.com/event/15427836
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251218T190000Z
 DTEND:20251218T213000Z
 DTSTAMP:20251218T000000Z
@@ -1182,6 +1073,19 @@ UID:LibCal-10341-15405345
 URL:https://bccls.libcal.com/event/15405345
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260202T210000Z
+DTEND:20260202T220000Z
+DTSTAMP:20260202T000000Z
+SUMMARY:Drop-In Craft: MLK Silhouette Craft
+DESCRIPTION:Join us for making MLK silhouettes for Black History Month! 
+ Suggested for children in grades K-2.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16199002
+URL:https://bccls.libcal.com/event/16199002
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260202T230000Z
 DTEND:20260203T000000Z
 DTSTAMP:20260202T000000Z
@@ -1221,6 +1125,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15405346
 URL:https://bccls.libcal.com/event/15405346
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T160000Z
+DTEND:20260204T164000Z
+DTSTAMP:20260204T000000Z
+SUMMARY:Valentine's Day Music and Movement with Miss Michelle
+DESCRIPTION:Join Miss Michelle from MP Music for some songs about love\, 
+ friendship\, flowers and more in this interactive Valentine’s Day 
+ celebration!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16160918
+URL:https://bccls.libcal.com/event/16160918
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T180000Z
@@ -1270,6 +1188,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-15536292
 URL:https://bccls.libcal.com/event/15536292
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260204T210000Z
+DTEND:20260204T220000Z
+DTSTAMP:20260204T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Explore different stimulating sensory filled stations. For 
+ newborns - 5 years old.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16202614
+URL:https://bccls.libcal.com/event/16202614
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260204T233000Z
@@ -1400,6 +1331,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15405347
 URL:https://bccls.libcal.com/event/15405347
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260209T210000Z
+DTEND:20260209T220000Z
+DTSTAMP:20260209T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create your own lego creation! For children 6
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16199165
+URL:https://bccls.libcal.com/event/16199165
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260209T230000Z
@@ -1555,6 +1498,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16187097
 URL:https://bccls.libcal.com/event/16187097
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260213T210000Z
+DTEND:20260213T220000Z
+DTSTAMP:20260213T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ Registration Required.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16199247
+URL:https://bccls.libcal.com/event/16199247
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260214T200000Z
@@ -1734,6 +1691,20 @@ UID:LibCal-10341-16198394
 URL:https://bccls.libcal.com/event/16198394
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260220T210000Z
+DTEND:20260220T220000Z
+DTSTAMP:20260220T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:Join us for a buddy reading that will build confidence\, 
+ skill\, and more with a trained therapy dog. No registration required. All 
+ ages welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16202295
+URL:https://bccls.libcal.com/event/16202295
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260221T190000Z
 DTEND:20260221T210000Z
 DTSTAMP:20260221T000000Z
@@ -1775,6 +1746,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15765202
 URL:https://bccls.libcal.com/event/15765202
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+DTSTAMP:20260223T000000Z
+SUMMARY:Take Home Craft:  Handprint Groundhogs
+DESCRIPTION:Stop by the Youth Services Department to grab a handprint 
+ groundhog craft to take home and make with a caregiver.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16202467
+URL:https://bccls.libcal.com/event/16202467
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260223T150000Z
@@ -1894,6 +1877,19 @@ UID:LibCal-10341-15536295
 URL:https://bccls.libcal.com/event/15536295
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260225T210000Z
+DTEND:20260225T220000Z
+DTSTAMP:20260225T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Explore different stimulating sensory filled stations. For 
+ newborns - 5 years old.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16202649
+URL:https://bccls.libcal.com/event/16202649
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260225T230000Z
 DTEND:20260226T000000Z
 DTSTAMP:20260225T000000Z
@@ -1974,6 +1970,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16198672
 URL:https://bccls.libcal.com/event/16198672
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260227T210000Z
+DTEND:20260227T220000Z
+DTSTAMP:20260227T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ Registration Required.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16202710
+URL:https://bccls.libcal.com/event/16202710
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T200000Z
