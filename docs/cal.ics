@@ -8,45 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251218T190000Z
-DTEND:20251218T213000Z
-DTSTAMP:20251218T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240538
-URL:https://bccls.libcal.com/event/15240538
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T210000Z
-DTEND:20251218T220000Z
-DTSTAMP:20251218T000000Z
-SUMMARY:Tween Lego Build
-DESCRIPTION:Tweens Ages 9 - 12: This is YOUR time to build with Lego! Build 
- independently or collaboratively using the library legos.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15540849
-URL:https://bccls.libcal.com/event/15540849
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251218T233000Z
-DTEND:20251219T013000Z
-DTSTAMP:20251218T000000Z
-SUMMARY:Adult Game Night
-DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
- some fun & friendly competition. A selection of board games will be 
- available & feel free to bring your own as well.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft, Games
-UID:LibCal-10341-15378232
-URL:https://bccls.libcal.com/event/15378232
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20251219T210000Z
 DTEND:20251219T220000Z
 DTSTAMP:20251219T000000Z
