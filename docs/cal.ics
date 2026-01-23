@@ -8,21 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20251222T230000Z
-DTEND:20251223T000000Z
-DTSTAMP:20251222T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15508017
-URL:https://bccls.libcal.com/event/15508017
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251224
 DTEND;VALUE=DATE:20251225
 DTSTAMP:20251224T000000Z
