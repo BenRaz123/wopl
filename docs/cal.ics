@@ -787,10 +787,21 @@ UID:LibCal-10341-16094404
 URL:https://bccls.libcal.com/event/16094404
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+DTSTAMP:20260125T000000Z
+SUMMARY:CLOSED
+DESCRIPTION:
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16273092
+URL:https://bccls.libcal.com/event/16273092
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260125T190000Z
 DTEND:20260125T203000Z
 DTSTAMP:20260125T000000Z
-SUMMARY:Swingin' Blues
+SUMMARY:Swingin' Blues-CANCELLED LIBRARY CLOSED
 DESCRIPTION:featuring The FrostKings\n\nFrom the North Jersey region\, the 
  FrostKings are an ensemble that specializes in R&B\, swing\, and blues. The 
  FrostKings have performed at numerous festivals and venues in Northern New 
@@ -829,18 +840,18 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
 DTSTAMP:20260126T000000Z
-SUMMARY:Grab & Create: Take Home Craft
-DESCRIPTION:Grab & Create a paper cup polar bear. For children of all ages
+SUMMARY:CLOSED
+DESCRIPTION:
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15997662
-URL:https://bccls.libcal.com/event/15997662
+CATEGORIES:
+UID:LibCal-10341-16273093
+URL:https://bccls.libcal.com/event/16273093
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260126T230000Z
 DTEND:20260127T000000Z
 DTSTAMP:20260126T000000Z
-SUMMARY:Rosetta Stone Language Lab
+SUMMARY:Rosetta Stone Language Lab-CANCELLED LIBRARY CLOSED
 DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
  language learning software is available for free with your library card. 
  Find a program specifically tailored to your learning style and improve 
@@ -850,6 +861,17 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15536465
 URL:https://bccls.libcal.com/event/15536465
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+DTSTAMP:20260127T000000Z
+SUMMARY:Grab & Create: Take Home Craft
+DESCRIPTION:Grab & Create a paper cup polar bear. For children of all ages!
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-15997662
+URL:https://bccls.libcal.com/event/15997662
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260127T160000Z
@@ -2266,8 +2288,12 @@ DTSTART:20260314T140000Z
 DTEND:20260314T210000Z
 DTSTAMP:20260314T000000Z
 SUMMARY:Boots to Business
-DESCRIPTION:Small Business Administration Entrepreneurship Course for 
- Veterans
+DESCRIPTION:About Boots to Business Reboot\nBoots to Business Reboot is an 
+ entrepreneurial education and training\nprogram offered by the U.S. Small 
+ Business Administration (SBA).\nThe course provides an overview of 
+ entrepreneurship and applicable\nbusiness ownership fundamentals. Veterans 
+ of all eras\, Active Duty\nService members (including National Guard and 
+ Reserve) and spouses\nare eligible to participate.\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
