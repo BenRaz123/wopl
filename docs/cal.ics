@@ -8,34 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251229
-DTEND;VALUE=DATE:20251230
-DTSTAMP:20251229T000000Z
-SUMMARY:Grab & Create: Take Home Craft
-DESCRIPTION:Stop by the Youth Services Department to grab a craft to take 
- home and make with a caregiver while supplies last.
-LOCATION:West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15541352
-URL:https://bccls.libcal.com/event/15541352
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20251229T230000Z
-DTEND:20251230T000000Z
-DTSTAMP:20251229T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.\n
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15508018
-URL:https://bccls.libcal.com/event/15508018
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251231
 DTEND;VALUE=DATE:20260101
 DTSTAMP:20251231T000000Z
