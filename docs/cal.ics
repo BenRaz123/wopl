@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260103T200000Z
-DTEND:20260103T210000Z
-DTSTAMP:20260103T000000Z
-SUMMARY:New Years Teen Reading Party
-DESCRIPTION:Join the reading party! Bring Your Own Book (or choose one from 
- the library) and enjoy the cozy reading vibes! Hot chocolate will be 
- served- this program gives you a chance to read with a built in breaks.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Book Club
-UID:LibCal-10341-15929048
-URL:https://bccls.libcal.com/event/15929048
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260103T200000Z
-DTEND:20260103T213000Z
-DTSTAMP:20260103T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094401
-URL:https://bccls.libcal.com/event/16094401
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260105T210000Z
 DTEND:20260105T220000Z
 DTSTAMP:20260105T000000Z
@@ -1672,7 +1646,7 @@ DESCRIPTION:A drop-in crafting space for adults\, led by library staff and
  volunteers. \n\nWe'll supply all the materials you need\, but feel free to 
  bring your own meaningful bits & bobs if you want to incorporate something 
  personal. \n\n
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
+LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
 UID:LibCal-10341-16198114
@@ -2431,6 +2405,66 @@ UID:LibCal-10341-15240551
 URL:https://bccls.libcal.com/event/15240551
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260321T180000Z
+DTEND:20260321T200000Z
+DTSTAMP:20260321T000000Z
+SUMMARY:Women of West Orange During the American Revolution: Divided Loyalties
+DESCRIPTION:A WOPL Program to Commemorate West Orange’s Unique 
+ Revolutionary War History\n\nJoin West Orange Township Historian Joseph 
+ Fagan at the West Orange Public Library on March 21st at 2:00 p.m. as he 
+ peels back the many layers of the town's Revolutionary War past. The 
+ program is presented as part of REV 250 NJ. It is a statewide initiative 
+ commemorating the 250th anniversary of the signing of the Declaration of 
+ Independence by connecting local communities with their own Revolutionary 
+ War stories.\n\nNew Jersey played a central role in the American 
+ Revolution. George Washington spent nearly one-quarter of his time as 
+ General leading troops in New Jersey between 1775 and 1783. But did he ever 
+ visit West Orange?\n\nSeveral accounts suggest he did\, but questions 
+ remain whether these stories represent folklore or myth. What is certain is 
+ that the War left West Orange’s history delicately balanced between 
+ recorded evidence and historical lore.\n\nFagan’s program\, Women of West 
+ Orange During the American Revolution: Divided Loyalties\, will explore the 
+ community’s unique connection to the War for Independence by focusing on 
+ the vital and often overlooked roles played by women who lived in what 
+ would later become West Orange.\n\nThe central focus of the presentation 
+ will be Tory Corner and the Williams family\, whose loyalties were torn 
+ apart by the war. Nathaniel Williams’ decision to side with British 
+ forces in New York left his wife Mary Williams and their four young 
+ children behind. Mary believed in American independence and endured years 
+ of hardship as her family was fractured by ideological division. It pitted 
+ not only husband against wife\, but literally brother against brother 
+ foreshadowing the national divide that would erupt decades later during the 
+ American Civil War. Surviving Williams family artifacts will be on 
+ display.\n\nThe program will also highlight the story of a young girl 
+ Jemima Condict\, who lived in today’s Pleasantdale section of West Orange 
+ during the same period. Her diary\, written between 1772 and 1779\, is 
+ among the most important firsthand accounts of daily life in Revolutionary 
+ War\, New Jersey. Condict recorded the news of the fighting at Lexington 
+ and Concord in her diary when it first reached West Orange. Her entries 
+ reflect the fear\, disruption\, and instability caused by troop movements 
+ in West Orange and nearby communities. A rare 1930 reprint of her diary\, 
+ one of only 500 copies\, will be on display.\n\nWomen also contributed 
+ directly to the war effort by secretly casting lead musket balls for use by 
+ local militia. A marker installed in 1925 by the Daughters of the American 
+ Revolution identifies the site where this dangerous and clandestine work 
+ went undetected by British forces in West Orange. The location is hiding in 
+ plain view and will surprise you.\n\nThe presentation will place these 
+ stories within the broader context of West Orange’s Revolutionary War 
+ history that includes the use of observation posts and signal towers along 
+ the Watchung Mountain range by Washington’s army\, and the service of the 
+ Essex Militia. These men were local citizen soldiers who answered the call 
+ for independence and many of them can be traced directly to living what is 
+ now West Orange.\n\nTogether\, all these stories serve as a powerful 
+ reminder that the fight for freedom was carried forward not only by famous 
+ leaders\, but by ordinary women and men whose courage\, sacrifice\, and 
+ divided loyalties helped shape the nation we know today.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16113347
+URL:https://bccls.libcal.com/event/16113347
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260321T190000Z
 DTEND:20260321T203000Z
 DTSTAMP:20260321T000000Z
@@ -2879,16 +2913,29 @@ UID:LibCal-10341-15240554
 URL:https://bccls.libcal.com/event/15240554
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260409T214500Z
-DTEND:20260409T231500Z
+DTSTART:20260409T220000Z
+DTEND:20260409T230000Z
 DTSTAMP:20260409T000000Z
-SUMMARY:Mat Pilates
-DESCRIPTION:
+SUMMARY:The Lenape: Native Americans\, New Jersey\, and American History
+DESCRIPTION:An exploration of Lenape life and history in recognition of the 
+ 250th anniversary of the American Revolution. Seton Hall University history 
+ professor\, Dr. Sean P. Harvey\, will delve into the rich and complex 
+ history of the Lenape people who inhabited New Jersey during the European 
+ colonization.\n\nPresenter Dr. Sean P. Harvey teaches courses on Colonial 
+ America\, Revolutionary America\, Democracy\, Slavery\, and Manifest 
+ Destiny\, as well as Native American History before Removal. He also 
+ conducts surveys of American history and departmental seminars. He is the 
+ author of Native Tongues: Colonialism and Race from Encounter to the 
+ Reservation and serves on the Editorial Board of Commonplace: The Journal 
+ of Early American Life. Additionally\, he is a member of the Advisory 
+ Council at the McNeil Center for Early American Studies and the Revolution 
+ NJ Scholarly and Public Programs Working Group\, and co-edited Reviews for 
+ Journal of the Early Republic from 2014 to 2017.\n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
-UID:LibCal-10341-16326920
-URL:https://bccls.libcal.com/event/16326920
+UID:LibCal-10341-16337966
+URL:https://bccls.libcal.com/event/16337966
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260411T190000Z
