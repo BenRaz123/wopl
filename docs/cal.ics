@@ -2617,6 +2617,31 @@ UID:LibCal-10341-16094413
 URL:https://bccls.libcal.com/event/16094413
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260329T180000Z
+DTEND:20260329T200000Z
+DTSTAMP:20260329T000000Z
+SUMMARY:Perry Garfinkel Author Talk
+DESCRIPTION:West Orange: The Long View from Bestselling author and former 
+ West Oranger \n\n\n\nLongtime New York Times contributor and bestselling 
+ author Perry Garfinkel moved with his family from Queens\, N.Y.\, to West 
+ Orange in 1953 when he was 6 years old. He moved away in the early 1970s 
+ after graduating from Rutgers and following his first newspaper job at the 
+ Newark Star Ledger. Since then\, he has traveled to 35 countries as a 
+ working journalist\, interviewing everyone from the Dalai Lama to Clint 
+ Eastwood.\n\n But his “origin story” begin in his hometown and he often 
+ comes back to WO to visit his old haunts. Over the last years he has 
+ witnessed demographic shifts in town that he sees as a microcosm of many 
+ suburban metro areas. In this entertaining and compelling afternoon talk\, 
+ he will share his insights and the stories of fascinating people and places 
+ from India to Australian\, Thailand\, China and good ole’ W.O.  Lively 
+ Q&A and book signing to follow.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16275254
+URL:https://bccls.libcal.com/event/16275254
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260329T190000Z
 DTEND:20260329T200000Z
 DTSTAMP:20260329T000000Z
@@ -3292,6 +3317,18 @@ UID:LibCal-10341-16094951
 URL:https://bccls.libcal.com/event/16094951
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260428T130000Z
+DTEND:20260428T180000Z
+DTSTAMP:20260428T000000Z
+SUMMARY:MVC Mobile Unit
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16291550
+URL:https://bccls.libcal.com/event/16291550
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260428T150000Z
 DTEND:20260428T153000Z
 DTSTAMP:20260428T000000Z
@@ -3811,18 +3848,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094422
 URL:https://bccls.libcal.com/event/16094422
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260531T170000Z
-DTEND:20260531T204500Z
-DTSTAMP:20260531T000000Z
-SUMMARY:Piano Recital
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16327267
-URL:https://bccls.libcal.com/event/16327267
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T220000Z
