@@ -8,34 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260105T210000Z
-DTEND:20260105T220000Z
-DTSTAMP:20260105T000000Z
-SUMMARY:Drop-In Craft: Cork Painted Snowflakes
-DESCRIPTION:Join us to make cork painted snowflakes. For children K-2nd 
- grade
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15997658
-URL:https://bccls.libcal.com/event/15997658
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260105T230000Z
-DTEND:20260106T000000Z
-DTSTAMP:20260105T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536462
-URL:https://bccls.libcal.com/event/15536462
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260106T210000Z
 DTEND:20260106T220000Z
 DTSTAMP:20260106T000000Z
@@ -1389,15 +1361,19 @@ UID:LibCal-10341-16094407
 URL:https://bccls.libcal.com/event/16094407
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260215T180000Z
-DTEND:20260215T210000Z
+DTSTART:20260215T190000Z
+DTEND:20260215T213000Z
 DTSTAMP:20260215T000000Z
-SUMMARY:Nubian Quilters Guild Demonstration
-DESCRIPTION:Quilting Techniques Demonstrations on Hand Applique\, Fabric 
- Transfer and Collage\n\n
-LOCATION:West Orange - Community Room 1
+SUMMARY:Quilting Demonstration
+DESCRIPTION: \nwith the Nubian Heritage Quilters Guild\n\nLearn 
+ hand-appliqué\, fabric transfer\, and other quilting techniques from our 
+ exhibiting artists\, the Nubian Heritage Quilters Guild. \n\nDrop in at any 
+ time during the program. \nLearn more about the Nubian Heritage Quilters 
+ Guild’s exhibit\, Shine My Crown\, on exhibit at the West Orange Public 
+ Library from February 1 to February 28\, 2026. \n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
+CATEGORIES:Craft
 UID:LibCal-10341-16253800
 URL:https://bccls.libcal.com/event/16253800
 END:VEVENT
@@ -1880,7 +1856,7 @@ BEGIN:VEVENT
 DTSTART:20260228T190000Z
 DTEND:20260228T203000Z
 DTSTAMP:20260228T000000Z
-SUMMARY:Swingin' Blues with the Frost Kings
+SUMMARY:"Swingin' Blues with the Frost Kings
 DESCRIPTION:featuring The FrostKings\n\nFrom the North Jersey region\, the 
  FrostKings are an ensemble that specializes in R&B\, swing\, and blues. The 
  FrostKings have performed at numerous festivals and venues in Northern New 
@@ -1890,7 +1866,7 @@ DESCRIPTION:featuring The FrostKings\n\nFrom the North Jersey region\, the
  Eddie "Clean Head" Vinson\, and Muddy Waters\, as well as the R&B of Jackie 
  Brenston and Otis Redding. They are equally comfortable playing swinging 
  shuffles\, slow blues\, or full-tilt boogies. If you are not already a fan 
- of swing-blues\, you will be after listening to their icy-cold tones. 
+ of swing-blues\, listening to their icy-cold tones will change that. 
  Therefore\, relax with the FrostKings!
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
