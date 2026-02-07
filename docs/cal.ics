@@ -8,20 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260106T210000Z
-DTEND:20260106T220000Z
-DTSTAMP:20260106T000000Z
-SUMMARY:Tween Scene: New Years Vision Boards
-DESCRIPTION:Get creative and make a vision board for 2026- materials 
- provided by the library or bring photos you would like to include. Tween 
- Scene is for anyone ages 9 - 12.\n\n
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-15929326
-URL:https://bccls.libcal.com/event/15929326
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260107T180000Z
 DTEND:20260107T190000Z
 DTSTAMP:20260107T000000Z
@@ -1571,6 +1557,18 @@ UID:LibCal-10341-16094408
 URL:https://bccls.libcal.com/event/16094408
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260222T180000Z
+DTEND:20260222T213000Z
+DTSTAMP:20260222T000000Z
+SUMMARY:WOAHO Black History Month
+DESCRIPTION:WO African Heritage Organization\n\nco-sponsored by WOPL
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16147867
+URL:https://bccls.libcal.com/event/16147867
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260222T200000Z
 DTEND:20260222T210000Z
 DTSTAMP:20260222T000000Z
@@ -2597,20 +2595,23 @@ DTSTART:20260329T180000Z
 DTEND:20260329T200000Z
 DTSTAMP:20260329T000000Z
 SUMMARY:Perry Garfinkel Author Talk
-DESCRIPTION:West Orange: The Long View from Bestselling author and former 
- West Oranger \n\n\n\nLongtime New York Times contributor and bestselling 
- author Perry Garfinkel moved with his family from Queens\, N.Y.\, to West 
- Orange in 1953 when he was 6 years old. He moved away in the early 1970s 
- after graduating from Rutgers and following his first newspaper job at the 
- Newark Star Ledger. Since then\, he has traveled to 35 countries as a 
- working journalist\, interviewing everyone from the Dalai Lama to Clint 
- Eastwood.\n\n But his “origin story” begin in his hometown and he often 
+DESCRIPTION:Longtime New York Times contributor and bestselling author 
+ Perry Garfinkel moved with his family from Queens\, N.Y.\, to West Orange 
+ in 1954 when he was 6 years old. He moved away in the early 1970s after 
+ graduating from Rutgers and following his first newspaper job at the Newark 
+ Star Ledger. Since then\, he has traveled to 35 countries as a working 
+ journalist\, interviewing everyone from the Dalai Lama to Clint Eastwood. 
+ Publishers Weekly included his most recent book among the top 10 in the 
+ spirituality genre in 2024: "Becoming Gandhi: My Experiment Living the 
+ Mahatma's 6 Moral Truths in Immoral Times" (Sounds True Publishing)\, with 
+ Foreword by the Dalai Lama. The research took him to India\, UK and South 
+ Africa.\n\nBut his “origin story” begins in his hometown and he often 
  comes back to WO to visit his old haunts. Over the last years he has 
  witnessed demographic shifts in town that he sees as a microcosm of many 
- suburban metro areas. In this entertaining and compelling afternoon talk\, 
- he will share his insights and the stories of fascinating people and places 
- from India to Australian\, Thailand\, China and good ole’ W.O.  Lively 
- Q&A and book signing to follow.
+ suburban metro areas. In this entertaining and informative talk\, he will 
+ share his insights and the stories of fascinating people and places around 
+ the world and good ole’ W.O.  Lively Q&A and book signing to follow. 
+ https://perrygarfinkel.com
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
