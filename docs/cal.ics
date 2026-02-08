@@ -8,83 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260107T180000Z
-DTEND:20260107T190000Z
-DTSTAMP:20260107T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	All are welcome\, from any location\, educational 
- experience and background\n	Conversation leader will help everyone practice 
- speaking in English through group social interaction\n	Easy to read books 
- in English will be introduced to improve vocabulary and 
- comprehension\n	Come for a friendly\, lively atmosphere and get to know 
- others who want to gain comfort with English conversatio\n\n\nThis program 
- will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-15536565
-URL:https://bccls.libcal.com/event/15536565
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T190000Z
-DTEND:20260107T203000Z
-DTSTAMP:20260107T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536607
-URL:https://bccls.libcal.com/event/15536607
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T190000Z
-DTEND:20260107T210000Z
-DTSTAMP:20260107T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-15536288
-URL:https://bccls.libcal.com/event/15536288
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T210000Z
-DTEND:20260107T220000Z
-DTSTAMP:20260107T000000Z
-SUMMARY:Sensory Frenzy Playtime
-DESCRIPTION:Explore different stimulating sensory filled stations. For 
- newborns - 5 years old.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-15997726
-URL:https://bccls.libcal.com/event/15997726
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260107T233000Z
-DTEND:20260108T003000Z
-DTSTAMP:20260107T000000Z
-SUMMARY:Teen Advisory Group
-DESCRIPTION:High school students: Be a library star & help shape teen 
- services at the library. Earn volunteer hours for attending. \n\nEmail 
- teens@westorangelibrary.org with any questions- Teen Advisory Group meets 
- in the library teen space.\n\n\n
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-15929178
-URL:https://bccls.libcal.com/event/15929178
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260108T190000Z
 DTEND:20260108T213000Z
 DTSTAMP:20260108T000000Z
@@ -1081,7 +1004,7 @@ BEGIN:VEVENT
 DTSTART:20260207T200000Z
 DTEND:20260207T213000Z
 DTSTAMP:20260207T000000Z
-SUMMARY:Learn English
+SUMMARY:Learn English(CANCELLED)
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
 LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -1338,7 +1261,7 @@ BEGIN:VEVENT
 DTSTART:20260214T200000Z
 DTEND:20260214T213000Z
 DTSTAMP:20260214T000000Z
-SUMMARY:Learn English
+SUMMARY:Drop in ESL Class with Instructor Jason Graves
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
 LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -1876,11 +1799,11 @@ BEGIN:VEVENT
 DTSTART:20260228T200000Z
 DTEND:20260228T213000Z
 DTSTAMP:20260228T000000Z
-SUMMARY:Learn English
+SUMMARY:Drop in ESL Class with Instructor Jason Graves
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
 LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
+CATEGORIES:ESL
 UID:LibCal-10341-16094409
 URL:https://bccls.libcal.com/event/16094409
 END:VEVENT
