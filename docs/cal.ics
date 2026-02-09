@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260108T190000Z
-DTEND:20260108T213000Z
-DTSTAMP:20260108T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240541
-URL:https://bccls.libcal.com/event/15240541
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260108T213000Z
-DTEND:20260108T223000Z
-DTSTAMP:20260108T000000Z
-SUMMARY:Chess Club
-DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
- strategies on how to play better and enjoy chess more. All ages and skill 
- levels welcome.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-15929422
-URL:https://bccls.libcal.com/event/15929422
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260109T210000Z
 DTEND:20260109T220000Z
 DTSTAMP:20260109T000000Z
