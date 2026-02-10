@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260109T210000Z
-DTEND:20260109T220000Z
-DTSTAMP:20260109T000000Z
-SUMMARY:Read to a Therapy Dog
-DESCRIPTION:All ages can come read to a therapy dog and build reading 
- skills & confidence.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-15997764
-URL:https://bccls.libcal.com/event/15997764
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260110
 DTEND;VALUE=DATE:20260111
 DTSTAMP:20260110T000000Z
@@ -1435,7 +1422,7 @@ SUMMARY:Lunar New Year Stories and Crafts
 DESCRIPTION:Celebrate the Year of the Horse with Stories and Crafts for all 
  ages! Crafts and Stories led by members of the West Orange High School 
  Asian Culture Club and United Asian Voices of West Orange.
-LOCATION:West Orange - Community Room 1
+LOCATION:West Orange - Program Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16188698
@@ -2492,23 +2479,26 @@ DTSTART:20260329T180000Z
 DTEND:20260329T200000Z
 DTSTAMP:20260329T000000Z
 SUMMARY:Perry Garfinkel Author Talk
-DESCRIPTION:Longtime New York Times contributor and bestselling author 
- Perry Garfinkel moved with his family from Queens\, N.Y.\, to West Orange 
- in 1954 when he was 6 years old. He moved away in the early 1970s after 
- graduating from Rutgers and following his first newspaper job at the Newark 
- Star Ledger. Since then\, he has traveled to 35 countries as a working 
- journalist\, interviewing everyone from the Dalai Lama to Clint Eastwood. 
- Publishers Weekly included his most recent book among the top 10 in the 
- spirituality genre in 2024: "Becoming Gandhi: My Experiment Living the 
- Mahatma's 6 Moral Truths in Immoral Times" (Sounds True Publishing)\, with 
- Foreword by the Dalai Lama. The research took him to India\, UK and South 
- Africa.\n\nBut his “origin story” begins in his hometown and he often 
- comes back to WO to visit his old haunts. Over the last years he has 
+DESCRIPTION: \n\n\nLongtime New York Times contributor and bestselling 
+ author Perry Garfinkel moved with his family from Queens\, N.Y.\, to West 
+ Orange in 1954 when he was 6 years old. He moved away in the early 1970s 
+ after graduating from Rutgers and following his first newspaper job at the 
+ Newark Star Ledger. Since then\, he has traveled to 35 countries as a 
+ working journalist\, interviewing everyone from the Dalai Lama to Clint 
+ Eastwood. \n\nPublishers Weekly included his most recent book among the top 
+ 10 of 2024 in the spirituality genre: Becoming Gandhi: My Experiment Living 
+ the Mahatma's 6 Moral Truths in Immoral Times (Sounds True Publishing)\, 
+ with Foreword by the Dalai Lama. The research took him to India\, UK and 
+ South Africa\; it's now published in 5 countries. His previous book\, 
+ Buddha or Bust: In Search of Truth\, Meaning\, Happiness and the Man Who 
+ Found Them All (Crown Harmony\, 2006-7)\, was a national bestseller: 
+ \n\nBut his “origin story” begins in his hometown and he often comes 
+ back to West Orange to visit his old haunts. Over the last years he has 
  witnessed demographic shifts in town that he sees as a microcosm of many 
- suburban metro areas. In this entertaining and informative talk\, he will 
- share his insights and the stories of fascinating people and places around 
- the world and good ole’ W.O.  Lively Q&A and book signing to follow. 
- https://perrygarfinkel.com
+ suburban metro areas. In this entertaining and informative talk\, he shares 
+ insights and stories of fascinating people and places around the 
+ world...and good ole’ WO.\n\n Lively Q&A and book signing to follow. 
+ https://perrygarfinkel.com \n\n\n \n\n \n\n \n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -2844,7 +2834,7 @@ SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
 LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
+CATEGORIES:ESL
 UID:LibCal-10341-16094415
 URL:https://bccls.libcal.com/event/16094415
 END:VEVENT
