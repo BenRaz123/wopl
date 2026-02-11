@@ -34,18 +34,6 @@ UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260110T200000Z
-DTEND:20260110T213000Z
-DTSTAMP:20260110T000000Z
-SUMMARY:Learn English(CANCELLED)
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094402
-URL:https://bccls.libcal.com/event/16094402
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260111T193000Z
 DTEND:20260111T203000Z
 DTSTAMP:20260111T000000Z
@@ -3627,6 +3615,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094955
 URL:https://bccls.libcal.com/event/16094955
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260527T130000Z
+DTEND:20260527T200000Z
+DTSTAMP:20260527T000000Z
+SUMMARY:AARP Smart Driver Course
+DESCRIPTION:$20 for AARP members\n\n$25 for non-membersTo register\, 
+ call\n\nJohn J. Vajda\nAARP Driver Safety Instructor\n973-239-6914\n\nIf no 
+ answer\, please leave name and call\nback number
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16394584
+URL:https://bccls.libcal.com/event/16394584
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260527T170000Z
