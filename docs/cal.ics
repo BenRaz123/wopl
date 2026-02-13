@@ -34,51 +34,6 @@ UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260112T153000Z
-DTEND:20260112T170000Z
-DTSTAMP:20260112T000000Z
-SUMMARY:Adult Craft Studio
-DESCRIPTION:\n\n \n\n \n\nA drop-in crafting space for adults\, led by 
- library staff and volunteers. \n\nLooking for a quick\, satisfying project? 
- Make your own mini pocket journal. \n\nIn the mood for a longer-term 
- project?  Join us in creating altered book art using various crafting 
- techniques. \n\nWe'll supply all the materials you need\, but feel free to 
- bring your own meaningful bits & bobs if you want to incorporate something 
- personal. \n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15988938
-URL:https://bccls.libcal.com/event/15988938
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T210000Z
-DTEND:20260112T220000Z
-DTSTAMP:20260112T000000Z
-SUMMARY:Lego Mania
-DESCRIPTION:Come create your own lego creation! For children 6 .
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-15997660
-URL:https://bccls.libcal.com/event/15997660
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260112T230000Z
-DTEND:20260113T000000Z
-DTSTAMP:20260112T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536463
-URL:https://bccls.libcal.com/event/15536463
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260113T160000Z
 DTEND:20260113T163000Z
 DTSTAMP:20260113T000000Z
@@ -2063,6 +2018,21 @@ UID:LibCal-10341-15240550
 URL:https://bccls.libcal.com/event/15240550
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260313T150000Z
+DTEND:20260313T160000Z
+DTSTAMP:20260313T000000Z
+SUMMARY:Book Club: Lincoln in the Bardo
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\n\nMarch Title\n\nLINCOLN IN THE BARDO\nby George 
+ Saunders\n\nCopies available by the Circulation Desk starting February 18.
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-16198435
+URL:https://bccls.libcal.com/event/16198435
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260314T140000Z
 DTEND:20260314T210000Z
 DTSTAMP:20260314T000000Z
@@ -2072,7 +2042,8 @@ DESCRIPTION:About Boots to Business Reboot\nBoots to Business Reboot is an
  Business Administration (SBA).\nThe course provides an overview of 
  entrepreneurship and applicable\nbusiness ownership fundamentals. Veterans 
  of all eras\, Active Duty\nService members (including National Guard and 
- Reserve) and spouses\nare eligible to participate.\n
+ Reserve) and spouses\nare eligible to participate.\nRegister here: 
+ https://www.mcnultycenter.org/event/in-person-boots-to-business-reboot-west-orange-nj/
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -2247,48 +2218,48 @@ DESCRIPTION:A WOPL Program to Commemorate West Orange’s Unique
  peels back the many layers of the town's Revolutionary War past. The 
  program is presented as part of REV 250 NJ. It is a statewide initiative 
  commemorating the 250th anniversary of the signing of the Declaration of 
- Independence by connecting local communities with their own Revolutionary 
- War stories.\n\nNew Jersey played a central role in the American 
- Revolution. George Washington spent nearly one-quarter of his time as 
- General leading troops in New Jersey between 1775 and 1783. But did he ever 
- visit West Orange?\n\nSeveral accounts suggest he did\, but questions 
- remain whether these stories represent folklore or myth. What is certain is 
- that the War left West Orange’s history delicately balanced between 
- recorded evidence and historical lore.\n\nFagan’s program\, Women of West 
- Orange During the American Revolution: Divided Loyalties\, will explore the 
- community’s unique connection to the War for Independence by focusing on 
- the vital and often overlooked roles played by women who lived in what 
- would later become West Orange.\n\nThe central focus of the presentation 
- will be Tory Corner and the Williams family\, whose loyalties were torn 
- apart by the war. Nathaniel Williams’ decision to side with British 
- forces in New York left his wife Mary Williams and their four young 
- children behind. Mary believed in American independence and endured years 
- of hardship as her family was fractured by ideological division. It pitted 
- not only husband against wife\, but literally brother against brother 
- foreshadowing the national divide that would erupt decades later during the 
- American Civil War. Surviving Williams family artifacts will be on 
- display.\n\nThe program will also highlight the story of a young girl 
- Jemima Condict\, who lived in today’s Pleasantdale section of West Orange 
- during the same period. Her diary\, written between 1772 and 1779\, is 
- among the most important firsthand accounts of daily life in Revolutionary 
- War\, New Jersey. Condict recorded the news of the fighting at Lexington 
- and Concord in her diary when it first reached West Orange. Her entries 
- reflect the fear\, disruption\, and instability caused by troop movements 
- in West Orange and nearby communities. A rare 1930 reprint of her diary\, 
- one of only 500 copies\, will be on display.\n\nWomen also contributed 
- directly to the war effort by secretly casting lead musket balls for use by 
- local militia. A marker installed in 1925 by the Daughters of the American 
- Revolution identifies the site where this dangerous and clandestine work 
- went undetected by British forces in West Orange. The location is hiding in 
- plain view and will surprise you.\n\nThe presentation will place these 
- stories within the broader context of West Orange’s Revolutionary War 
- history that includes the use of observation posts and signal towers along 
- the Watchung Mountain range by Washington’s army\, and the service of the 
- Essex Militia. These men were local citizen soldiers who answered the call 
- for independence and many of them can be traced directly to living what is 
+ Independence by connecting local communities with their Revolutionary War 
+ stories.\n\nNew Jersey played a central role in the American Revolution. 
+ George Washington spent nearly one-quarter of his time as a general leading 
+ troops in New Jersey between 1775 and 1783. But did he ever visit West 
+ Orange?\n\nSeveral accounts suggest he did\, but questions remain whether 
+ these stories represent folklore or myth. What is certain is that the war 
+ left West Orange’s history delicately balanced between recorded evidence 
+ and historical lore.\n\nFagan’s program\, Women of West Orange During the 
+ American Revolution: Divided Loyalties\, will explore the community’s 
+ unique connection to the War for Independence by focusing on the vital and 
+ often overlooked roles played by women who lived in what would later become 
+ West Orange.\n\nThe presentation will center on Tory Corner and the 
+ Williams family\, where the war tore their loyalties apart. Nathaniel 
+ Williams’ decision to side with British forces in New York left his 
+ wife\, Mary Williams\, and their four young children behind. Ideological 
+ division fractured her family\, causing Mary\, who believed in American 
+ independence\, to endure years of hardship. It pitted not only husband 
+ against wife but literally brother against brother\, foreshadowing the 
+ national divide that would erupt decades later during the American Civil 
+ War. Surviving Williams family artifacts will be on display.\n\nThe program 
+ will also highlight the story of a young girl\, Jemima Condict\, who lived 
+ in today’s Pleasantdale section of West Orange during the same period. 
+ Her diary\, written between 1772 and 1779\, is among the most important 
+ firsthand accounts of daily life in Revolutionary War\, New Jersey. Condict 
+ recorded the news of the fighting at Lexington and Concord in her diary 
+ when it first reached West Orange. Her entries reflect the fear\, 
+ disruption\, and instability caused by troop movements in West Orange and 
+ nearby communities. A rare 1930 reprint of her diary\, one of only 500 
+ copies\, will be on display.\n\nWomen also contributed directly to the war 
+ effort by secretly casting lead musket balls for use by local militia. A 
+ marker installed in 1925 by the Daughters of the American Revolution 
+ identifies the site where this dangerous and clandestine work went 
+ undetected by British forces in West Orange. The location\, hidden in plain 
+ sight\, will surprise you.\n\nThe presentation will place these stories 
+ within the broader context of West Orange’s Revolutionary War history 
+ that includes the use of observation posts and signal towers along the 
+ Watchung Mountain range by Washington’s army and the service of the Essex 
+ Militia. These men were local citizen soldiers who answered the call for 
+ independence\, and many of them can be traced directly to living in what is 
  now West Orange.\n\nTogether\, all these stories serve as a powerful 
  reminder that the fight for freedom was carried forward not only by famous 
- leaders\, but by ordinary women and men whose courage\, sacrifice\, and 
+ leaders but also by ordinary women and men whose courage\, sacrifice\, and 
  divided loyalties helped shape the nation we know today.
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -2639,7 +2610,7 @@ BEGIN:VEVENT
 DTSTART:20260404T190000Z
 DTEND:20260404T203000Z
 DTSTAMP:20260404T000000Z
-SUMMARY:Learn English
+SUMMARY:Learn English-CANCELLED
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
 LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -2970,6 +2941,19 @@ UID:LibCal-10341-16326921
 URL:https://bccls.libcal.com/event/16326921
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260417T150000Z
+DTEND:20260417T160000Z
+DTSTAMP:20260417T000000Z
+SUMMARY:Book Club: April
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in common.\n\n
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-16198490
+URL:https://bccls.libcal.com/event/16198490
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260418T190000Z
 DTEND:20260418T203000Z
 DTSTAMP:20260418T000000Z
@@ -3262,6 +3246,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16326923
 URL:https://bccls.libcal.com/event/16326923
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260501T170000Z
+DTEND:20260501T193000Z
+DTSTAMP:20260501T000000Z
+SUMMARY:First Friday Film
+DESCRIPTION:Join us for monthly film screenings held on the first Friday of 
+ each month. \n\nLight refreshments provided.\n\n***
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16200562
+URL:https://bccls.libcal.com/event/16200562
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260502T190000Z
