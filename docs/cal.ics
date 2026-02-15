@@ -34,81 +34,6 @@ UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260114T180000Z
-DTEND:20260114T190000Z
-DTSTAMP:20260114T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	All are welcome\, from any location\, educational 
- experience and background\n	Conversation leader will help everyone practice 
- speaking in English through group social interaction\n	Easy to read books 
- in English will be introduced to improve vocabulary and 
- comprehension\n	Come for a friendly\, lively atmosphere and get to know 
- others who want to gain comfort with English conversatio\n\n\nThis program 
- will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-15536566
-URL:https://bccls.libcal.com/event/15536566
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260114T190000Z
-DTEND:20260114T203000Z
-DTSTAMP:20260114T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536608
-URL:https://bccls.libcal.com/event/15536608
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260114T190000Z
-DTEND:20260114T210000Z
-DTSTAMP:20260114T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-15536289
-URL:https://bccls.libcal.com/event/15536289
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260114T223000Z
-DTEND:20260115T003000Z
-DTSTAMP:20260114T000000Z
-SUMMARY:Teen Dungeons & Dragons
-DESCRIPTION:Discover the world of D&D with a Game Master.\nFor students in 
- grades 7-12.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-15929251
-URL:https://bccls.libcal.com/event/15929251
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T000000Z
-DTEND:20260115T010000Z
-DTSTAMP:20260114T000000Z
-SUMMARY:Teen Game and Lego Night
-DESCRIPTION:Join us at the library for video games\, board games\, or lego 
- building. For students in grades 6 - 12: bring your friends!
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15901275
-URL:https://bccls.libcal.com/event/15901275
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260115T160000Z
 DTEND:20260115T163000Z
 DTSTAMP:20260115T000000Z
@@ -1134,6 +1059,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-16199247
 URL:https://bccls.libcal.com/event/16199247
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260214T190000Z
+DTEND:20260214T200000Z
+DTSTAMP:20260214T000000Z
+SUMMARY:Screen Free Fun Challenge
+DESCRIPTION:Enjoy screen- free crafts for youth of all ages Saturday @2PM! 
+ This week's project is fold out fans led by awesome high school volunteers.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16421565
+URL:https://bccls.libcal.com/event/16421565
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260214T200000Z
