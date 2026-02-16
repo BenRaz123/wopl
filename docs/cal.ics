@@ -34,56 +34,6 @@ UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260115T160000Z
-DTEND:20260115T163000Z
-DTSTAMP:20260115T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997738
-URL:https://bccls.libcal.com/event/15997738
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T190000Z
-DTEND:20260115T213000Z
-DTSTAMP:20260115T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240542
-URL:https://bccls.libcal.com/event/15240542
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T213000Z
-DTEND:20260115T223000Z
-DTSTAMP:20260115T000000Z
-SUMMARY:Chess Club
-DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
- strategies on how to play better and enjoy chess more. All ages and skill 
- levels welcome.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-16043843
-URL:https://bccls.libcal.com/calendar/westorange/janchessclub
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260115T233000Z
-DTEND:20260116T013000Z
-DTSTAMP:20260115T000000Z
-SUMMARY:Adult Game Night
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft, Games
-UID:LibCal-10341-15377142
-URL:https://bccls.libcal.com/event/15377142
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260116T160000Z
 DTEND:20260116T170000Z
 DTSTAMP:20260116T000000Z
