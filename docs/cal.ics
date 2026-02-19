@@ -34,23 +34,6 @@ UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260118T200000Z
-DTEND:20260118T210000Z
-DTSTAMP:20260118T000000Z
-SUMMARY:One in Math
-DESCRIPTION:\n\nFree K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at 
- https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
- - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.\n\n
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15765196
-URL:https://bccls.libcal.com/event/15765196
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260119
 DTEND;VALUE=DATE:20260120
 DTSTAMP:20260119T000000Z
@@ -1670,6 +1653,22 @@ UID:LibCal-10341-15240549
 URL:https://bccls.libcal.com/event/15240549
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260306T180000Z
+DTEND:20260306T210000Z
+DTSTAMP:20260306T000000Z
+SUMMARY:First Friday Film: One Battle After Another
+DESCRIPTION:Join us for monthly film screenings on the first Friday of each 
+ month. \n\nLight refreshments provided.\n\n***\n\nOne Battle After Another 
+ (2025)\nR\, 2 hr 42 min\n\nStarring: Leonardo Di Caprio\, Teyana Taylor\, 
+ Chase Infiniti\, Sean Penn\, Benicio del Toro\nDirected by: Paul Thomas 
+ Anderson\n\n
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-15893161
+URL:https://bccls.libcal.com/event/15893161
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260307T200000Z
 DTEND:20260307T213000Z
 DTSTAMP:20260307T000000Z
@@ -1827,6 +1826,20 @@ UID:LibCal-10341-15240550
 URL:https://bccls.libcal.com/event/15240550
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260312T223000Z
+DTEND:20260313T003000Z
+DTSTAMP:20260312T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board games will be 
+ available & feel free to bring your own as well.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-16198453
+URL:https://bccls.libcal.com/event/16198453
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260313T150000Z
 DTEND:20260313T160000Z
 DTSTAMP:20260313T000000Z
@@ -1870,6 +1883,29 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094411
 URL:https://bccls.libcal.com/event/16094411
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260315T180000Z
+DTEND:20260315T200000Z
+DTSTAMP:20260315T000000Z
+SUMMARY:Afternoon with Ellie Lee Jazz Quartet
+DESCRIPTION:Featuring\,\n\nEllie Lee\, also known as Seunghyung Lee\, is a 
+ jazz pianist and composer. Her writing and performances span a wide range 
+ of musical styles\, including pop\, jazz\, classical\, R&B/soul\, and 
+ gospel\, to name just a few. Through her extensive musical abilities and 
+ years of experience\, she has developed into a musician and idiom for a 
+ wide range of musical styles.\n\nAbout the artist\,\n\nEllie Lee is a 
+ composer and a jazz pianist based in NY and NJ whose works and plays are in 
+ various styles\, including jazz\, classical\, pop\, and gospel. Ellie grew 
+ up in South Korea and graduated with a bachelor's degree in classic piano 
+ from Sookmyung University. She completed a diploma from the Berklee College 
+ of Music and a master's from WPUNJ. Now\, she is working as an adjunct 
+ professor in Felician University.\n\n \n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-16211603
+URL:https://bccls.libcal.com/event/16211603
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260315T190000Z
@@ -2015,6 +2051,22 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240551
 URL:https://bccls.libcal.com/event/15240551
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T223000Z
+DTEND:20260320T003000Z
+DTSTAMP:20260319T000000Z
+SUMMARY:Artist Reception: Cynthia Pareja Dubin
+DESCRIPTION:Meet exhibiting artist Cynthia Pareja Dubin.\n\nViewing will 
+ take place in the gallery\, with ight refreshments in the Literacy 
+ Room.\n\nReparando Mundos - Restoring Worlds by Cynthia Pareja Dubin will 
+ be on display at the West Orange Public Library from March 11 to April 24\, 
+ 2026.\n
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-15893273
+URL:https://bccls.libcal.com/event/15893273
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T180000Z
