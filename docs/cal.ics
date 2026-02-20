@@ -34,17 +34,6 @@ UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260119
-DTEND;VALUE=DATE:20260120
-DTSTAMP:20260119T000000Z
-SUMMARY:CLOSED
-DESCRIPTION:
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15873997
-URL:https://bccls.libcal.com/event/15873997
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260120T160000Z
 DTEND:20260120T163000Z
 DTSTAMP:20260120T000000Z
@@ -2124,7 +2113,7 @@ DESCRIPTION:A WOPL Program to Commemorate West Orange’s Unique
  divided loyalties helped shape the nation we know today.
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
+CATEGORIES:Lecture
 UID:LibCal-10341-16113347
 URL:https://bccls.libcal.com/event/16113347
 END:VEVENT
@@ -2294,17 +2283,17 @@ DESCRIPTION: \n\n\nLongtime New York Times contributor and bestselling
  Eastwood. \n\nPublishers Weekly included his most recent book among the top 
  10 of 2024 in the spirituality genre: Becoming Gandhi: My Experiment Living 
  the Mahatma's 6 Moral Truths in Immoral Times (Sounds True Publishing)\, 
- with Foreword by the Dalai Lama. The research took him to India\, UK and 
- South Africa\; it's now published in 5 countries. His previous book\, 
- Buddha or Bust: In Search of Truth\, Meaning\, Happiness and the Man Who 
- Found Them All (Crown Harmony\, 2006-7)\, was a national bestseller: 
- \n\nBut his “origin story” begins in his hometown and he often comes 
- back to West Orange to visit his old haunts. Over the last years he has 
- witnessed demographic shifts in town that he sees as a microcosm of many 
- suburban metro areas. In this entertaining and informative talk\, he shares 
- insights and stories of fascinating people and places around the 
- world...and good ole’ WO.\n\n Lively Q&A and book signing to follow. 
- https://perrygarfinkel.com \n\n\n \n\n \n\n \n\n
+ with a foreword by the Dalai Lama. The research took him to India\, the 
+ UK\, and South Africa\; it's now published in 5 countries. His previous 
+ book\, Buddha or Bust: In Search of Truth\, Meaning\, Happiness\, and the 
+ Man Who Found Them All (Crown Harmony\, 2006-7)\, was a national 
+ bestseller. \n\nBut his “origin story” begins in his hometown\, and he 
+ often comes back to West Orange to visit his old haunts. Over the last 
+ years he has witnessed demographic shifts in town that he sees as a 
+ microcosm of many suburban metro areas. In this entertaining and 
+ informative talk\, he shares insights and stories of fascinating people and 
+ places around the world...and good old’ WO.\n\nA lively Q&A and book 
+ signing to follow. https://perrygarfinkel.com \n\n\n \n\n \n\n \n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Author Event/Talk
@@ -3308,18 +3297,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240559
 URL:https://bccls.libcal.com/event/15240559
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T214500Z
-DTEND:20260514T231500Z
-DTSTAMP:20260514T000000Z
-SUMMARY:Mat Pilates
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16326926
-URL:https://bccls.libcal.com/event/16326926
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T190000Z
