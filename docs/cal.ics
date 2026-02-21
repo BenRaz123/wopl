@@ -34,18 +34,6 @@ UID:LibCal-10341-15457193
 URL:https://bccls.libcal.com/event/15457193
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260120T160000Z
-DTEND:20260120T163000Z
-DTSTAMP:20260120T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997680
-URL:https://bccls.libcal.com/event/15997680
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260121T180000Z
 DTEND:20260121T190000Z
 DTSTAMP:20260121T000000Z
@@ -1209,11 +1197,11 @@ BEGIN:VEVENT
 DTSTART:20260223T153000Z
 DTEND:20260223T170000Z
 DTSTAMP:20260223T000000Z
-SUMMARY:Adult Craft Studio
-DESCRIPTION:A drop-in crafting space for adults\, led by library staff and 
- volunteers. \n\nWe'll supply all the materials you need\, but feel free to 
- bring your own meaningful bits & bobs if you want to incorporate something 
- personal. \n\n
+SUMMARY:Adult Craft Studio-CANCELLED
+DESCRIPTION:**CANCELLED**\n\nA drop-in crafting space for adults\, led by 
+ library staff and volunteers. \n\nWe'll supply all the materials you need\, 
+ but feel free to bring your own meaningful bits & bobs if you want to 
+ incorporate something personal. \n\n
 LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
@@ -2256,6 +2244,29 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240552
 URL:https://bccls.libcal.com/event/15240552
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T150000Z
+DTEND:20260328T163000Z
+DTSTAMP:20260328T000000Z
+SUMMARY:Youth League Event Presented by: Joe Nardini\, Umpire & Author
+DESCRIPTION:Featuring Joe Nardini\,\n\nJoin us for a special author talk 
+ with Joe Nardini\, an experienced umpire and published author. Joe will 
+ share his insights on youth sports\, the role of umpires\, and stories from 
+ his career both on and off the field. This is a great opportunity for 
+ players\, parents\, and coaches to learn more about the importance of 
+ sportsmanship\, fair play\, and the unique perspectives gained from 
+ officiating youth games.\n\nAbout the author\,\n\nThe book "Youth League 
+ Umpire: A Behind-the-Scenes Look at the Games Our Children Play\," written 
+ by Joe Nardini\, a seasoned baseball umpire and football official\, 
+ educator\, rehabilitation administrator\, juvenile justice reformer\, and 
+ labor union representative\, is a must-read for anyone working with young 
+ athletes. Nardini and his wife\, Pat\, reside in northern New Jersey.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Author Event/Talk
+UID:LibCal-10341-16304050
+URL:https://bccls.libcal.com/event/16304050
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T190000Z
