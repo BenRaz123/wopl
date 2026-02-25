@@ -8,18 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260124T200000Z
-DTEND:20260124T213000Z
-DTSTAMP:20260124T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094404
-URL:https://bccls.libcal.com/event/16094404
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260125
 DTEND;VALUE=DATE:20260126
 DTSTAMP:20260125T000000Z
@@ -1439,6 +1427,20 @@ UID:LibCal-10341-16207489
 URL:https://bccls.libcal.com/event/16207489
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260304T233000Z
+DTEND:20260305T003000Z
+DTSTAMP:20260304T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High school students: Be a library star & help shape teen 
+ services at the library. Earn volunteer hours for attending- new members 
+ always welcome! Teen Advisory Group meets in the library teen 
+ space.\n\nEmail teens@westorangelibrary.org \n\n\n
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16382100
+URL:https://bccls.libcal.com/event/16382100
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260305T160000Z
 DTEND:20260305T163000Z
 DTSTAMP:20260305T000000Z
@@ -1463,6 +1465,18 @@ UID:LibCal-10341-15240549
 URL:https://bccls.libcal.com/event/15240549
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260305T213000Z
+DTEND:20260305T220000Z
+DTSTAMP:20260305T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16187113
+URL:https://bccls.libcal.com/event/16187113
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260306T180000Z
 DTEND:20260306T210000Z
 DTSTAMP:20260306T000000Z
@@ -1477,6 +1491,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Movie
 UID:LibCal-10341-15893161
 URL:https://bccls.libcal.com/event/15893161
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260307T160000Z
+DTEND:20260307T163000Z
+DTSTAMP:20260307T000000Z
+SUMMARY:Wiggle & Giggle with Miss Bee
+DESCRIPTION:Join Miss Bee for an interactive\, multi-sensory\, creative\, 
+ musical experience for babies\, toddler\, and preschoolers. Experience the 
+ magic of music and movement through traditional and original children's 
+ songs\, puppets\, rhythm sticks and more.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16167268
+URL:https://bccls.libcal.com/event/16167268
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260307T200000Z
@@ -1612,6 +1641,19 @@ UID:LibCal-10341-15536297
 URL:https://bccls.libcal.com/event/15536297
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260311T223000Z
+DTEND:20260311T233000Z
+DTSTAMP:20260311T000000Z
+SUMMARY:Makers Month Teen Craft: Pom Pom Garlands
+DESCRIPTION:Join us to get creative and learn how to make your own DIY 
+ pom-pom garland\, perfect for room decor\, a bag charm\, and more!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16444300
+URL:https://bccls.libcal.com/event/16444300
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260312T150000Z
 DTEND:20260312T153000Z
 DTSTAMP:20260312T000000Z
@@ -1634,6 +1676,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240550
 URL:https://bccls.libcal.com/event/15240550
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260312T203000Z
+DTEND:20260312T210000Z
+DTSTAMP:20260312T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16187122
+URL:https://bccls.libcal.com/event/16187122
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260312T223000Z
@@ -1776,6 +1830,19 @@ UID:LibCal-10341-15997688
 URL:https://bccls.libcal.com/event/15997688
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260317T200000Z
+DTEND:20260317T210000Z
+DTSTAMP:20260317T000000Z
+SUMMARY:Tween Scene: Recycled Book Art
+DESCRIPTION:Get creative and create with beautiful book pages! Tween Scene 
+ is for anyone ages 9 - 12.\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16470645
+URL:https://bccls.libcal.com/event/16470645
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260318T140000Z
 DTEND:20260318T180000Z
 DTSTAMP:20260318T000000Z
@@ -1861,6 +1928,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240551
 URL:https://bccls.libcal.com/event/15240551
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260319T203000Z
+DTEND:20260319T210000Z
+DTSTAMP:20260319T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16187129
+URL:https://bccls.libcal.com/event/16187129
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260319T223000Z
@@ -2079,6 +2158,18 @@ UID:LibCal-10341-15240552
 URL:https://bccls.libcal.com/event/15240552
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260326T203000Z
+DTEND:20260326T210000Z
+DTSTAMP:20260326T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16187149
+URL:https://bccls.libcal.com/event/16187149
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260328T150000Z
 DTEND:20260328T163000Z
 DTSTAMP:20260328T000000Z
@@ -2174,6 +2265,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15405361
 URL:https://bccls.libcal.com/event/15405361
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T203000Z
+DTEND:20260330T213000Z
+DTSTAMP:20260330T000000Z
+SUMMARY:Tween Lego Build
+DESCRIPTION:Tweens Ages 9 - 12: This is YOUR time to build with Lego! Build 
+ independently or together with the library legos.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16444643
+URL:https://bccls.libcal.com/event/16444643
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T220000Z
