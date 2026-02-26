@@ -8,34 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260125
-DTEND;VALUE=DATE:20260126
-DTSTAMP:20260125T000000Z
-SUMMARY:CLOSED
-DESCRIPTION:
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16273092
-URL:https://bccls.libcal.com/event/16273092
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260125T200000Z
-DTEND:20260125T210000Z
-DTSTAMP:20260125T000000Z
-SUMMARY:One in Math
-DESCRIPTION:\n\nFree K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at 
- https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
- - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.\n\n
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15765198
-URL:https://bccls.libcal.com/event/15765198
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260126
 DTEND;VALUE=DATE:20260127
 DTSTAMP:20260126T000000Z
@@ -1723,12 +1695,13 @@ DTSTART:20260314T140000Z
 DTEND:20260314T210000Z
 DTSTAMP:20260314T000000Z
 SUMMARY:Boots to Business
-DESCRIPTION:About Boots to Business Reboot\nBoots to Business Reboot is an 
- entrepreneurial education and training\nprogram offered by the U.S. Small 
- Business Administration (SBA).\nThe course provides an overview of 
- entrepreneurship and applicable\nbusiness ownership fundamentals. Veterans 
- of all eras\, Active Duty\nService members (including National Guard and 
- Reserve) and spouses\nare eligible to participate.\nRegister here: 
+DESCRIPTION:Starting and Owning a Veteran-Owned Business\n\nBoots to 
+ Business Reboot is an entrepreneurial education and training program 
+ offered by the U.S. Small Business Administration (SBA). The course 
+ provides an overview of entrepreneurship and applicable business ownership 
+ fundamentals. Veterans of all eras\, Active Duty Service members (including 
+ National Guard and Reserve) and spouses are eligible to 
+ participate.\n\nRegister here: 
  https://www.mcnultycenter.org/event/in-person-boots-to-business-reboot-west-orange-nj/
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -1753,18 +1726,18 @@ DTSTART:20260315T180000Z
 DTEND:20260315T200000Z
 DTSTAMP:20260315T000000Z
 SUMMARY:Afternoon with Ellie Lee Jazz Quartet
-DESCRIPTION:Featuring\,\n\nEllie Lee\, also known as Seunghyung Lee\, is a 
+DESCRIPTION:Featuring\n\nEllie Lee\, also known as Seunghyung Lee\, is a 
  jazz pianist and composer. Her writing and performances span a wide range 
  of musical styles\, including pop\, jazz\, classical\, R&B/soul\, and 
  gospel\, to name just a few. Through her extensive musical abilities and 
  years of experience\, she has developed into a musician and idiom for a 
- wide range of musical styles.\n\nAbout the artist\,\n\nEllie Lee is a 
+ wide range of musical styles.\n\nAbout the artist\n\nEllie Lee is a 
  composer and a jazz pianist based in NY and NJ whose works and plays are in 
  various styles\, including jazz\, classical\, pop\, and gospel. Ellie grew 
  up in South Korea and graduated with a bachelor's degree in classic piano 
  from Sookmyung University. She completed a diploma from the Berklee College 
- of Music and a master's from WPUNJ. Now\, she is working as an adjunct 
- professor in Felician University.\n\n \n\n
+ of Music and a master's from WPUNJ. She currently works as an adjunct 
+ professor at Felician University.\n\n\n\n
 LOCATION:West Orange - Community Room 1\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Performance
@@ -1947,7 +1920,7 @@ DTEND:20260320T003000Z
 DTSTAMP:20260319T000000Z
 SUMMARY:Artist Reception: Cynthia Pareja Dubin
 DESCRIPTION:Meet exhibiting artist Cynthia Pareja Dubin.\n\nViewing will 
- take place in the gallery\, with ight refreshments in the Literacy 
+ take place in the gallery\, with light refreshments in the Literacy 
  Room.\n\nReparando Mundos - Restoring Worlds by Cynthia Pareja Dubin will 
  be on display at the West Orange Public Library from March 11 to April 24\, 
  2026.\n
@@ -2191,6 +2164,27 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Author Event/Talk
 UID:LibCal-10341-16304050
 URL:https://bccls.libcal.com/event/16304050
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260328T173000Z
+DTEND:20260328T184500Z
+DTSTAMP:20260328T000000Z
+SUMMARY:Paper Quilling Workshop
+DESCRIPTION:with Robin K. Johnson of Garden Arts for Adults\n\nExplore the 
+ beauty of paper quilling\, a delicate art form that transforms simple 
+ strips of paper into stunning decorative designs. By rolling\, shaping\, 
+ and gluing thin paper strips\, you can create intricate patterns\, floral 
+ motifs\, elegant lettering\, and all kinds of 3D artwork.\n\nIn this 
+ introductory workshop\, participants will try their hand at twisting papers 
+ into various fabulous shapes using special quilling tools and incorporating 
+ them into decorative art.\n\nAll supplies are included—just come ready to 
+ experiment and have fun.\n\nThis workshop is designed for adults. 
+ \nRegistration is required.\n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16406104
+URL:https://bccls.libcal.com/event/16406104
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T190000Z
