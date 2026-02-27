@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260126
-DTEND;VALUE=DATE:20260127
-DTSTAMP:20260126T000000Z
-SUMMARY:CLOSED
-DESCRIPTION:
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16273093
-URL:https://bccls.libcal.com/event/16273093
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260126T230000Z
-DTEND:20260127T000000Z
-DTSTAMP:20260126T000000Z
-SUMMARY:Rosetta Stone Language Lab-CANCELLED LIBRARY CLOSED
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536465
-URL:https://bccls.libcal.com/event/15536465
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260127
 DTEND;VALUE=DATE:20260128
 DTSTAMP:20260127T000000Z
@@ -1203,7 +1177,7 @@ BEGIN:VEVENT
 DTSTART:20260227T000000Z
 DTEND:20260227T020000Z
 DTSTAMP:20260226T000000Z
-SUMMARY:Library Board Meeting
+SUMMARY:Library Board Meeting- Zoom
 DESCRIPTION:
 LOCATION:West Orange - Off-site
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -1224,6 +1198,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-16202710
 URL:https://bccls.libcal.com/event/16202710
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260228T190000Z
+DTEND:20260228T200000Z
+DTSTAMP:20260228T000000Z
+SUMMARY:Screen Free Fun Challenge
+DESCRIPTION:Enjoy screen- free crafts for youth of all ages Saturday @2PM! 
+ This week's project is paper mosaics led by awesome high school volunteers.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16494101
+URL:https://bccls.libcal.com/event/16494101
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260228T190000Z
@@ -1260,6 +1247,19 @@ UID:LibCal-10341-16094409
 URL:https://bccls.libcal.com/event/16094409
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260301T190000Z
+DTEND:20260301T200000Z
+DTSTAMP:20260301T000000Z
+SUMMARY:Screen Free Fun Challenge
+DESCRIPTION:Enjoy screen- free crafts for youth of all ages Sunday @2PM! 
+ Sunday's project is a flashlight scene craft led by awesome high school 
+ volunteers.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16494115
+URL:https://bccls.libcal.com/event/16494115
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260301T200000Z
 DTEND:20260301T210000Z
 DTSTAMP:20260301T000000Z
@@ -1289,6 +1289,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15405353
 URL:https://bccls.libcal.com/event/15405353
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260302T210000Z
+DTEND:20260302T220000Z
+DTSTAMP:20260302T000000Z
+SUMMARY:Drop-In Craft: Paper Plate Cherry Blossom Trees
+DESCRIPTION:Join us for making laced paper plate cherry blossom trees!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16398377
+URL:https://bccls.libcal.com/event/16398377
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260302T230000Z
@@ -1379,6 +1391,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-15536296
 URL:https://bccls.libcal.com/event/15536296
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260304T210000Z
+DTEND:20260304T220000Z
+DTSTAMP:20260304T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Explore different stimulating sensory filled stations. For 
+ newborns - 5 years old.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16443891
+URL:https://bccls.libcal.com/event/16443891
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260304T230000Z
@@ -1521,6 +1546,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15405355
 URL:https://bccls.libcal.com/event/15405355
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260309T200000Z
+DTEND:20260309T210000Z
+DTSTAMP:20260309T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create your own lego creation! For children 6
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16398467
+URL:https://bccls.libcal.com/event/16398467
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260309T220000Z
@@ -1691,6 +1728,20 @@ UID:LibCal-10341-16198435
 URL:https://bccls.libcal.com/event/16198435
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260313T200000Z
+DTEND:20260313T210000Z
+DTSTAMP:20260313T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ Registration Required.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16398489
+URL:https://bccls.libcal.com/event/16398489
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260314T140000Z
 DTEND:20260314T210000Z
 DTSTAMP:20260314T000000Z
@@ -1720,29 +1771,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094411
 URL:https://bccls.libcal.com/event/16094411
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260315T180000Z
-DTEND:20260315T200000Z
-DTSTAMP:20260315T000000Z
-SUMMARY:Afternoon with Ellie Lee Jazz Quartet
-DESCRIPTION:Featuring\n\nEllie Lee\, also known as Seunghyung Lee\, is a 
- jazz pianist and composer. Her writing and performances span a wide range 
- of musical styles\, including pop\, jazz\, classical\, R&B/soul\, and 
- gospel\, to name just a few. Through her extensive musical abilities and 
- years of experience\, she has developed into a musician and idiom for a 
- wide range of musical styles.\n\nAbout the artist\n\nEllie Lee is a 
- composer and a jazz pianist based in NY and NJ whose works and plays are in 
- various styles\, including jazz\, classical\, pop\, and gospel. Ellie grew 
- up in South Korea and graduated with a bachelor's degree in classic piano 
- from Sookmyung University. She completed a diploma from the Berklee College 
- of Music and a master's from WPUNJ. She currently works as an adjunct 
- professor at Felician University.\n\n\n\n
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-16211603
-URL:https://bccls.libcal.com/event/16211603
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260315T190000Z
@@ -1879,6 +1907,34 @@ UID:LibCal-10341-15536298
 URL:https://bccls.libcal.com/event/15536298
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260318T200000Z
+DTEND:20260318T210000Z
+DTSTAMP:20260318T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Explore different stimulating sensory filled stations. For 
+ newborns - 5 years old.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16443998
+URL:https://bccls.libcal.com/event/16443998
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260318T213000Z
+DTEND:20260318T223000Z
+DTSTAMP:20260318T000000Z
+SUMMARY:Teen Dungeons & Dragons
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!\n\nSign up at: tinyurl.com/MAR2026WOPLDND
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16381911
+URL:https://bccls.libcal.com/event/16381911
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260319T150000Z
 DTEND:20260319T153000Z
 DTSTAMP:20260319T000000Z
@@ -1929,6 +1985,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
 UID:LibCal-10341-15893273
 URL:https://bccls.libcal.com/event/15893273
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260320T200000Z
+DTEND:20260320T210000Z
+DTSTAMP:20260320T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ Registration Required.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16444574
+URL:https://bccls.libcal.com/event/16444574
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260321T180000Z
@@ -2003,6 +2073,19 @@ UID:LibCal-10341-16094412
 URL:https://bccls.libcal.com/event/16094412
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+DTSTAMP:20260323T000000Z
+SUMMARY:Take Home Craft:  3D Family Trees
+DESCRIPTION:For Women's History Month\, stop by the Youth Services 
+ Department to grab a craft to take home and make with a caregiver. (While 
+ supplies last)
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16398593
+URL:https://bccls.libcal.com/event/16398593
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260323T140000Z
 DTEND:20260323T180000Z
 DTSTAMP:20260323T000000Z
@@ -2015,6 +2098,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15405359
 URL:https://bccls.libcal.com/event/15405359
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260323T200000Z
+DTEND:20260323T210000Z
+DTSTAMP:20260323T000000Z
+SUMMARY:Twilight Saga Lego House Build
+DESCRIPTION:Celebrate New Jersey Makers Day by building the iconic Cullen 
+ Lego House. For teens ages 12 .
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16486037
+URL:https://bccls.libcal.com/event/16486037
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260323T220000Z
@@ -2107,6 +2203,22 @@ UID:LibCal-10341-15536299
 URL:https://bccls.libcal.com/event/15536299
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260325T230000Z
+DTEND:20260326T000000Z
+DTSTAMP:20260325T000000Z
+SUMMARY:Teen Game and Lego Night
+DESCRIPTION:Calling all gamers in grades 6 - 12! Join us at the library for 
+ video games\, board games\, and now lego building-  YOU choose which games 
+ to play. Bring your friends- you can use the library's console or bring 
+ your own. Drop in any time between 6 and 8:30.\n\n \n\nQuestions? 
+ 973-736-0198 ex. 6 or teens@westorangelibrary.org
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16488438
+URL:https://bccls.libcal.com/event/16488438
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260326T150000Z
 DTEND:20260326T153000Z
 DTSTAMP:20260326T000000Z
@@ -2141,6 +2253,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16187149
 URL:https://bccls.libcal.com/event/16187149
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260327T200000Z
+DTEND:20260327T210000Z
+DTSTAMP:20260327T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:All ages can come read to a therapy dog and build reading 
+ skills & confidence.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16444501
+URL:https://bccls.libcal.com/event/16444501
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260328T150000Z
