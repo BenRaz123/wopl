@@ -8,29 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260127
-DTEND;VALUE=DATE:20260128
-DTSTAMP:20260127T000000Z
-SUMMARY:Grab & Create: Take Home Craft
-DESCRIPTION:Grab & Create a paper cup polar bear. For children of all ages!
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-15997662
-URL:https://bccls.libcal.com/event/15997662
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260127T160000Z
-DTEND:20260127T163000Z
-DTSTAMP:20260127T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997681
-URL:https://bccls.libcal.com/event/15997681
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260128T180000Z
 DTEND:20260128T190000Z
 DTSTAMP:20260128T000000Z
@@ -1753,7 +1730,9 @@ DESCRIPTION:Starting and Owning a Veteran-Owned Business\n\nBoots to
  fundamentals. Veterans of all eras\, Active Duty Service members (including 
  National Guard and Reserve) and spouses are eligible to 
  participate.\n\nRegister here: 
- https://www.mcnultycenter.org/event/in-person-boots-to-business-reboot-west-orange-nj/
+ https://www.mcnultycenter.org/event/in-person-boots-to-business-reboot-west-orange-nj/\n\nYou 
+ will be asked to create an SBA account if you don't currently have one.\n\n 
+ \n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -2384,6 +2363,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-15405361
 URL:https://bccls.libcal.com/event/15405361
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260330T143000Z
+DTEND:20260330T160000Z
+DTSTAMP:20260330T000000Z
+SUMMARY:Adult Craft Studio
+DESCRIPTION:A drop-in crafting space for adults\, led by library staff and 
+ volunteers. \n\nWe'll supply all the materials you need\, but feel free to 
+ bring your own meaningful bits & bobs if you want to incorporate something 
+ personal. \n\n
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16448012
+URL:https://bccls.libcal.com/event/16448012
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260330T203000Z
