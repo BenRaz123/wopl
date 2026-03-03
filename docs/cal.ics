@@ -8,48 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260202T150000Z
-DTEND:20260202T190000Z
-DTSTAMP:20260202T000000Z
-SUMMARY:AARP Tax Assistance
-DESCRIPTION:Tax Assistance available on Mondays & 
- Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
- 973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15405345
-URL:https://bccls.libcal.com/event/15405345
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260202T210000Z
-DTEND:20260202T220000Z
-DTSTAMP:20260202T000000Z
-SUMMARY:Drop-In Craft: MLK Silhouette Craft
-DESCRIPTION:Join us for making MLK silhouettes for Black History Month! 
- Suggested for children in grades K-2.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16199002
-URL:https://bccls.libcal.com/event/16199002
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260202T230000Z
-DTEND:20260203T000000Z
-DTSTAMP:20260202T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536466
-URL:https://bccls.libcal.com/event/15536466
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260203T160000Z
 DTEND:20260203T163000Z
 DTSTAMP:20260203T000000Z
@@ -2128,7 +2086,7 @@ SUMMARY:Youth League Event Presented by: Joe Nardini\, Umpire & Author
 DESCRIPTION:Featuring Joe Nardini\,\n\nJoin us for a special author talk 
  with Joe Nardini\, an experienced umpire and published author. Joe will 
  share his insights on youth sports\, the role of umpires\, and stories from 
- his career both on and off the field. This is a great opportunity for 
+ his career both on and off the field. This is a wonderful opportunity for 
  players\, parents\, and coaches to learn more about the importance of 
  sportsmanship\, fair play\, and the unique perspectives gained from 
  officiating youth games.\n\nAbout the author\,\n\nThe book "Youth League 
