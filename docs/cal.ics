@@ -8,42 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260205T160000Z
-DTEND:20260205T163000Z
-DTSTAMP:20260205T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997741
-URL:https://bccls.libcal.com/event/15997741
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260205T190000Z
-DTEND:20260205T213000Z
-DTSTAMP:20260205T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240545
-URL:https://bccls.libcal.com/event/15240545
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260205T213000Z
-DTEND:20260205T220000Z
-DTSTAMP:20260205T000000Z
-SUMMARY:Super Science
-DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16187067
-URL:https://bccls.libcal.com/event/16187067
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260206T180000Z
 DTEND:20260206T203000Z
 DTSTAMP:20260206T000000Z
@@ -1769,6 +1733,19 @@ UID:LibCal-10341-16094412
 URL:https://bccls.libcal.com/event/16094412
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260322T180000Z
+DTEND:20260322T190000Z
+DTSTAMP:20260322T000000Z
+SUMMARY:Tween Book Club
+DESCRIPTION:Book Discussion for tweens ages 9 - 12! This month we will 
+ discuss Shadow Fox by Carlie Sorosiak and other favorite books.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16527576
+URL:https://bccls.libcal.com/event/16527576
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
 DTSTAMP:20260323T000000Z
@@ -1834,6 +1811,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-15997689
 URL:https://bccls.libcal.com/event/15997689
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260324T150000Z
+DTEND:20260324T170000Z
+DTSTAMP:20260324T000000Z
+SUMMARY:Office of Congresswoman Lamonica McIver
+DESCRIPTION:Office Hours
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16530805
+URL:https://bccls.libcal.com/event/16530805
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260325T140000Z
