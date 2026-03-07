@@ -8,27 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260206T180000Z
-DTEND:20260206T203000Z
-DTSTAMP:20260206T000000Z
-SUMMARY:First Friday Film: F1
-DESCRIPTION:Join us for monthly film screenings held on the first Friday of 
- each month. \n\nLight refreshments provided.\n\n***\n\nF1 (2025)\nPG-13\, 
- 2h 35min\n\nStarring: Brad Pitt\, Damson Idris\, Javier Bardem & Kerry 
- Condon\nDirected by: Joseph Kosinski\n\n"In the 1990s\, Sonny Hayes was 
- Formula 1's most promising driver until an accident on the track nearly 
- ended his career. Thirty years later\, the owner of a struggling Formula 1 
- team convinces Sonny to return to racing and become the best in the world. 
- Driving alongside the team's hotshot rookie\, Sonny soon learns that the 
- road to redemption is not something you can travel alone."  --film 
- publicity
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15097710
-URL:https://bccls.libcal.com/event/15097710
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260207T160000Z
 DTEND:20260207T170000Z
 DTSTAMP:20260207T000000Z
@@ -2546,18 +2525,6 @@ UID:LibCal-10341-15240555
 URL:https://bccls.libcal.com/event/15240555
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260416T214500Z
-DTEND:20260416T231500Z
-DTSTAMP:20260416T000000Z
-SUMMARY:Mat Pilates
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16326921
-URL:https://bccls.libcal.com/event/16326921
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260417T150000Z
 DTEND:20260417T160000Z
 DTSTAMP:20260417T000000Z
@@ -2698,18 +2665,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240556
 URL:https://bccls.libcal.com/event/15240556
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260423T214500Z
-DTEND:20260423T231500Z
-DTSTAMP:20260423T000000Z
-SUMMARY:Mat Pilates
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16326922
-URL:https://bccls.libcal.com/event/16326922
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260425T190000Z
@@ -2853,18 +2808,6 @@ UID:LibCal-10341-15240557
 URL:https://bccls.libcal.com/event/15240557
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260430T214500Z
-DTEND:20260430T231500Z
-DTSTAMP:20260430T000000Z
-SUMMARY:Mat Pilates
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16326923
-URL:https://bccls.libcal.com/event/16326923
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260501T170000Z
 DTEND:20260501T193000Z
 DTSTAMP:20260501T000000Z
@@ -2964,18 +2907,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240558
 URL:https://bccls.libcal.com/event/15240558
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260507T214500Z
-DTEND:20260507T231500Z
-DTSTAMP:20260507T000000Z
-SUMMARY:Mat Pilates
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16326924
-URL:https://bccls.libcal.com/event/16326924
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T190000Z
@@ -3154,18 +3085,6 @@ UID:LibCal-10341-15240560
 URL:https://bccls.libcal.com/event/15240560
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260521T214500Z
-DTEND:20260521T231500Z
-DTSTAMP:20260521T000000Z
-SUMMARY:Mat Pilates
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16326927
-URL:https://bccls.libcal.com/event/16326927
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 DTSTAMP:20260523T000000Z
@@ -3278,18 +3197,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240561
 URL:https://bccls.libcal.com/event/15240561
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T214500Z
-DTEND:20260528T231500Z
-DTSTAMP:20260528T000000Z
-SUMMARY:Mat Pilates
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16326928
-URL:https://bccls.libcal.com/event/16326928
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260530T190000Z
