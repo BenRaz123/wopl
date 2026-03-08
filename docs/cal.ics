@@ -8,59 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260207T160000Z
-DTEND:20260207T170000Z
-DTSTAMP:20260207T000000Z
-SUMMARY:Rockness Music: Music Lab
-DESCRIPTION:Join the Music Lab with Rockness Music! You’ll get hands-on 
- experience with real musical instruments and drumming as well as a chance 
- to move and explore the world of music.\n\nFor children 0-5 years old & 
- caregivers.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16177121
-URL:https://bccls.libcal.com/event/16177121
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260207T190000Z
-DTEND:20260207T203000Z
-DTSTAMP:20260207T000000Z
-SUMMARY:"The Music of Duke Ellington & Billy Strayhorn" featuring Vinnie Cutro (trumpet) & Mitch Schechter (piano)
-DESCRIPTION:With Vinny Cultro & Mitch Schechter\n\nThe duo will present the 
- work of the greatest composing duo in American jazz history\, Duke 
- Ellington and Billy Strayhorn. Through musical interpretation and oral 
- presentation—part musical performance and part history lesson—the 
- musicians will showcase samples from the collaboration of Ellington and 
- Strayhorn\, highlighting what made this partnership so remarkable and what 
- continues to delight listeners almost 100 years later.\n\nAbout the 
- Artist\n\nDuring the past 40 years\, Vinnie Cutro (musician\, educator\, 
- and composer) has performed with renowned jazz legends such as Horace 
- Silver\, Buddy Rich\, Lionel Hampton\, Ron Carter\, Aretha Franklin\, Ray 
- Charles\, Barry Manilow\, Blood\, Sweat & Tears\, The Four Tops\, and The 
- Temptations.\n\nHe has traveled extensively around the globe\, performing 
- at jazz festivals and concerts across Europe\, Japan\, Africa\, Canada\, 
- South America\, and the United States.\n\n \n\nThis event will take place 
- in the Community Room 1
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-16162441
-URL:https://bccls.libcal.com/event/16162441
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260207T200000Z
-DTEND:20260207T213000Z
-DTSTAMP:20260207T000000Z
-SUMMARY:Learn English(CANCELLED)
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094406
-URL:https://bccls.libcal.com/event/16094406
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260208T190000Z
 DTEND:20260208T210000Z
 DTSTAMP:20260208T000000Z
