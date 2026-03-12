@@ -8,98 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260211T150000Z
-DTEND:20260211T190000Z
-DTSTAMP:20260211T000000Z
-SUMMARY:AARP Tax Assistance
-DESCRIPTION:Tax Assistance available on Mondays & 
- Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
- 973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15405348
-URL:https://bccls.libcal.com/event/15405348
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260211T180000Z
-DTEND:20260211T190000Z
-DTSTAMP:20260211T000000Z
-SUMMARY:English Conversation Class(CANCELLED)
-DESCRIPTION:\n	Join this informal get together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	All are welcome\, from any location\, educational 
- experience and background\n	Conversation leader will help everyone practice 
- speaking in English through group social interaction\n	Easy to read books 
- in English will be introduced to improve vocabulary and 
- comprehension\n	Come for a friendly\, lively atmosphere and get to know 
- others who want to gain comfort with English conversatio\n\n\nThis program 
- will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-15536570
-URL:https://bccls.libcal.com/event/15536570
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260211T190000Z
-DTEND:20260211T203000Z
-DTSTAMP:20260211T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536612
-URL:https://bccls.libcal.com/event/15536612
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260211T190000Z
-DTEND:20260211T210000Z
-DTSTAMP:20260211T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-15536293
-URL:https://bccls.libcal.com/event/15536293
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260211T213000Z
-DTEND:20260211T223000Z
-DTSTAMP:20260211T000000Z
-SUMMARY:Tween Scratch Meetup- Computer Lab
-DESCRIPTION:Do you enjoy creative coding with Scratch ? Join us in the 
- computer lab to talk and create with other Scratch enthusiasts. Ages 8 - 
- 12.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16167469
-URL:https://bccls.libcal.com/event/16167469
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260211T223000Z
-DTEND:20260211T233000Z
-DTSTAMP:20260211T000000Z
-SUMMARY:Teen Dungeons & Dragons
-DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
- provided!\n\nNo prior experience required- beginners to experts 
- welcome.\n\nA unique and self contained story: no prior or ongoing 
- attendance necessary!\n\nSign up at: tinyurl.com/FEB2026WOPLDND
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-16186311
-URL:https://bccls.libcal.com/event/16186311
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260212T160000Z
 DTEND:20260212T163000Z
 DTSTAMP:20260212T000000Z
@@ -2384,9 +2292,17 @@ BEGIN:VEVENT
 DTSTART:20260417T150000Z
 DTEND:20260417T160000Z
 DTSTAMP:20260417T000000Z
-SUMMARY:Book Club: April
+SUMMARY:Book Club: The Strange Case of Jane O.
 DESCRIPTION:A book club for adults who want to read in community. We meet 
- one Friday morning a month to chat about a title we read in common.\n\n
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\n\nApril Title\n\nTHE STRANGE CASE OF JANE O.\nby Karen 
+ Thompson Walker\n\n"Presented as a doctor's case study notes and as letters 
+ written by the subject to her young son\, this thought-provoking\, 
+ slow-burn novel focuses on single Brooklyn mom Jane\, who'd previously had 
+ a strong memory but now suffers from amnesia and hallucinations. Her 
+ psychiatrist\, who has his own troubles\, looks for answers." 
+ -NoveList\n\nCopies available at the Circulation Desk starting March 
+ 13.\n\n
 LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Book Club
