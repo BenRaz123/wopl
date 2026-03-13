@@ -8,54 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260212T160000Z
-DTEND:20260212T163000Z
-DTSTAMP:20260212T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997742
-URL:https://bccls.libcal.com/event/15997742
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260212T190000Z
-DTEND:20260212T213000Z
-DTSTAMP:20260212T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240546
-URL:https://bccls.libcal.com/event/15240546
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260212T213000Z
-DTEND:20260212T220000Z
-DTSTAMP:20260212T000000Z
-SUMMARY:Super Science
-DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16187097
-URL:https://bccls.libcal.com/event/16187097
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260212T233000Z
-DTEND:20260213T013000Z
-DTSTAMP:20260212T000000Z
-SUMMARY:Adult Game Night
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft, Games
-UID:LibCal-10341-16198402
-URL:https://bccls.libcal.com/event/16198402
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260213T210000Z
 DTEND:20260213T220000Z
 DTSTAMP:20260213T000000Z
