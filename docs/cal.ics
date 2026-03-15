@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260214T190000Z
-DTEND:20260214T200000Z
-DTSTAMP:20260214T000000Z
-SUMMARY:Screen Free Fun Challenge
-DESCRIPTION:Enjoy screen- free crafts for youth of all ages Saturday @2PM! 
- This week's project is fold out fans led by awesome high school volunteers.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16421565
-URL:https://bccls.libcal.com/event/16421565
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260214T200000Z
-DTEND:20260214T213000Z
-DTSTAMP:20260214T000000Z
-SUMMARY:Drop in ESL Class with Instructor Jason Graves
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094407
-URL:https://bccls.libcal.com/event/16094407
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260215T190000Z
 DTEND:20260215T213000Z
 DTSTAMP:20260215T000000Z
