@@ -8,23 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260215T190000Z
-DTEND:20260215T213000Z
-DTSTAMP:20260215T000000Z
-SUMMARY:Quilting Demonstration
-DESCRIPTION: \nwith the Nubian Heritage Quilters Guild\n\nLearn 
- hand-appliqué\, fabric transfer\, and other quilting techniques from our 
- exhibiting artists\, the Nubian Heritage Quilters Guild. \n\nDrop in at any 
- time during the program. \nLearn more about the Nubian Heritage Quilters 
- Guild’s exhibit\, Shine My Crown\, on exhibit at the West Orange Public 
- Library from February 1 to February 28\, 2026. \n\n
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16253800
-URL:https://bccls.libcal.com/event/16253800
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
 DTSTAMP:20260216T000000Z
