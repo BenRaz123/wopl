@@ -8,69 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260218T150000Z
-DTEND:20260218T190000Z
-DTSTAMP:20260218T000000Z
-SUMMARY:AARP Tax Assistance
-DESCRIPTION:Tax Assistance available on Mondays & 
- Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
- 973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15405350
-URL:https://bccls.libcal.com/event/15405350
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260218T180000Z
-DTEND:20260218T190000Z
-DTSTAMP:20260218T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	All are welcome\, from any location\, educational 
- experience and background\n	Conversation leader will help everyone practice 
- speaking in English through group social interaction\n	Easy to read books 
- in English will be introduced to improve vocabulary and 
- comprehension\n	Come for a friendly\, lively atmosphere and get to know 
- others who want to gain comfort with English conversatio\n\n\nThis program 
- will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-15536571
-URL:https://bccls.libcal.com/event/15536571
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260218T190000Z
-DTEND:20260218T203000Z
-DTSTAMP:20260218T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536613
-URL:https://bccls.libcal.com/event/15536613
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260218T190000Z
-DTEND:20260218T210000Z
-DTSTAMP:20260218T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-15536294
-URL:https://bccls.libcal.com/event/15536294
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260219T160000Z
 DTEND:20260219T163000Z
 DTSTAMP:20260219T000000Z
@@ -2733,6 +2670,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240558
 URL:https://bccls.libcal.com/event/15240558
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T160000Z
+DTEND:20260508T180000Z
+DTSTAMP:20260508T000000Z
+SUMMARY:Lunch & Learn with Reference USA
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16596689
+URL:https://bccls.libcal.com/event/16596689
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T190000Z
