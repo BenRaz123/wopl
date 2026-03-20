@@ -8,42 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260219T160000Z
-DTEND:20260219T163000Z
-DTSTAMP:20260219T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997743
-URL:https://bccls.libcal.com/event/15997743
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260219T190000Z
-DTEND:20260219T213000Z
-DTSTAMP:20260219T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240547
-URL:https://bccls.libcal.com/event/15240547
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260219T213000Z
-DTEND:20260219T220000Z
-DTSTAMP:20260219T000000Z
-SUMMARY:Super Science
-DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16187107
-URL:https://bccls.libcal.com/event/16187107
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260220T160000Z
 DTEND:20260220T170000Z
 DTSTAMP:20260220T000000Z
@@ -1674,9 +1638,7 @@ DTEND:20260330T160000Z
 DTSTAMP:20260330T000000Z
 SUMMARY:Adult Craft Studio
 DESCRIPTION:A drop-in crafting space for adults\, led by library staff and 
- volunteers. \n\nWe'll supply all the materials you need\, but feel free to 
- bring your own meaningful bits & bobs if you want to incorporate something 
- personal. \n\n
+ volunteers. \n\nWe'll supply all the materials you need.\n\n
 LOCATION:West Orange - Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
@@ -2574,12 +2536,14 @@ BEGIN:VEVENT
 DTSTART:20260501T170000Z
 DTEND:20260501T193000Z
 DTSTAMP:20260501T000000Z
-SUMMARY:First Friday Film
+SUMMARY:First Friday Film: Hamnet
 DESCRIPTION:Join us for monthly film screenings held on the first Friday of 
- each month. \n\nLight refreshments provided.\n\n***
+ each month. \n\nLight refreshments provided.\n\n***\n\nHamnet 
+ (2025)\nPG-13\, 2hrs\, 5min\n\nDirected by: Chloe Zhao\nStarring: Jessie 
+ Buckley\, Paul Mescal
 LOCATION:West Orange - Community Room 2\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
+CATEGORIES:Movie
 UID:LibCal-10341-16200562
 URL:https://bccls.libcal.com/event/16200562
 END:VEVENT
@@ -2974,6 +2938,20 @@ UID:LibCal-10341-15240561
 URL:https://bccls.libcal.com/event/15240561
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260529T150000Z
+DTEND:20260529T160000Z
+DTSTAMP:20260529T000000Z
+SUMMARY:Book Club: Flashlight
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\n\nMay Title\n\nFLASHLIGHT\nby Susan Choi \n\n
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-16411905
+URL:https://bccls.libcal.com/event/16411905
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260530T190000Z
 DTEND:20260530T203000Z
 DTSTAMP:20260530T000000Z
@@ -3060,6 +3038,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240562
 URL:https://bccls.libcal.com/event/15240562
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260605T170000Z
+DTEND:20260605T193000Z
+DTSTAMP:20260605T000000Z
+SUMMARY:First Friday Film: Blue Moon
+DESCRIPTION:Join us for monthly film screenings on the first Friday of the 
+ month. \n\nLight refreshments provided.\n\n***\n\nBlue Moon (2025)\nRated 
+ R\, 1hr\, 40min\n\nDirected by: Richard Linklater\nStarring: Ethan Hawke\, 
+ Margaret Qualley. Andrew Scott\, Bobby Cannavale
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-16200566
+URL:https://bccls.libcal.com/event/16200566
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260606T190000Z
