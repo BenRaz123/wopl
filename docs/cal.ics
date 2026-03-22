@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260221T190000Z
-DTEND:20260221T210000Z
-DTSTAMP:20260221T000000Z
-SUMMARY:Lunar New Year Stories and Crafts
-DESCRIPTION:Celebrate the Year of the Horse with Stories and Crafts for all 
- ages! Crafts and Stories led by members of the West Orange High School 
- Asian Culture Club and United Asian Voices of West Orange.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16188698
-URL:https://bccls.libcal.com/event/16188698
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260221T200000Z
-DTEND:20260221T213000Z
-DTSTAMP:20260221T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094408
-URL:https://bccls.libcal.com/event/16094408
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260222T180000Z
 DTEND:20260222T213000Z
 DTSTAMP:20260222T000000Z
@@ -1975,6 +1949,32 @@ UID:LibCal-10341-16469773
 URL:https://bccls.libcal.com/event/16469773
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260409T220000Z
+DTEND:20260409T230000Z
+DTSTAMP:20260409T000000Z
+SUMMARY:The Lenape: Native Americans\, New Jersey\, and American History.
+DESCRIPTION:The program\n\nAn exploration of Lenape life and history in 
+ recognition of the 250th anniversary of the American Revolution. Seton Hall 
+ University history professor Dr. Sean P. Harvey will explore the rich and 
+ complex history of the Lenape people who inhabited New Jersey during the 
+ European colonization.\n\n \n\nAbout the presenter\n\nPresenter Dr. Sean P. 
+ Harvey teaches courses on Colonial America\, Revolutionary America\, 
+ Democracy\, Slavery\, and Manifest Destiny\, as well as Native American 
+ History before Removal. He also conducts surveys of American history and 
+ departmental seminars. He is the author of Native Tongues: Colonialism and 
+ Race from Encounter to the Reservation and serves on the Editorial Board of 
+ Commonplace: The Journal of Early American Life. Additionally\, he is a 
+ member of the Advisory Council at the McNeil Center for Early American 
+ Studies and the Revolution NJ Scholarly and Public Programs Working Group 
+ and co-edited Reviews for the Journal of the Early Republic from 2014 to 
+ 2017.\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-16337966
+URL:https://bccls.libcal.com/event/16337966
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260411T190000Z
 DTEND:20260411T203000Z
 DTSTAMP:20260411T000000Z
@@ -2254,16 +2254,16 @@ BEGIN:VEVENT
 DTSTART:20260420T223000Z
 DTEND:20260420T233000Z
 DTSTAMP:20260420T000000Z
-SUMMARY:Java Compost
+SUMMARY:Composting for your Garden with Java's Compost
 DESCRIPTION:Come learn about composting from the folks at Java's Compost 
  !\n\nJava’s Compost is a New Jersey-based company that collects food 
  waste from residents and businesses\, turning it into nutrient-rich compost 
  for gardens\, agriculture\, and infrastructure projects.\n\nFounded in 2018 
- by Java and Michelle Bradley\,  Java’s Compost operates in several towns 
+ by Java and Michelle Bradley\, Java's Compost operates in several towns 
  across Morris\, Essex\, and Union counties in New Jersey\, including West 
  Orange\, Summit\, Maplewood\, and Montclair. The company was inspired by 
- Java’s experience with school composting programs and a desire to reduce 
- food waste while promoting sustainable practices.
+ Java's experience with school composting programs and a desire to reduce 
+ food waste while promoting sustainable practices.\n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
