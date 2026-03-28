@@ -8,20 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260227T210000Z
-DTEND:20260227T220000Z
-DTSTAMP:20260227T000000Z
-SUMMARY:Board Games
-DESCRIPTION:A variety of board games and puzzles will be available to use 
- for children in grades K-5 in the youth services programming room. No 
- Registration Required.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-16202710
-URL:https://bccls.libcal.com/event/16202710
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260228T190000Z
 DTEND:20260228T200000Z
 DTSTAMP:20260228T000000Z
