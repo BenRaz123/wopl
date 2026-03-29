@@ -8,53 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260228T190000Z
-DTEND:20260228T200000Z
-DTSTAMP:20260228T000000Z
-SUMMARY:Screen Free Fun Challenge
-DESCRIPTION:Enjoy screen- free crafts for youth of all ages Saturday @2PM! 
- This week's project is paper mosaics led by awesome high school volunteers.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16494101
-URL:https://bccls.libcal.com/event/16494101
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260228T190000Z
-DTEND:20260228T203000Z
-DTSTAMP:20260228T000000Z
-SUMMARY:"Swingin' Blues with the Frost Kings
-DESCRIPTION:featuring The FrostKings\n\nFrom the North Jersey region\, the 
- FrostKings are an ensemble that specializes in R&B\, swing\, and blues. The 
- FrostKings have performed at numerous festivals and venues in Northern New 
- Jersey and Southern New York State\, making them well-known to music 
- enthusiasts. Their repertoire encompasses a wide range of styles\, 
- including the classic blues of Luther "Guitar Jr." Johnson\, B.B. King\, 
- Eddie "Clean Head" Vinson\, and Muddy Waters\, as well as the R&B of Jackie 
- Brenston and Otis Redding. They are equally comfortable playing swinging 
- shuffles\, slow blues\, or full-tilt boogies. If you are not already a fan 
- of swing-blues\, listening to their icy-cold tones will change that. 
- Therefore\, relax with the FrostKings!
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-16303905
-URL:https://bccls.libcal.com/event/16303905
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260228T200000Z
-DTEND:20260228T213000Z
-DTSTAMP:20260228T000000Z
-SUMMARY:Drop in ESL Class with Instructor Jason Graves
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094409
-URL:https://bccls.libcal.com/event/16094409
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260301T190000Z
 DTEND:20260301T200000Z
 DTSTAMP:20260301T000000Z
