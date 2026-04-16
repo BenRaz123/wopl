@@ -8,23 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260315T190000Z
-DTEND:20260315T200000Z
-DTSTAMP:20260315T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at 
- https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
- - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15765205
-URL:https://bccls.libcal.com/event/15765205
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260316T140000Z
 DTEND:20260316T180000Z
 DTSTAMP:20260316T000000Z
@@ -1283,7 +1266,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094521
@@ -1295,7 +1278,7 @@ DTEND:20260415T193000Z
 DTSTAMP:20260415T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094616
@@ -1327,7 +1310,7 @@ DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials
  provided!\n\nNo prior experience required- beginners to experts 
  welcome.\n\nA unique and self contained story: no prior or ongoing 
  attendance necessary!\n\nSign up at: tinyurl.com/MAR2026WOPLDND
-LOCATION:West Orange - Program Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
 UID:LibCal-10341-16547227
@@ -1603,7 +1586,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094522
@@ -1615,7 +1598,7 @@ DTEND:20260422T193000Z
 DTSTAMP:20260422T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094617
@@ -1637,6 +1620,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-15536303
 URL:https://bccls.libcal.com/event/15536303
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260422T200000Z
+DTEND:20260422T210000Z
+DTSTAMP:20260422T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16736433
+URL:https://bccls.libcal.com/event/16736433
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260422T223000Z
@@ -1797,7 +1793,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094523
@@ -1809,7 +1805,7 @@ DTEND:20260429T193000Z
 DTSTAMP:20260429T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094618
@@ -1896,6 +1892,19 @@ UID:LibCal-10341-16200562
 URL:https://bccls.libcal.com/event/16200562
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260501T200000Z
+DTEND:20260501T210000Z
+DTSTAMP:20260501T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:All ages can come read to a therapy dog and build reading 
+ skills & confidence.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16737652
+URL:https://bccls.libcal.com/event/16737652
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260502T190000Z
 DTEND:20260502T203000Z
 DTSTAMP:20260502T000000Z
@@ -1923,6 +1932,19 @@ UID:LibCal-10341-16094952
 URL:https://bccls.libcal.com/event/16094952
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260505T200000Z
+DTEND:20260505T210000Z
+DTSTAMP:20260505T000000Z
+SUMMARY:Tween Scene: Gaming!
+DESCRIPTION:Enjoy games on the library switch: Super Smash or Just Dance! 
+ Tween Scene is for anyone ages 9 - 12.\n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16742084
+URL:https://bccls.libcal.com/event/16742084
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T170000Z
 DTEND:20260506T180000Z
 DTSTAMP:20260506T000000Z
@@ -1936,7 +1958,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094524
@@ -1948,7 +1970,7 @@ DTEND:20260506T193000Z
 DTSTAMP:20260506T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094619
@@ -1972,6 +1994,21 @@ UID:LibCal-10341-16034676
 URL:https://bccls.libcal.com/event/16034676
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T230000Z
+DTEND:20260507T000000Z
+DTSTAMP:20260506T000000Z
+SUMMARY:Teen De-Stress Hour
+DESCRIPTION:Studying for a big test?\n\nCome to the teen area and enjoy: 
+ -coloring\, -calming music\, -popping bubble wrap\, -herbal tea\, -fidget 
+ toys\n\n \n\nTwo chances to de-stress! Wednesday\, May 6th from 7 - 8PM and 
+ Saturday\, May 9th from 2 - 3PM.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16742189
+URL:https://bccls.libcal.com/event/16742189
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T180000Z
 DTEND:20260507T203000Z
 DTSTAMP:20260507T000000Z
@@ -1982,6 +2019,35 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240558
 URL:https://bccls.libcal.com/event/15240558
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260507T203000Z
+DTEND:20260507T213000Z
+DTSTAMP:20260507T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
+ strategies on how to play better and enjoy chess more. All ages and skill 
+ levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16598928
+URL:https://bccls.libcal.com/event/16598928
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T180000Z
+DTEND:20260509T190000Z
+DTSTAMP:20260509T000000Z
+SUMMARY:Teen De-Stress Hour
+DESCRIPTION:Studying for a big test?\n\nCome to the teen area and enjoy: 
+ -coloring\, -calming music\, -popping bubble wrap\, -herbal tea\, -fidget 
+ toys\n\n \n\nTwo chances to de-stress! Wednesday\, May 6th from 7 - 8PM and 
+ Saturday\, May 9th from 2 - 3PM.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16742192
+URL:https://bccls.libcal.com/event/16742192
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T190000Z
@@ -2024,7 +2090,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094525
@@ -2036,7 +2102,7 @@ DTEND:20260513T193000Z
 DTSTAMP:20260513T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094620
@@ -2060,6 +2126,39 @@ UID:LibCal-10341-16034677
 URL:https://bccls.libcal.com/event/16034677
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260513T223000Z
+DTEND:20260514T003000Z
+DTSTAMP:20260513T000000Z
+SUMMARY:Abstract Collage
+DESCRIPTION:A 3-session art class for adults with Cynthia Pareja 
+ Dubin\n\nClass Dates: May 13\, 20\, 27\nTime: 6:30pm-8:30pm\n\nLearn from 
+ talented teaching artist Cynthia Pareja Dubin in this three-week course 
+ designed to introduce participants to the art of abstract collage. Students 
+ will learn how to create dynamic\, expressive compositions using various 
+ papers\, materials\, and found objects. They will explore fundamental 
+ principles of design\, color theory\, and texture\, encouraging personal 
+ expression and creative discovery.\n\nAll materials will be provided. No 
+ prior art experience is necessary\, and all skill levels are 
+ welcome.\n\nSession 1: May 13\nThe Foundation of Abstract 
+ Collage\nIntroduction to abstract art and collage history / Explanation of 
+ tools / Materials exploration / Composition basics\n\nSession 2: May 
+ 20\nInspiration and Narrative\nDeveloping a palette / Layering and texture 
+ / Creating a series\n\nSession 3: May 27\nFinalizing and 
+ Sharing\nRefinement / Finishing / Group critique and discussion\n\nThis 
+ learning program is structured as three distinct\, two-hour sessions\, 
+ allowing participants to build on their skills progressively. Participants 
+ register for the class with the understanding that they are committing to 
+ all three sessions\, to be held on consecutive Wednesday evenings. While 
+ unavoidable absences are understood\, the idea is to commit to the full 
+ course as the lessons build sequentially. Registration will remain open 
+ until May 13\, the date of the initial session.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16406048
+URL:https://bccls.libcal.com/event/16406048
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260514T180000Z
 DTEND:20260514T203000Z
 DTSTAMP:20260514T000000Z
@@ -2070,6 +2169,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240559
 URL:https://bccls.libcal.com/event/15240559
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260514T203000Z
+DTEND:20260514T213000Z
+DTSTAMP:20260514T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
+ strategies on how to play better and enjoy chess more. All ages and skill 
+ levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16598929
+URL:https://bccls.libcal.com/event/16598929
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260516T190000Z
@@ -2112,7 +2225,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094526
@@ -2124,7 +2237,7 @@ DTEND:20260520T193000Z
 DTSTAMP:20260520T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094621
@@ -2148,6 +2261,34 @@ UID:LibCal-10341-16034678
 URL:https://bccls.libcal.com/event/16034678
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T223000Z
+DTEND:20260520T233000Z
+DTSTAMP:20260520T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High school students: Be a library star & help shape teen 
+ services at the library. Earn volunteer hours for attending- new members 
+ always welcome! Teen Advisory Group meets in the library teen 
+ space.\n\nEmail teens@westorangelibrary.org \n\n\n
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16733221
+URL:https://bccls.libcal.com/event/16733221
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260520T223000Z
+DTEND:20260521T003000Z
+DTSTAMP:20260520T000000Z
+SUMMARY:Abstract Collage
+DESCRIPTION:Part of a 3-week series that meets on Wednesdays from 
+ 6:30-8:30pm from May 13-27.   \n\nVisit the course registration page to 
+ learn more and to see if spots are still available.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16408737
+URL:https://bccls.libcal.com/event/16408737
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260521T180000Z
 DTEND:20260521T203000Z
 DTSTAMP:20260521T000000Z
@@ -2158,6 +2299,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240560
 URL:https://bccls.libcal.com/event/15240560
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260521T203000Z
+DTEND:20260521T213000Z
+DTSTAMP:20260521T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
+ strategies on how to play better and enjoy chess more. All ages and skill 
+ levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16598930
+URL:https://bccls.libcal.com/event/16598930
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
@@ -2199,6 +2354,19 @@ UID:LibCal-10341-16094955
 URL:https://bccls.libcal.com/event/16094955
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260526T200000Z
+DTEND:20260526T210000Z
+DTSTAMP:20260526T000000Z
+SUMMARY:Tween Lego Build
+DESCRIPTION:Tweens Ages 9 - 12: This is YOUR time to build with Lego! Build 
+ independently or together with the library legos.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16742288
+URL:https://bccls.libcal.com/event/16742288
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260527T130000Z
 DTEND:20260527T200000Z
 DTSTAMP:20260527T000000Z
@@ -2226,7 +2394,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094527
@@ -2238,7 +2406,7 @@ DTEND:20260527T193000Z
 DTSTAMP:20260527T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094622
@@ -2262,6 +2430,20 @@ UID:LibCal-10341-16034679
 URL:https://bccls.libcal.com/event/16034679
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260527T223000Z
+DTEND:20260528T003000Z
+DTSTAMP:20260527T000000Z
+SUMMARY:Abstract Collage
+DESCRIPTION:Part of a 3-week series that meets on Wednesdays from 
+ 6:30-8:30pm from May 13-27.   \n\nVisit the course registration page to 
+ learn more and to see if spots are still available.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16408742
+URL:https://bccls.libcal.com/event/16408742
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260528T180000Z
 DTEND:20260528T203000Z
 DTSTAMP:20260528T000000Z
@@ -2272,6 +2454,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club, Games
 UID:LibCal-10341-15240561
 URL:https://bccls.libcal.com/event/15240561
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T203000Z
+DTEND:20260528T213000Z
+DTSTAMP:20260528T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
+ strategies on how to play better and enjoy chess more. All ages and skill 
+ levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16598932
+URL:https://bccls.libcal.com/event/16598932
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T150000Z
@@ -2328,7 +2524,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094528
@@ -2340,7 +2536,7 @@ DTEND:20260603T193000Z
 DTSTAMP:20260603T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094623
@@ -2431,7 +2627,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094529
@@ -2443,7 +2639,7 @@ DTEND:20260610T193000Z
 DTSTAMP:20260610T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094624
@@ -2507,7 +2703,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094530
@@ -2519,7 +2715,7 @@ DTEND:20260617T193000Z
 DTSTAMP:20260617T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094625
@@ -2583,7 +2779,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094531
@@ -2595,7 +2791,7 @@ DTEND:20260624T193000Z
 DTSTAMP:20260624T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094626
@@ -2659,7 +2855,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094532
@@ -2671,7 +2867,7 @@ DTEND:20260701T193000Z
 DTSTAMP:20260701T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094627
@@ -2759,7 +2955,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094533
@@ -2771,7 +2967,7 @@ DTEND:20260708T193000Z
 DTSTAMP:20260708T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094628
@@ -2835,7 +3031,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094534
@@ -2847,7 +3043,7 @@ DTEND:20260715T193000Z
 DTSTAMP:20260715T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094629
@@ -2911,7 +3107,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094535
@@ -2923,7 +3119,7 @@ DTEND:20260722T193000Z
 DTSTAMP:20260722T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094630
@@ -2987,7 +3183,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094536
@@ -2999,7 +3195,7 @@ DTEND:20260729T193000Z
 DTSTAMP:20260729T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094631
@@ -3063,7 +3259,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094537
@@ -3075,7 +3271,7 @@ DTEND:20260805T193000Z
 DTSTAMP:20260805T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094632
@@ -3139,7 +3335,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094538
@@ -3151,7 +3347,7 @@ DTEND:20260812T193000Z
 DTSTAMP:20260812T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094633
@@ -3215,7 +3411,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094539
@@ -3227,7 +3423,7 @@ DTEND:20260819T193000Z
 DTSTAMP:20260819T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094634
@@ -3291,7 +3487,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094540
@@ -3303,7 +3499,7 @@ DTEND:20260826T193000Z
 DTSTAMP:20260826T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094635
@@ -3367,7 +3563,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094541
@@ -3379,7 +3575,7 @@ DTEND:20260902T193000Z
 DTSTAMP:20260902T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094636
@@ -3455,7 +3651,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094542
@@ -3467,7 +3663,7 @@ DTEND:20260909T193000Z
 DTSTAMP:20260909T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094637
@@ -3531,7 +3727,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094543
@@ -3543,7 +3739,7 @@ DTEND:20260916T193000Z
 DTSTAMP:20260916T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094638
@@ -3607,7 +3803,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094544
@@ -3619,7 +3815,7 @@ DTEND:20260923T193000Z
 DTSTAMP:20260923T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094639
@@ -3683,7 +3879,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094545
@@ -3695,7 +3891,7 @@ DTEND:20260930T193000Z
 DTSTAMP:20260930T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094640
@@ -3759,7 +3955,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094546
@@ -3771,7 +3967,7 @@ DTEND:20261007T193000Z
 DTSTAMP:20261007T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094641
@@ -3835,7 +4031,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094547
@@ -3847,7 +4043,7 @@ DTEND:20261014T193000Z
 DTSTAMP:20261014T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094642
@@ -3911,7 +4107,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094548
@@ -3923,7 +4119,7 @@ DTEND:20261021T193000Z
 DTSTAMP:20261021T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094643
@@ -3987,7 +4183,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094549
@@ -3999,7 +4195,7 @@ DTEND:20261028T193000Z
 DTSTAMP:20261028T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094644
@@ -4063,7 +4259,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094550
@@ -4075,7 +4271,7 @@ DTEND:20261104T203000Z
 DTSTAMP:20261104T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094645
@@ -4139,7 +4335,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094551
@@ -4151,7 +4347,7 @@ DTEND:20261111T203000Z
 DTSTAMP:20261111T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094646
@@ -4215,7 +4411,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094552
@@ -4227,7 +4423,7 @@ DTEND:20261118T203000Z
 DTSTAMP:20261118T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094647
@@ -4302,7 +4498,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094553
@@ -4314,7 +4510,7 @@ DTEND:20261125T203000Z
 DTSTAMP:20261125T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094648
@@ -4389,7 +4585,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094554
@@ -4401,7 +4597,7 @@ DTEND:20261202T203000Z
 DTSTAMP:20261202T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094649
@@ -4465,7 +4661,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094555
@@ -4477,7 +4673,7 @@ DTEND:20261209T203000Z
 DTSTAMP:20261209T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094650
@@ -4541,7 +4737,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094556
@@ -4553,7 +4749,7 @@ DTEND:20261216T203000Z
 DTSTAMP:20261216T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094651
@@ -4617,7 +4813,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094557
@@ -4629,7 +4825,7 @@ DTEND:20261223T203000Z
 DTSTAMP:20261223T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094652
@@ -4715,7 +4911,7 @@ DESCRIPTION:\n	Join this informal get-together for anyone who wants to
  vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
  get to know others who want to gain comfort with English 
  conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094558
@@ -4727,7 +4923,7 @@ DTEND:20261230T203000Z
 DTSTAMP:20261230T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094653
