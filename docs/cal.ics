@@ -8,59 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260319T150000Z
-DTEND:20260319T153000Z
-DTSTAMP:20260319T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997747
-URL:https://bccls.libcal.com/event/15997747
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T180000Z
-DTEND:20260319T203000Z
-DTSTAMP:20260319T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240551
-URL:https://bccls.libcal.com/event/15240551
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T203000Z
-DTEND:20260319T210000Z
-DTSTAMP:20260319T000000Z
-SUMMARY:Super Science
-DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16187129
-URL:https://bccls.libcal.com/event/16187129
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260319T223000Z
-DTEND:20260320T003000Z
-DTSTAMP:20260319T000000Z
-SUMMARY:Artist Reception: Cynthia Pareja Dubin
-DESCRIPTION:Meet exhibiting artist Cynthia Pareja Dubin.\n\nViewing will 
- take place in the gallery\, with light refreshments in the Literacy 
- Room.\n\nReparando Mundos - Restoring Worlds by Cynthia Pareja Dubin will 
- be on display at the West Orange Public Library from March 11 to April 24\, 
- 2026. \n\nVisit our Art Gallery page for more information on the artist and 
- exhibition.\n
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-15893273
-URL:https://bccls.libcal.com/event/15893273
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260320T200000Z
 DTEND:20260320T210000Z
 DTSTAMP:20260320T000000Z
