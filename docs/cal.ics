@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260322T180000Z
-DTEND:20260322T190000Z
-DTSTAMP:20260322T000000Z
-SUMMARY:Tween Book Club
-DESCRIPTION:Book Discussion for tweens ages 9 - 12! This month we will 
- discuss Shadow Fox by Carlie Sorosiak and other favorite books.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16527576
-URL:https://bccls.libcal.com/event/16527576
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
 DTSTAMP:20260323T000000Z
@@ -1579,6 +1566,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094418
 URL:https://bccls.libcal.com/event/16094418
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260504T200000Z
+DTEND:20260504T210000Z
+DTSTAMP:20260504T000000Z
+SUMMARY:Drop-in Craft:  Mother's Day  CD Wind Spinners
+DESCRIPTION:Join us to make Mother’s Day CD wind spinners. For children 
+ K-2nd grade.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16735735
+URL:https://bccls.libcal.com/event/16735735
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260504T220000Z
