@@ -8,61 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260323
-DTEND;VALUE=DATE:20260324
-DTSTAMP:20260323T000000Z
-SUMMARY:Take Home Craft:  3D Family Trees
-DESCRIPTION:For Women's History Month\, stop by the Youth Services 
- Department to grab a craft to take home and make with a caregiver. (While 
- supplies last)
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16398593
-URL:https://bccls.libcal.com/event/16398593
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260323T140000Z
-DTEND:20260323T180000Z
-DTSTAMP:20260323T000000Z
-SUMMARY:AARP Tax Assistance
-DESCRIPTION:Tax Assistance available on Mondays & 
- Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
- 973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15405359
-URL:https://bccls.libcal.com/event/15405359
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260323T200000Z
-DTEND:20260323T210000Z
-DTSTAMP:20260323T000000Z
-SUMMARY:Twilight Saga Lego House Build
-DESCRIPTION:Celebrate New Jersey Makers Day by building the iconic Cullen 
- Lego House. For teens ages 12 .
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16486037
-URL:https://bccls.libcal.com/event/16486037
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260323T220000Z
-DTEND:20260323T230000Z
-DTSTAMP:20260323T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and improve 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15536473
-URL:https://bccls.libcal.com/event/15536473
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260324T150000Z
 DTEND:20260324T153000Z
 DTSTAMP:20260324T000000Z
@@ -1673,6 +1618,19 @@ UID:LibCal-10341-16742189
 URL:https://bccls.libcal.com/event/16742189
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260507T150000Z
+DTEND:20260507T153000Z
+DTSTAMP:20260507T000000Z
+SUMMARY:Boogie Woogie Babies
+DESCRIPTION:Join Ms. Tiffany for a dance class filled with singing\, 
+ movement & working on fine motor skills.
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Music/Dance
+UID:LibCal-10341-16737621
+URL:https://bccls.libcal.com/event/16737621
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260507T180000Z
 DTEND:20260507T203000Z
 DTSTAMP:20260507T000000Z
@@ -1697,6 +1655,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
 UID:LibCal-10341-16598928
 URL:https://bccls.libcal.com/event/16598928
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260508T200000Z
+DTEND:20260508T210000Z
+DTSTAMP:20260508T000000Z
+SUMMARY:Board Games
+DESCRIPTION:Children 3  can play various board games & puzzles.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16737605
+URL:https://bccls.libcal.com/event/16737605
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T180000Z
@@ -1739,6 +1709,23 @@ UID:LibCal-10341-16737478
 URL:https://bccls.libcal.com/event/16737478
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260510T180000Z
+DTEND:20260510T200000Z
+DTSTAMP:20260510T000000Z
+SUMMARY:Needle Felting Workshop
+DESCRIPTION:Looking for a fun way to spend Mother's Day? Or maybe you just 
+ want to celebrate spring by learning a new crafting skill? Come to the 
+ library to learn how to needle felt!\n\nReilly from Clover Folk Studio will 
+ teach participants how to make three-dimensional flowers using wool and 
+ needle felting tools.\n\nAll tools and materials will be 
+ provided.\n\nRegistration required.\n\n \n\n \n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16413197
+URL:https://bccls.libcal.com/event/16413197
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260511T220000Z
 DTEND:20260511T230000Z
 DTSTAMP:20260511T000000Z
@@ -1752,6 +1739,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094953
 URL:https://bccls.libcal.com/event/16094953
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260512T150000Z
+DTEND:20260512T160000Z
+DTSTAMP:20260512T000000Z
+SUMMARY:Spring Music & Movement with Miss Michelle
+DESCRIPTION:Join Miss Michelle for some songs about flowers\, sunshine and 
+ more in this interactive springtime celebration!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16735874
+URL:https://bccls.libcal.com/event/16735874
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T170000Z
@@ -1889,6 +1889,18 @@ UID:LibCal-10341-16094420
 URL:https://bccls.libcal.com/event/16094420
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260518T200000Z
+DTEND:20260518T210000Z
+DTSTAMP:20260518T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create your own lego creation! For children 6 .
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16735835
+URL:https://bccls.libcal.com/event/16735835
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260518T220000Z
 DTEND:20260518T230000Z
 DTSTAMP:20260518T000000Z
@@ -1968,6 +1980,19 @@ UID:LibCal-10341-16034678
 URL:https://bccls.libcal.com/event/16034678
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260520T200000Z
+DTEND:20260520T210000Z
+DTSTAMP:20260520T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Explore different stimulating sensory filled stations. For 
+ newborns - 5 years old.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16736472
+URL:https://bccls.libcal.com/event/16736472
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260520T223000Z
 DTEND:20260520T233000Z
 DTSTAMP:20260520T000000Z
@@ -2022,6 +2047,18 @@ UID:LibCal-10341-16598930
 URL:https://bccls.libcal.com/event/16598930
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260522T200000Z
+DTEND:20260522T210000Z
+DTSTAMP:20260522T000000Z
+SUMMARY:Board Games
+DESCRIPTION:Children 3  can play various board games & puzzles.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16737609
+URL:https://bccls.libcal.com/event/16737609
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
 DTSTAMP:20260523T000000Z
@@ -2037,7 +2074,7 @@ BEGIN:VEVENT
 DTSTART:20260523T190000Z
 DTEND:20260523T203000Z
 DTSTAMP:20260523T000000Z
-SUMMARY:Learn English
+SUMMARY:Learn English--CANCELED
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
 LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -2059,6 +2096,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094955
 URL:https://bccls.libcal.com/event/16094955
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+DTSTAMP:20260526T000000Z
+SUMMARY:Grab & Create - Take Home Craft: Plastic Spoon Flowers
+DESCRIPTION:Grab & Create plastic spoon spring flowers. For children of all 
+ ages.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16736390
+URL:https://bccls.libcal.com/event/16736390
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260526T200000Z
