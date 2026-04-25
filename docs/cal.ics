@@ -8,30 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260324T150000Z
-DTEND:20260324T153000Z
-DTSTAMP:20260324T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997689
-URL:https://bccls.libcal.com/event/15997689
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260324T150000Z
-DTEND:20260324T170000Z
-DTSTAMP:20260324T000000Z
-SUMMARY:Office of Congresswoman Lamonica McIver
-DESCRIPTION:Office Hours
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16530805
-URL:https://bccls.libcal.com/event/16530805
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260325T140000Z
 DTEND:20260325T180000Z
 DTSTAMP:20260325T000000Z
@@ -1603,6 +1579,19 @@ UID:LibCal-10341-16034676
 URL:https://bccls.libcal.com/event/16034676
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260506T200000Z
+DTEND:20260506T210000Z
+DTSTAMP:20260506T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Explore different stimulating sensory filled stations. For 
+ newborns - 5 years old.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16736437
+URL:https://bccls.libcal.com/event/16736437
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260506T230000Z
 DTEND:20260507T000000Z
 DTSTAMP:20260506T000000Z
@@ -1724,6 +1713,22 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
 UID:LibCal-10341-16413197
 URL:https://bccls.libcal.com/event/16413197
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260511T213000Z
+DTEND:20260511T223000Z
+DTSTAMP:20260511T000000Z
+SUMMARY:Middle School Art Hour
+DESCRIPTION:Get creative and learn how to crochet\, make your own custom 
+ button\, make origami shapes\, and draw. This art hour coincides with the 
+ middle school art show- enjoy works by Edison\, Liberty\, and Roosevelt 
+ students and meet West Orange's stellar middle school art teachers at the 
+ library!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16742275
+URL:https://bccls.libcal.com/event/16742275
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260511T220000Z
@@ -2224,6 +2229,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
 UID:LibCal-10341-16598932
 URL:https://bccls.libcal.com/event/16598932
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260528T223000Z
+DTEND:20260529T003000Z
+DTSTAMP:20260528T000000Z
+SUMMARY:Artist Reception: Annie Norbeck
+DESCRIPTION:Meet exhibiting artist Annie Norbeck.\n\nViewing will take 
+ place in the gallery\, with light refreshments in the Literacy 
+ Room.\n\nTerra Incognita by Annie Norbeck will be on display at the West 
+ Orange Public Library from May 5 to June 26\, 2026.\n
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16483551
+URL:https://bccls.libcal.com/event/16483551
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260529T150000Z
