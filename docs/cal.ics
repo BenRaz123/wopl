@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260327T200000Z
-DTEND:20260327T210000Z
-DTSTAMP:20260327T000000Z
-SUMMARY:Read to a Therapy Dog
-DESCRIPTION:All ages can come read to a therapy dog and build reading 
- skills & confidence.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16444501
-URL:https://bccls.libcal.com/event/16444501
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260328T150000Z
 DTEND:20260328T163000Z
 DTSTAMP:20260328T000000Z
@@ -1523,7 +1510,7 @@ DTSTAMP:20260507T000000Z
 SUMMARY:Chess Club
 DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
  strategies on how to play better and enjoy chess more. All ages and skill 
- levels welcome.
+ levels welcome- registration is not required.
 LOCATION:West Orange - Program Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
@@ -1556,6 +1543,24 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16742192
 URL:https://bccls.libcal.com/event/16742192
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260509T180000Z
+DTEND:20260509T193000Z
+DTSTAMP:20260509T000000Z
+SUMMARY:Jazz Performance by the Ellie Lee Trio
+DESCRIPTION:With Ellie Lee\n\nShe plans to play jazz standards and creative 
+ creations. The harmonious blend of the two styles guarantees an enjoyable 
+ listening experience.\n\nArtist information\n\nAs a pianist\, she excels in 
+ all the idioms she employs\, including careful attention to the minutiae of 
+ arrangement and orchestration\, a deep understanding of groove\, and 
+ providing her musicians with ample opportunity to showcase their talents. 
+ On top of that\, her piano skills are top-notch.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-16604563
+URL:https://bccls.libcal.com/event/16604563
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260509T190000Z
@@ -1694,6 +1699,19 @@ URL:https://bccls.libcal.com/event/16034677
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260513T213000Z
+DTEND:20260513T223000Z
+DTSTAMP:20260513T000000Z
+SUMMARY:AP Art Show Reception
+DESCRIPTION:Celebrate West Orange High School's AP artists and explore 
+ their art show.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16594801
+URL:https://bccls.libcal.com/event/16594801
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260513T213000Z
 DTEND:20260513T233000Z
 DTSTAMP:20260513T000000Z
 SUMMARY:Teen Dungeons & Dragons
@@ -1777,6 +1795,34 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094420
 URL:https://bccls.libcal.com/event/16094420
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260517T180000Z
+DTEND:20260517T200000Z
+DTSTAMP:20260517T000000Z
+SUMMARY:The Creative Flowering of the Beach Boys' Brian Wilson
+DESCRIPTION:With Dave Gebroe\n\nBrian Wilson\, the main creative force 
+ behind The Beach Boys throughout their unparalleled 1960s run\, experienced 
+ a peerless creative renaissance that I believe forcefully to be the most 
+ inspiring and fertile period in any artist’s life ever\, in any medium. 
+ He didn’t just make his art…his art was his life. His life was his 
+ art\, his art was his art\, his joy was his art\, his new friends were his 
+ art…all of it together was a celebration of life\, a space he was 
+ unfortunately never really able to inhabit ever again for various reasons: 
+ family pressure\, career pressure\, drugs\, mental illness\, and the 
+ expectations that come along with being a genius. This presentation\, which 
+ combines a lecture with music and interview clips from my podcast\, 
+ explores the 10-year period from 1958 to 1968\, illustrating how Brian 
+ Wilson creatively soared and\, much like the myth of Icarus\, flew directly 
+ into the sun\n\nArtist information\n\nDave Gebroe\, the creator and host of 
+ the music obsessives podcast Discograffiti\, which has been featuring 
+ interviews with well-known music luminaries now for over 4 years and 
+ running. The show is now rated in the top 1.5% of all podcasts globally.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16413206
+URL:https://bccls.libcal.com/event/16413206
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260518T200000Z
