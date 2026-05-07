@@ -8,48 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260406T140000Z
-DTEND:20260406T180000Z
-DTSTAMP:20260406T000000Z
-SUMMARY:AARP Tax Assistance
-DESCRIPTION:Tax Assistance available on Mondays & 
- Wednesdays.\n\nAppointments are 10 AM\, 11 AM\, 12 PM & 1 PM\n\nCall 
- 973-736- 0196 or stop by the Reference Desk to schedule an appointment.\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15405363
-URL:https://bccls.libcal.com/event/15405363
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260406T200000Z
-DTEND:20260406T210000Z
-DTSTAMP:20260406T000000Z
-SUMMARY:Drop-In Craft: Cherry Blossom Wind Socks
-DESCRIPTION:Join us to make cherry blossom wind socks. For children K-2nd 
- grade
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16570768
-URL:https://bccls.libcal.com/event/16570768
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260406T220000Z
-DTEND:20260406T230000Z
-DTSTAMP:20260406T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094948
-URL:https://bccls.libcal.com/event/16094948
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260407T150000Z
 DTEND:20260407T153000Z
 DTSTAMP:20260407T000000Z
