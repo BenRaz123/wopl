@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260407T150000Z
-DTEND:20260407T153000Z
-DTSTAMP:20260407T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997691
-URL:https://bccls.libcal.com/event/15997691
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260407T200000Z
-DTEND:20260407T210000Z
-DTSTAMP:20260407T000000Z
-SUMMARY:Tween Scene: DIY Journals
-DESCRIPTION:Design your own unique journal for poetry\, sketching\, and 
- more! Tween Scene is for anyone ages 9 - 12.\n\n
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16547217
-URL:https://bccls.libcal.com/event/16547217
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260408T140000Z
 DTEND:20260408T180000Z
 DTSTAMP:20260408T000000Z
@@ -1906,6 +1881,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094422
 URL:https://bccls.libcal.com/event/16094422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260531T053000Z
+DTEND:20260531T193000Z
+DTSTAMP:20260531T000000Z
+SUMMARY:Tween Book Club
+DESCRIPTION:Book Discussion for tweens ages 9 - 12! This month we will 
+ discuss Finding Perfect by Elly Swartz and other favorite books.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16859245
+URL:https://bccls.libcal.com/event/16859245
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260601T220000Z
