@@ -8,18 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260411T190000Z
-DTEND:20260411T203000Z
-DTSTAMP:20260411T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094415
-URL:https://bccls.libcal.com/event/16094415
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260412T180000Z
 DTEND:20260412T193000Z
 DTSTAMP:20260412T000000Z
@@ -1213,7 +1201,7 @@ DESCRIPTION:A 3-session art class for adults with Cynthia Pareja
  unavoidable absences are understood\, the idea is to commit to the full 
  course as the lessons build sequentially. Registration will remain open 
  until May 13\, the date of the initial session.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
+LOCATION:West Orange - Program Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16406048
@@ -1251,7 +1239,7 @@ DTEND:20260515T003000Z
 DTSTAMP:20260514T000000Z
 SUMMARY:Adult Game Night
 DESCRIPTION:
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
+LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft, Games
 UID:LibCal-10341-16380953
@@ -1275,7 +1263,7 @@ DTEND:20260516T203000Z
 DTSTAMP:20260516T000000Z
 SUMMARY:Essex County College Information
 DESCRIPTION:Presentacion en espanol
-LOCATION:West Orange - Community Room 1
+LOCATION:West Orange - Program Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16625955
@@ -1303,7 +1291,7 @@ DESCRIPTION:With Dave Gebroe\n\nBrian Wilson\, the main creative force
  the music obsessives podcast Discograffiti\, which has been featuring 
  interviews with well-known music luminaries now for over 4 years and 
  running. The show is now rated in the top 1.5% of all podcasts globally.
-LOCATION:West Orange - Community Room 1
+LOCATION:West Orange - Program Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16413206
