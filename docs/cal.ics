@@ -8,49 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260412T180000Z
-DTEND:20260412T193000Z
-DTSTAMP:20260412T000000Z
-SUMMARY:Richard Baratta Latin jazz quartet
-DESCRIPTION:With Richard Baratta's All-Star Quartet\n\nRichard Baratta's 
- All-Star Quartet will play at the West Orange Library. They will comprise 
- the famous and talented pianist Toru Dodo\, the senior master bassist 
- Michael Goetz\, and the young saxophonist Patrick Gannon\, who is already a 
- star. The band will play songs from Baratta's previous four albums: "MUSIC 
- IN FILM\," "OFF THE CHARTS" (Jazz oft forgotten Classics)\, "LOOKING BACK" 
- (Rock Classics)\, and "ANOTHER KIND OF BIRD" (Reimagining Charlie Parker). 
- People are invited to ask questions and talk about the music.\nDon't miss 
- it!\n\n \n\nARTIST INFORMATION\nGrammy-nominated Richard Baratta was born 
- in 1950 in Poughkeepsie\, NY\, to talented parents. He started playing 
- saxophone\, flute\, and drums at 12\, then just drums. He played jazz 
- largely in his teens. He relocated to NYC in 1975 to continue his music 
- career after getting a BA in History from Wagner College in 1973 and 
- studying with Jack DeJohnette\, Bob Moses\, and Steve Haas. Baratta 
- performed and recorded in NYC from 1975 until 1984.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16581092
-URL:https://bccls.libcal.com/event/16581092
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260412T190000Z
-DTEND:20260412T200000Z
-DTSTAMP:20260412T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at 
- https://oneinmath.com/register-student/\n\nThis program meets weekly Jan 18 
- - April 26th but will NOT meet Feb 1\, Feb 15\, Mar 22\, and Apr 5.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15765229
-URL:https://bccls.libcal.com/event/15765229
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260413T140000Z
 DTEND:20260413T180000Z
 DTSTAMP:20260413T000000Z
@@ -1091,7 +1048,7 @@ DTSTAMP:20260512T000000Z
 SUMMARY:Spring Music & Movement with Miss Michelle
 DESCRIPTION:Join Miss Michelle for some songs about flowers\, sunshine and 
  more in this interactive springtime celebration!
-LOCATION:West Orange - Community Room 2
+LOCATION:West Orange - Off-site
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
 UID:LibCal-10341-16735874
@@ -1511,7 +1468,7 @@ BEGIN:VEVENT
 DTSTART:20260525T220000Z
 DTEND:20260525T230000Z
 DTSTAMP:20260525T000000Z
-SUMMARY:Rosetta Stone Language Lab
+SUMMARY:Rosetta Stone Language Lab- CANCELLED
 DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
  language learning software is available for free with your library card. 
  Find a program specifically tailored to your learning style and strengthen 
