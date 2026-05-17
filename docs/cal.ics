@@ -8,56 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260416T150000Z
-DTEND:20260416T153000Z
-DTSTAMP:20260416T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997751
-URL:https://bccls.libcal.com/event/15997751
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T180000Z
-DTEND:20260416T203000Z
-DTSTAMP:20260416T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240555
-URL:https://bccls.libcal.com/event/15240555
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T203000Z
-DTEND:20260416T210000Z
-DTSTAMP:20260416T000000Z
-SUMMARY:Super Science
-DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16469778
-URL:https://bccls.libcal.com/event/16469778
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260416T223000Z
-DTEND:20260417T003000Z
-DTSTAMP:20260416T000000Z
-SUMMARY:Adult Game Night
-DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
- some fun & friendly competition. A selection of board games will be 
- available & feel free to bring your own as well.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft, Games
-UID:LibCal-10341-16380940
-URL:https://bccls.libcal.com/event/16380940
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260417T150000Z
 DTEND:20260417T160000Z
 DTSTAMP:20260417T000000Z
@@ -1096,34 +1046,6 @@ UID:LibCal-10341-16625955
 URL:https://bccls.libcal.com/event/16625955
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260517T180000Z
-DTEND:20260517T200000Z
-DTSTAMP:20260517T000000Z
-SUMMARY:The Creative Flowering of the Beach Boys' Brian Wilson
-DESCRIPTION:With Dave Gebroe\n\nBrian Wilson\, the main creative force 
- behind The Beach Boys throughout their unparalleled 1960s run\, experienced 
- a peerless creative renaissance that I believe forcefully to be the most 
- inspiring and fertile period in any artist’s life ever\, in any medium. 
- He didn’t just make his art… His art was his life. His life was his 
- art\, his art was his art\, his joy was his art\, his new friends were his 
- art…all of it together was a celebration of life\, a space he was 
- unfortunately never really able to inhabit ever again for various reasons: 
- family pressure\, career pressure\, drugs\, mental illness\, and the 
- expectations that come along with being a genius. This presentation\, which 
- combines a lecture with music and interview clips from my podcast\, 
- explores the 10-year period from 1958 to 1968\, illustrating how Brian 
- Wilson creatively soared and\, much like the myth of Icarus\, flew directly 
- into the sun\n\nArtist information\n\nDave Gebroe\, the creator and host of 
- the music obsessives podcast Discograffiti\, which has been featuring 
- interviews with well-known music luminaries now for over 4 years and 
- running. The show is now rated in the top 1.5% of all podcasts globally.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16413206
-URL:https://bccls.libcal.com/event/16413206
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260518T200000Z
 DTEND:20260518T210000Z
 DTSTAMP:20260518T000000Z
@@ -1861,6 +1783,34 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034683
 URL:https://bccls.libcal.com/event/16034683
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260625T223000Z
+DTEND:20260625T233000Z
+DTSTAMP:20260625T000000Z
+SUMMARY:The Creative Flowering of the Beach Boys' Brian Wilson
+DESCRIPTION:With Dave Gebroe\n\nBrian Wilson\, the main creative force 
+ behind The Beach Boys throughout their unparalleled 1960s run\, experienced 
+ a peerless creative renaissance that I believe forcefully to be the most 
+ inspiring and fertile period in any artist’s life ever\, in any medium. 
+ He didn’t just make his art… His art was his life. His life was his 
+ art\, his art was his art\, his joy was his art\, his new friends were his 
+ art… all of it together was a celebration of life\, a space he was 
+ unfortunately never really able to inhabit again for various reasons: 
+ family pressure\, career pressure\, drugs\, mental illness\, and the 
+ expectations that come along with being a genius. This presentation\, which 
+ combines a lecture with music and interview clips from my podcast\, 
+ explores the 10-year period from 1958 to 1968\, illustrating how Brian 
+ Wilson creatively soared and\, much like the myth of Icarus\, flew directly 
+ into the sun\n\nArtist information\n\nDave Gebroe is the creator and host 
+ of the music obsessives podcast Discograffiti\, which has been featuring 
+ interviews with well-known music luminaries for over four years. The show 
+ is now rated in the top 1.5% of all podcasts globally.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16413206
+URL:https://bccls.libcal.com/event/16413206
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260627T190000Z
