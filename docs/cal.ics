@@ -8,68 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260418T170000Z
-DTEND:20260418T180000Z
-DTSTAMP:20260418T000000Z
-SUMMARY:Teen Poetry Open Mic
-DESCRIPTION:Open Mic for poets 13 - 19 to share their words! Read a poem 
- you wrote or support your friends-
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16547222
-URL:https://bccls.libcal.com/event/16547222
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260418T180000Z
-DTEND:20260418T190000Z
-DTSTAMP:20260418T000000Z
-SUMMARY:Garden State: Living Off the Land in Early New Jersey
-DESCRIPTION: An exploration of the state's agricultural history in 
- recognition of the 250th anniversary of the American Revolution.\n\nThe 
- program\n\nGarden State: Living Off the Land in Early New Jersey examines 
- how 18th- and 19th-century New Jersey farmers survived with technology such 
- as bee smokers and cradle scythes. The program will also spotlight the next 
- generation of Garden State farmers trying to shorten the farm-to-table 
- journey for families. \n\nAbout the presenter\n\nThe Museum of Early Trades 
- & Crafts looks at American history through the lives and experiences of 
- craftsmen and artisans from the 18th and 19th centuries. Their mission is 
- to share the past by connecting people's lives and stories to help us 
- envisage the future.\n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-16195004
-URL:https://bccls.libcal.com/event/16195004
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260418T190000Z
-DTEND:20260418T203000Z
-DTSTAMP:20260418T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094416
-URL:https://bccls.libcal.com/event/16094416
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260418T193000Z
-DTEND:20260418T201500Z
-DTSTAMP:20260418T000000Z
-SUMMARY:Jump! Dance! Sing! with JP Arthur
-DESCRIPTION:Ages 0 - 6.\n\nChildren will count the strings on the guitar\, 
- play their "air" guitars\, dance\, sing-a-long\, and help Mr. John write 
- their very own version of "Wheels on the Bus" at this interactive concert. 
- After the concert\, everyone will take a turn playing the guitar!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15824359
-URL:https://bccls.libcal.com/event/15824359
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260419T180000Z
 DTEND:20260419T200000Z
 DTSTAMP:20260419T000000Z
@@ -1418,7 +1356,7 @@ UID:LibCal-10341-16094422
 URL:https://bccls.libcal.com/event/16094422
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260531T053000Z
+DTSTART:20260531T173000Z
 DTEND:20260531T193000Z
 DTSTAMP:20260531T000000Z
 SUMMARY:Tween Book Club
