@@ -8,66 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260420T200000Z
-DTEND:20260420T210000Z
-DTSTAMP:20260420T000000Z
-SUMMARY:Kid's Blackout Poetry Workshop
-DESCRIPTION:Celebrate National Poetry Month with this fun\, creative 
- workshop! For children 6 .
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16570963
-URL:https://bccls.libcal.com/event/16570963
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T220000Z
-DTEND:20260420T230000Z
-DTSTAMP:20260420T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094950
-URL:https://bccls.libcal.com/event/16094950
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T223000Z
-DTEND:20260420T233000Z
-DTSTAMP:20260420T000000Z
-SUMMARY:Composting for your Garden with Java's Compost
-DESCRIPTION:Come learn about composting from the folks at Java's Compost 
- !\n\nJava’s Compost is a New Jersey-based company that collects food 
- waste from residents and businesses\, turning it into nutrient-rich compost 
- for gardens\, agriculture\, and infrastructure projects.\n\nFounded in 2016 
- by Java and Michelle Bradley\, Java's Compost operates in several towns 
- across Morris\, Essex\, and Union counties in New Jersey\, including West 
- Orange\, Summit\, Maplewood\, and Montclair. The company was inspired by 
- Java's experience with school composting programs and a desire to reduce 
- food waste while promoting sustainable practices.\n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16609032
-URL:https://bccls.libcal.com/event/16609032
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260420T230000Z
-DTEND:20260421T010000Z
-DTSTAMP:20260420T000000Z
-SUMMARY:WOPL Friends Board Meeting
-DESCRIPTION:
-LOCATION:West Orange - Off-site
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16745605
-URL:https://bccls.libcal.com/event/16745605
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260421T150000Z
 DTEND:20260421T153000Z
 DTSTAMP:20260421T000000Z
