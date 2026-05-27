@@ -997,7 +997,7 @@ SUMMARY:Abstract Collage: Session 3
 DESCRIPTION:Part of a 3-week series that meets on Wednesdays from 
  6:30-8:30pm from May 13-27.   \n\nVisit the course registration page to 
  learn more and to see if spots are still available.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
+LOCATION:West Orange - Program Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
 UID:LibCal-10341-16408742
@@ -1097,6 +1097,20 @@ UID:LibCal-10341-16859245
 URL:https://bccls.libcal.com/event/16859245
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260601T203000Z
+DTEND:20260601T213000Z
+DTSTAMP:20260601T000000Z
+SUMMARY:Tween Scratch Meetup- Computer Lab
+DESCRIPTION:Do you enjoy creative coding with Scratch ? Join us in the 
+ computer lab to talk and create with other Scratch enthusiasts. Ages 8 - 
+ 12.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16917404
+URL:https://bccls.libcal.com/event/16917404
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260601T220000Z
 DTEND:20260601T230000Z
 DTSTAMP:20260601T000000Z
@@ -1159,6 +1173,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034680
 URL:https://bccls.libcal.com/event/16034680
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260603T220000Z
+DTEND:20260604T000000Z
+DTSTAMP:20260603T000000Z
+SUMMARY:Grad Cap Decorating
+DESCRIPTION:Congratulations Class of 2026! Bring your graduation cap to 
+ customize- art supplies available to decorate your cap for your special 
+ day.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16721580
+URL:https://bccls.libcal.com/event/16721580
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260604T180000Z
@@ -1279,6 +1307,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Class
 UID:LibCal-10341-16594055
 URL:https://bccls.libcal.com/event/16594055
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260610T230000Z
+DTEND:20260611T003000Z
+DTSTAMP:20260610T000000Z
+SUMMARY:Teen Pride Party
+DESCRIPTION:Make custom pins and tote bags. Enjoy snacks and a good time! 
+ For anyone in grades 6 - 12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16733282
+URL:https://bccls.libcal.com/event/16733282
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260613T190000Z
@@ -1512,6 +1553,53 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094426
 URL:https://bccls.libcal.com/event/16094426
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260628T173000Z
+DTEND:20260628T200000Z
+DTSTAMP:20260628T000000Z
+SUMMARY:Life Tapestries Workshop
+DESCRIPTION:\n\nwith Donelle Wedderburn\n\nAs part of this summer's Unearth 
+ a Story theme\, we invite you to explore and share your own family story 
+ through this craft workshop that blends family cartography and pictorial 
+ mapmaking. Using felt application\, participants will create a quilt square 
+ that maps the people\, neighborhoods\, and migration pathways that have 
+ shaped their lives. \n\nPictorial mapmaking occupies a space between art 
+ and science\, relying on codes\, symbols\, and visual storytelling. The 
+ connection between cartography and quilting is especially potent\, as both 
+ practices share this symbolic language. To ground their work\, participants 
+ will learn about and reference the work of artists like Louise E. Jefferson 
+ and Valerie Goodwin. \n\nNo sewing skills required. All supplies will be 
+ provided. Participants are also invited to bring meaningful fabric scraps 
+ or materials they would like to incorporate into their 
+ project.\n\nRegistration is required. This workshop is designed for adults. 
+ Teens and tweens ages 10  are welcome if participating alongside an adult. 
+ Each participant--adult and youth--must be registered 
+ individually.\n\nAbout the Artist\n\nDonelle Wedderburn is a 
+ Jamaican-American writer and teaching artist who explores how memory and 
+ land shape one another\, and how stories can be carried across landscapes\, 
+ built environments\, and collective memory. Inspired by Black women writers 
+ such as Toni Morrison and June Jordan\, who moved fluidly between narrative 
+ and spatial imagination\, she sees storytelling as a practice that can 
+ shape not only language\, but also the spaces we inhabit.\n\n \n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Special Event
+UID:LibCal-10341-16413222
+URL:https://bccls.libcal.com/event/16413222
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260629T190000Z
+DTEND:20260629T200000Z
+DTSTAMP:20260629T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16897223
+URL:https://bccls.libcal.com/event/16897223
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260629T220000Z
