@@ -8,47 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260427
-DTEND;VALUE=DATE:20260428
-DTSTAMP:20260427T000000Z
-SUMMARY:Take Home Craft: Earth Day Daisies
-DESCRIPTION:Grab & Create an Earth Day daisy. For children of all ages.
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16571071
-URL:https://bccls.libcal.com/event/16571071
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260427T143000Z
-DTEND:20260427T160000Z
-DTSTAMP:20260427T000000Z
-SUMMARY:Adult Craft Studio
-DESCRIPTION:A drop-in crafting space for adults\, led by library staff and 
- volunteers. \n\nWe'll supply all the materials you need\, but feel free to 
- bring your own meaningful bits & bobs if you want to incorporate something 
- personal. \n\n
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16500157
-URL:https://bccls.libcal.com/event/16500157
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260427T220000Z
-DTEND:20260427T230000Z
-DTSTAMP:20260427T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094951
-URL:https://bccls.libcal.com/event/16094951
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260428T150000Z
 DTEND:20260428T153000Z
 DTSTAMP:20260428T000000Z
@@ -1201,6 +1160,29 @@ UID:LibCal-10341-15240562
 URL:https://bccls.libcal.com/event/15240562
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260604T223000Z
+DTEND:20260605T000000Z
+DTSTAMP:20260604T000000Z
+SUMMARY:Hamilton: The Musical and the Duel
+DESCRIPTION:A Rev250 Program\n\nfeaturing Rick Feingold\n\nAn entertaining 
+ and informative look at Hamilton--the play and the revolutionary who 
+ inspired it.\n\nHamilton\, a ground-breaking musical featuring Black and 
+ Latino actors playing the founding fathers\, won 11 Tony awards. Alexander 
+ Hamilton\, an immigrant who became the first Secretary of the Treasury and 
+ founded the U.S. financial system\, died at the hands of Vice President 
+ Aaron Burr upon the dueling grounds in Weehawken\, NJ.\n\nLearn about the 
+ history behind the characters in this fun presentation that includes the 
+ Hamilton mix-tape performance at the White House and music from the 
+ Broadway production.\n\nAbout the presenter\n\nRick Feingold teaches 
+ American history at Bergen Community College. He holds a BA in history from 
+ Rutgers University and an MBA from Penn State University.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-16644214
+URL:https://bccls.libcal.com/event/16644214
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260605T170000Z
 DTEND:20260605T193000Z
 DTSTAMP:20260605T000000Z
@@ -1322,6 +1304,19 @@ UID:LibCal-10341-16733282
 URL:https://bccls.libcal.com/event/16733282
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260612T200000Z
+DTEND:20260612T210000Z
+DTSTAMP:20260612T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:All ages can come read to a therapy dog and build reading 
+ skills & confidence.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16769731
+URL:https://bccls.libcal.com/event/16769731
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260613T190000Z
 DTEND:20260613T203000Z
 DTSTAMP:20260613T000000Z
@@ -1332,6 +1327,35 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094424
 URL:https://bccls.libcal.com/event/16094424
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260614T180000Z
+DTEND:20260614T193000Z
+DTSTAMP:20260614T000000Z
+SUMMARY:Juneteenth and the Continuing Promise of American Freedom
+DESCRIPTION:A Rev250 Program\n\nfeaturing Dr. Leslie Wilson\, Montclair 
+ State University\n\nTo celebrate Juneteenth on the 250th anniversary of the 
+ American Revolution is to remember the ways in which freedom and 
+ independence were not fought for and won for all people in this country in 
+ equal measure. In this lecture\, Montclair State University professor 
+ Leslie Wilson will discuss the promise of American freedom and the rise of 
+ Juneteenth as an early manifestation of African American hopes and 
+ dreams.\n\nDespite the political failure clouding the Civil War and 
+ Reconstruction era\, African Americans found their own strengths and 
+ resilience. They made wartime legislation and the new Constitutional 
+ Amendments serve as a roadmap to equality and a better life. On 
+ Juneteenth\, thousands of freed people found reasons to celebrate their new 
+ lives--a celebration we continue today on the country's newest holiday\, a 
+ holiday that recognizes that African American history is truly American 
+ history.\n\nAbout the presenter\n\nDr. Leslie Wilson is a Professor of 
+ History and Associate Dean in the College of Humanities and Social Sciences 
+ at Montclair State University. He holds a PhD from the Graduate School of 
+ the City University of New York.\n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-16593085
+URL:https://bccls.libcal.com/event/16593085
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260615T220000Z
@@ -1410,6 +1434,19 @@ UID:LibCal-10341-16380910
 URL:https://bccls.libcal.com/event/16380910
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260619T200000Z
+DTEND:20260619T210000Z
+DTSTAMP:20260619T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:Join us for buddy reading that will build confidence\, skill\, 
+ and more with a trained therapy dog from Creature Comfort.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16720696
+URL:https://bccls.libcal.com/event/16720696
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260620T190000Z
 DTEND:20260620T203000Z
 DTSTAMP:20260620T000000Z
@@ -1486,6 +1523,34 @@ UID:LibCal-10341-16034683
 URL:https://bccls.libcal.com/event/16034683
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260624T213000Z
+DTEND:20260624T233000Z
+DTSTAMP:20260624T000000Z
+SUMMARY:Teen Dungeons & Dragons
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16894197
+URL:https://bccls.libcal.com/event/16894197
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260624T220000Z
+DTEND:20260625T010000Z
+DTSTAMP:20260624T000000Z
+SUMMARY:Teen Game Night
+DESCRIPTION:Video games\, board games\, and more! Invite your friends- open 
+ to anyone in grades 6 - 12.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16232746
+URL:https://bccls.libcal.com/event/16232746
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260625T223000Z
 DTEND:20260625T233000Z
 DTSTAMP:20260625T000000Z
@@ -1558,7 +1623,7 @@ BEGIN:VEVENT
 DTSTART:20260628T173000Z
 DTEND:20260628T200000Z
 DTSTAMP:20260628T000000Z
-SUMMARY:Life Tapestries Workshop
+SUMMARY:Life Tapestries: A Felt Quilting Workshop
 DESCRIPTION:\n\nwith Donelle Wedderburn\n\nAs part of this summer's Unearth 
  a Story theme\, we invite you to explore and share your own family story 
  through this craft workshop that blends family cartography and pictorial 
@@ -1666,6 +1731,19 @@ UID:LibCal-10341-16034684
 URL:https://bccls.libcal.com/event/16034684
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260701T210000Z
+DTEND:20260702T010000Z
+DTSTAMP:20260701T000000Z
+SUMMARY:Teen Movie: Hamilton
+DESCRIPTION:Don't throw away your shot- watch Lin Manuel Miranda's Hamilton 
+ \, followed by trivia and karaoke! PG-13.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16232747
+URL:https://bccls.libcal.com/event/16232747
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 DTSTAMP:20260703T000000Z
@@ -1700,6 +1778,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094913
 URL:https://bccls.libcal.com/event/16094913
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260706T190000Z
+DTEND:20260706T200000Z
+DTSTAMP:20260706T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16897232
+URL:https://bccls.libcal.com/event/16897232
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260706T220000Z
@@ -1764,6 +1855,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034685
 URL:https://bccls.libcal.com/event/16034685
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T230000Z
+DTEND:20260709T010000Z
+DTSTAMP:20260708T000000Z
+SUMMARY:Teen Open Mic Night
+DESCRIPTION:Calling all musicians\, poets\, comedians\, singers\, &  
+ performers in grades 6 - 12!\n\nExpress yourself at the library's open mic 
+ night. Bring your band\, tell your friends and family\, and support your 
+ peers.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16232749
+URL:https://bccls.libcal.com/event/16232749
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260711T190000Z
@@ -1842,6 +1948,20 @@ UID:LibCal-10341-16034686
 URL:https://bccls.libcal.com/event/16034686
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260715T223000Z
+DTEND:20260715T233000Z
+DTSTAMP:20260715T000000Z
+SUMMARY:Teen Reptiles and Terrariums with Zoophoria
+DESCRIPTION:See real reptiles and make a living terrarium! This special 
+ program is for teens entering 6th - 12th Grade- unearth your passion for 
+ reptiles with Zoophoria NJ!
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16721543
+URL:https://bccls.libcal.com/event/16721543
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260718T190000Z
 DTEND:20260718T203000Z
 DTSTAMP:20260718T000000Z
@@ -1916,6 +2036,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034687
 URL:https://bccls.libcal.com/event/16034687
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260722T193000Z
+DTEND:20260722T213000Z
+DTSTAMP:20260722T000000Z
+SUMMARY:Teen Dreamstorming and Hat Design
+DESCRIPTION:Dream Big!\n\nLearn about the entrepreneurial process\, 
+ dreamstorm\, and celebrate your creativity and confidence by making your 
+ own custom hat. Grades 6 - 12.\n\nPlease register for a spot.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16232755
+URL:https://bccls.libcal.com/event/16232755
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260725T190000Z
@@ -1994,6 +2128,22 @@ UID:LibCal-10341-16034688
 URL:https://bccls.libcal.com/event/16034688
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260729T213000Z
+DTEND:20260730T003000Z
+DTSTAMP:20260729T000000Z
+SUMMARY:Teen Super Smash Tournament
+DESCRIPTION:Join your friends for the ultimate tournament of Super Smash 
+ Bros. for Switch! Registration Required. Grades 6-12. Please note: this is 
+ a bracket tournament. All players must register in advance and arrive by 
+ 5:30pm in order to participate in the tournament.\n\n \n\nRegister at this 
+ link: Super Smash Tournament
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16734144
+URL:https://bccls.libcal.com/event/16734144
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260801T190000Z
 DTEND:20260801T203000Z
 DTSTAMP:20260801T000000Z
@@ -2068,6 +2218,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034689
 URL:https://bccls.libcal.com/event/16034689
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260805T223000Z
+DTEND:20260806T000000Z
+DTSTAMP:20260805T000000Z
+SUMMARY:Teen DIY Pom Poms and Bag Charms
+DESCRIPTION:Make your own pom pom to use as a bag charm\, room decor\, and 
+ more!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16232759
+URL:https://bccls.libcal.com/event/16232759
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260808T190000Z
