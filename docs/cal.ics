@@ -8,18 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260428T150000Z
-DTEND:20260428T153000Z
-DTSTAMP:20260428T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-15997694
-URL:https://bccls.libcal.com/event/15997694
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260429T170000Z
 DTEND:20260429T180000Z
 DTSTAMP:20260429T000000Z
@@ -1134,6 +1122,19 @@ UID:LibCal-10341-16034680
 URL:https://bccls.libcal.com/event/16034680
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260603T200000Z
+DTEND:20260603T210000Z
+DTSTAMP:20260603T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16734239
+URL:https://bccls.libcal.com/event/16734239
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260603T220000Z
 DTEND:20260604T000000Z
 DTSTAMP:20260603T000000Z
@@ -1198,6 +1199,18 @@ UID:LibCal-10341-16200566
 URL:https://bccls.libcal.com/event/16200566
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260605T200000Z
+DTEND:20260605T210000Z
+DTSTAMP:20260605T000000Z
+SUMMARY:Board Games
+DESCRIPTION:Children 3  can play various board games & puzzles.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16857770
+URL:https://bccls.libcal.com/event/16857770
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260606T190000Z
 DTEND:20260606T203000Z
 DTSTAMP:20260606T000000Z
@@ -1208,6 +1221,29 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094423
 URL:https://bccls.libcal.com/event/16094423
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260607T180000Z
+DTEND:20260607T193000Z
+DTSTAMP:20260607T000000Z
+SUMMARY:"Let's Celebrate America with Our Hit Songs 30's to 50's" with Ellen LaFurn
+DESCRIPTION:With Ellen Lafurn\n\nEnjoy the nostalgic musical event that is 
+ being hosted by jazz soprano Ellen LaFurn\, which is titled "Let's 
+ Celebrate America with Our Hit Songs 30's to 50's." Take advantage of this 
+ fantastic opportunity to witness swinging American jazz in its classic 
+ form.\n\n \n\nArtist information\n\nI began singing professionally when I 
+ was 17 years old with Chang Lee and the Zaniacs\, a "show group." Before 
+ this\, I sang at teen parties and clubs\, and once I was with Little 
+ Anthony & the Imperials. I joined Jerry Mitchell and the Impacts and worked 
+ with and learned from Roland Hanna\, Gus Johnson\, Danny Gibson\, and my 
+ friend Miss Rhapsody\, among others. Then there was the Joe Zarr trio\, 
+ which had the late Al Ross on organ and Warren Battiste on guitar. During 
+ this time\, I also worked with The Traces and the Gary Kay Trio.\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-16408522
+URL:https://bccls.libcal.com/event/16408522
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260608T220000Z
@@ -1358,6 +1394,19 @@ UID:LibCal-10341-16593085
 URL:https://bccls.libcal.com/event/16593085
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260615T200000Z
+DTEND:20260615T210000Z
+DTSTAMP:20260615T000000Z
+SUMMARY:Drop-in Craft: Mini Paper Kites
+DESCRIPTION:Join us in making Mini Paper Kites just in time for the summer. 
+ No registration required. While supplies last.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16857251
+URL:https://bccls.libcal.com/event/16857251
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260615T220000Z
 DTEND:20260615T230000Z
 DTSTAMP:20260615T000000Z
@@ -1371,6 +1420,22 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094958
 URL:https://bccls.libcal.com/event/16094958
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260616T210000Z
+DTEND:20260616T230000Z
+DTSTAMP:20260616T000000Z
+SUMMARY:Summer Reading Kickoff
+DESCRIPTION:Kick off Summer Reading with face painting\, bubbles\, snacks\, 
+ games\, crafts\, a rock wall\, and more for all ages. A kids fun DJ will 
+ have everyone dancing and a special balloon show at 5pm will unearth a 
+ story. All ages welcome. No registration required. Will take place in the 
+ library parking lot\, weather permitting.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16232346
+URL:https://bccls.libcal.com/event/16232346
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260617T170000Z
@@ -1422,6 +1487,32 @@ UID:LibCal-10341-16034682
 URL:https://bccls.libcal.com/event/16034682
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260617T200000Z
+DTEND:20260617T210000Z
+DTSTAMP:20260617T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16734238
+URL:https://bccls.libcal.com/event/16734238
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260617T230000Z
+DTEND:20260618T003000Z
+DTSTAMP:20260617T000000Z
+SUMMARY:Teen Summer Reading Kickoff
+DESCRIPTION:Take part in an immersive Fast and Victorious Gameshow! Pizza 
+ will be provided at this teen-only event for anyone entering grades 6 -12!
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16232367
+URL:https://bccls.libcal.com/event/16232367
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260618T223000Z
 DTEND:20260619T003000Z
 DTSTAMP:20260618T000000Z
@@ -1432,6 +1523,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft, Games
 UID:LibCal-10341-16380910
 URL:https://bccls.libcal.com/event/16380910
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260619T170000Z
+DTEND:20260619T190000Z
+DTSTAMP:20260619T000000Z
+SUMMARY:Miss Juneteenth movie
+DESCRIPTION:Miss Juneteenth (2020)\n1hr\, 43min / unrated\n\nDirected by: 
+ Channing Godfrey Peoples\nStarring: Nicole Beharie\, Liz Mikel\, Marcus M. 
+ Mauldin\n\nA former beauty queen and single mom prepares her rebellious 
+ teenage daughter for the "Miss Juneteenth" pageant.\n\nIMDB page
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-16541062
+URL:https://bccls.libcal.com/event/16541062
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260619T200000Z
@@ -1447,6 +1553,21 @@ UID:LibCal-10341-16720696
 URL:https://bccls.libcal.com/event/16720696
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260620T150000Z
+DTEND:20260620T153000Z
+DTSTAMP:20260620T000000Z
+SUMMARY:Wiggle & Giggle with Miss Bee
+DESCRIPTION:Join Miss Bee for an interactive\, multi-sensory\, creative\, 
+ musical experience for babies\, toddler\, and preschoolers. Experience the 
+ magic of music and movement through traditional and original children's 
+ songs\, puppets\, rhythm sticks and more. No registration required.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16511283
+URL:https://bccls.libcal.com/event/16511283
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260620T190000Z
 DTEND:20260620T203000Z
 DTSTAMP:20260620T000000Z
@@ -1457,6 +1578,45 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094425
 URL:https://bccls.libcal.com/event/16094425
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260621T180000Z
+DTEND:20260621T190000Z
+DTSTAMP:20260621T000000Z
+SUMMARY:Revolutionizing Gender Norms in the 18th Century
+DESCRIPTION:A Rev250 & Pride Month Program\n\nfeaturing Meg Bowersox\, 
+ Museum of the American Revolution\n\nDuring the American Revolution\, some 
+ people seized the opportunity to challenge gender identity and other social 
+ norms of the period. In this thought-provoking lecture\, Meg Bowersox of 
+ the Museum of the American Revolution will discuss The Public Universal 
+ Friend\, Deborah Sampson\, and others of the era who bent or broke gender 
+ norms\, examining how their stories fit into the larger history of the 
+ LGBTQIA  movement in the United States.\n\nAbout the presenter\n\nMeg 
+ Bowersox is the Manager of Gallery Interpretation at the Museum of the 
+ American Revolution in Philadelphia. Meg earned her Master’s in Museum 
+ Education from The University of the Arts and holds a Bachelor of Fine Arts 
+ from William Patterson University. Through its collection\, immersive 
+ galleries\, theater experiences\, and interactive elements the Museum of 
+ the American Revolution aims to uncover and share compelling stories about 
+ the diverse people and complex events that sparked America’s ongoing 
+ experiment in liberty\, equality\, and self-government.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-16593076
+URL:https://bccls.libcal.com/event/16593076
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T200000Z
+DTEND:20260622T210000Z
+DTSTAMP:20260622T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create your own lego creation! For children 6 .
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16857320
+URL:https://bccls.libcal.com/event/16857320
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T220000Z
@@ -1472,6 +1632,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094959
 URL:https://bccls.libcal.com/event/16094959
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260623T150000Z
+DTEND:20260623T153000Z
+DTSTAMP:20260623T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864301
+URL:https://bccls.libcal.com/event/16864301
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260624T170000Z
@@ -1551,6 +1723,18 @@ UID:LibCal-10341-16232746
 URL:https://bccls.libcal.com/event/16232746
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260625T150000Z
+DTEND:20260625T153000Z
+DTSTAMP:20260625T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864465
+URL:https://bccls.libcal.com/event/16864465
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260625T223000Z
 DTEND:20260625T233000Z
 DTSTAMP:20260625T000000Z
@@ -1608,6 +1792,18 @@ UID:LibCal-10341-16500073
 URL:https://bccls.libcal.com/event/16500073
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260626T200000Z
+DTEND:20260626T210000Z
+DTSTAMP:20260626T000000Z
+SUMMARY:Board Games
+DESCRIPTION:Children 3  can play various board games & puzzles.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16857771
+URL:https://bccls.libcal.com/event/16857771
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260627T190000Z
 DTEND:20260627T203000Z
 DTSTAMP:20260627T000000Z
@@ -1654,6 +1850,30 @@ UID:LibCal-10341-16413222
 URL:https://bccls.libcal.com/event/16413222
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260628T180000Z
+DTEND:20260628T190000Z
+DTSTAMP:20260628T000000Z
+SUMMARY:Pokemon Card Palooza
+DESCRIPTION:Learn to play the Pokemon card game! Beginners welcome. Cards 
+ will be provided\, this program is for anyone in grades K - 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16720640
+URL:https://bccls.libcal.com/event/16720640
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+DTSTAMP:20260629T000000Z
+SUMMARY:Grab and Create - Take Home Craft: Pinecone Owls
+DESCRIPTION:Grab & Create pinecone owls. For children of all ages.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16911248
+URL:https://bccls.libcal.com/event/16911248
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260629T190000Z
 DTEND:20260629T200000Z
 DTSTAMP:20260629T000000Z
@@ -1680,6 +1900,36 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094960
 URL:https://bccls.libcal.com/event/16094960
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T150000Z
+DTEND:20260630T153000Z
+DTSTAMP:20260630T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864302
+URL:https://bccls.libcal.com/event/16864302
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260630T190000Z
+DTEND:20260630T203000Z
+DTSTAMP:20260630T000000Z
+SUMMARY:Minecraft Dinosaur Safari
+DESCRIPTION:Embark on a quest around the volcano\, searching for three 
+ hidden keys to unlock cave entrances and discover larger fossils. Fly 
+ around to observe dinosaurs in their natural habitats\, and let your 
+ imagination run wild as you build your own dinosaur. Craft detailed 
+ habitats that include all the essentials for your prehistoric friends! This 
+ quest takes place on a closed Minecraft server and is presented by 
+ Arrayscape Gaming.\n\nGrads 1 - 6.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16232330
+URL:https://bccls.libcal.com/event/16232330
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260701T170000Z
@@ -1731,6 +1981,19 @@ UID:LibCal-10341-16034684
 URL:https://bccls.libcal.com/event/16034684
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260701T200000Z
+DTEND:20260701T210000Z
+DTSTAMP:20260701T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16734407
+URL:https://bccls.libcal.com/event/16734407
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260701T210000Z
 DTEND:20260702T010000Z
 DTSTAMP:20260701T000000Z
@@ -1742,6 +2005,31 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16232747
 URL:https://bccls.libcal.com/event/16232747
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T150000Z
+DTEND:20260702T153000Z
+DTSTAMP:20260702T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864466
+URL:https://bccls.libcal.com/event/16864466
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260702T190000Z
+DTEND:20260702T213000Z
+DTSTAMP:20260702T000000Z
+SUMMARY:Teen Twilight Lego Build and Watch Party
+DESCRIPTION:Celebrate the 20th anniversary of The Twilight Saga with us by 
+ building the iconic Cullen Lego House and watching the 2008 movie (PG-13).
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16750773
+URL:https://bccls.libcal.com/event/16750773
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
@@ -1793,6 +2081,20 @@ UID:LibCal-10341-16897232
 URL:https://bccls.libcal.com/event/16897232
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260706T200000Z
+DTEND:20260706T210000Z
+DTSTAMP:20260706T000000Z
+SUMMARY:Dinosaur Experience Crafting Series
+DESCRIPTION:Every other Monday drop-in with Ms. Shay to create your own 
+ habitat and dinosaur and then become one yourself. For children in grades 
+ K-5. No registration required. While supplies last.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16865461
+URL:https://bccls.libcal.com/event/16865461
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260706T220000Z
 DTEND:20260706T230000Z
 DTSTAMP:20260706T000000Z
@@ -1806,6 +2108,31 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094961
 URL:https://bccls.libcal.com/event/16094961
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260707T150000Z
+DTEND:20260707T153000Z
+DTSTAMP:20260707T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864303
+URL:https://bccls.libcal.com/event/16864303
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260707T193000Z
+DTEND:20260707T203000Z
+DTSTAMP:20260707T000000Z
+SUMMARY:Tween Tuesdays
+DESCRIPTION:Special tween-focused activities! This week's project is 
+ pressed flower bookmarks.\n\nFor kids ages 9-12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16894759
+URL:https://bccls.libcal.com/event/16894759
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260708T170000Z
@@ -1826,6 +2153,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:ESL
 UID:LibCal-10341-16094533
 URL:https://bccls.libcal.com/event/16094533
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260708T170000Z
+DTEND:20260708T180000Z
+DTSTAMP:20260708T000000Z
+SUMMARY:Woolly Pets Kids Needle Felting (Please Register)
+DESCRIPTION:Learn how to needle felt an adorable apatosaurus dinosaur with 
+ Woollypets Studio!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16769743
+URL:https://bccls.libcal.com/event/16769743
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260708T180000Z
@@ -1857,6 +2197,19 @@ UID:LibCal-10341-16034685
 URL:https://bccls.libcal.com/event/16034685
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260708T181500Z
+DTEND:20260708T191500Z
+DTSTAMP:20260708T000000Z
+SUMMARY:Woolly Pets Tween   Teen Needle Felting (Please Register)
+DESCRIPTION:Learn how to needle felt an adorable stegosaurus dinosaur with 
+ Woollypets Studio!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16769744
+URL:https://bccls.libcal.com/event/16769744
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260708T230000Z
 DTEND:20260709T010000Z
 DTSTAMP:20260708T000000Z
@@ -1872,6 +2225,46 @@ UID:LibCal-10341-16232749
 URL:https://bccls.libcal.com/event/16232749
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T150000Z
+DTEND:20260709T153000Z
+DTSTAMP:20260709T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864467
+URL:https://bccls.libcal.com/event/16864467
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260710T180000Z
+DTEND:20260710T200000Z
+DTSTAMP:20260710T000000Z
+SUMMARY:Family Movie Afternoon: Bad Guys II
+DESCRIPTION:Join us for a showing of Bad Guys II. Light refreshments will 
+ be served. The movie is rated PG.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-16615307
+URL:https://bccls.libcal.com/event/16615307
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260711T150000Z
+DTEND:20260711T160000Z
+DTSTAMP:20260711T000000Z
+SUMMARY:Bubbly Beats With Ms. Jolie
+DESCRIPTION:Continue to join us for our weekend family playdates with Ms. 
+ Jolie. A class filled with learning\, movement and music\, stories\, and 
+ lots of bubble popping fun! No registration required. For ages 1-5 years 
+ old.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Music/Dance
+UID:LibCal-10341-14478548
+URL:https://bccls.libcal.com/event/14478548
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260711T190000Z
 DTEND:20260711T203000Z
 DTSTAMP:20260711T000000Z
@@ -1882,6 +2275,33 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094914
 URL:https://bccls.libcal.com/event/16094914
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260713T190000Z
+DTEND:20260713T200000Z
+DTSTAMP:20260713T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16897235
+URL:https://bccls.libcal.com/event/16897235
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260713T220000Z
+DTEND:20260713T230000Z
+DTSTAMP:20260713T000000Z
+SUMMARY:Monday Family Nights: Jester Jim
+DESCRIPTION:Kickoff our Monday Family Nights with Jester Jim. This is NOT 
+ your ordinary juggling show! Jester Jim will leave kids and adults talking 
+ about his wild antics for weeks.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16232417
+URL:https://bccls.libcal.com/event/16232417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260713T220000Z
@@ -1897,6 +2317,32 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094962
 URL:https://bccls.libcal.com/event/16094962
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260714T150000Z
+DTEND:20260714T153000Z
+DTSTAMP:20260714T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864304
+URL:https://bccls.libcal.com/event/16864304
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260714T200000Z
+DTEND:20260714T210000Z
+DTSTAMP:20260714T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ Registration Required
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16979317
+URL:https://bccls.libcal.com/event/16979317
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260715T170000Z
@@ -1948,6 +2394,20 @@ UID:LibCal-10341-16034686
 URL:https://bccls.libcal.com/event/16034686
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260715T200000Z
+DTEND:20260715T210000Z
+DTSTAMP:20260715T000000Z
+SUMMARY:Dino Food Expedition: Fruit Dino
+DESCRIPTION:Join Ms. Shay and make some fun dinosaur inspired food 
+ including a fruit dino & a dino bone snack. For children 3 . No 
+ registration required. While supplies last.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16865595
+URL:https://bccls.libcal.com/event/16865595
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260715T223000Z
 DTEND:20260715T233000Z
 DTSTAMP:20260715T000000Z
@@ -1962,6 +2422,31 @@ UID:LibCal-10341-16721543
 URL:https://bccls.libcal.com/event/16721543
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260716T150000Z
+DTEND:20260716T153000Z
+DTSTAMP:20260716T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864468
+URL:https://bccls.libcal.com/event/16864468
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260717T170000Z
+DTEND:20260717T190000Z
+DTSTAMP:20260717T000000Z
+SUMMARY:Teen DIY Keychains and Jewelry
+DESCRIPTION:Create a polymer clay keychain\, pendant\, earrings\, necklace 
+ or bracelet! Please register for a spot.\n\nGrades 6 - 12
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16894691
+URL:https://bccls.libcal.com/event/16894691
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260718T190000Z
 DTEND:20260718T203000Z
 DTSTAMP:20260718T000000Z
@@ -1972,6 +2457,46 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094915
 URL:https://bccls.libcal.com/event/16094915
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260719T180000Z
+DTEND:20260719T190000Z
+DTSTAMP:20260719T000000Z
+SUMMARY:Glow in the Dark Painting- Artytime
+DESCRIPTION:Join Wendy from Artytime to create a glow in the dark painting 
+ of ladybugs and flowers! For children 6-16 years old.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Class
+UID:LibCal-10341-16382343
+URL:https://bccls.libcal.com/event/16382343
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260720T190000Z
+DTEND:20260720T200000Z
+DTSTAMP:20260720T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16897246
+URL:https://bccls.libcal.com/event/16897246
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260720T200000Z
+DTEND:20260720T210000Z
+DTSTAMP:20260720T000000Z
+SUMMARY:Dinosaur Experience Crafting Series
+DESCRIPTION:Every other Monday drop-in with Ms. Shay to create your own 
+ habitat and dinosaur and then become one yourself. For children in grades 
+ K-5. No registration required. While supplies last.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16865462
+URL:https://bccls.libcal.com/event/16865462
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260720T220000Z
@@ -1987,6 +2512,31 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094963
 URL:https://bccls.libcal.com/event/16094963
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260721T150000Z
+DTEND:20260721T153000Z
+DTSTAMP:20260721T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864305
+URL:https://bccls.libcal.com/event/16864305
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260721T193000Z
+DTEND:20260721T203000Z
+DTSTAMP:20260721T000000Z
+SUMMARY:Tween Tuesdays
+DESCRIPTION:Special tween-focused activities! This week's project is 
+ recycled dinosaur creation.\n\nFor kids ages 9-12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16894775
+URL:https://bccls.libcal.com/event/16894775
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260722T170000Z
@@ -2052,6 +2602,44 @@ UID:LibCal-10341-16232755
 URL:https://bccls.libcal.com/event/16232755
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260722T200000Z
+DTEND:20260722T210000Z
+DTSTAMP:20260722T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16734408
+URL:https://bccls.libcal.com/event/16734408
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260723T150000Z
+DTEND:20260723T153000Z
+DTSTAMP:20260723T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864469
+URL:https://bccls.libcal.com/event/16864469
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260724T180000Z
+DTEND:20260724T200000Z
+DTSTAMP:20260724T000000Z
+SUMMARY:Family Movie Afternoon: The Good Dinosaur
+DESCRIPTION:Join us for a showing of The Good Dinosaur. Light refreshments 
+ will be served. The movie is rated PG.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-16615318
+URL:https://bccls.libcal.com/event/16615318
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260725T190000Z
 DTEND:20260725T203000Z
 DTSTAMP:20260725T000000Z
@@ -2062,6 +2650,33 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094916
 URL:https://bccls.libcal.com/event/16094916
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260727T190000Z
+DTEND:20260727T200000Z
+DTSTAMP:20260727T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16897260
+URL:https://bccls.libcal.com/event/16897260
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260727T220000Z
+DTEND:20260727T224500Z
+DTSTAMP:20260727T000000Z
+SUMMARY:Unique Creatures 6PM Show
+DESCRIPTION:Join us for an educational live animal show. Please register 
+ your child or children for either the 6 or 7pm show. Parents do not need to 
+ register.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16232576
+URL:https://bccls.libcal.com/event/16232576
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260727T220000Z
@@ -2077,6 +2692,46 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094964
 URL:https://bccls.libcal.com/event/16094964
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260727T230000Z
+DTEND:20260728T000000Z
+DTSTAMP:20260727T000000Z
+SUMMARY:Unique Creatures 7PM Show
+DESCRIPTION:Join us for an educational live animal show. Please register 
+ your child or children for either the 6 or 7pm show. Parents do not need to 
+ register.
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16232590
+URL:https://bccls.libcal.com/event/16232590
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260728T150000Z
+DTEND:20260728T153000Z
+DTSTAMP:20260728T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864306
+URL:https://bccls.libcal.com/event/16864306
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260728T200000Z
+DTEND:20260728T210000Z
+DTSTAMP:20260728T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ Registration Required
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16979319
+URL:https://bccls.libcal.com/event/16979319
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260729T170000Z
@@ -2144,6 +2799,31 @@ UID:LibCal-10341-16734144
 URL:https://bccls.libcal.com/event/16734144
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260730T150000Z
+DTEND:20260730T153000Z
+DTSTAMP:20260730T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864470
+URL:https://bccls.libcal.com/event/16864470
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260731T180000Z
+DTEND:20260731T200000Z
+DTSTAMP:20260731T000000Z
+SUMMARY:Family Movie Afternoon: How to Train Your Dragon
+DESCRIPTION:Join us for a showing of How to Train Your Dragon. Light 
+ refreshments will be served. The movie is rated PG.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-16615628
+URL:https://bccls.libcal.com/event/16615628
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260801T190000Z
 DTEND:20260801T203000Z
 DTSTAMP:20260801T000000Z
@@ -2154,6 +2834,47 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094917
 URL:https://bccls.libcal.com/event/16094917
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260802T180000Z
+DTEND:20260802T190000Z
+DTSTAMP:20260802T000000Z
+SUMMARY:Sunshine and Good Times Family Concert
+DESCRIPTION:Popular children's and family entertainer Ron Albanese returns 
+ to West Orange with his feel-good\, "kiddie rock and roll" show- a perfect 
+ summer concert!
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16575161
+URL:https://bccls.libcal.com/event/16575161
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260803T190000Z
+DTEND:20260803T200000Z
+DTSTAMP:20260803T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16897264
+URL:https://bccls.libcal.com/event/16897264
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260803T200000Z
+DTEND:20260803T210000Z
+DTSTAMP:20260803T000000Z
+SUMMARY:Dinosaur Experience Crafting Series
+DESCRIPTION:Every other Monday drop-in with Ms. Shay to create your own 
+ habitat and dinosaur and then become one yourself. For children in grades 
+ K-5. No registration required. While supplies last.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16865463
+URL:https://bccls.libcal.com/event/16865463
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260803T220000Z
@@ -2169,6 +2890,32 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094965
 URL:https://bccls.libcal.com/event/16094965
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260804T150000Z
+DTEND:20260804T153000Z
+DTSTAMP:20260804T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864307
+URL:https://bccls.libcal.com/event/16864307
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260804T193000Z
+DTEND:20260804T203000Z
+DTSTAMP:20260804T000000Z
+SUMMARY:Tween Tuesdays
+DESCRIPTION:Special tween-focused activities! This week's project is 
+ BEDAZZLING- bring a book or item you would like to encrust in a diamond 
+ pattern!\n\nFor kids ages 9-12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16894782
+URL:https://bccls.libcal.com/event/16894782
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260805T170000Z
@@ -2220,6 +2967,19 @@ UID:LibCal-10341-16034689
 URL:https://bccls.libcal.com/event/16034689
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260805T200000Z
+DTEND:20260805T210000Z
+DTSTAMP:20260805T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16734414
+URL:https://bccls.libcal.com/event/16734414
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260805T223000Z
 DTEND:20260806T000000Z
 DTSTAMP:20260805T000000Z
@@ -2233,6 +2993,44 @@ UID:LibCal-10341-16232759
 URL:https://bccls.libcal.com/event/16232759
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260806T150000Z
+DTEND:20260806T153000Z
+DTSTAMP:20260806T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864471
+URL:https://bccls.libcal.com/event/16864471
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260807T200000Z
+DTEND:20260807T210000Z
+DTSTAMP:20260807T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:Join us for buddy reading that will build confidence\, skill\, 
+ and more with a trained therapy dog from Creature Comfort.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16720715
+URL:https://bccls.libcal.com/event/16720715
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260808T150000Z
+DTEND:20260808T153000Z
+DTSTAMP:20260808T000000Z
+SUMMARY:The Little Dance Project
+DESCRIPTION:Dance class for preschoolers! Stretch\, and learn to move your 
+ body in creative ways to music.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Music/Dance
+UID:LibCal-10341-16575105
+URL:https://bccls.libcal.com/event/16575105
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260808T190000Z
 DTEND:20260808T203000Z
 DTSTAMP:20260808T000000Z
@@ -2243,6 +3041,32 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094918
 URL:https://bccls.libcal.com/event/16094918
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260810T190000Z
+DTEND:20260810T200000Z
+DTSTAMP:20260810T000000Z
+SUMMARY:Reading Buddies
+DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
+ Children read together with a teen volunteer. \n\nAll ages.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16897281
+URL:https://bccls.libcal.com/event/16897281
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260810T220000Z
+DTEND:20260810T230000Z
+DTSTAMP:20260810T000000Z
+SUMMARY:Music\, Bubbles\, and Comedy Show
+DESCRIPTION:Turtle Dance presents a high energy show for all ages and 
+ abilities.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16232599
+URL:https://bccls.libcal.com/event/16232599
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260810T220000Z
@@ -2258,6 +3082,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094966
 URL:https://bccls.libcal.com/event/16094966
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260811T150000Z
+DTEND:20260811T153000Z
+DTSTAMP:20260811T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864308
+URL:https://bccls.libcal.com/event/16864308
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260812T170000Z
@@ -2309,6 +3145,58 @@ UID:LibCal-10341-16034690
 URL:https://bccls.libcal.com/event/16034690
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260812T200000Z
+DTEND:20260812T210000Z
+DTSTAMP:20260812T000000Z
+SUMMARY:Dino Food Expedition: Dino Bone Snack
+DESCRIPTION:Join Ms. Shay and make some fun dinosaur inspired food 
+ including a fruit dino & a dino bone snack. For children 3 . No 
+ registration required. While supplies last.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16865596
+URL:https://bccls.libcal.com/event/16865596
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260812T220000Z
+DTEND:20260813T010000Z
+DTSTAMP:20260812T000000Z
+SUMMARY:Learn Magic!
+DESCRIPTION:Try your own magic tricks with Mike Capozzi. All supplies 
+ provided. Ages 8 - 18.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16232762
+URL:https://bccls.libcal.com/event/16232762
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260813T150000Z
+DTEND:20260813T153000Z
+DTSTAMP:20260813T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864472
+URL:https://bccls.libcal.com/event/16864472
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260814T143000Z
+DTEND:20260814T153000Z
+DTSTAMP:20260814T000000Z
+SUMMARY:Creating with Clay
+DESCRIPTION:Join us in creating your own Jurassic Friend out of clay. For 
+ children 6
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16863785
+URL:https://bccls.libcal.com/event/16863785
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260815T190000Z
 DTEND:20260815T203000Z
 DTSTAMP:20260815T000000Z
@@ -2319,6 +3207,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094919
 URL:https://bccls.libcal.com/event/16094919
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260816T180000Z
+DTEND:20260816T190000Z
+DTSTAMP:20260816T000000Z
+SUMMARY:Summer Finale: Tie Dye Tee Shirts -  (Please Register)
+DESCRIPTION:Get creative and Tie-Dye your own tee shirt with Splash Lab 
+ Experience! Shirts are provided. Sizes include youth extra small - youth 
+ extra large. Unearth this summer finale craft!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16382742
+URL:https://bccls.libcal.com/event/16382742
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260817T220000Z
@@ -2334,6 +3236,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094967
 URL:https://bccls.libcal.com/event/16094967
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260818T150000Z
+DTEND:20260818T153000Z
+DTSTAMP:20260818T000000Z
+SUMMARY:Babies & Giggles Storytime
+DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864309
+URL:https://bccls.libcal.com/event/16864309
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260819T170000Z
@@ -2383,6 +3297,59 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034691
 URL:https://bccls.libcal.com/event/16034691
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260819T200000Z
+DTEND:20260819T210000Z
+DTSTAMP:20260819T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16734416
+URL:https://bccls.libcal.com/event/16734416
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260820T150000Z
+DTEND:20260820T153000Z
+DTSTAMP:20260820T000000Z
+SUMMARY:Tumbling Tots Storytime
+DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Story Time
+UID:LibCal-10341-16864473
+URL:https://bccls.libcal.com/event/16864473
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260822T180000Z
+DTEND:20260822T190000Z
+DTSTAMP:20260822T000000Z
+SUMMARY:Unearthing Our Past: Revolutionary Stories
+DESCRIPTION:Unearthing Our Past: Revolutionary Stories\n\nPresented by West 
+ Orange Township Historian Joseph Fagan\n\nWest Orange Public Library – 
+ August 16\, 2026 – 2pm\n\n \n\nJoin West Orange Township Historian Joseph 
+ Fagan as he unearths the many stories forgotten by time at the Old Burying 
+ Ground in nearby Orange. Here weathered gravestones and forgotten burial 
+ plots reveal the many stories of West Orange’s first settlers. Join 
+ Joseph Fagan as he steps through an undisturbed portal in time where 
+ Revolutionary War patriots\, local families\, and ordinary citizens still 
+ bear silent witness to history. Discover the stories of the people whose 
+ lives\, sacrifices\, and experiences helped shape both our local community 
+ and the nation.\n\n \n\nPresented as part of the commemoration of 
+ America’s 250th Anniversary\, this program is the second in a series by 
+ Joseph Fagan supporting Rev250 NJ. It is a statewide initiative that 
+ explores the unique Revolutionary War history of communities across New 
+ Jersey. Join Fagan for an engaging journey into the people\, events\, and 
+ stories that helped define our nation and continue to shape our local 
+ heritage today.\n\n \n\n\n \n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16981871
+URL:https://bccls.libcal.com/event/16981871
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260822T190000Z
