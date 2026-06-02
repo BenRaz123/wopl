@@ -8,34 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260501T170000Z
-DTEND:20260501T193000Z
-DTSTAMP:20260501T000000Z
-SUMMARY:First Friday Film: Hamnet
-DESCRIPTION:Join us for monthly film screenings held on the first Friday of 
- each month. \n\nLight refreshments provided.\n\n***\n\nHamnet 
- (2025)\nPG-13\, 2hrs\, 5min\n\nDirected by: Chloe Zhao\nStarring: Jessie 
- Buckley\, Paul Mescal
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Movie
-UID:LibCal-10341-16200562
-URL:https://bccls.libcal.com/event/16200562
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260501T200000Z
-DTEND:20260501T210000Z
-DTSTAMP:20260501T000000Z
-SUMMARY:Read to a Therapy Dog
-DESCRIPTION:All ages can come read to a therapy dog and build reading 
- skills & confidence.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16737652
-URL:https://bccls.libcal.com/event/16737652
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260502T190000Z
 DTEND:20260502T203000Z
 DTSTAMP:20260502T000000Z
@@ -1325,6 +1297,18 @@ UID:LibCal-10341-16094958
 URL:https://bccls.libcal.com/event/16094958
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260615T223000Z
+DTEND:20260615T233000Z
+DTSTAMP:20260615T000000Z
+SUMMARY:Soccer Sticker Swap
+DESCRIPTION:Bring your doubles and triples to trade for the ones you need!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16987845
+URL:https://bccls.libcal.com/event/16987845
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260616T210000Z
 DTEND:20260616T230000Z
 DTSTAMP:20260616T000000Z
@@ -1508,6 +1492,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Lecture
 UID:LibCal-10341-16593076
 URL:https://bccls.libcal.com/event/16593076
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T190000Z
+DTEND:20260622T200000Z
+DTSTAMP:20260622T000000Z
+SUMMARY:Volunteer Orientation: Reading Buddies
+DESCRIPTION:Teens entering 6th - 12th grade: Learn what being a reading 
+ buddy is all about! We'll tell you what to expect and awesome tips and 
+ tricks for being a reading buddy who helps children who are learning to 
+ read.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16995730
+URL:https://bccls.libcal.com/event/16995730
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260622T200000Z
