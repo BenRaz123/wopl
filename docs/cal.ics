@@ -2180,6 +2180,20 @@ UID:LibCal-10341-16897235
 URL:https://bccls.libcal.com/event/16897235
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260713T203000Z
+DTEND:20260713T213000Z
+DTSTAMP:20260713T000000Z
+SUMMARY:Tween Scratch Meetup- Computer Lab
+DESCRIPTION:Do you enjoy creative coding with Scratch ? Join us in the 
+ computer lab to talk and create with other Scratch enthusiasts. Ages 8 - 
+ 12.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17008147
+URL:https://bccls.libcal.com/event/17008147
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260713T220000Z
 DTEND:20260713T230000Z
 DTSTAMP:20260713T000000Z
@@ -2944,6 +2958,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16897281
 URL:https://bccls.libcal.com/event/16897281
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260810T203000Z
+DTEND:20260810T213000Z
+DTSTAMP:20260810T000000Z
+SUMMARY:Tween Scratch Meetup- Computer Lab
+DESCRIPTION:Do you enjoy creative coding with Scratch ? Join us in the 
+ computer lab to talk and create with other Scratch enthusiasts. Ages 8 - 
+ 12.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17008148
+URL:https://bccls.libcal.com/event/17008148
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260810T220000Z
