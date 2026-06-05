@@ -8,34 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260504T200000Z
-DTEND:20260504T210000Z
-DTSTAMP:20260504T000000Z
-SUMMARY:Drop-in Craft:  Mother's Day  CD Wind Spinners
-DESCRIPTION:Join us to make Mother’s Day CD wind spinners. For children 
- K-2nd grade.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16735735
-URL:https://bccls.libcal.com/event/16735735
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260504T220000Z
-DTEND:20260504T230000Z
-DTSTAMP:20260504T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094952
-URL:https://bccls.libcal.com/event/16094952
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260505T200000Z
 DTEND:20260505T210000Z
 DTSTAMP:20260505T000000Z
@@ -1028,18 +1000,19 @@ DTSTART:20260604T223000Z
 DTEND:20260605T000000Z
 DTSTAMP:20260604T000000Z
 SUMMARY:Hamilton: The Musical and the Duel
-DESCRIPTION:A Rev250 Program\n\nfeaturing Rick Feingold\n\nAn entertaining 
- and informative look at Hamilton--the play and the revolutionary who 
- inspired it.\n\nHamilton\, a ground-breaking musical featuring Black and 
- Latino actors playing the founding fathers\, won 11 Tony awards. Alexander 
- Hamilton\, an immigrant who became the first Secretary of the Treasury and 
- founded the U.S. financial system\, died at the hands of Vice President 
- Aaron Burr upon the dueling grounds in Weehawken\, NJ.\n\nLearn about the 
- history behind the characters in this fun presentation that includes the 
- Hamilton mix-tape performance at the White House and music from the 
- Broadway production.\n\nAbout the presenter\n\nRick Feingold teaches 
- American history at Bergen Community College. He holds a BA in history from 
- Rutgers University and an MBA from Penn State University.
+DESCRIPTION:A Rev250 Program\n\nfeaturing Rick Feingold\n\nIt is an 
+ entertaining and informative look at Hamilton—the play and the 
+ revolutionary who inspired it.\n\nHamilton\, a ground-breaking musical 
+ featuring Black and Latino actors playing the founding fathers\, won 11 
+ Tony awards. Alexander Hamilton\, an immigrant who became the first 
+ Secretary of the Treasury and founded the U.S. financial system\, died at 
+ the hands of Vice President Aaron Burr upon the dueling grounds in 
+ Weehawken\, NJ.\n\nLearn about the history behind the characters in this 
+ fun presentation that includes the Hamilton mix-tape performance at the 
+ White House and music from the Broadway production.\n\nAbout the 
+ presenter\n\nRick Feingold teaches American history at Bergen Community 
+ College. He holds a BA in history from Rutgers University and an MBA from 
+ Penn State University.
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Lecture
@@ -1234,22 +1207,21 @@ DTSTAMP:20260614T000000Z
 SUMMARY:Juneteenth and the Continuing Promise of American Freedom
 DESCRIPTION:A Rev250 Program\n\nfeaturing Dr. Leslie Wilson\, Montclair 
  State University\n\nTo celebrate Juneteenth on the 250th anniversary of the 
- American Revolution is to remember the ways in which freedom and 
- independence were not fought for and won for all people in this country in 
- equal measure. In this lecture\, Montclair State University professor 
- Leslie Wilson will discuss the promise of American freedom and the rise of 
- Juneteenth as an early manifestation of African American hopes and 
- dreams.\n\nDespite the political failure clouding the Civil War and 
- Reconstruction era\, African Americans found their own strengths and 
- resilience. They made wartime legislation and the new Constitutional 
- Amendments serve as a roadmap to equality and a better life. On 
- Juneteenth\, thousands of freed people found reasons to celebrate their new 
- lives--a celebration we continue today on the country's newest holiday\, a 
- holiday that recognizes that African American history is truly American 
- history.\n\nAbout the presenter\n\nDr. Leslie Wilson is a Professor of 
- History and Associate Dean in the College of Humanities and Social Sciences 
- at Montclair State University. He holds a PhD from the Graduate School of 
- the City University of New York.\n\n
+ American Revolution is to remember that freedom and independence were 
+ unequally fought for and won for different people in this country. In this 
+ lecture\, Montclair State University professor Leslie Wilson will discuss 
+ the promise of American freedom and the rise of Juneteenth as an early 
+ manifestation of African American hopes and dreams.\n\nDespite the 
+ political failure clouding the Civil War and Reconstruction era\, African 
+ Americans found their strengths and resilience. They made wartime 
+ legislation\, and the new constitutional amendments serve as a roadmap to 
+ equality and a better life. On Juneteenth\, thousands of freed people found 
+ reasons to celebrate their new lives—a celebration we continue today on 
+ the country's newest holiday\, a holiday that recognizes that African 
+ American history is truly American history.\n\nAbout the presenter\n\nDr. 
+ Leslie Wilson is a professor of history and associate dean in the College 
+ of Humanities and Social Sciences at Montclair State University. He holds a 
+ PhD from the Graduate School of the City University of New York.\n\n
 LOCATION:West Orange - Community Room 1\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Lecture
@@ -1631,21 +1603,21 @@ DTSTAMP:20260625T000000Z
 SUMMARY:The Creative Flowering of the Beach Boys' Brian Wilson
 DESCRIPTION:With Dave Gebroe\n\nBrian Wilson\, the main creative force 
  behind The Beach Boys throughout their unparalleled 1960s run\, experienced 
- a peerless creative renaissance that I believe forcefully to be the most 
- inspiring and fertile period in any artist’s life ever\, in any medium. 
- He didn’t just make his art… His art was his life. His life was his 
- art\, his art was his art\, his joy was his art\, his new friends were his 
- art… all of it together was a celebration of life\, a space he was 
- unfortunately never really able to inhabit again for various reasons: 
- family pressure\, career pressure\, drugs\, mental illness\, and the 
- expectations that come along with being a genius. This presentation\, which 
- combines a lecture with music and interview clips from my podcast\, 
- explores the 10-year period from 1958 to 1968\, illustrating how Brian 
- Wilson creatively soared and\, much like the myth of Icarus\, flew directly 
- into the sun\n\nArtist information\n\nDave Gebroe is the creator and host 
- of the music obsessives podcast Discograffiti\, which has been featuring 
- interviews with well-known music luminaries for over four years. The show 
- is now rated in the top 1.5% of all podcasts globally.
+ a peerless creative renaissance that I believe to be the most inspiring and 
+ fertile period in any artist’s life ever\, in any medium. He didn’t 
+ just make his art… His art was his life. His life was his art\, his art 
+ was his art\, his joy was his art\, his new friends were his art… all of 
+ it together was a celebration of life\, a space he was unfortunately never 
+ really able to inhabit again for various reasons: family pressure\, career 
+ pressure\, drugs\, mental illness\, and the expectations that come along 
+ with being a genius. This presentation\, which combines a lecture with 
+ music and interview clips from my podcast\, explores the 10-year period 
+ from 1958 to 1968\, illustrating how Brian Wilson creatively soared and\, 
+ much like the myth of Icarus\, flew directly into the sun\n\nArtist 
+ information\n\nDave Gebroe is the creator and host of the music obsessives 
+ podcast Discograffiti\, which has been featuring interviews with well-known 
+ music luminaries for over four years. The show now ranks in the top 1.5% of 
+ all podcasts globally.
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
