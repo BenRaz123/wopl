@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260505T200000Z
-DTEND:20260505T210000Z
-DTSTAMP:20260505T000000Z
-SUMMARY:Tween Scene: Gaming!
-DESCRIPTION:Enjoy games on the library switch: Super Smash or Just Dance! 
- Tween Scene is for anyone ages 9 - 12.\n\n
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16742084
-URL:https://bccls.libcal.com/event/16742084
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260506T170000Z
 DTEND:20260506T180000Z
 DTSTAMP:20260506T000000Z
@@ -2514,6 +2501,25 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Movie
 UID:LibCal-10341-16615318
 URL:https://bccls.libcal.com/event/16615318
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260725T160000Z
+DTEND:20260725T170000Z
+DTSTAMP:20260725T000000Z
+SUMMARY:Slow Yoga with Lea Peace
+DESCRIPTION:Lea Peace will direct\,\n\nSlow motion\, mindful 
+ yoga\n\n\n	\n	Sitting in a chair\,\n	\n	\n	Checking in with thoughts and 
+ feelings\,\n	\n	\n	Exploring intention and attention in 
+ breath\,\n	\n	\n	Exploring range of motion in joints\,\n	\n	\n	Engage in a 
+ bit of core strength building\,\n	\n	\n	Finish up with some standing and 
+ balancing.\n	\n\n\nAbout the presenter.\n\nLea Peace has been practicing 
+ yoga and meditation for over 50\nyears. Her 200-hour yoga teacher cert. is 
+ from Kripalu.\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Health & Wellness
+UID:LibCal-10341-17021157
+URL:https://bccls.libcal.com/event/17021157
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260725T190000Z
