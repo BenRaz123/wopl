@@ -8,83 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260509T160000Z
-DTEND:20260509T170000Z
-DTSTAMP:20260509T000000Z
-SUMMARY:Slow Yoga with Lea Peace
-DESCRIPTION:Lea Peace will direct\,\n\nSlow motion\, mindful 
- yoga\n\n\n	\n	Sitting in a chair\,\n	\n	\n	Checking in with thoughts and 
- feelings\,\n	\n	\n	Exploring intention and attention in 
- breath\,\n	\n	\n	Exploring range of motion in joints\,\n	\n	\n	Engage in a 
- bit of core strength building\,\n	\n	\n	Finish up with some standing and 
- balancing.\n	\n\n\nAbout the presenter.\n\nLea Peace has been practicing 
- yoga and meditation for over 50\nyears. Her 200-hour yoga teacher cert. is 
- from Kripalu.\n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Health & Wellness
-UID:LibCal-10341-16586876
-URL:https://bccls.libcal.com/event/16586876
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260509T180000Z
-DTEND:20260509T190000Z
-DTSTAMP:20260509T000000Z
-SUMMARY:Teen De-Stress Hour
-DESCRIPTION:Studying for a big test?\n\nCome to the teen area and enjoy: 
- -coloring\, -calming music\, -popping bubble wrap\, -herbal tea\, -fidget 
- toys\n\n \n\nTwo chances to de-stress! Wednesday\, May 6th from 7 - 8PM and 
- Saturday\, May 9th from 2 - 3PM.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16742192
-URL:https://bccls.libcal.com/event/16742192
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260509T180000Z
-DTEND:20260509T193000Z
-DTSTAMP:20260509T000000Z
-SUMMARY:Jazz Performance by the Ellie Lee Trio
-DESCRIPTION:With Ellie Lee\n\nShe plans to play jazz standards and creative 
- creations. The harmonious blend of the two styles guarantees an enjoyable 
- listening experience.\n\nArtist information\n\nAs a pianist\, she excels in 
- all the idioms she employs\, including careful attention to the minutiae of 
- arrangement and orchestration\, a deep understanding of groove\, and 
- providing her musicians with ample opportunity to showcase their talents. 
- On top of that\, her piano skills are top-notch.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-16604563
-URL:https://bccls.libcal.com/event/16604563
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260509T190000Z
-DTEND:20260509T203000Z
-DTSTAMP:20260509T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094419
-URL:https://bccls.libcal.com/event/16094419
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260509T193000Z
-DTEND:20260509T200000Z
-DTSTAMP:20260509T000000Z
-SUMMARY:Mr. Corbitt Musical Storytime
-DESCRIPTION:Join Mr. Corbitt for an energetic and enriching 
- storytime/singalong/concert hybrid for 6 months - 6 years old.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-16737478
-URL:https://bccls.libcal.com/event/16737478
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260510T180000Z
 DTEND:20260510T200000Z
 DTSTAMP:20260510T000000Z
@@ -3090,34 +3013,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-16864473
 URL:https://bccls.libcal.com/event/16864473
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260822T180000Z
-DTEND:20260822T190000Z
-DTSTAMP:20260822T000000Z
-SUMMARY:Unearthing Our Past: Revolutionary Stories
-DESCRIPTION:Unearthing Our Past: Revolutionary Stories\n\nPresented by West 
- Orange Township Historian Joseph Fagan\n\nWest Orange Public Library – 
- August 16\, 2026 – 2pm\n\n \n\nJoin West Orange Township Historian Joseph 
- Fagan as he unearths the many stories forgotten by time at the Old Burying 
- Ground in nearby Orange. Here weathered gravestones and forgotten burial 
- plots reveal the many stories of West Orange’s first settlers. Join 
- Joseph Fagan as he steps through an undisturbed portal in time where 
- Revolutionary War patriots\, local families\, and ordinary citizens still 
- bear silent witness to history. Discover the stories of the people whose 
- lives\, sacrifices\, and experiences helped shape both our local community 
- and the nation.\n\n \n\nPresented as part of the commemoration of 
- America’s 250th Anniversary\, this program is the second in a series by 
- Joseph Fagan supporting Rev250 NJ. It is a statewide initiative that 
- explores the unique Revolutionary War history of communities across New 
- Jersey. Join Fagan for an engaging journey into the people\, events\, and 
- stories that helped define our nation and continue to shape our local 
- heritage today.\n\n \n\n\n \n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16981871
-URL:https://bccls.libcal.com/event/16981871
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260822T190000Z
