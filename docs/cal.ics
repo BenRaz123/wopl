@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260512T150000Z
-DTEND:20260512T160000Z
-DTSTAMP:20260512T000000Z
-SUMMARY:Spring Music & Movement with Miss Michelle
-DESCRIPTION:Join Miss Michelle for some songs about flowers\, sunshine and 
- more in this interactive springtime celebration!
-LOCATION:West Orange - Off-site
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16735874
-URL:https://bccls.libcal.com/event/16735874
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260513T170000Z
 DTEND:20260513T180000Z
 DTSTAMP:20260513T000000Z
