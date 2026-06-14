@@ -8,116 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260513T170000Z
-DTEND:20260513T180000Z
-DTSTAMP:20260513T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	Everyone is welcome\, regardless of their location\, 
- educational experience\, or background.\n	The conversation leader will help 
- everyone practice speaking in English through group social 
- interaction\n	Easy-to-read books in English will be introduced to improve 
- vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
- get to know others who want to gain comfort with English 
- conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094525
-URL:https://bccls.libcal.com/event/16094525
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T180000Z
-DTEND:20260513T193000Z
-DTSTAMP:20260513T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094620
-URL:https://bccls.libcal.com/event/16094620
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T180000Z
-DTEND:20260513T200000Z
-DTSTAMP:20260513T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-16034677
-URL:https://bccls.libcal.com/event/16034677
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T213000Z
-DTEND:20260513T223000Z
-DTSTAMP:20260513T000000Z
-SUMMARY:AP Art Show Reception
-DESCRIPTION:Celebrate West Orange High School's AP artists and explore 
- their art show.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16594801
-URL:https://bccls.libcal.com/event/16594801
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T213000Z
-DTEND:20260513T233000Z
-DTSTAMP:20260513T000000Z
-SUMMARY:Teen Dungeons & Dragons
-DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
- provided!\n\nNo prior experience required- beginners to experts 
- welcome.\n\nA unique and self contained story: no prior or ongoing 
- attendance necessary!
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-16637128
-URL:https://bccls.libcal.com/event/16637128
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260513T223000Z
-DTEND:20260514T003000Z
-DTSTAMP:20260513T000000Z
-SUMMARY:Abstract Collage Class
-DESCRIPTION:A 3-session art class for adults with Cynthia Pareja 
- Dubin\n\nClass Dates: May 13\, 20\, 27\nTime: 6:30pm-8:30pm\n\nLearn from 
- talented teaching artist Cynthia Pareja Dubin in this three-week course 
- designed to introduce participants to the art of abstract collage. Students 
- will learn how to create dynamic\, expressive compositions using various 
- papers\, materials\, and found objects. They will explore fundamental 
- principles of design\, color theory\, and texture\, encouraging personal 
- expression and creative discovery.\n\nAll materials will be provided. No 
- prior art experience is necessary\, and all skill levels are 
- welcome.\n\nSession 1: May 13\nThe Foundation of Abstract 
- Collage\nIntroduction to abstract art and collage history / Explanation of 
- tools / Materials exploration / Composition basics\n\nSession 2: May 
- 20\nInspiration and Narrative\nDeveloping a palette / Layering and texture 
- / Creating a series\n\nSession 3: May 27\nFinalizing and 
- Sharing\nRefinement / Finishing / Group critique and discussion\n\nThis 
- learning program is structured as three distinct\, two-hour sessions\, 
- allowing participants to build on their skills progressively. Participants 
- register for the class with the understanding that they are committing to 
- all three sessions\, to be held on consecutive Wednesday evenings. While 
- unavoidable absences are understood\, the idea is to commit to the full 
- course as the lessons build sequentially. Registration will remain open 
- until May 13\, the date of the initial session.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16406048
-URL:https://bccls.libcal.com/event/16406048
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260514T180000Z
 DTEND:20260514T203000Z
 DTSTAMP:20260514T000000Z
@@ -3140,6 +3030,34 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048672
 URL:https://bccls.libcal.com/event/17048672
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260822T180000Z
+DTEND:20260822T190000Z
+DTSTAMP:20260822T000000Z
+SUMMARY:Unearthing Our Past: Revolutionary Stories
+DESCRIPTION:Unearthing Our Past: Revolutionary Stories\n\nPresented by West 
+ Orange Township Historian Joseph Fagan\n\nWest Orange Public Library – 
+ August 16\, 2026 – 2pm\n\n \n\nJoin West Orange Township Historian Joseph 
+ Fagan as he unearths the many stories forgotten by time at the Old Burying 
+ Ground in nearby Orange. Here weathered gravestones and forgotten burial 
+ plots reveal the many stories of West Orange’s first settlers. Join 
+ Joseph Fagan as he steps through an undisturbed portal in time where 
+ Revolutionary War patriots\, local families\, and ordinary citizens still 
+ bear silent witness to history. Discover the stories of the people whose 
+ lives\, sacrifices\, and experiences helped shape both our local community 
+ and the nation.\n\n \n\nPresented as part of the commemoration of 
+ America’s 250th Anniversary\, this program is the second in a series by 
+ Joseph Fagan supporting Rev250 NJ. It is a statewide initiative that 
+ explores the unique Revolutionary War history of communities across New 
+ Jersey. Join Fagan for an engaging journey into the people\, events\, and 
+ stories that helped define our nation and continue to shape our local 
+ heritage today.\n\n \n\n\n \n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16981871
+URL:https://bccls.libcal.com/event/16981871
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260822T190000Z
