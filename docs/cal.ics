@@ -8,44 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260514T180000Z
-DTEND:20260514T203000Z
-DTSTAMP:20260514T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240559
-URL:https://bccls.libcal.com/event/15240559
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T203000Z
-DTEND:20260514T213000Z
-DTSTAMP:20260514T000000Z
-SUMMARY:Chess Club
-DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
- strategies on how to play better and enjoy chess more. All ages and skill 
- levels welcome.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-16598929
-URL:https://bccls.libcal.com/event/16598929
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260514T223000Z
-DTEND:20260515T003000Z
-DTSTAMP:20260514T000000Z
-SUMMARY:Adult Game Night
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft, Games
-UID:LibCal-10341-16380953
-URL:https://bccls.libcal.com/event/16380953
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260516T190000Z
 DTEND:20260516T203000Z
 DTSTAMP:20260516T000000Z
@@ -1131,6 +1093,23 @@ UID:LibCal-10341-16593076
 URL:https://bccls.libcal.com/event/16593076
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260621T190000Z
+DTEND:20260621T200000Z
+DTSTAMP:20260621T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly June 
+ 21st - August 9th but will NOT meet July 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16885255
+URL:https://bccls.libcal.com/event/16885255
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260622T190000Z
 DTEND:20260622T200000Z
 DTSTAMP:20260622T000000Z
@@ -1171,6 +1150,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094959
 URL:https://bccls.libcal.com/event/16094959
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260622T230000Z
+DTEND:20260623T010000Z
+DTSTAMP:20260622T000000Z
+SUMMARY:Friends Board Meeting
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17064130
+URL:https://bccls.libcal.com/event/17064130
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260623T150000Z
@@ -1426,6 +1417,23 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16720640
 URL:https://bccls.libcal.com/event/16720640
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260628T190000Z
+DTEND:20260628T200000Z
+DTSTAMP:20260628T000000Z
+SUMMARY:One in Math
+DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
+ curriculum\n\nDesigned to overcome math anxiety and build 
+ self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ register for the West Orange Class at 
+ https://oneinmath.com/register-student/\n\nThis program meets weekly June 
+ 21st - August 9th but will NOT meet July 5.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16885263
+URL:https://bccls.libcal.com/event/16885263
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260629
