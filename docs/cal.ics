@@ -8,48 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260521T150000Z
-DTEND:20260521T153000Z
-DTSTAMP:20260521T000000Z
-SUMMARY:Sign & Sing with Ms. Desiree
-DESCRIPTION:Join us for a fun and interactive music class that uses sign 
- language! Learn basic American Sign\nLanguage (ASL) while we sing along to 
- favorite songs and nursery rhymes. Move your body and\nplay with shaker 
- eggs. Experience the joy of bubble play while we sing! For toddlers 
- and\npreschoolers.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16834986
-URL:https://bccls.libcal.com/event/16834986
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T180000Z
-DTEND:20260521T203000Z
-DTSTAMP:20260521T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240560
-URL:https://bccls.libcal.com/event/15240560
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260521T203000Z
-DTEND:20260521T213000Z
-DTSTAMP:20260521T000000Z
-SUMMARY:Chess Club
-DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
- strategies on how to play better and enjoy chess more. All ages and skill 
- levels welcome.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-16598930
-URL:https://bccls.libcal.com/event/16598930
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260522T200000Z
 DTEND:20260522T210000Z
 DTSTAMP:20260522T000000Z
@@ -1181,10 +1139,7 @@ DESCRIPTION:A book club for adults who want to read in community. We meet
  she loves above all others\, recounting times of devastating heartbreak and 
  passionate affairs\, poverty and wealth\, terrible loss and immense joy. 
  Translated by Frances Riddle.\n\nCopies available at the Circulation Desk 
- starting May 29.\n\n** Participating in the Library World Championship? 
- Chilean author Isabel Allende is one of the most widely read contemporary 
- Spanish-language writers. You can enter Violeta as your Group B title in 
- the championship bracket. **
+ starting May 29.
 LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Book Club
@@ -1678,6 +1633,28 @@ UID:LibCal-10341-17048666
 URL:https://bccls.libcal.com/event/17048666
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260709T223000Z
+DTEND:20260710T004500Z
+DTSTAMP:20260709T000000Z
+SUMMARY:World Movie Night: Sentimental Value
+DESCRIPTION:Join us for our first World Movie Night this summer! Watching 
+ and reading your way around the world as part of our World Championship 
+ Challenge? Consider this a worthy Group E pick -- come to our screening\, 
+ and let us know how it stacks up in your tournament bracket. 
+ \n\nSENTIMENTAL VALUE (2025)\ndirected by Joachim Trier (Norway)\nR\, 2h 
+ 13min\n\nAn intimate exploration of family\, memories\, and the 
+ reconciliatory power of art. **2025 Academy Award Winner for Best 
+ International Feature Film** Nominated for 9 Academy Awards\, including 
+ Best Picture\, Best Director\, Best Original Screenplay\, Best Editing\, 
+ and the performances of all 4 leads--Renate Reinsve\, Stellan Skarsgård\, 
+ Inga Ibsdotter Illeas\, and Elle Fanning.
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-16898519
+URL:https://bccls.libcal.com/event/16898519
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260710T180000Z
 DTEND:20260710T200000Z
 DTSTAMP:20260710T000000Z
@@ -1704,6 +1681,31 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Music/Dance
 UID:LibCal-10341-14478548
 URL:https://bccls.libcal.com/event/14478548
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260711T180000Z
+DTEND:20260711T200000Z
+DTSTAMP:20260711T000000Z
+SUMMARY:Painting with Tea: America 250 Edition
+DESCRIPTION:with Smriti Sangal\, Culture Chauraha \n\nImmerse yourself in a 
+ sensory art experience where brewed tea becomes your paint and history 
+ becomes your inspiration. In this aromatic workshop\, participants will 
+ create sepia-toned artworks using tea washes\, exploring warm gradients\, 
+ soft textures\, and the natural stain of tea. Surrounded by the calming 
+ scent of brewed tea\, you'll experiment with brush techniques to build 
+ depth\, contrast\, and detail.\n\nUsing references inspired by the Boston 
+ Tea Party among other general motifs\, you'll design expressive pieces 
+ featuring ships\, slogans\, and freedom-themed imagery--or create your own 
+ playful\, modern interpretations. This workshop blends creativity with 
+ storytelling\, offering a relaxing hands-on experience suited for all skill 
+ levels.\n\nParticipants leave with a beautiful tea-painted artwork and a 
+ newfound appreciation for this unique medium.\n\nThis workshop is designed 
+ for adults. All materials provided.\nRegistration is required.\n\n
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16702349
+URL:https://bccls.libcal.com/event/16702349
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260711T190000Z
@@ -1899,6 +1901,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048667
 URL:https://bccls.libcal.com/event/17048667
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260716T223000Z
+DTEND:20260717T003000Z
+DTSTAMP:20260716T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board and card games will 
+ be available & feel free to bring your own as well.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-16380913
+URL:https://bccls.libcal.com/event/16380913
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260717T170000Z
@@ -2106,6 +2122,51 @@ UID:LibCal-10341-17048668
 URL:https://bccls.libcal.com/event/17048668
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260723T223000Z
+DTEND:20260724T004500Z
+DTSTAMP:20260723T000000Z
+SUMMARY:World Movie Night: It Was Just an Accident
+DESCRIPTION:Watch and read your way around the world with us this summer 
+ with our World Movie Night and World Literature series!\n\nPlaying in our 
+ World Championship Challenge? Here's a fine Group D pick for your 
+ consideration: \n\nIT WAS JUST AN ACCIDENT (2025)\ndirected by Jafar Panahi 
+ (Iran)\nPG-13\, 1h 44min\n\nA mechanic is reminded of his time in an 
+ Iranian prison when he encounters a man he suspects to be his jailhouse 
+ tormentor. Panicked\, he rounds up a few of his fellow ex-prisoners to 
+ confirm the man's identity. Written and directed by acclaimed Iranian 
+ filmmaker Jafar Panahi\, the film was nominated for two Academy Awards and 
+ won the Palme D'Or Award at Cannes\, the NY Film Critics Circle Award for 
+ Best Director\, and the Audience Award for World Cinema at the Montclair 
+ Film Festival.
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-16898585
+URL:https://bccls.libcal.com/event/16898585
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260724T150000Z
+DTEND:20260724T160000Z
+DTSTAMP:20260724T000000Z
+SUMMARY:July Book Club: The Lantern of Lost Memories
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\nSummer World Literature Series\n\nTHE LANTERN OF LOST 
+ MEMORIES\nby Sanaka Hiiragi (Japan)\n\nFrom acclaimed Japanese author 
+ Sanaka Hiigari comes a heartwarming\, life-affirming novel about a magical 
+ photo studio\, where people go after they die to view key moments from 
+ their life—and relive one precious memory before they pass into the 
+ afterlife. Translated by Jesse Kirkwood.\n\n** Participating in the World 
+ Championship Challenge? Read this book as your Group D pick\, and let us 
+ know how it fares in your tournament bracket! **\n\nCopies available at the 
+ Circulation Desk starting June 26.
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-16592609
+URL:https://bccls.libcal.com/event/16592609
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260724T180000Z
 DTEND:20260724T200000Z
 DTSTAMP:20260724T000000Z
@@ -2149,6 +2210,22 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094916
 URL:https://bccls.libcal.com/event/16094916
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260726T180000Z
+DTEND:20260726T200000Z
+DTSTAMP:20260726T000000Z
+SUMMARY:Jewelry Workshop: Memory Wire Bracelets
+DESCRIPTION:with Maya Oren-Dahan\n\nWorkshop participants will make their 
+ bracelets\, learning how to work with memory wire\, Czech glass beads\, 
+ metal beads\, and spacers\, and how to attach charms using jump 
+ rings.\n\nAll materials provided.\n\nThis workshop is designed for 
+ adults.\nRegistration required.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16413226
+URL:https://bccls.libcal.com/event/16413226
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260727T190000Z
@@ -2320,6 +2397,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048669
 URL:https://bccls.libcal.com/event/17048669
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260730T223000Z
+DTEND:20260731T003000Z
+DTSTAMP:20260730T000000Z
+SUMMARY:Artist Reception: Sandra Charlap
+DESCRIPTION:Meet exhibiting artist Sandra Charlap.\n\nViewing will take 
+ place in the gallery\, with light refreshments in the Literacy 
+ Room.\n\n"Mapping the Future" by Sandra Charlap will be on display at the 
+ West Orange Public Library from July 7 to Aug 28\, 2026.\n
+LOCATION:West Orange - Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-16996974
+URL:https://bccls.libcal.com/event/16996974
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260731T180000Z
