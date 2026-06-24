@@ -20,18 +20,6 @@ UID:LibCal-10341-15548592
 URL:https://bccls.libcal.com/event/15548592
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20260523T190000Z
-DTEND:20260523T203000Z
-DTSTAMP:20260523T000000Z
-SUMMARY:Learn English--CANCELED
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094421
-URL:https://bccls.libcal.com/event/16094421
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260525T220000Z
 DTEND:20260525T230000Z
 DTSTAMP:20260525T000000Z
@@ -1211,8 +1199,8 @@ DTEND:20260628T200000Z
 DTSTAMP:20260628T000000Z
 SUMMARY:One in Math
 DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
+ curriculum.\n\nDesigned to overcome math anxiety and build 
+ self-confidence.\n\nTaught by trained high school students.\n\nPlease 
  register for the West Orange Class at 
  https://oneinmath.com/register-student/\n\nThis program meets weekly June 
  21st - August 9th but will NOT meet July 5.
@@ -5029,6 +5017,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048716
 URL:https://bccls.libcal.com/event/17048716
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270624T180000Z
+DTEND:20270624T203000Z
+DTSTAMP:20270624T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-17048717
+URL:https://bccls.libcal.com/event/17048717
 END:VEVENT
 
 END:VCALENDAR
