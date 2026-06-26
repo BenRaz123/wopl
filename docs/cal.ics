@@ -8,33 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260523
-DTEND;VALUE=DATE:20260524
-DTSTAMP:20260523T000000Z
-SUMMARY:Memorial Day-Closed
-DESCRIPTION:
-LOCATION:West Orange - Off-site
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15548592
-URL:https://bccls.libcal.com/event/15548592
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260525T220000Z
-DTEND:20260525T230000Z
-DTSTAMP:20260525T000000Z
-SUMMARY:Rosetta Stone Language Lab- CANCELLED
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094955
-URL:https://bccls.libcal.com/event/16094955
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260526
 DTEND;VALUE=DATE:20260527
 DTSTAMP:20260526T000000Z
@@ -1135,6 +1108,20 @@ UID:LibCal-10341-16857771
 URL:https://bccls.libcal.com/event/16857771
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260626T200000Z
+DTEND:20260626T210000Z
+DTSTAMP:20260626T000000Z
+SUMMARY:High School Book Club
+DESCRIPTION:Teen Advisory Group Members are starting a book club for high 
+ schoolers! Come to the interest meeting this Friday\, June 26th at 4PM and 
+ help shape a relaxed group that will discuss books you actually want to 
+ read.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17112406
+URL:https://bccls.libcal.com/event/17112406
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260627T190000Z
 DTEND:20260627T203000Z
 DTSTAMP:20260627T000000Z
@@ -2084,6 +2071,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-16734408
 URL:https://bccls.libcal.com/event/16734408
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260722T213000Z
+DTEND:20260722T233000Z
+DTSTAMP:20260722T000000Z
+SUMMARY:Teen Dungeons & Dragons
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17113060
+URL:https://bccls.libcal.com/event/17113060
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260723T150000Z
