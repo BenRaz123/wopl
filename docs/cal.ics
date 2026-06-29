@@ -8,47 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260528T180000Z
-DTEND:20260528T203000Z
-DTSTAMP:20260528T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240561
-URL:https://bccls.libcal.com/event/15240561
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T203000Z
-DTEND:20260528T213000Z
-DTSTAMP:20260528T000000Z
-SUMMARY:Chess Club
-DESCRIPTION:Learn to play chess! Ed from ChessWired will share tips and 
- strategies on how to play better and enjoy chess more. All ages and skill 
- levels welcome.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-16598932
-URL:https://bccls.libcal.com/event/16598932
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260528T223000Z
-DTEND:20260529T003000Z
-DTSTAMP:20260528T000000Z
-SUMMARY:Artist Reception: Annie Norbeck
-DESCRIPTION:Meet exhibiting artist Annie Norbeck.\n\nViewing will take 
- place in the gallery\, with light refreshments in the Literacy 
- Room.\n\nTerra Incognita by Annie Norbeck will be on display at the West 
- Orange Public Library from May 5 to June 26\, 2026.\n
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16483551
-URL:https://bccls.libcal.com/event/16483551
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260529T150000Z
 DTEND:20260529T160000Z
 DTSTAMP:20260529T000000Z
@@ -1289,6 +1248,20 @@ UID:LibCal-10341-16750773
 URL:https://bccls.libcal.com/event/16750773
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260702T203000Z
+DTEND:20260702T213000Z
+DTSTAMP:20260702T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Representatives from West Orange Chess 
+ Club will share tips and strategies on how to play better and enjoy chess 
+ more. All ages and skill levels welcome.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17122155
+URL:https://bccls.libcal.com/event/17122155
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260703
 DTEND;VALUE=DATE:20260704
 DTSTAMP:20260703T000000Z
@@ -1504,6 +1477,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048666
 URL:https://bccls.libcal.com/event/17048666
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260709T203000Z
+DTEND:20260709T213000Z
+DTSTAMP:20260709T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Representatives from West Orange Chess 
+ Club will share tips and strategies on how to play better and enjoy chess 
+ more. All ages and skill levels welcome.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17122156
+URL:https://bccls.libcal.com/event/17122156
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260709T223000Z
@@ -1776,6 +1763,20 @@ UID:LibCal-10341-17048667
 URL:https://bccls.libcal.com/event/17048667
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260716T203000Z
+DTEND:20260716T213000Z
+DTSTAMP:20260716T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Representatives from West Orange Chess 
+ Club will share tips and strategies on how to play better and enjoy chess 
+ more. All ages and skill levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17122166
+URL:https://bccls.libcal.com/event/17122166
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260716T223000Z
 DTEND:20260717T003000Z
 DTSTAMP:20260716T000000Z
@@ -2008,6 +2009,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048668
 URL:https://bccls.libcal.com/event/17048668
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260723T203000Z
+DTEND:20260723T213000Z
+DTSTAMP:20260723T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Representatives from West Orange Chess 
+ Club will share tips and strategies on how to play better and enjoy chess 
+ more. All ages and skill levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17122168
+URL:https://bccls.libcal.com/event/17122168
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260723T223000Z
@@ -2285,6 +2300,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048669
 URL:https://bccls.libcal.com/event/17048669
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260730T203000Z
+DTEND:20260730T213000Z
+DTSTAMP:20260730T000000Z
+SUMMARY:Chess Club
+DESCRIPTION:Learn to play chess! Representatives from West Orange Chess 
+ Club will share tips and strategies on how to play better and enjoy chess 
+ more. All ages and skill levels welcome.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17122172
+URL:https://bccls.libcal.com/event/17122172
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260730T223000Z
