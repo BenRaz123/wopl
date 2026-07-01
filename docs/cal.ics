@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260530T190000Z
-DTEND:20260530T203000Z
-DTSTAMP:20260530T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094422
-URL:https://bccls.libcal.com/event/16094422
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260531T173000Z
-DTEND:20260531T193000Z
-DTSTAMP:20260531T000000Z
-SUMMARY:Tween Book Club
-DESCRIPTION:Book Discussion for tweens ages 9 - 12! This month we will 
- discuss Finding Perfect by Elly Swartz and other favorite books.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16859245
-URL:https://bccls.libcal.com/event/16859245
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260601T203000Z
 DTEND:20260601T213000Z
 DTSTAMP:20260601T000000Z
@@ -1199,10 +1174,10 @@ BEGIN:VEVENT
 DTSTART:20260702T170000Z
 DTEND:20260702T200000Z
 DTSTAMP:20260702T000000Z
-SUMMARY:1776
+SUMMARY:1776 Movie Marathon
 DESCRIPTION:A musical retelling of the American Revolution's political 
- struggle in the Continental Congress to declare 
- independence.\n\nhttps://www.imdb.com/title/tt0068156/
+ struggle in the Continental Congress to declare independence.\n\n1:00 PM & 
+ 5PM\n\n \n\nhttps://www.imdb.com/title/tt0068156/\n\n
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1252,7 +1227,7 @@ BEGIN:VEVENT
 DTSTART:20260702T210000Z
 DTEND:20260703T000000Z
 DTSTAMP:20260702T000000Z
-SUMMARY:1776 Movie
+SUMMARY:1776 Movie Marathon
 DESCRIPTION:A musical retelling of the American Revolution's political 
  struggle in the Continental Congress to declare 
  independence.\n\nhttps://www.imdb.com/title/tt0068156/\n\n1-4 pm\n\n5-8 pm
@@ -1591,6 +1566,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094914
 URL:https://bccls.libcal.com/event/16094914
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260712T180000Z
+DTEND:20260712T193000Z
+DTSTAMP:20260712T000000Z
+SUMMARY:Classical Guitar Recital with Carlos Pavan
+DESCRIPTION:With Carlos Pavan\n\nAn Argentine composer and guitarist based 
+ in Brooklyn\, he combines elements of current jazz and classical music with 
+ traditional Argentine tango and folklore. His famed concert presentations 
+ typically revolve around his original Suite Ficciones\, which is a suite in 
+ the classical manner that was directly inspired by short stories written by 
+ Jorge Luis Borges\, a renowned author from Argentina.\n\nArtist 
+ Information\n\nHe received instruction from maestros Jorge Morel\, Dave 
+ Smey (Brooklyn Conservatory)\, and Pablo Ziegler (pianist for A. 
+ Piazzolla). Carlos has produced four recordings featuring his 
+ compositions\, which encompass a string quartet\, chamber ensemble\, and 
+ trio concertante.\n\n \n\nThis event will be held in the community room 1
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16523423
+URL:https://bccls.libcal.com/event/16523423
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260712T190000Z
@@ -2239,6 +2236,17 @@ UID:LibCal-10341-16885346
 URL:https://bccls.libcal.com/event/16885346
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+DTSTAMP:20260727T000000Z
+SUMMARY:Grab and Create - Take Home Craft: Unearth Your Dino
+DESCRIPTION:Grab & Create dino feet & claws. For children of all ages.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-17128391
+URL:https://bccls.libcal.com/event/17128391
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260727T190000Z
 DTEND:20260727T200000Z
 DTSTAMP:20260727T000000Z
@@ -2422,6 +2430,32 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Club
 UID:LibCal-10341-17122172
 URL:https://bccls.libcal.com/event/17122172
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260730T223000Z
+DTEND:20260730T233000Z
+DTSTAMP:20260730T000000Z
+SUMMARY:History of the White House\, America's Executive Mansion
+DESCRIPTION:With Patricia Wells\n\nConstruction took eight years\; it was 
+ nearly destroyed by fire\, it came dangerously close to collapsing\, and it 
+ was almost painted black. Although President Washington chose the design\, 
+ he never really lived there. However\, although Jefferson\, Taft\, and the 
+ Roosevelts made exceptional modifications\, one of their genius architects 
+ came dangerously close to destroying the structure. It is the edifice that 
+ has been the most easily recognizable across the country for the past 225 
+ years.\n\nAbout the presenter\n\nPatricia Wells\, a historian and 
+ storyteller\, regularly presents all around the state of New Jersey as part 
+ of her program called History Is Speaking. These lectures cover various 
+ local history topics\, including the American Revolution\, the Great 
+ Swamp\, and courageous historical women. The public libraries and 
+ historical societies that host her presentations\, both in person and 
+ virtually\, are frequent hosts of her events.\n\nThis event will be held in 
+ the Community Room 1
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-16960499
+URL:https://bccls.libcal.com/event/16960499
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260730T223000Z
@@ -3040,6 +3074,17 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094920
 URL:https://bccls.libcal.com/event/16094920
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+DTSTAMP:20260824T000000Z
+SUMMARY:Grab and Create - Take Home Craft: Unearth Your Dino
+DESCRIPTION:Grab & Create dino feet & claws. For children of all ages.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-17128392
+URL:https://bccls.libcal.com/event/17128392
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260824T220000Z
@@ -5078,6 +5123,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048717
 URL:https://bccls.libcal.com/event/17048717
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270701T180000Z
+DTEND:20270701T203000Z
+DTSTAMP:20270701T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-17048718
+URL:https://bccls.libcal.com/event/17048718
 END:VEVENT
 
 END:VCALENDAR
