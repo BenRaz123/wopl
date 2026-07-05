@@ -8,56 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260604T180000Z
-DTEND:20260604T203000Z
-DTSTAMP:20260604T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club, Games
-UID:LibCal-10341-15240562
-URL:https://bccls.libcal.com/event/15240562
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T203000Z
-DTEND:20260604T213000Z
-DTSTAMP:20260604T000000Z
-SUMMARY:Chess Club
-DESCRIPTION:Learn to play chess! Representatives from West Orange Chess 
- Club will share tips and strategies on how to play better and enjoy chess 
- more. All ages and skill levels welcome.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-17046434
-URL:https://bccls.libcal.com/event/17046434
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260604T223000Z
-DTEND:20260605T000000Z
-DTSTAMP:20260604T000000Z
-SUMMARY:Hamilton: The Musical and the Duel
-DESCRIPTION:A Rev250 Program\n\nfeaturing Rick Feingold\n\nIt is an 
- entertaining and informative look at Hamilton—the play and the 
- revolutionary who inspired it.\n\nHamilton\, a ground-breaking musical 
- featuring Black and Latino actors playing the founding fathers\, won 11 
- Tony awards. Alexander Hamilton\, an immigrant who became the first 
- Secretary of the Treasury and founded the U.S. financial system\, died at 
- the hands of Vice President Aaron Burr upon the dueling grounds in 
- Weehawken\, NJ.\n\nLearn about the history behind the characters in this 
- fun presentation that includes the Hamilton mix-tape performance at the 
- White House and music from the Broadway production.\n\nAbout the 
- presenter\n\nRick Feingold teaches American history at Bergen Community 
- College. He holds a BA in history from Rutgers University and an MBA from 
- Penn State University.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Lecture
-UID:LibCal-10341-16644214
-URL:https://bccls.libcal.com/event/16644214
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260605T170000Z
 DTEND:20260605T193000Z
 DTSTAMP:20260605T000000Z
