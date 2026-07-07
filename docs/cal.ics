@@ -8,18 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260606T190000Z
-DTEND:20260606T203000Z
-DTSTAMP:20260606T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094423
-URL:https://bccls.libcal.com/event/16094423
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260607T180000Z
 DTEND:20260607T193000Z
 DTSTAMP:20260607T000000Z
@@ -1464,6 +1452,18 @@ UID:LibCal-10341-17008147
 URL:https://bccls.libcal.com/event/17008147
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260713T210000Z
+DTEND:20260714T000000Z
+DTSTAMP:20260713T000000Z
+SUMMARY:Soccer Sticker Swap
+DESCRIPTION:
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17156343
+URL:https://bccls.libcal.com/event/17156343
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260713T220000Z
 DTEND:20260713T230000Z
 DTSTAMP:20260713T000000Z
@@ -1754,7 +1754,7 @@ SUMMARY:Dinosaur Experience Crafting Series
 DESCRIPTION:Every other Monday drop-in with Ms. Shay to create your own 
  habitat and dinosaur and then become one yourself. For children in grades 
  K-5. No registration required. While supplies last.
-LOCATION:West Orange - Program Room
+LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
 UID:LibCal-10341-16865462
@@ -1799,6 +1799,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16894775
 URL:https://bccls.libcal.com/event/16894775
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260722T150000Z
+DTEND:20260722T180000Z
+DTSTAMP:20260722T000000Z
+SUMMARY:Rep. LaMonica McIver Office Hours
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17151891
+URL:https://bccls.libcal.com/event/17151891
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260722T170000Z
@@ -2362,7 +2374,7 @@ SUMMARY:Dinosaur Experience Crafting Series
 DESCRIPTION:Every other Monday drop-in with Ms. Shay to create your own 
  habitat and dinosaur and then become one yourself. For children in grades 
  K-5. No registration required. While supplies last.
-LOCATION:West Orange - Program Room
+LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
 UID:LibCal-10341-16865463
@@ -2872,7 +2884,7 @@ DTSTAMP:20260822T000000Z
 SUMMARY:Unearthing Our Past: Revolutionary Stories
 DESCRIPTION:Unearthing Our Past: Revolutionary Stories\n\nPresented by West 
  Orange Township Historian Joseph Fagan\n\nWest Orange Public Library – 
- August 16\, 2026 – 2pm\n\n \n\nJoin West Orange Township Historian Joseph 
+ August 22\, 2026 – 2pm\n\n \n\nJoin West Orange Township Historian Joseph 
  Fagan as he unearths the many stories forgotten by time at the Old Burying 
  Ground in nearby Orange. Here weathered gravestones and forgotten burial 
  plots reveal the many stories of West Orange’s first settlers. Join 
