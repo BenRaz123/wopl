@@ -8,29 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260607T180000Z
-DTEND:20260607T193000Z
-DTSTAMP:20260607T000000Z
-SUMMARY:"Let's Celebrate America with Our Hit Songs 30's to 50's" with Ellen LaFurn
-DESCRIPTION:With Ellen Lafurn\n\nEnjoy the nostalgic musical event that is 
- being hosted by jazz soprano Ellen LaFurn\, which is titled "Let's 
- Celebrate America with Our Hit Songs 30's to 50's." Take advantage of this 
- fantastic opportunity to witness swinging American jazz in its classic 
- form.\n\n \n\nArtist information\n\nI began singing professionally when I 
- was 17 years old with Chang Lee and the Zaniacs\, a "show group." Before 
- this\, I sang at teen parties and clubs\, and once I was with Little 
- Anthony & the Imperials. I joined Jerry Mitchell and the Impacts and worked 
- with and learned from Roland Hanna\, Gus Johnson\, Danny Gibson\, and my 
- friend Miss Rhapsody\, among others. Then there was the Joe Zarr trio\, 
- which had the late Al Ross on organ and Warren Battiste on guitar. During 
- this time\, I also worked with The Traces and the Gary Kay Trio.\n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-16408522
-URL:https://bccls.libcal.com/event/16408522
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260608T220000Z
 DTEND:20260608T230000Z
 DTSTAMP:20260608T000000Z
@@ -2929,6 +2906,18 @@ UID:LibCal-10341-17128392
 URL:https://bccls.libcal.com/event/17128392
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260824T200000Z
+DTEND:20260824T210000Z
+DTSTAMP:20260824T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create something new or old out of Legos. For children 7
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-16733864
+URL:https://bccls.libcal.com/event/16733864
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260824T220000Z
 DTEND:20260824T230000Z
 DTSTAMP:20260824T000000Z
@@ -4977,6 +4966,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048718
 URL:https://bccls.libcal.com/event/17048718
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270708T180000Z
+DTEND:20270708T203000Z
+DTSTAMP:20270708T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-17048719
+URL:https://bccls.libcal.com/event/17048719
 END:VEVENT
 
 END:VCALENDAR
