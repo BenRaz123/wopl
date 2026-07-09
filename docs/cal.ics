@@ -8,21 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260608T220000Z
-DTEND:20260608T230000Z
-DTSTAMP:20260608T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094957
-URL:https://bccls.libcal.com/event/16094957
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260610T170000Z
 DTEND:20260610T180000Z
 DTSTAMP:20260610T000000Z
@@ -1616,6 +1601,18 @@ UID:LibCal-10341-16864468
 URL:https://bccls.libcal.com/event/16864468
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260716T170000Z
+DTEND:20260716T210000Z
+DTSTAMP:20260716T000000Z
+SUMMARY:Property Tax Relief Filing Event
+DESCRIPTION:West Orange Township Senior Services
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16703601
+URL:https://bccls.libcal.com/event/16703601
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260716T180000Z
 DTEND:20260716T203000Z
 DTSTAMP:20260716T000000Z
@@ -1776,18 +1773,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16894775
 URL:https://bccls.libcal.com/event/16894775
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260722T150000Z
-DTEND:20260722T180000Z
-DTSTAMP:20260722T000000Z
-SUMMARY:Rep. LaMonica McIver Office Hours
-DESCRIPTION:
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17151891
-URL:https://bccls.libcal.com/event/17151891
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260722T170000Z
@@ -2399,6 +2384,18 @@ UID:LibCal-10341-16894782
 URL:https://bccls.libcal.com/event/16894782
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260805T150000Z
+DTEND:20260805T180000Z
+DTSTAMP:20260805T000000Z
+SUMMARY:Rep. LaMonica McIver Office Hours
+DESCRIPTION:
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17151891
+URL:https://bccls.libcal.com/event/17151891
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260805T170000Z
 DTEND:20260805T180000Z
 DTSTAMP:20260805T000000Z
@@ -2601,6 +2598,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-16864308
 URL:https://bccls.libcal.com/event/16864308
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260811T200000Z
+DTEND:20260811T210000Z
+DTSTAMP:20260811T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ Registration Required
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-16979322
+URL:https://bccls.libcal.com/event/16979322
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260812T170000Z
