@@ -8,34 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260614T180000Z
-DTEND:20260614T193000Z
-DTSTAMP:20260614T000000Z
-SUMMARY:Juneteenth and the Continuing Promise of American Freedom
-DESCRIPTION:A Rev250 Program\n\nfeaturing Dr. Leslie Wilson\, Montclair 
- State University\n\nTo celebrate Juneteenth on the 250th anniversary of the 
- American Revolution is to remember that freedom and independence were 
- unequally fought for and won for different people in this country. In this 
- lecture\, Montclair State University professor Leslie Wilson will discuss 
- the promise of American freedom and the rise of Juneteenth as an early 
- manifestation of African American hopes and dreams.\n\nDespite the 
- political failure clouding the Civil War and Reconstruction era\, African 
- Americans found their strengths and resilience. They made wartime 
- legislation\, and the new constitutional amendments serve as a roadmap to 
- equality and a better life. On Juneteenth\, thousands of freed people found 
- reasons to celebrate their new lives—a celebration we continue today on 
- the country's newest holiday\, a holiday that recognizes that African 
- American history is truly American history.\n\nAbout the presenter\n\nDr. 
- Leslie Wilson is a professor of history and associate dean in the College 
- of Humanities and Social Sciences at Montclair State University. He holds a 
- PhD from the Graduate School of the City University of New York.\n\n
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Lecture
-UID:LibCal-10341-16593085
-URL:https://bccls.libcal.com/event/16593085
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260615T200000Z
 DTEND:20260615T210000Z
 DTSTAMP:20260615T000000Z
@@ -2104,6 +2076,20 @@ UID:LibCal-10341-16864470
 URL:https://bccls.libcal.com/event/16864470
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260730T173000Z
+DTEND:20260730T193000Z
+DTSTAMP:20260730T000000Z
+SUMMARY:Red Cross @ Your Library
+DESCRIPTION:Community members can learn about volunteer opportunities with 
+ the Red Cross\, including disaster response\, blood drives\, and 
+ preparedness programs.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17199029
+URL:https://bccls.libcal.com/event/17199029
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260730T180000Z
 DTEND:20260730T203000Z
 DTSTAMP:20260730T000000Z
@@ -2389,6 +2375,21 @@ UID:LibCal-10341-17048670
 URL:https://bccls.libcal.com/event/17048670
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260807T170000Z
+DTEND:20260807T193000Z
+DTSTAMP:20260807T000000Z
+SUMMARY:First Friday Film: You\, Me & Tuscany
+DESCRIPTION:You\, Me & Tuscany (2026)\nPG-13\, 1h 46m\n\nDirected by: Kat 
+ Coiro\nStarring: Halle Bailey\, Regé-Jean Paige\n\nAn aspiring chef 
+ encounters unexpected romance while crashing an unoccupied villa in the 
+ Tuscan countryside.\n\n---\n\nLunch provided by Toni's Kitchen
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-16200604
+URL:https://bccls.libcal.com/event/16200604
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260807T200000Z
 DTEND:20260807T210000Z
 DTSTAMP:20260807T000000Z
@@ -2606,6 +2607,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048671
 URL:https://bccls.libcal.com/event/17048671
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260813T223000Z
+DTEND:20260814T003000Z
+DTSTAMP:20260813T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board and card games will 
+ be available & feel free to bring your own as well.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-16380925
+URL:https://bccls.libcal.com/event/16380925
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260814T143000Z
@@ -2897,6 +2912,32 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048673
 URL:https://bccls.libcal.com/event/17048673
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260828T150000Z
+DTEND:20260828T160000Z
+DTSTAMP:20260828T000000Z
+SUMMARY:August Book Club: The Art of Losing
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\nSummer World Literature Series\n\nTHE ART OF LOSING \nby 
+ Alice Zeniter (France)\ntranslated by Frank Wynne\n\nNaïma's family comes 
+ from Algeria\, but she knows it only from what she experiences in her 
+ grandparents' tiny apartment in Normandy: the food her grandmother cooks\, 
+ the precious things they carried when they fled. Naïma's father claims to 
+ remember nothing\, has made himself French. But now\, one of them is going 
+ back and Naïma will see for herself what was left behind\, including the 
+ family secrets. A powerful\, moving family novel that spans three 
+ generations\, across seventy years and two shores of the Mediterranean Sea. 
+ \n\n** Participating in the World Championship Challenge? Read this book as 
+ your Group A pick\, and let us know how it fares in your tournament 
+ bracket! **\n\nCopies available at the Circulation Desk starting July 
+ 24.\n\n
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-16592775
+URL:https://bccls.libcal.com/calendar/westorange/artoflosing
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260829T190000Z
@@ -3351,6 +3392,33 @@ UID:LibCal-10341-17048678
 URL:https://bccls.libcal.com/event/17048678
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261001T220000Z
+DTEND:20261002T003000Z
+DTSTAMP:20261001T000000Z
+SUMMARY:MANHATTAN SHORT Film Festival
+DESCRIPTION:\nThursday\, October 1\, 6 PM\n\n\n\nFriday\, October 2\, 1 
+ PM\n\n\n\nSunday\, October 4\, 2 PM\n\nTrailer & more information coming in 
+ August!\n
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17021445
+URL:https://bccls.libcal.com/event/17021445
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261002T170000Z
+DTEND:20261002T200000Z
+DTSTAMP:20261002T000000Z
+SUMMARY:MANHATTAN SHORT Film Festival
+DESCRIPTION:\nThursday\, October 1\, 6 PM\n\n\n\nFriday\, October 2\, 1 
+ PM\n\n\n\nSunday\, October 4\, 2 PM\n
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17021474
+URL:https://bccls.libcal.com/event/17021474
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261003T190000Z
 DTEND:20261003T203000Z
 DTSTAMP:20261003T000000Z
@@ -3361,6 +3429,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094926
 URL:https://bccls.libcal.com/event/16094926
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261004T173000Z
+DTEND:20261004T203000Z
+DTSTAMP:20261004T000000Z
+SUMMARY:MANHATTAN SHORT Film Festival
+DESCRIPTION:https://www.manhattanshort.com/\n\n\n\n\nThursday\, October 1\, 
+ 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 2 
+ PM\n\nTrailer & more information coming in August!\n
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17021431
+URL:https://bccls.libcal.com/event/17021431
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261005T220000Z
@@ -4883,6 +4965,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048719
 URL:https://bccls.libcal.com/event/17048719
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270715T180000Z
+DTEND:20270715T203000Z
+DTSTAMP:20270715T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-17048720
+URL:https://bccls.libcal.com/event/17048720
 END:VEVENT
 
 END:VCALENDAR
