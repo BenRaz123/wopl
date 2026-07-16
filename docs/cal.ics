@@ -8,46 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260615T200000Z
-DTEND:20260615T210000Z
-DTSTAMP:20260615T000000Z
-SUMMARY:Drop-in Craft: Mini Paper Kites
-DESCRIPTION:Join us in making Mini Paper Kites just in time for the summer. 
- No registration required. While supplies last.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16857251
-URL:https://bccls.libcal.com/event/16857251
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260615T220000Z
-DTEND:20260615T230000Z
-DTSTAMP:20260615T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094958
-URL:https://bccls.libcal.com/event/16094958
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260615T223000Z
-DTEND:20260615T233000Z
-DTSTAMP:20260615T000000Z
-SUMMARY:Soccer Sticker Swap
-DESCRIPTION:Bring your doubles and triples to trade for the ones you need!
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16987845
-URL:https://bccls.libcal.com/event/16987845
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260616T210000Z
 DTEND:20260616T230000Z
 DTSTAMP:20260616T000000Z
@@ -2815,6 +2775,23 @@ UID:LibCal-10341-16094920
 URL:https://bccls.libcal.com/event/16094920
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260823T180000Z
+DTEND:20260823T190000Z
+DTSTAMP:20260823T000000Z
+SUMMARY:Fairy Garden Planters: Adult Craft Workshop
+DESCRIPTION:with Robin Johnson\, Garden Arts\n\nMake your own whimsical 
+ fairy garden!\n\nPlant seasonal flowers and creatively decorate your 
+ planter with fun and natural materials.\n\nFinish it off with a colorful 
+ fairy of your own creation to place in your magical environment.\n\nAll 
+ materials provided.\n\nThis workshop is designed for adults. \nRegistration 
+ required.\n\n \n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-16413236
+URL:https://bccls.libcal.com/event/16413236
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 DTSTAMP:20260824T000000Z
@@ -3290,6 +3267,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034696
 URL:https://bccls.libcal.com/event/16034696
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260924T163000Z
+DTEND:20260924T193000Z
+DTSTAMP:20260924T000000Z
+SUMMARY:Car Fit
+DESCRIPTION:
+LOCATION:West Orange - Off-site
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17206393
+URL:https://bccls.libcal.com/event/17206393
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260924T180000Z
