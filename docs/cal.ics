@@ -8,22 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260616T210000Z
-DTEND:20260616T230000Z
-DTSTAMP:20260616T000000Z
-SUMMARY:Summer Reading Kickoff
-DESCRIPTION:Kick off Summer Reading with face painting\, bubbles\, snacks\, 
- games\, crafts\, a rock wall\, and more for all ages. A kids fun DJ will 
- have everyone dancing and a special balloon show at 5pm will unearth a 
- story. All ages welcome. No registration required. Will take place in the 
- library parking lot\, weather permitting.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16232346
-URL:https://bccls.libcal.com/event/16232346
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260617T170000Z
 DTEND:20260617T180000Z
 DTSTAMP:20260617T000000Z
