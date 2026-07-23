@@ -8,60 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260622T190000Z
-DTEND:20260622T200000Z
-DTSTAMP:20260622T000000Z
-SUMMARY:Volunteer Orientation: Reading Buddies
-DESCRIPTION:Teens entering 6th - 12th grade: Learn what being a reading 
- buddy is all about! We'll tell you what to expect and awesome tips and 
- tricks for being a reading buddy who helps children who are learning to 
- read.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16995730
-URL:https://bccls.libcal.com/event/16995730
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260622T200000Z
-DTEND:20260622T210000Z
-DTSTAMP:20260622T000000Z
-SUMMARY:Lego Mania
-DESCRIPTION:Come create your own lego creation! For children 6 .
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-16857320
-URL:https://bccls.libcal.com/event/16857320
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260622T210000Z
-DTEND:20260622T230000Z
-DTSTAMP:20260622T000000Z
-SUMMARY:Soccer Sticker Swap
-DESCRIPTION:
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17093091
-URL:https://bccls.libcal.com/event/17093091
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260622T220000Z
-DTEND:20260622T230000Z
-DTSTAMP:20260622T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094959
-URL:https://bccls.libcal.com/event/16094959
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260623T150000Z
 DTEND:20260623T153000Z
 DTSTAMP:20260623T000000Z
@@ -1852,9 +1798,9 @@ DTSTART:20260730T223000Z
 DTEND:20260730T233000Z
 DTSTAMP:20260730T000000Z
 SUMMARY:History of the White House\, America's Executive Mansion
-DESCRIPTION:With Patricia Wells\n\nConstruction took eight years\; it was 
- nearly destroyed by fire\, it came dangerously close to collapsing\, and it 
- was almost painted black. Although President Washington chose the design\, 
+DESCRIPTION:With Patricia Wells\n\nConstruction took eight years\; a fire 
+ nearly destroyed it\, it came dangerously close to collapsing\, and someone 
+ almost painted it black. Although President Washington chose the design\, 
  he never really lived there. However\, although Jefferson\, Taft\, and the 
  Roosevelts made exceptional modifications\, one of their genius architects 
  came dangerously close to destroying the structure. It is the edifice that 
