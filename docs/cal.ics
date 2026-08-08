@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260707T150000Z
-DTEND:20260707T153000Z
-DTSTAMP:20260707T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-16864303
-URL:https://bccls.libcal.com/event/16864303
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260707T193000Z
-DTEND:20260707T203000Z
-DTSTAMP:20260707T000000Z
-SUMMARY:Tween Tuesdays
-DESCRIPTION:Special tween-focused activities! This week's project is 
- pressed flower bookmarks.\n\nFor kids ages 9-12.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16894759
-URL:https://bccls.libcal.com/event/16894759
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260708T170000Z
 DTEND:20260708T180000Z
 DTSTAMP:20260708T000000Z
@@ -1496,8 +1471,8 @@ DESCRIPTION:Dance class for preschoolers! Stretch\, and learn to move your
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Music/Dance
-UID:LibCal-10341-16575105
-URL:https://bccls.libcal.com/event/16575105
+UID:LibCal-10341-16614989
+URL:https://bccls.libcal.com/event/16614989
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260808T190000Z
