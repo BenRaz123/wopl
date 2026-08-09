@@ -8,96 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260708T170000Z
-DTEND:20260708T180000Z
-DTSTAMP:20260708T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	Everyone is welcome\, regardless of their location\, 
- educational experience\, or background.\n	The conversation leader will help 
- everyone practice speaking in English through group social 
- interaction\n	Easy-to-read books in English will be introduced to improve 
- vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
- get to know others who want to gain comfort with English 
- conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094533
-URL:https://bccls.libcal.com/event/16094533
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260708T170000Z
-DTEND:20260708T180000Z
-DTSTAMP:20260708T000000Z
-SUMMARY:Woolly Pets Kids Needle Felting (Please Register)
-DESCRIPTION:Learn how to needle felt an adorable apatosaurus dinosaur with 
- Woollypets Studio!
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16769743
-URL:https://bccls.libcal.com/event/16769743
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260708T180000Z
-DTEND:20260708T193000Z
-DTSTAMP:20260708T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094628
-URL:https://bccls.libcal.com/event/16094628
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260708T180000Z
-DTEND:20260708T200000Z
-DTSTAMP:20260708T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-16034685
-URL:https://bccls.libcal.com/event/16034685
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260708T181500Z
-DTEND:20260708T191500Z
-DTSTAMP:20260708T000000Z
-SUMMARY:Woolly Pets Tween   Teen Needle Felting (Please Register)
-DESCRIPTION:Learn how to needle felt an adorable stegosaurus dinosaur with 
- Woollypets Studio!
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16769744
-URL:https://bccls.libcal.com/event/16769744
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260708T230000Z
-DTEND:20260709T010000Z
-DTSTAMP:20260708T000000Z
-SUMMARY:Teen Open Mic Night
-DESCRIPTION:Calling all musicians\, poets\, comedians\, singers\, &  
- performers in grades 6 - 12!\n\nExpress yourself at the library's open mic 
- night. Bring your band\, tell your friends and family\, and support your 
- peers.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16232749
-URL:https://bccls.libcal.com/event/16232749
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260709T150000Z
 DTEND:20260709T153000Z
 DTSTAMP:20260709T000000Z
@@ -6961,6 +6871,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318814
 URL:https://bccls.libcal.com/event/17318814
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270809T220000Z
+DTEND:20270809T230000Z
+DTSTAMP:20270809T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318171
+URL:https://bccls.libcal.com/event/17318171
 END:VEVENT
 
 END:VCALENDAR
