@@ -8,66 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260709T150000Z
-DTEND:20260709T153000Z
-DTSTAMP:20260709T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-16864467
-URL:https://bccls.libcal.com/event/16864467
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260709T180000Z
-DTEND:20260709T203000Z
-DTSTAMP:20260709T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-17048666
-URL:https://bccls.libcal.com/event/17048666
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260709T203000Z
-DTEND:20260709T213000Z
-DTSTAMP:20260709T000000Z
-SUMMARY:Chess Club
-DESCRIPTION:Learn to play chess! Representatives from West Orange Chess 
- Club will share tips and strategies on how to play better and enjoy chess 
- more. All ages and skill levels welcome.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-17122156
-URL:https://bccls.libcal.com/event/17122156
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260709T223000Z
-DTEND:20260710T004500Z
-DTSTAMP:20260709T000000Z
-SUMMARY:World Movie Night: Sentimental Value
-DESCRIPTION:Join us for our first World Movie Night this summer! Watching 
- and reading your way around the world as part of our World Championship 
- Challenge? Consider this a worthy Group E pick -- come to our screening\, 
- and let us know how it stacks up in your tournament bracket. 
- \n\nSENTIMENTAL VALUE (2025)\ndirected by Joachim Trier (Norway)\nR\, 2h 
- 13min\n\nAn intimate exploration of family\, memories\, and the 
- reconciliatory power of art. **2025 Academy Award Winner for Best 
- International Feature Film** Nominated for 9 Academy Awards\, including 
- Best Picture\, Best Director\, Best Original Screenplay\, Best Editing\, 
- and the performances of all 4 leads--Renate Reinsve\, Stellan Skarsgård\, 
- Inga Ibsdotter Illeas\, and Elle Fanning.
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Movie
-UID:LibCal-10341-16898519
-URL:https://bccls.libcal.com/event/16898519
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260710T180000Z
 DTEND:20260710T200000Z
 DTSTAMP:20260710T000000Z
@@ -1421,6 +1361,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16897281
 URL:https://bccls.libcal.com/event/16897281
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260810T203000Z
+DTEND:20260810T213000Z
+DTSTAMP:20260810T000000Z
+SUMMARY:Tween Scratch Meetup- Computer Lab
+DESCRIPTION:Do you enjoy creative coding with Scratch ? Join us in the 
+ computer lab to talk and create with other Scratch enthusiasts. Ages 8 - 
+ 12.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17361054
+URL:https://bccls.libcal.com/event/17361054
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260810T220000Z
