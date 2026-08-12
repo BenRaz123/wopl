@@ -8,58 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260711T150000Z
-DTEND:20260711T160000Z
-DTSTAMP:20260711T000000Z
-SUMMARY:Bubbly Beats With Ms. Jolie
-DESCRIPTION:Continue to join us for our weekend family playdates with Ms. 
- Jolie. A class filled with learning\, movement and music\, stories\, and 
- lots of bubble popping fun! No registration required. For ages 1-5 years 
- old.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Music/Dance
-UID:LibCal-10341-14478548
-URL:https://bccls.libcal.com/event/14478548
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260711T180000Z
-DTEND:20260711T200000Z
-DTSTAMP:20260711T000000Z
-SUMMARY:Painting with Tea: America 250 Edition
-DESCRIPTION:with Smriti Sangal\, Culture Chauraha \n\nImmerse yourself in a 
- sensory art experience where brewed tea becomes your paint and history 
- becomes your inspiration. In this aromatic workshop\, participants will 
- create sepia-toned artworks using tea washes\, exploring warm gradients\, 
- soft textures\, and the natural stain of tea. Surrounded by the calming 
- scent of brewed tea\, you'll experiment with brush techniques to build 
- depth\, contrast\, and detail.\n\nUsing references inspired by the Boston 
- Tea Party among other general motifs\, you'll design expressive pieces 
- featuring ships\, slogans\, and freedom-themed imagery--or create your own 
- playful\, modern interpretations. This workshop blends creativity with 
- storytelling\, offering a relaxing hands-on experience suited for all skill 
- levels.\n\nParticipants leave with a beautiful tea-painted artwork and a 
- newfound appreciation for this unique medium.\n\nThis workshop is designed 
- for adults. All materials provided.\nRegistration is required.\n\n
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16702349
-URL:https://bccls.libcal.com/event/16702349
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260711T190000Z
-DTEND:20260711T203000Z
-DTSTAMP:20260711T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094914
-URL:https://bccls.libcal.com/event/16094914
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260712T180000Z
 DTEND:20260712T193000Z
 DTSTAMP:20260712T000000Z
@@ -1487,7 +1435,7 @@ URL:https://bccls.libcal.com/event/16865596
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260812T220000Z
-DTEND:20260813T010000Z
+DTEND:20260812T230000Z
 DTSTAMP:20260812T000000Z
 SUMMARY:Learn Magic!
 DESCRIPTION:Try your own magic tricks with Mike Capozzi. All supplies 
@@ -1872,6 +1820,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034692
 URL:https://bccls.libcal.com/event/16034692
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260826T230000Z
+DTEND:20260827T003000Z
+DTSTAMP:20260826T000000Z
+SUMMARY:Teen Game Night
+DESCRIPTION:Video games\, board games\, and more! Invite your friends- open 
+ to anyone in grades 6 - 12.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17382897
+URL:https://bccls.libcal.com/event/17382897
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260827T180000Z
@@ -6979,6 +6940,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318746
 URL:https://bccls.libcal.com/event/17318746
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270812T180000Z
+DTEND:20270812T203000Z
+DTSTAMP:20270812T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-17048724
+URL:https://bccls.libcal.com/event/17048724
 END:VEVENT
 
 END:VCALENDAR
