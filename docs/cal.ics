@@ -8,114 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260715T150000Z
-DTEND:20260715T163000Z
-DTSTAMP:20260715T000000Z
-SUMMARY:Exceptional Communicators in History & the Arts
-DESCRIPTION:With Annette DeCicco\n\nA 90-minute multimedia event presenting 
- famous personalities in history and the arts who were/are outstanding 
- communicators\, some as storytellers and others who inspired through 
- brevity\, metaphor\, analogy\, and anaphora. Much of the content was based 
- on Carmine Gallo's two published novels\, The Storyteller's Secret and Five 
- Stars: The Communication Secrets to Get from Good to Excellent. I also 
- broadcast a TED Talk titled Ten Ingredients for a Meaningful 
- Conversation.\n\nThe session introduction is intended to engage the group's 
- attention right away by telling them about the stories that we all have\, 
- how to dive deep\, and how to communicate personally when appropriate. From 
- there\, the many types of stories—origin stories (Howard 
- Schultz/Starbucks)\, overcoming overwhelming odds stories (JK Rowling/Harry 
- Potter)\, and rags to riches (Alexander Hamilton and 
- Lin-Manuel).\n\n\n\n\nAnnette DeCicco is an educator with an MA in 
- Education from Seton Hall University and holds an NJ real estate broker’s 
- license. Her early career was as an instructor at Essex County College. She 
- segued into real estate as managing broker of several local real estate 
- offices\, a role she held for 25 years. She has shared her knowledge at 
- Fairleigh Dickinson U. and Rutgers U. through their programs of lifelong 
- learning.\n\n\n\n\n \n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Lecture
-UID:LibCal-10341-16805532
-URL:https://bccls.libcal.com/event/16805532
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260715T170000Z
-DTEND:20260715T180000Z
-DTSTAMP:20260715T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	Everyone is welcome\, regardless of their location\, 
- educational experience\, or background.\n	The conversation leader will help 
- everyone practice speaking in English through group social 
- interaction\n	Easy-to-read books in English will be introduced to improve 
- vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
- get to know others who want to gain comfort with English 
- conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094534
-URL:https://bccls.libcal.com/event/16094534
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260715T180000Z
-DTEND:20260715T193000Z
-DTSTAMP:20260715T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094629
-URL:https://bccls.libcal.com/event/16094629
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260715T180000Z
-DTEND:20260715T200000Z
-DTSTAMP:20260715T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-16034686
-URL:https://bccls.libcal.com/event/16034686
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260715T200000Z
-DTEND:20260715T210000Z
-DTSTAMP:20260715T000000Z
-SUMMARY:Dino Food Expedition: Fruit Dino
-DESCRIPTION:Join Ms. Shay and make some fun dinosaur inspired food 
- including a fruit dino & a dino bone snack. For children 3 . No 
- registration required. While supplies last.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16865595
-URL:https://bccls.libcal.com/event/16865595
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260715T223000Z
-DTEND:20260715T233000Z
-DTSTAMP:20260715T000000Z
-SUMMARY:Teen Reptiles and Terrariums with Zoophoria
-DESCRIPTION:See real reptiles and make a living terrarium! This special 
- program is for teens entering 6th - 12th Grade- unearth your passion for 
- reptiles with Zoophoria NJ!
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16721543
-URL:https://bccls.libcal.com/event/16721543
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260716T150000Z
 DTEND:20260716T153000Z
 DTSTAMP:20260716T000000Z
@@ -6819,6 +6711,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318815
 URL:https://bccls.libcal.com/event/17318815
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270816T220000Z
+DTEND:20270816T230000Z
+DTSTAMP:20270816T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318172
+URL:https://bccls.libcal.com/event/17318172
 END:VEVENT
 
 END:VCALENDAR
