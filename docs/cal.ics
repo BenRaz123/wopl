@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260721T150000Z
-DTEND:20260721T153000Z
-DTSTAMP:20260721T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-16864305
-URL:https://bccls.libcal.com/event/16864305
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260721T193000Z
-DTEND:20260721T203000Z
-DTSTAMP:20260721T000000Z
-SUMMARY:Tween Tuesdays
-DESCRIPTION:Special tween-focused activities! This week's project is 
- recycled dinosaur creation.\n\nFor kids ages 9-12.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16894775
-URL:https://bccls.libcal.com/event/16894775
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260722T170000Z
 DTEND:20260722T180000Z
 DTSTAMP:20260722T000000Z
@@ -1716,6 +1691,20 @@ UID:LibCal-10341-17166245
 URL:https://bccls.libcal.com/event/17166245
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260909T223000Z
+DTEND:20260909T233000Z
+DTSTAMP:20260909T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High school students: Be a library star & help shape teen 
+ services at the library. Earn volunteer hours for attending- new members 
+ always welcome! Teen Advisory Group meets in the library teen 
+ space.\n\nEmail teens@westorangelibrary.org \n\n\n
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17395989
+URL:https://bccls.libcal.com/event/17395989
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260910T180000Z
 DTEND:20260910T203000Z
 DTSTAMP:20260910T000000Z
@@ -1856,6 +1845,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034695
 URL:https://bccls.libcal.com/event/16034695
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260916T213000Z
+DTEND:20260916T233000Z
+DTSTAMP:20260916T000000Z
+SUMMARY:Teen Dungeons & Dragons
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17226237
+URL:https://bccls.libcal.com/event/17226237
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260917T150000Z
@@ -2225,6 +2229,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034697
 URL:https://bccls.libcal.com/event/16034697
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T223000Z
+DTEND:20260930T233000Z
+DTSTAMP:20260930T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High school students: Be a library star & help shape teen 
+ services at the library. Earn volunteer hours for attending- new members 
+ always welcome! Teen Advisory Group meets in the library teen 
+ space.\n\nEmail teens@westorangelibrary.org \n\n\n
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17395990
+URL:https://bccls.libcal.com/event/17395990
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261001T150000Z
