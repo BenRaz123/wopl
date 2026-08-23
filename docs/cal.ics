@@ -8,97 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260722T170000Z
-DTEND:20260722T180000Z
-DTSTAMP:20260722T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	Everyone is welcome\, regardless of their location\, 
- educational experience\, or background.\n	The conversation leader will help 
- everyone practice speaking in English through group social 
- interaction\n	Easy-to-read books in English will be introduced to improve 
- vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
- get to know others who want to gain comfort with English 
- conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094535
-URL:https://bccls.libcal.com/event/16094535
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260722T180000Z
-DTEND:20260722T193000Z
-DTSTAMP:20260722T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094630
-URL:https://bccls.libcal.com/event/16094630
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260722T180000Z
-DTEND:20260722T200000Z
-DTSTAMP:20260722T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-16034687
-URL:https://bccls.libcal.com/event/16034687
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260722T193000Z
-DTEND:20260722T213000Z
-DTSTAMP:20260722T000000Z
-SUMMARY:Teen Dreamstorming and Hat Design
-DESCRIPTION:Dream Big!\n\nLearn about the entrepreneurial process\, 
- dreamstorm\, and celebrate your creativity and confidence by making your 
- own custom hat. Grades 6 - 12.\n\nPlease register for a spot.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16232755
-URL:https://bccls.libcal.com/event/16232755
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260722T200000Z
-DTEND:20260722T210000Z
-DTSTAMP:20260722T000000Z
-SUMMARY:Sensory Frenzy Playtime
-DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
- through various sensory activities.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-16734408
-URL:https://bccls.libcal.com/event/16734408
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260722T213000Z
-DTEND:20260722T233000Z
-DTSTAMP:20260722T000000Z
-SUMMARY:Teen Dungeons & Dragons
-DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
- provided!\n\nNo prior experience required- beginners to experts 
- welcome.\n\nA unique and self contained story: no prior or ongoing 
- attendance necessary!
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-17113060
-URL:https://bccls.libcal.com/event/17113060
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260723T150000Z
 DTEND:20260723T153000Z
 DTSTAMP:20260723T000000Z
@@ -1274,15 +1183,43 @@ DESCRIPTION:Unearthing Our Past: Revolutionary Stories\n\nPresented by West
  heritage today.\n\n \n\n\n \n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
+CATEGORIES:Lecture
 UID:LibCal-10341-16981871
 URL:https://bccls.libcal.com/event/16981871
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260822T180000Z
+DTEND:20260822T200000Z
+DTSTAMP:20260822T000000Z
+SUMMARY:Unearthing Our Past: Revolutionary Stories
+DESCRIPTION:Unearthing Our Past: Revolutionary Stories\n\nPresented by West 
+ Orange Township Historian Joseph Fagan\n\nWest Orange Public Library – 
+ August 22\, 2026 – 2pm\n\n \n\nJoin West Orange Township Historian Joseph 
+ Fagan as he unearths the many stories forgotten by time at the Old Burying 
+ Ground in nearby Orange. Here weathered gravestones and forgotten burial 
+ plots reveal the many stories of West Orange’s first settlers. Join 
+ Joseph Fagan as he steps through an undisturbed portal in time where 
+ Revolutionary War patriots\, local families\, and ordinary citizens still 
+ bear silent witness to history. Discover the stories of the people whose 
+ lives\, sacrifices\, and experiences helped shape both our local community 
+ and the nation.\n\n \n\nPresented as part of the commemoration of 
+ America’s 250th anniversary\, this program is the second in a series by 
+ Joseph Fagan supporting Rev250 NJ. It is a statewide initiative that 
+ explores the unique Revolutionary War history of communities across New 
+ Jersey. Join Fagan for an engaging journey into the people\, events\, and 
+ stories that helped define our nation and continue to shape our local 
+ heritage today.\n\n
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-17352302
+URL:https://bccls.libcal.com/event/17352302
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260822T190000Z
 DTEND:20260822T203000Z
 DTSTAMP:20260822T000000Z
-SUMMARY:Learn English
+SUMMARY:Learn English-Cancelled
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
 LOCATION:West Orange - Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -1757,6 +1694,30 @@ UID:LibCal-10341-16094923
 URL:https://bccls.libcal.com/event/16094923
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260913T180000Z
+DTEND:20260913T193000Z
+DTSTAMP:20260913T000000Z
+SUMMARY:Concert: Marc Berger
+DESCRIPTION:Presentation\n\nRIDE currently offers ten cinematic recordings 
+ that capture the grandeur and allure of the West while examining its 
+ profound origins in the American psyche. Marc and Mike Ricciardi created 
+ the album\, which is based on Marc's lifelong love affair with the American 
+ West. "Twister" has a melancholy message and beat\, "Take It on the Chin" 
+ is about taming a wild horse\, "Time Waits For No Man" is about a sexy\, 
+ mind-blowing encounter in the middle of nowhere\, and seven more scenic 
+ stops make up RIDE's Great American Frontier tour.\n\n \n\nAbout the 
+ artist\n\nMarc's life revolves around two passions: composing and 
+ performing original songs and touring the American West. At SXSW Music 
+ Festival and Kerrville Folk Festival\, he has opened for big stars like Bob 
+ Dylan and sang his antinuclear hymn "The Last One\," a mainstay of Richie 
+ Havens' shows.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-16304053
+URL:https://bccls.libcal.com/event/16304053
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260914T200000Z
 DTEND:20260914T210000Z
 DTSTAMP:20260914T000000Z
@@ -1862,6 +1823,37 @@ UID:LibCal-10341-17226237
 URL:https://bccls.libcal.com/event/17226237
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260916T223000Z
+DTEND:20260917T003000Z
+DTSTAMP:20260916T000000Z
+SUMMARY:Jean Luc Godard's Breathless (1960) French film introduction
+DESCRIPTION:Program\n\nWe invite you to join us for this fascinating 
+ introduction to the French New Wave\, which redefined storytelling in film 
+ during the '50s and '60s. The event commences with a perceptive 
+ introduction given by Gerard Amsellem\, who is an artist\, educator\, and 
+ founder of New Wave Productions and the Institute of Art and Film Studies. 
+ It concludes with a showing of Breathless (À bout de souffle)\, a 
+ legendary film by Jean-Luc Godard\, which is widely regarded as the film 
+ that sparked modern cinema. Stay for an interactive Q&A with Amsellem after 
+ the film to discuss the film's unique cutting techniques\, the 
+ groundbreaking roles played by the performers\, and the director's 
+ vision.\n\nArtist\n\nGerard Amsellem is an artist\, educator\, and 
+ filmmaker holding dual citizenship in the U.S. and France. With a 
+ background in painting and advanced degrees in French literature and art 
+ history from the University of Paris\, he later continued his education at 
+ New York University's Tisch School of the Arts. Amsellem has directed 
+ several short films\, including "Bartleby" (2013)\, which received a 
+ Director’s Citation from the Black Maria Film Festival and was an 
+ Official Selection at various festivals. His production company\, New Waves 
+ Productions\, focuses on promoting film as an art form and ensuring public 
+ access to quality cinema.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17195317
+URL:https://bccls.libcal.com/event/17195317
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260917T150000Z
 DTEND:20260917T153000Z
 DTSTAMP:20260917T000000Z
@@ -1898,6 +1890,30 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
 UID:LibCal-10341-17260417
 URL:https://bccls.libcal.com/event/17260417
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260919T180000Z
+DTEND:20260919T200000Z
+DTSTAMP:20260919T000000Z
+SUMMARY:Buena Vista Social Club: The musical
+DESCRIPTION:Program\n\nBefore the revolution altered the course of Cuban 
+ music\, a band of young musicians in Havana in the 1950s had already begun 
+ to shake things up. In a surprising twist\, the band reunited forty years 
+ later to record the songs they had left behind\, and the result was the 
+ best-selling album in the history of world music. Performers from the 1999 
+ documentary film Son Cubano and the Tony-winning 2025 Broadway musical 
+ Buena Vista Social Club are included in the presentation\, which also 
+ covers life in Cuba in the 1950s before the revolution.\n\nArtist\n\nAt the 
+ Performing Arts Center at Penn State University\, Rick Feingold oversaw the 
+ Latin Jazz series. In addition to his extensive travels throughout Cuba\, 
+ he teaches history at Bergen Community College. Mr. Feingold has a Bachelor 
+ of Arts in History from Rutgers University and an MBA from Penn State 
+ University.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-16773371
+URL:https://bccls.libcal.com/event/16773371
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260919T190000Z
@@ -2141,6 +2157,36 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
 UID:LibCal-10341-17168773
 URL:https://bccls.libcal.com/event/17168773
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260927T180000Z
+DTEND:20260927T193000Z
+DTSTAMP:20260927T000000Z
+SUMMARY:Lenore Raphael\, a concert pianist\, performs jazz standards
+DESCRIPTION:Program\n\nThe Lenore Raphael Trio consists of Lenore on 
+ piano\, Hilliard Greene on bass\, and Kahlil Kwame Bell on drums\, creating 
+ a world-class ensemble. Their performance will feature jazz classics and 
+ selections from the American songbook.\n\n \n\nArtist\n\nLenore Raphael is 
+ a jazz pianist\, radio personality\, Steinway artist\, and jazz educator 
+ who is widely considered to be among the top pianists working in modern 
+ music. Major jazz clubs and festivals have sold out her performances on 
+ multiple occasions. New York City's Birdland\, The Blue Note\, and Jazz at 
+ Lincoln Center were all stops for Dizzy's\, and among them are the 
+ following: the Ottawa International Jazz Festival\, Ronnie Scott's in 
+ London\, the S.S. Oosterdam jazz cruise\, the Tel Aviv Jazz Festival\, and 
+ multiple others. The Joy Of Jazz event in Johannesburg\, South Africa\, 
+ featured three internationally known Steinway pianists\, including Abdullah 
+ Ibraham and Ahmad Jamal. She was one of them. Additionally\, in April 
+ 2014\, Lenore played to sold-out crowds at the Broward Center for the Arts 
+ Amaturo theater in Ft. Lauderdale\, Florida\, and the Casa Da Musica in 
+ Porto\, Portugal. England\, Europe\, and Israel have all been stops on her 
+ tour. She had a giant tour in South Africa in 2016\, and every place she 
+ played there requested her to come back.\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-16402849
+URL:https://bccls.libcal.com/event/16402849
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260928
@@ -6730,6 +6776,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318816
 URL:https://bccls.libcal.com/event/17318816
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270823T220000Z
+DTEND:20270823T230000Z
+DTSTAMP:20270823T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318173
+URL:https://bccls.libcal.com/event/17318173
 END:VEVENT
 
 END:VCALENDAR
