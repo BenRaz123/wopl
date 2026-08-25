@@ -8,41 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260724T150000Z
-DTEND:20260724T160000Z
-DTSTAMP:20260724T000000Z
-SUMMARY:July Book Club: The Lantern of Lost Memories
-DESCRIPTION:A book club for adults who want to read together in community. 
- We meet one Friday morning a month to chat about a title we read in 
- common.\n\n--\nSummer World Literature Series\n\nTHE LANTERN OF LOST 
- MEMORIES\nby Sanaka Hiiragi (Japan)\n\nFrom acclaimed Japanese author 
- Sanaka Hiigari comes a heartwarming\, life-affirming novel about a magical 
- photo studio\, where people go after they die to view key moments from 
- their life—and relive one precious memory before they pass into the 
- afterlife. Translated by Jesse Kirkwood.\n\n** Participating in the World 
- Championship Challenge? Read this book as your Group D pick\, and let us 
- know how it fares in your tournament bracket! **\n\nCopies available at the 
- Circulation Desk starting June 26.
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Book Club
-UID:LibCal-10341-16592609
-URL:https://bccls.libcal.com/event/16592609
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260724T180000Z
-DTEND:20260724T200000Z
-DTSTAMP:20260724T000000Z
-SUMMARY:Family Movie Afternoon: The Good Dinosaur
-DESCRIPTION:Join us for a showing of The Good Dinosaur. Light refreshments 
- will be served. The movie is rated PG.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Movie
-UID:LibCal-10341-16615318
-URL:https://bccls.libcal.com/event/16615318
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260725T160000Z
 DTEND:20260725T170000Z
 DTSTAMP:20260725T000000Z
@@ -1388,6 +1353,18 @@ UID:LibCal-10341-16094969
 URL:https://bccls.libcal.com/event/16094969
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260901T193000Z
+DTEND:20260901T210000Z
+DTSTAMP:20260901T000000Z
+SUMMARY:Maker Mindset
+DESCRIPTION:Bridge Building Exercise Led by High School Volunteer Liam
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17066099
+URL:https://bccls.libcal.com/event/17066099
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260902T170000Z
 DTEND:20260902T180000Z
 DTSTAMP:20260902T000000Z
@@ -1591,6 +1568,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048675
 URL:https://bccls.libcal.com/event/17048675
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260910T200000Z
+DTEND:20260910T210000Z
+DTSTAMP:20260910T000000Z
+SUMMARY:Tween Back to School Vision Boards
+DESCRIPTION:Come visit our library to make back-to-school vision boards! 
+ For tweens age 8-12.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17409075
+URL:https://bccls.libcal.com/event/17409075
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260911T200000Z
@@ -2051,7 +2041,7 @@ BEGIN:VEVENT
 DTSTART:20260926T150000Z
 DTEND:20260926T160000Z
 DTSTAMP:20260926T000000Z
-SUMMARY:Teatro Sea Bilingual Children's Theater: Pura Belpre's Tales/Cuentos de Pura Belpre
+SUMMARY:Teatro Sea NYC Bilingual Children's Theater: Pura Belpre's Tales/Cuentos de Pura Belpre
 DESCRIPTION:THE JOURNEY OF PURA BELPRÉ’S TALES \nPura Belpré was a 
  talented author\, collector of folktales\, puppeteer and storyteller who 
  wrote and\nreinterpreted Puerto Rican folk tales. Our show is a 
@@ -2062,8 +2052,11 @@ DESCRIPTION:THE JOURNEY OF PURA BELPRÉ’S TALES \nPura Belpré was a
  escribió y re-interpretó las historias populares puertorriqueñas. 
  Nuestro espectáculo\nes una recreación de su tradición de contar cuentos 
  bilingües\, en una experiencia creativa e inter-\nactiva que combina el 
- arte de contar cuentos con títeres\n\nA REFORMA.ORG Noche de Cuentos grant 
- funded event.
+ arte de contar cuentos con títeres\n\n\n\nABOUT 
+ SEA\n\n\n\n\n\n\n\n\n\nEstablished in 1985\, SEA (Society of the 
+ Educational Arts\, Inc.)\, is the premiere Bilingual Arts-in-Education 
+ Organization and Latino Children’s Theatre in the United 
+ States.\n\n\n\n\n\n\n\nA REFORMA.ORG Noche de Cuentos grant funded event
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -6730,6 +6723,55 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318173
 URL:https://bccls.libcal.com/event/17318173
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270825T170000Z
+DTEND:20270825T180000Z
+DTSTAMP:20270825T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-17318602
+URL:https://bccls.libcal.com/event/17318602
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270825T180000Z
+DTEND:20270825T193000Z
+DTSTAMP:20270825T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318678
+URL:https://bccls.libcal.com/event/17318678
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270825T180000Z
+DTEND:20270825T200000Z
+DTSTAMP:20270825T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-17318748
+URL:https://bccls.libcal.com/event/17318748
 END:VEVENT
 
 END:VCALENDAR
