@@ -8,51 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260725T160000Z
-DTEND:20260725T170000Z
-DTSTAMP:20260725T000000Z
-SUMMARY:Slow Yoga with Lea Peace
-DESCRIPTION:With Lea Peace.\n\nShe is going to perform a peaceful\, 
- contemplative yoga practice. The patrons will be able to discover the world 
- of breathing control and concentration while seated in chairs. In 
- addition\, they will be able to see the range of motion in their joints\, 
- strengthen their core muscles through these activities\, and\, finally\, 
- stand up and balance for a little while.\n\nAbout the presenter.\n\nLea 
- Peace is a member of the gender-inclusive Empty Cloud Monastery in West 
- Orange. She has been practicing for a long time and has been certified by 
- the Kripalu Center for Yoga and Health in MA.\n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Health & Wellness
-UID:LibCal-10341-17021157
-URL:https://bccls.libcal.com/event/17021157
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260725T180000Z
-DTEND:20260725T200000Z
-DTSTAMP:20260725T000000Z
-SUMMARY:Unearth a Story- Mansa Musa Program
-DESCRIPTION:Interactive book art project with teaching artist Mansa Mussa- 
- all ages welcome.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16382375
-URL:https://bccls.libcal.com/event/16382375
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260725T190000Z
-DTEND:20260725T203000Z
-DTSTAMP:20260725T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094916
-URL:https://bccls.libcal.com/event/16094916
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260726T180000Z
 DTEND:20260726T200000Z
 DTSTAMP:20260726T000000Z
@@ -1583,6 +1538,20 @@ UID:LibCal-10341-17409075
 URL:https://bccls.libcal.com/event/17409075
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260910T223000Z
+DTEND:20260911T003000Z
+DTSTAMP:20260910T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board and card games will 
+ be available & feel free to bring your own as well.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-17198475
+URL:https://bccls.libcal.com/event/17198475
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260911T200000Z
 DTEND:20260911T210000Z
 DTSTAMP:20260911T000000Z
@@ -1595,6 +1564,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17260410
 URL:https://bccls.libcal.com/event/17260410
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260912T153000Z
+DTEND:20260912T173000Z
+DTSTAMP:20260912T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136417
+URL:https://bccls.libcal.com/event/17136417
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260912T180000Z
@@ -1821,6 +1803,19 @@ UID:LibCal-10341-17260417
 URL:https://bccls.libcal.com/event/17260417
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260919T153000Z
+DTEND:20260919T173000Z
+DTSTAMP:20260919T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136418
+URL:https://bccls.libcal.com/event/17136418
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260919T180000Z
 DTEND:20260919T200000Z
 DTSTAMP:20260919T000000Z
@@ -1855,6 +1850,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094924
 URL:https://bccls.libcal.com/event/16094924
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260920T190000Z
+DTEND:20260920T203000Z
+DTSTAMP:20260920T000000Z
+SUMMARY:Adult Craft Workshop: Pet Portraits in Multiple Media
+DESCRIPTION:with Sandra Charlap\n\nBring in a full-color photo of your 
+ furry\, feathered\, or scaled friend\, and learn to create a portrait in 
+ watercolor\, acrylic\, collage\, clay ornament\, or glass mosaic!
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-17302102
+URL:https://bccls.libcal.com/event/17302102
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260921T200000Z
@@ -2024,6 +2033,42 @@ UID:LibCal-10341-17048677
 URL:https://bccls.libcal.com/event/17048677
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260925T150000Z
+DTEND:20260925T160000Z
+DTSTAMP:20260925T000000Z
+SUMMARY:September Book Club: Sula
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\nBack to School September: Reading the Classics\n\nSULA \nby 
+ Toni Morrison (1973)\n\nA modern masterpiece about love and kinship\, about 
+ living in an America birthed from slavery. Nobel Prize laureate Toni 
+ Morrison gives life to characters who struggle with what society tells them 
+ to be\, and the love they long for and crave as Black women. (from the 
+ publisher)\n\n--\n\nReading club participants are also encouraged to read 
+ the chapter on Sula (pp 49-70) in:\n\nON MORRISON\nby Namwali Serpell 
+ (2026)\n**pages 49-70 only\n\nToni Morrison\, Nobel Laureate and one of our 
+ most beloved writers\, has inspired generations of readers. But her 
+ artistic genius is often overshadowed by her monumental public persona\, 
+ perhaps because\, as Namwali Serpell puts it\, “she is our only truly 
+ canonical black female writer—and her work is highly complex.” In On 
+ Morrison\, Serpell brings her unique experience as both an award-winning 
+ writer and a professor who teaches a course on Morrison to illuminate her 
+ masterful experiments with literary form. This is Morrison as you’ve 
+ never encountered her before\, a journey through her oeuvre...with 
+ contextual guidance and original close readings. At once accessible and 
+ uncompromisingly rigorous\, On Morrison is a primer not only on how to read 
+ one of the most significant American authors of all time but also on how to 
+ read great works of literature in general. This dialogue on the page 
+ between two black women artist-readers is stylish\, edifying\, and 
+ thrilling in its scope and intelligence. (from the publisher)\n\nCopies of 
+ both books will be available at the Circulation Desk starting August 28.\n
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-17198448
+URL:https://bccls.libcal.com/event/17198448
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260925T200000Z
 DTEND:20260925T210000Z
 DTSTAMP:20260925T000000Z
@@ -2064,6 +2109,19 @@ UID:LibCal-10341-17021329
 URL:https://bccls.libcal.com/event/17021329
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260926T153000Z
+DTEND:20260926T173000Z
+DTSTAMP:20260926T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136419
+URL:https://bccls.libcal.com/event/17136419
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260926T190000Z
 DTEND:20260926T203000Z
 DTSTAMP:20260926T000000Z
@@ -2094,7 +2152,7 @@ BEGIN:VEVENT
 DTSTART:20260927T180000Z
 DTEND:20260927T193000Z
 DTSTAMP:20260927T000000Z
-SUMMARY:Lenore Raphael\, a concert pianist\, performs jazz standards
+SUMMARY:Lenore Raphael Trio performs Jazz standards
 DESCRIPTION:Program\n\nThe Lenore Raphael Trio consists of Lenore on 
  piano\, Hilliard Greene on bass\, and Kahlil Kwame Bell on drums\, creating 
  a world-class ensemble. Their performance will feature jazz classics and 
@@ -2252,9 +2310,15 @@ DTSTART:20261001T220000Z
 DTEND:20261002T003000Z
 DTSTAMP:20261001T000000Z
 SUMMARY:MANHATTAN SHORT Film Festival
-DESCRIPTION:\nThursday\, October 1\, 6 PM\n\n\n\nFriday\, October 2\, 1 
- PM\n\n\n\nSunday\, October 4\, 2 PM\n\nTrailer & more information coming in 
- August!\n
+DESCRIPTION:\nJoin us for the 29th Annual MANHATTAN SHORT Film Festival\, a 
+ worldwide event taking place in over 500 venues across six continents 
+ between September 24 and October 4\,2026.\n\nMANHATTAN SHORT is the only 
+ event of its kind. The Ten Finalistswill screen simultaneously across the 
+ world during a one-week period\,with the Best Film and Best Actor awards 
+ determined by ballots cast by the audiences in each participating 
+ venue.\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, October 1\, 
+ 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 2 
+ PM\n\nTrailer: https://youtu.be/iOdETuNe6E0?si=39czrCjxf3znychO\n
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -2266,13 +2330,33 @@ DTSTART:20261002T170000Z
 DTEND:20261002T200000Z
 DTSTAMP:20261002T000000Z
 SUMMARY:MANHATTAN SHORT Film Festival
-DESCRIPTION:\nThursday\, October 1\, 6 PM\n\n\n\nFriday\, October 2\, 1 
- PM\n\n\n\nSunday\, October 4\, 2 PM\n
+DESCRIPTION:\nJoin us for the 29th Annual MANHATTAN SHORT Film Festival\, a 
+ worldwide event taking place in over 500 venues across six continents 
+ between September 24 and October 4\,2026.\n\nMANHATTAN SHORT is the only 
+ event of its kind. The Ten Finalistswill screen simultaneously across the 
+ world during a one-week period\,with the Best Film and Best Actor awards 
+ determined by ballots cast by the audiences in each participating 
+ venue.\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, October 1\, 
+ 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 2 
+ PM\n\nTrailer: https://youtu.be/iOdETuNe6E0?si=39czrCjxf3znychO\n
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17021474
 URL:https://bccls.libcal.com/event/17021474
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261003T153000Z
+DTEND:20261003T173000Z
+DTSTAMP:20261003T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136420
+URL:https://bccls.libcal.com/event/17136420
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261003T190000Z
@@ -2291,9 +2375,16 @@ DTSTART:20261004T173000Z
 DTEND:20261004T203000Z
 DTSTAMP:20261004T000000Z
 SUMMARY:MANHATTAN SHORT Film Festival
-DESCRIPTION:https://www.manhattanshort.com/\n\n\n\n\nThursday\, October 1\, 
+DESCRIPTION:\n\n\nJoin us for the 29th Annual MANHATTAN SHORT Film 
+ Festival\, a worldwide event taking place in over 500 venues across six 
+ continents between September 24 and October 4\,2026.\n\nMANHATTAN SHORT is 
+ the only event of its kind. The Ten Finalistswill screen simultaneously 
+ across the world during a one-week period\,with the Best Film and Best 
+ Actor awards determined by ballots cast by the audiences in each 
+ participating 
+ venue.\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, October 1\, 
  6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 2 
- PM\n\nTrailer & more information coming in August!\n
+ PM\n\nTrailer: https://youtu.be/iOdETuNe6E0?si=39czrCjxf3znychO\n
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -2415,6 +2506,19 @@ UID:LibCal-10341-17220277
 URL:https://bccls.libcal.com/event/17220277
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261010T153000Z
+DTEND:20261010T173000Z
+DTSTAMP:20261010T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136421
+URL:https://bccls.libcal.com/event/17136421
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261010T190000Z
 DTEND:20261010T203000Z
 DTSTAMP:20261010T000000Z
@@ -2527,6 +2631,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048680
 URL:https://bccls.libcal.com/event/17048680
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T153000Z
+DTEND:20261017T173000Z
+DTSTAMP:20261017T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136422
+URL:https://bccls.libcal.com/event/17136422
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T190000Z
@@ -2643,6 +2760,19 @@ UID:LibCal-10341-17048681
 URL:https://bccls.libcal.com/event/17048681
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261024T153000Z
+DTEND:20261024T173000Z
+DTSTAMP:20261024T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136423
+URL:https://bccls.libcal.com/event/17136423
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261024T190000Z
 DTEND:20261024T203000Z
 DTSTAMP:20261024T000000Z
@@ -2755,6 +2885,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048682
 URL:https://bccls.libcal.com/event/17048682
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261031T153000Z
+DTEND:20261031T173000Z
+DTSTAMP:20261031T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136424
+URL:https://bccls.libcal.com/event/17136424
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T190000Z
@@ -2871,6 +3014,19 @@ UID:LibCal-10341-17048684
 URL:https://bccls.libcal.com/event/17048684
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261107T163000Z
+DTEND:20261107T183000Z
+DTSTAMP:20261107T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136425
+URL:https://bccls.libcal.com/event/17136425
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261107T200000Z
 DTEND:20261107T213000Z
 DTSTAMP:20261107T000000Z
@@ -2985,6 +3141,19 @@ UID:LibCal-10341-17048685
 URL:https://bccls.libcal.com/event/17048685
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261114T163000Z
+DTEND:20261114T183000Z
+DTSTAMP:20261114T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136426
+URL:https://bccls.libcal.com/event/17136426
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261114T200000Z
 DTEND:20261114T213000Z
 DTSTAMP:20261114T000000Z
@@ -3097,6 +3266,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048686
 URL:https://bccls.libcal.com/event/17048686
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261121T163000Z
+DTEND:20261121T183000Z
+DTSTAMP:20261121T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136427
+URL:https://bccls.libcal.com/event/17136427
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T200000Z
@@ -3222,6 +3404,19 @@ UID:LibCal-10341-17048687
 URL:https://bccls.libcal.com/event/17048687
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261128T163000Z
+DTEND:20261128T183000Z
+DTSTAMP:20261128T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136428
+URL:https://bccls.libcal.com/event/17136428
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261128T200000Z
 DTEND:20261128T213000Z
 DTSTAMP:20261128T000000Z
@@ -3334,6 +3529,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048688
 URL:https://bccls.libcal.com/event/17048688
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261205T163000Z
+DTEND:20261205T183000Z
+DTSTAMP:20261205T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136429
+URL:https://bccls.libcal.com/event/17136429
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T200000Z
@@ -3450,6 +3658,19 @@ UID:LibCal-10341-17048689
 URL:https://bccls.libcal.com/event/17048689
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261212T163000Z
+DTEND:20261212T183000Z
+DTSTAMP:20261212T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136430
+URL:https://bccls.libcal.com/event/17136430
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261212T200000Z
 DTEND:20261212T213000Z
 DTSTAMP:20261212T000000Z
@@ -3562,6 +3783,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048690
 URL:https://bccls.libcal.com/event/17048690
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261219T163000Z
+DTEND:20261219T183000Z
+DTSTAMP:20261219T000000Z
+SUMMARY:STEP ESL
+DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17136431
+URL:https://bccls.libcal.com/event/17136431
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T200000Z
@@ -6772,6 +7006,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318748
 URL:https://bccls.libcal.com/event/17318748
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270826T180000Z
+DTEND:20270826T203000Z
+DTSTAMP:20270826T000000Z
+SUMMARY:Drop-in Mahjong
+DESCRIPTION:
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-17048726
+URL:https://bccls.libcal.com/event/17048726
 END:VEVENT
 
 END:VCALENDAR
