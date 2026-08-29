@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260728T150000Z
-DTEND:20260728T153000Z
-DTSTAMP:20260728T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A storytime for caregivers & babies ages 0-2 years old
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-16864306
-URL:https://bccls.libcal.com/event/16864306
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260728T200000Z
-DTEND:20260728T210000Z
-DTSTAMP:20260728T000000Z
-SUMMARY:Board Games
-DESCRIPTION:A variety of board games and puzzles will be available to use 
- for children in grades K-5 in the youth services programming room. No 
- Registration Required
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-16979319
-URL:https://bccls.libcal.com/event/16979319
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260729T170000Z
 DTEND:20260729T180000Z
 DTSTAMP:20260729T000000Z
@@ -1186,7 +1160,7 @@ DTEND:20260829T203000Z
 DTSTAMP:20260829T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094921
@@ -1315,7 +1289,7 @@ DTEND:20260905T203000Z
 DTSTAMP:20260905T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094922
@@ -1498,7 +1472,7 @@ DTEND:20260912T203000Z
 DTSTAMP:20260912T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094923
@@ -1637,7 +1611,7 @@ BEGIN:VEVENT
 DTSTART:20260916T223000Z
 DTEND:20260917T003000Z
 DTSTAMP:20260916T000000Z
-SUMMARY:Jean Luc Godard's Breathless (1960) French film introduction
+SUMMARY:Jean Luc Godard's Breathless (1960): Introduction to French Film
 DESCRIPTION:Program\n\nWe invite you to join us for this fascinating 
  introduction to the French New Wave\, which redefined storytelling in film 
  during the '50s and '60s. The event commences with a perceptive 
@@ -1747,7 +1721,7 @@ DTEND:20260919T203000Z
 DTSTAMP:20260919T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094924
@@ -2042,7 +2016,7 @@ DTEND:20260926T203000Z
 DTSTAMP:20260926T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094925
@@ -2279,7 +2253,7 @@ DTEND:20261003T203000Z
 DTSTAMP:20261003T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094926
@@ -2439,7 +2413,7 @@ DTEND:20261010T203000Z
 DTSTAMP:20261010T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094927
@@ -2566,7 +2540,7 @@ DTEND:20261017T203000Z
 DTSTAMP:20261017T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094928
@@ -2693,7 +2667,7 @@ DTEND:20261024T203000Z
 DTSTAMP:20261024T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094929
@@ -2820,7 +2794,7 @@ DTEND:20261031T203000Z
 DTSTAMP:20261031T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094930
@@ -2947,7 +2921,7 @@ DTEND:20261107T213000Z
 DTSTAMP:20261107T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094931
@@ -3074,7 +3048,7 @@ DTEND:20261114T213000Z
 DTSTAMP:20261114T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094932
@@ -3201,7 +3175,7 @@ DTEND:20261121T213000Z
 DTSTAMP:20261121T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094933
@@ -3337,7 +3311,7 @@ DTEND:20261128T213000Z
 DTSTAMP:20261128T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094934
@@ -3464,7 +3438,7 @@ DTEND:20261205T213000Z
 DTSTAMP:20261205T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094935
@@ -3591,7 +3565,7 @@ DTEND:20261212T213000Z
 DTSTAMP:20261212T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094936
@@ -3718,7 +3692,7 @@ DTEND:20261219T213000Z
 DTSTAMP:20261219T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094937
@@ -3828,7 +3802,7 @@ DTEND:20261226T213000Z
 DTSTAMP:20261226T000000Z
 SUMMARY:Learn English
 DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
+LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094938
