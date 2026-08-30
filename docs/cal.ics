@@ -8,71 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260729T170000Z
-DTEND:20260729T180000Z
-DTSTAMP:20260729T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	Everyone is welcome\, regardless of their location\, 
- educational experience\, or background.\n	The conversation leader will help 
- everyone practice speaking in English through group social 
- interaction\n	Easy-to-read books in English will be introduced to improve 
- vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
- get to know others who want to gain comfort with English 
- conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094536
-URL:https://bccls.libcal.com/event/16094536
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260729T180000Z
-DTEND:20260729T193000Z
-DTSTAMP:20260729T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094631
-URL:https://bccls.libcal.com/event/16094631
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260729T180000Z
-DTEND:20260729T200000Z
-DTSTAMP:20260729T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-16034688
-URL:https://bccls.libcal.com/event/16034688
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260729T213000Z
-DTEND:20260730T003000Z
-DTSTAMP:20260729T000000Z
-SUMMARY:Teen Super Smash Tournament
-DESCRIPTION:Join your friends for the ultimate tournament of Super Smash 
- Bros. for Switch! Registration Required. Grades 6-12. Please note: this is 
- a bracket tournament. All players must register in advance and arrive by 
- 5:30pm in order to participate in the tournament.\n\n \n\nRegister at this 
- link: Super Smash Tournament
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16734144
-URL:https://bccls.libcal.com/event/16734144
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260730T150000Z
 DTEND:20260730T153000Z
 DTSTAMP:20260730T000000Z
@@ -6919,6 +6854,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318817
 URL:https://bccls.libcal.com/event/17318817
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270830T220000Z
+DTEND:20270830T230000Z
+DTSTAMP:20270830T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318174
+URL:https://bccls.libcal.com/event/17318174
 END:VEVENT
 
 END:VCALENDAR
