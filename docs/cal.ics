@@ -8,99 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260730T150000Z
-DTEND:20260730T153000Z
-DTSTAMP:20260730T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION:A storytime for caregivers & children ages 2-5 year old.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-16864470
-URL:https://bccls.libcal.com/event/16864470
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260730T173000Z
-DTEND:20260730T193000Z
-DTSTAMP:20260730T000000Z
-SUMMARY:Red Cross @ Your Library
-DESCRIPTION:Community members can learn about volunteer opportunities with 
- the Red Cross\, including disaster response\, blood drives\, and 
- preparedness programs.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17199029
-URL:https://bccls.libcal.com/event/17199029
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260730T180000Z
-DTEND:20260730T203000Z
-DTSTAMP:20260730T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-17048669
-URL:https://bccls.libcal.com/event/17048669
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260730T203000Z
-DTEND:20260730T213000Z
-DTSTAMP:20260730T000000Z
-SUMMARY:Chess Club
-DESCRIPTION:Learn to play chess! Representatives from West Orange Chess 
- Club will share tips and strategies on how to play better and enjoy chess 
- more. All ages and skill levels welcome.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-17122172
-URL:https://bccls.libcal.com/event/17122172
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260730T223000Z
-DTEND:20260730T233000Z
-DTSTAMP:20260730T000000Z
-SUMMARY:History of the White House\, America's Executive Mansion
-DESCRIPTION:With Patricia Wells\n\nConstruction took eight years\; a fire 
- nearly destroyed it\, it came dangerously close to collapsing\, and someone 
- almost painted it black. Although President Washington chose the design\, 
- he never really lived there. However\, although Jefferson\, Taft\, and the 
- Roosevelts made exceptional modifications\, one of their genius architects 
- came dangerously close to destroying the structure. It is the edifice that 
- has been the most easily recognizable across the country for the past 225 
- years.\n\nAbout the presenter\n\nPatricia Wells\, a historian and 
- storyteller\, regularly presents all around the state of New Jersey as part 
- of her program called History Is Speaking. These lectures cover various 
- local history topics\, including the American Revolution\, the Great 
- Swamp\, and courageous historical women. The public libraries and 
- historical societies that host her presentations\, both in person and 
- virtually\, are frequent hosts of her events.\n\nThis event will be held in 
- the Community Room 1
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Lecture
-UID:LibCal-10341-16960499
-URL:https://bccls.libcal.com/event/16960499
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260730T223000Z
-DTEND:20260731T003000Z
-DTSTAMP:20260730T000000Z
-SUMMARY:Artist Reception: Sandra Charlap
-DESCRIPTION:Meet exhibiting artist Sandra Charlap.\n\nViewing will take 
- place in the gallery\, with light refreshments in the Literacy 
- Room.\n\n"Mapping the Future" by Sandra Charlap will be on display at the 
- West Orange Public Library from July 7 to Aug 28\, 2026.\n
-LOCATION:West Orange - Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16996974
-URL:https://bccls.libcal.com/event/16996974
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260731T180000Z
 DTEND:20260731T200000Z
 DTSTAMP:20260731T000000Z
@@ -1246,6 +1153,19 @@ UID:LibCal-10341-16094970
 URL:https://bccls.libcal.com/event/16094970
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20260908T200000Z
+DTEND:20260908T210000Z
+DTSTAMP:20260908T000000Z
+SUMMARY:Maker Mindset
+DESCRIPTION:\nCoding – Code Your First Game Led by High School Volunteer 
+ Liam
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17085640
+URL:https://bccls.libcal.com/event/17085640
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20260909T170000Z
 DTEND:20260909T180000Z
 DTSTAMP:20260909T000000Z
@@ -1380,7 +1300,8 @@ DTEND:20260912T173000Z
 DTSTAMP:20260912T000000Z
 SUMMARY:STEP ESL
 DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
- PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
+ PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information or 
+ email ref@westorangelibrary.org
 LOCATION:Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1477,6 +1398,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-17112512
 URL:https://bccls.libcal.com/event/17112512
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260915T200000Z
+DTEND:20260915T210000Z
+DTSTAMP:20260915T000000Z
+SUMMARY:Maker Mindset
+DESCRIPTION:\n\nAI – Can a Computer Think? Led by High School Volunteer 
+ Liam
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17085643
+URL:https://bccls.libcal.com/event/17085643
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260916T170000Z
@@ -1814,7 +1748,7 @@ SUMMARY:Romance Book Club
 DESCRIPTION:
 LOCATION:West Orange - Literacy Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
+CATEGORIES:Book Club
 UID:LibCal-10341-17532981
 URL:https://bccls.libcal.com/event/17532981
 END:VEVENT
@@ -2040,6 +1974,26 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-17112514
 URL:https://bccls.libcal.com/event/17112514
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260930T140000Z
+DTEND:20260930T190000Z
+DTSTAMP:20260930T000000Z
+SUMMARY:Your Next Career Chapter: Practical Tools for Today's Job Search
+DESCRIPTION:An AARP Community Workshop\n\n\n\nLooking for guidance in a 
+ career transition? Learn how to age-proof your resume\, use AI in your job 
+ search\, network effectively\, and hone your interviewing skills.\n\nJoin 
+ the AARP for this free\, interactive workshop where you can: \n\n\n	Connect 
+ with fellow job seekers \n	Get tips to help strengthen your resume  
+ \n	Explore how to optimize your online presence \n	Prepare for tough 
+ interview questions \n	And more! \n\n\nOpen to all adult job seekers and 
+ anyone curious about how AI is affecting the job market.\n\nRegistration is 
+ required through the AARP website: Register here
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-17106578
+URL:https://bccls.libcal.com/event/17106578
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260930T170000Z
