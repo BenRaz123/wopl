@@ -8,20 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260802T180000Z
-DTEND:20260802T190000Z
-DTSTAMP:20260802T000000Z
-SUMMARY:Sunshine and Good Times Family Concert
-DESCRIPTION:Popular children's and family entertainer Ron Albanese returns 
- to West Orange with his feel-good\, "kiddie rock and roll" show- a perfect 
- summer concert!
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16575161
-URL:https://bccls.libcal.com/event/16575161
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260803T190000Z
 DTEND:20260803T200000Z
 DTSTAMP:20260803T000000Z
@@ -2055,11 +2041,15 @@ SUMMARY:MANHATTAN SHORT Film Festival
 DESCRIPTION:\nJoin us for the 29th Annual MANHATTAN SHORT Film Festival\, a 
  worldwide event taking place in over 500 venues across six continents 
  between September 24 and October 4\,2026.\n\nMANHATTAN SHORT is the only 
- event of its kind. The Ten Finalistswill screen simultaneously across the 
+ event of its kind. The Ten Finalists will screen simultaneously across the 
  world during a one-week period\,with the Best Film and Best Actor awards 
- determined by ballots cast by the audiences in each participating 
- venue.\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, October 1\, 
- 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 2 
+ determined by ballots cast by the audiences in each participating venue. 
+ \n\nMANHATTAN SHORT 2026 Finalists:\nSmall Talk (USA)\, Mary is Missing 
+ (Ireland)\, Candy Bar (Australia)\, Vultures (South Africa)\, Life Goes On 
+ (United Kingdom)\, Hai Davai (Moldova)\, Pickup (Russia)\, Norheimsund 
+ (Cuba)\, When the Sea was Calm (Georgia)\, Never Give Up 
+ (Mexico).\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, October 
+ 1\, 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 1:30 
  PM\n\nTrailer: https://youtu.be/iOdETuNe6E0?si=39czrCjxf3znychO\n
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -2075,11 +2065,15 @@ SUMMARY:MANHATTAN SHORT Film Festival
 DESCRIPTION:\nJoin us for the 29th Annual MANHATTAN SHORT Film Festival\, a 
  worldwide event taking place in over 500 venues across six continents 
  between September 24 and October 4\,2026.\n\nMANHATTAN SHORT is the only 
- event of its kind. The Ten Finalistswill screen simultaneously across the 
+ event of its kind. The Ten Finalists will screen simultaneously across the 
  world during a one-week period\,with the Best Film and Best Actor awards 
  determined by ballots cast by the audiences in each participating 
- venue.\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, October 1\, 
- 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 2 
+ venue.\n\nMANHATTAN SHORT 2026 Finalists:\nSmall Talk (USA)\, Mary is 
+ Missing (Ireland)\, Candy Bar (Australia)\, Vultures (South Africa)\, Life 
+ Goes On (United Kingdom)\, Hai Davai (Moldova)\, Pickup (Russia)\, 
+ Norheimsund (Cuba)\, When the Sea was Calm (Georgia)\, Never Give Up 
+ (Mexico).\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, October 
+ 1\, 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 1:30 
  PM\n\nTrailer: https://youtu.be/iOdETuNe6E0?si=39czrCjxf3znychO\n
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -2123,10 +2117,13 @@ DESCRIPTION:\n\n\nJoin us for the 29th Annual MANHATTAN SHORT Film
  the only event of its kind. The Ten Finalistswill screen simultaneously 
  across the world during a one-week period\,with the Best Film and Best 
  Actor awards determined by ballots cast by the audiences in each 
- participating 
- venue.\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, October 1\, 
- 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 2 
- PM\n\nTrailer: https://youtu.be/iOdETuNe6E0?si=39czrCjxf3znychO\n
+ participating venue.\n\nMANHATTAN SHORT 2026 Finalists:\nSmall Talk (USA)\, 
+ Mary is Missing (Ireland)\, Candy Bar (Australia)\, Vultures (South 
+ Africa)\, Life Goes On (United Kingdom)\, Hai Davai (Moldova)\, Pickup 
+ (Russia)\, Norheimsund (Cuba)\, When the Sea was Calm (Georgia)\, Never 
+ Give Up (Mexico).\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, 
+ October 1\, 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 
+ 4\, 2 PM\n\nTrailer: https://youtu.be/iOdETuNe6E0?si=39czrCjxf3znychO\n
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
