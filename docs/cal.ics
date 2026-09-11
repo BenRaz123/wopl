@@ -8,61 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260810T190000Z
-DTEND:20260810T200000Z
-DTSTAMP:20260810T000000Z
-SUMMARY:Reading Buddies
-DESCRIPTION:Build your skills\, have fun\, and gain reading confidence! 
- Children read together with a teen volunteer. \n\nAll ages.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16897281
-URL:https://bccls.libcal.com/event/16897281
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260810T203000Z
-DTEND:20260810T213000Z
-DTSTAMP:20260810T000000Z
-SUMMARY:Tween Scratch Meetup- Computer Lab
-DESCRIPTION:Do you enjoy creative coding with Scratch ? Join us in the 
- computer lab to talk and create with other Scratch enthusiasts. Ages 8 - 
- 12.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17361054
-URL:https://bccls.libcal.com/event/17361054
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260810T220000Z
-DTEND:20260810T230000Z
-DTSTAMP:20260810T000000Z
-SUMMARY:Music\, Bubbles\, and Comedy Show
-DESCRIPTION:Turtle Dance presents a high energy show for all ages and 
- abilities.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16232599
-URL:https://bccls.libcal.com/event/16232599
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260810T220000Z
-DTEND:20260810T230000Z
-DTSTAMP:20260810T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094966
-URL:https://bccls.libcal.com/event/16094966
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260811T150000Z
 DTEND:20260811T153000Z
 DTSTAMP:20260811T000000Z
@@ -1192,7 +1137,7 @@ DESCRIPTION:Program\n\nWe invite you to join us for this fascinating
  Official Selection at various festivals. His production company\, New Waves 
  Productions\, focuses on promoting film as an art form and ensuring public 
  access to quality cinema.
-LOCATION:West Orange - Community Room 1
+LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17195317
@@ -2114,6 +2059,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048680
 URL:https://bccls.libcal.com/event/17048680
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261015T223000Z
+DTEND:20261016T003000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board and card games will 
+ be available & feel free to bring your own as well.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-17626668
+URL:https://bccls.libcal.com/event/17626668
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T153000Z
@@ -6653,6 +6612,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318750
 URL:https://bccls.libcal.com/event/17318750
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270911T190000Z
+DTEND:20270911T203000Z
+DTSTAMP:20270911T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318819
+URL:https://bccls.libcal.com/event/17318819
 END:VEVENT
 
 END:VCALENDAR
