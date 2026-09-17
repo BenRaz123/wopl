@@ -8,20 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260816T180000Z
-DTEND:20260816T190000Z
-DTSTAMP:20260816T000000Z
-SUMMARY:Summer Finale: Tie Dye Tee Shirts -  (Please Register)
-DESCRIPTION:Get creative and Tie-Dye your own tee shirt with Splash Lab 
- Experience! Shirts are provided. Sizes include youth extra small - youth 
- extra large. Unearth this summer finale craft!
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-16382742
-URL:https://bccls.libcal.com/event/16382742
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260817T220000Z
 DTEND:20260817T230000Z
 DTSTAMP:20260817T000000Z
@@ -929,7 +915,7 @@ DESCRIPTION:Program\n\nWe invite you to join us for this fascinating
  Official Selection at various festivals. His production company\, New Waves 
  Productions\, focuses on promoting film as an art form and ensuring public 
  access to quality cinema.
-LOCATION:West Orange - Community Room 2
+LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17195317
@@ -992,7 +978,7 @@ DTEND:20260919T200000Z
 DTSTAMP:20260919T000000Z
 SUMMARY:Buena Vista Social Club: The musical
 DESCRIPTION:Learn about the fascinating history of the Buena Vista Social 
- Club -- the band and the musical -- in this lecture by Rick 
+ Club—the band and the musical—in this lecture by Rick 
  Feingold.\n\nProgram\n\nBefore the revolution altered the course of Cuban 
  music\, a band of young musicians in Havana in the 1950s had already begun 
  to shake things up. In a surprising twist\, the band reunited forty years 
@@ -1000,8 +986,8 @@ DESCRIPTION:Learn about the fascinating history of the Buena Vista Social
  best-selling album in the history of world music. Years later\, the band 
  would become the subject of a Tony-winning Broadway musical. Feingold's 
  presentation will focus on the musical and include clips from the 1999 
- documentary film Son Cubano\, as well as discussion of life in Cuba in the 
- 1950s before the revolution.\n\nPresenter\n\nRick Feingold oversaw the 
+ documentary film Son Cubano\, as well as a discussion of life in Cuba in 
+ the 1950s before the revolution.\n\nPresenter\n\nRick Feingold oversaw the 
  Latin Jazz series at the Performing Arts Center at Penn State University. 
  In addition to extensive travels throughout Cuba\, Feingold teaches history 
  at Bergen Community College. Mr. Feingold has a Bachelor of Arts in History 
@@ -1167,6 +1153,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17166246
 URL:https://bccls.libcal.com/event/17166246
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20260923T213000Z
+DTEND:20260923T233000Z
+DTSTAMP:20260923T000000Z
+SUMMARY:Teen Dungeons & Dragons- Make up Session for Cancelled Sept. 16th Session
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17661734
+URL:https://bccls.libcal.com/event/17661734
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260923T220000Z
@@ -1480,7 +1481,7 @@ SUMMARY:Teen Advisory Group
 DESCRIPTION:High school students: Be a library star & help shape teen 
  services at the library. Earn volunteer hours for attending- new members 
  always welcome! Teen Advisory Group meets in the library teen 
- space.\n\nEmail teens@westorangelibrary.org \n\n\n
+ space.\n\nQuestions? teens@westorangelibrary.org \n\n\n
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17395990
@@ -1515,7 +1516,7 @@ BEGIN:VEVENT
 DTSTART:20261001T203000Z
 DTEND:20261001T213000Z
 DTSTAMP:20261001T000000Z
-SUMMARY:Pokemon Class Series- Please Register.
+SUMMARY:Pokemon Class Series- Please Register
 DESCRIPTION:Learn to play the Pokemon card game and play with practice 
  decks with Ed from ChessWired! Please plan to attend all four sessions 
  (October 1\, 8\, 15\, and 22). Grades K - 5.
@@ -1703,6 +1704,19 @@ UID:LibCal-10341-16034698
 URL:https://bccls.libcal.com/event/16034698
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261007T230000Z
+DTEND:20261008T000000Z
+DTSTAMP:20261007T000000Z
+SUMMARY:Teen Game Night
+DESCRIPTION:Video games\, board games\, and more! Invite your friends- open 
+ to anyone in grades 6 - 12.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17382958
+URL:https://bccls.libcal.com/event/17382958
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261008T150000Z
 DTEND:20261008T153000Z
 DTSTAMP:20261008T000000Z
@@ -1728,6 +1742,20 @@ UID:LibCal-10341-17048679
 URL:https://bccls.libcal.com/event/17048679
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261008T203000Z
+DTEND:20261008T213000Z
+DTSTAMP:20261008T000000Z
+SUMMARY:Pokemon Class Series- Please Register
+DESCRIPTION:Learn to play the Pokemon card game and play with practice 
+ decks with Ed from ChessWired! Please plan to attend all four sessions 
+ (October 1\, 8\, 15\, and 22). Grades K - 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17583252
+URL:https://bccls.libcal.com/event/17583252
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261008T220000Z
 DTEND:20261008T233000Z
 DTSTAMP:20261008T000000Z
@@ -1738,6 +1766,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17220277
 URL:https://bccls.libcal.com/event/17220277
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261009T200000Z
+DTEND:20261009T210000Z
+DTSTAMP:20261009T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ Registration Required
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-17307933
+URL:https://bccls.libcal.com/event/17307933
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261010T153000Z
@@ -1763,6 +1805,32 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094927
 URL:https://bccls.libcal.com/event/16094927
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261011T173000Z
+DTEND:20261011T181500Z
+DTSTAMP:20261011T000000Z
+SUMMARY:Wiggle & Giggle w/ Ms. Bee
+DESCRIPTION:Join Ms. Bee for an interactive class filled with music & 
+ movement for children 0-6 years old.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17307936
+URL:https://bccls.libcal.com/event/17307936
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261012T200000Z
+DTEND:20261012T210000Z
+DTSTAMP:20261012T000000Z
+SUMMARY:Drop-in Craft: Paper Plate Lacing Pumpkins
+DESCRIPTION: Join us in for creating paper plate lacing pumpkins. While 
+ supplies last.
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-17307918
+URL:https://bccls.libcal.com/event/17307918
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261012T220000Z
@@ -1842,6 +1910,34 @@ UID:LibCal-10341-16034699
 URL:https://bccls.libcal.com/event/16034699
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261014T200000Z
+DTEND:20261014T210000Z
+DTSTAMP:20261014T000000Z
+SUMMARY:Junior Chef: Apple Monster Mouth
+DESCRIPTION:Join us for a thrilling and creative experience of crafting 
+ food into fun little snacks. For students in grades K-5th. No registration 
+ required. While supplies last.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-17307923
+URL:https://bccls.libcal.com/event/17307923
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261014T223000Z
+DTEND:20261014T233000Z
+DTSTAMP:20261014T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High school students: Be a library star & help shape teen 
+ services at the library. Earn volunteer hours for attending- new members 
+ always welcome! Teen Advisory Group meets in the library teen 
+ space.\n\nEmail teens@westorangelibrary.org \n\n\n
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17583293
+URL:https://bccls.libcal.com/event/17583293
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261015T150000Z
 DTEND:20261015T153000Z
 DTSTAMP:20261015T000000Z
@@ -1867,6 +1963,20 @@ UID:LibCal-10341-17048680
 URL:https://bccls.libcal.com/event/17048680
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261015T203000Z
+DTEND:20261015T213000Z
+DTSTAMP:20261015T000000Z
+SUMMARY:Pokemon Class Series- Please Register.
+DESCRIPTION:Learn to play the Pokemon card game and play with practice 
+ decks with Ed from ChessWired! Please plan to attend all four sessions 
+ (October 1\, 8\, 15\, and 22). Grades K - 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17583254
+URL:https://bccls.libcal.com/event/17583254
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261015T223000Z
 DTEND:20261016T003000Z
 DTSTAMP:20261015T000000Z
@@ -1879,6 +1989,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft, Games
 UID:LibCal-10341-17626668
 URL:https://bccls.libcal.com/event/17626668
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261016T200000Z
+DTEND:20261016T210000Z
+DTSTAMP:20261016T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:Join us for buddy reading that will build confidence\, skill\, 
+ and more with a trained therapy dog from Creature Comfort.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-17450413
+URL:https://bccls.libcal.com/event/17450413
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T153000Z
@@ -1894,6 +2017,21 @@ UID:LibCal-10341-17136422
 URL:https://bccls.libcal.com/event/17136422
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261017T180000Z
+DTEND:20261017T190000Z
+DTSTAMP:20261017T000000Z
+SUMMARY:Teens Teach: Cursive Class
+DESCRIPTION:High School Student Modesola will teach students 
+ cursive!\n\n\n	\n	Learn lowercase   uppercase cursive\n	\n	\n	Connect 
+ letters into words\n	\n	\n	Create your signature\n	\n	\n	Improve 
+ handwriting   fine motor skills\n	\n\n\nBest for ages 6 -10.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17580294
+URL:https://bccls.libcal.com/event/17580294
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261017T190000Z
 DTEND:20261017T203000Z
 DTSTAMP:20261017T000000Z
@@ -1904,6 +2042,33 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094928
 URL:https://bccls.libcal.com/event/16094928
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+DTSTAMP:20261018T000000Z
+SUMMARY:Teens Teach: Pumpkin Water Color Bookmarks presented by WO Reworks
+DESCRIPTION:Learn about the artistic concept value with high school 
+ instructors Noah and Anya! Organized by West Orange Reworks\, a student-led 
+ group dedicated to providing accessible and enjoyable art projects to 
+ everyone.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17580426
+URL:https://bccls.libcal.com/event/17580426
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T200000Z
+DTEND:20261019T210000Z
+DTSTAMP:20261019T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create something new or old out of Legos. For children 7
+LOCATION:West Orange - Program Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17633279
+URL:https://bccls.libcal.com/event/17633279
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261019T220000Z
@@ -1932,6 +2097,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-17112517
 URL:https://bccls.libcal.com/event/17112517
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261020T200000Z
+DTEND:20261020T210000Z
+DTSTAMP:20261020T000000Z
+SUMMARY:Tween Scene: Zombie Stuffed Animals!
+DESCRIPTION:Ages 9 - 12: Make  franken-toys out of pieces of other toys. 
+ Supplies provided.\n\n \n\nDonations of gently used\, clean plush or 
+ plastic toys to be transformed accepted.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17663024
+URL:https://bccls.libcal.com/event/17663024
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261021T170000Z
@@ -1983,6 +2162,21 @@ UID:LibCal-10341-16034700
 URL:https://bccls.libcal.com/event/16034700
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261021T213000Z
+DTEND:20261021T233000Z
+DTSTAMP:20261021T000000Z
+SUMMARY:Teen Dungeons & Dragons
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17583275
+URL:https://bccls.libcal.com/event/17583275
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261022T150000Z
 DTEND:20261022T153000Z
 DTSTAMP:20261022T000000Z
@@ -2006,6 +2200,34 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048681
 URL:https://bccls.libcal.com/event/17048681
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261022T203000Z
+DTEND:20261022T213000Z
+DTSTAMP:20261022T000000Z
+SUMMARY:Pokemon Class Series- Please Register.
+DESCRIPTION:Learn to play the Pokemon card game and play with practice 
+ decks with Ed from ChessWired! Please plan to attend all four sessions 
+ (October 1\, 8\, 15\, and 22). Grades K - 5.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17583259
+URL:https://bccls.libcal.com/event/17583259
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261023T200000Z
+DTEND:20261023T210000Z
+DTSTAMP:20261023T000000Z
+SUMMARY:Board Games
+DESCRIPTION:A variety of board games and puzzles will be available to use 
+ for children in grades K-5 in the youth services programming room. No 
+ Registration Required
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-17307934
+URL:https://bccls.libcal.com/event/17307934
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T153000Z
@@ -2046,6 +2268,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094977
 URL:https://bccls.libcal.com/event/16094977
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261026T223000Z
+DTEND:20261026T233000Z
+DTSTAMP:20261026T000000Z
+SUMMARY:Mad Science Halloween Show
+DESCRIPTION:Join us for a Mad Science Halloween Spectacular! With freaky 
+ fog\, floating eyeballs\, melting witches\, and creepy crawlers\, this 
+ spooky\, fun\, and interactive science show is perfect for your Halloween 
+ celebration!\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-17307741
+URL:https://bccls.libcal.com/event/17307741
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261027T150000Z
@@ -2133,6 +2370,31 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048682
 URL:https://bccls.libcal.com/event/17048682
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261029T203000Z
+DTEND:20261029T210000Z
+DTSTAMP:20261029T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17659005
+URL:https://bccls.libcal.com/event/17659005
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261030T200000Z
+DTEND:20261030T210000Z
+DTSTAMP:20261030T000000Z
+SUMMARY:Read to a Therapy Dog
+DESCRIPTION:Join us for buddy reading that will build confidence\, skill\, 
+ and more with trained therapy dog Ryder!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Special Event
+UID:LibCal-10341-17579986
+URL:https://bccls.libcal.com/event/17579986
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261031T153000Z
