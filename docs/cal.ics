@@ -8,74 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260822T180000Z
-DTEND:20260822T190000Z
-DTSTAMP:20260822T000000Z
-SUMMARY:Unearthing Our Past: Revolutionary Stories
-DESCRIPTION:Unearthing Our Past: Revolutionary Stories\n\nPresented by West 
- Orange Township Historian Joseph Fagan\n\nWest Orange Public Library – 
- August 22\, 2026 – 2pm\n\n \n\nJoin West Orange Township Historian Joseph 
- Fagan as he unearths the many stories forgotten by time at the Old Burying 
- Ground in nearby Orange. Here weathered gravestones and forgotten burial 
- plots reveal the many stories of West Orange’s first settlers. Join 
- Joseph Fagan as he steps through an undisturbed portal in time where 
- Revolutionary War patriots\, local families\, and ordinary citizens still 
- bear silent witness to history. Discover the stories of the people whose 
- lives\, sacrifices\, and experiences helped shape both our local community 
- and the nation.\n\n \n\nPresented as part of the commemoration of 
- America’s 250th anniversary\, this program is the second in a series by 
- Joseph Fagan supporting Rev250 NJ. It is a statewide initiative that 
- explores the unique Revolutionary War history of communities across New 
- Jersey. Join Fagan for an engaging journey into the people\, events\, and 
- stories that helped define our nation and continue to shape our local 
- heritage today.\n\n \n\n\n \n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Lecture
-UID:LibCal-10341-16981871
-URL:https://bccls.libcal.com/event/16981871
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260822T180000Z
-DTEND:20260822T200000Z
-DTSTAMP:20260822T000000Z
-SUMMARY:Unearthing Our Past: Revolutionary Stories
-DESCRIPTION:Unearthing Our Past: Revolutionary Stories\n\nPresented by West 
- Orange Township Historian Joseph Fagan\n\nWest Orange Public Library – 
- August 22\, 2026 – 2pm\n\n \n\nJoin West Orange Township Historian Joseph 
- Fagan as he unearths the many stories forgotten by time at the Old Burying 
- Ground in nearby Orange. Here weathered gravestones and forgotten burial 
- plots reveal the many stories of West Orange’s first settlers. Join 
- Joseph Fagan as he steps through an undisturbed portal in time where 
- Revolutionary War patriots\, local families\, and ordinary citizens still 
- bear silent witness to history. Discover the stories of the people whose 
- lives\, sacrifices\, and experiences helped shape both our local community 
- and the nation.\n\n \n\nPresented as part of the commemoration of 
- America’s 250th anniversary\, this program is the second in a series by 
- Joseph Fagan supporting Rev250 NJ. It is a statewide initiative that 
- explores the unique Revolutionary War history of communities across New 
- Jersey. Join Fagan for an engaging journey into the people\, events\, and 
- stories that helped define our nation and continue to shape our local 
- heritage today.\n\n
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Lecture
-UID:LibCal-10341-17352302
-URL:https://bccls.libcal.com/event/17352302
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260822T190000Z
-DTEND:20260822T203000Z
-DTSTAMP:20260822T000000Z
-SUMMARY:Learn English-Cancelled
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:West Orange - Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094920
-URL:https://bccls.libcal.com/event/16094920
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260823T180000Z
 DTEND:20260823T190000Z
 DTSTAMP:20260823T000000Z
@@ -1199,7 +1131,7 @@ BEGIN:VEVENT
 DTSTART:20260927T180000Z
 DTEND:20260927T193000Z
 DTSTAMP:20260927T000000Z
-SUMMARY:Jazz standards are performed by the Lenore Raphael Trio.
+SUMMARY:Lenore Raphael Jazz Trio
 DESCRIPTION:Program\n\nThe Lenore Raphael Trio consists of Lenore on 
  piano\, Hilliard Greene on bass\, and Kahlil Kwame Bell on drums\, creating 
  a world-class ensemble. Their performance will feature jazz classics and 
@@ -2154,6 +2086,25 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094929
 URL:https://bccls.libcal.com/event/16094929
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261025T180000Z
+DTEND:20261025T200000Z
+DTSTAMP:20261025T000000Z
+SUMMARY:Modern Calligraphy Workshop for Adults
+DESCRIPTION:Join The Spotted Canvas for a fun and relaxing Modern 
+ Calligraphy Workshop designed for beginners. Participants will learn the 
+ fundamentals of modern calligraphy\, including proper pen technique\, basic 
+ strokes\, lettering\, and how to connect letters to create beautiful words 
+ and phrases. Each participant will have the opportunity to practice their 
+ new skills and create their own personalized calligraphy piece to take home 
+ and enjoy.\n\nNo prior experience is necessary. All materials will be 
+ provided.\n\nRegistration required.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-17655536
+URL:https://bccls.libcal.com/event/17655536
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T220000Z
