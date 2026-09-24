@@ -8,23 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260823T180000Z
-DTEND:20260823T190000Z
-DTSTAMP:20260823T000000Z
-SUMMARY:Fairy Garden Planters: Adult Craft Workshop
-DESCRIPTION:with Robin Johnson\, Garden Arts\n\nMake your own whimsical 
- fairy garden!\n\nPlant seasonal flowers and creatively decorate your 
- planter with fun and natural materials.\n\nFinish it off with a colorful 
- fairy of your own creation to place in your magical environment.\n\nAll 
- materials provided.\n\nThis workshop is designed for adults. \nRegistration 
- required.\n\n \n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-16413236
-URL:https://bccls.libcal.com/event/16413236
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 DTSTAMP:20260824T000000Z
@@ -1131,7 +1114,7 @@ BEGIN:VEVENT
 DTSTART:20260927T180000Z
 DTEND:20260927T193000Z
 DTSTAMP:20260927T000000Z
-SUMMARY:Lenore Raphael Jazz Trio
+SUMMARY:The jazz trio led by Lenore Raphael
 DESCRIPTION:Program\n\nThe Lenore Raphael Trio consists of Lenore on 
  piano\, Hilliard Greene on bass\, and Kahlil Kwame Bell on drums\, creating 
  a world-class ensemble. Their performance will feature jazz classics and 
