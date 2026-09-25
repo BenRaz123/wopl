@@ -8,44 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-DTSTAMP:20260824T000000Z
-SUMMARY:Grab and Create - Take Home Craft: Unearth Your Dino
-DESCRIPTION:Grab & Create dino feet & claws. For children of all ages.
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-17128392
-URL:https://bccls.libcal.com/event/17128392
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260824T200000Z
-DTEND:20260824T210000Z
-DTSTAMP:20260824T000000Z
-SUMMARY:Lego Mania
-DESCRIPTION:Come create something new or old out of Legos. For children 7
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-16733864
-URL:https://bccls.libcal.com/event/16733864
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260824T220000Z
-DTEND:20260824T230000Z
-DTSTAMP:20260824T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094968
-URL:https://bccls.libcal.com/event/16094968
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260826T170000Z
 DTEND:20260826T180000Z
 DTSTAMP:20260826T000000Z
@@ -1114,7 +1076,7 @@ BEGIN:VEVENT
 DTSTART:20260927T180000Z
 DTEND:20260927T193000Z
 DTSTAMP:20260927T000000Z
-SUMMARY:The jazz trio led by Lenore Raphael
+SUMMARY:Lenore Raphael Jazz Trio
 DESCRIPTION:Program\n\nThe Lenore Raphael Trio consists of Lenore on 
  piano\, Hilliard Greene on bass\, and Kahlil Kwame Bell on drums\, creating 
  a world-class ensemble. Their performance will feature jazz classics and 
@@ -1387,6 +1349,45 @@ UID:LibCal-10341-17136420
 URL:https://bccls.libcal.com/event/17136420
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261003T180000Z
+DTEND:20261003T193000Z
+DTSTAMP:20261003T000000Z
+SUMMARY:Exploring Hispanic & Afro-Caribbean Genealogy
+DESCRIPTION:About the program\n\nIf you are just starting out on your path 
+ through family history\, this interactive and informative lecture\, 
+ Introduction to Hispanic Genealogy\, is perfect for you. This approach\, 
+ spearheaded by genealogist Irisneri Alicea Flores\, streamlines the 
+ research process while shedding light on the cultural and historical 
+ background of Puerto Rican and Hispanic descent more generally.\n\nBy 
+ following a four-step process\, participants will be able to organize their 
+ existing knowledge\, conduct interviews with family members\, locate 
+ relevant family records\, and set specific research objectives for their 
+ genealogical study. Using online genealogical platforms and historical 
+ documents can overwhelm beginners\, but this presentation will help them 
+ manage their emotions and avoid repeating mistakes.\n\nSpanish naming 
+ customs\, historical jargon\, and cultural context discovered in records 
+ are some of the research approaches that are exclusive to Hispanic and 
+ Puerto Rican populations. Participants will gain self-assurance in their 
+ genealogical work as the course covers typical research mistakes\, ways to 
+ improve accuracy\, and practical procedures.\n\nAbout the 
+ artist\n\nDescubre Tu Historia was founded by Irisneri Alicea Flores\, a 
+ professional genealogist. Originating from Bayamón\, Puerto Rico\, she is 
+ an authority on Latin American\, Caribbean\, and Puerto Rican genealogy. 
+ She assists people in retracing their family trees by means of DNA 
+ testing\, oral histories\, and archival research\; she has been doing this 
+ work for over 13 years and has a Certificate in Genealogy Research from 
+ Boston University.Irisneri\, who is fluent in both English and Spanish\, 
+ has spoken about Hispanic ancestry at events hosted by museums\, 
+ libraries\, and genealogical groups in the United States. Helping people 
+ find\, keep\, and celebrate their family history is something she feels 
+ strongly about.\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-16729290
+URL:https://bccls.libcal.com/event/16729290
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261003T190000Z
 DTEND:20261003T203000Z
 DTSTAMP:20261003T000000Z
@@ -1617,6 +1618,27 @@ UID:LibCal-10341-17307936
 URL:https://bccls.libcal.com/event/17307936
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261011T180000Z
+DTEND:20261011T193000Z
+DTSTAMP:20261011T000000Z
+SUMMARY:Misti Peruvian Jazz Duo
+DESCRIPTION:Program Description\n\nMisti Peruvian Jazz Duo performs unique 
+ jazz improvisation with Andean and Afro-Peruvian music and Latin American 
+ classics in an intimate concert. The program showcases Peruvian 
+ contemporary artists and Latin American musical diversity.\n\nAbout the 
+ artists\n\nPeruvian musicians Sofía Carrasco (tenor saxophone) and Victor 
+ Sotomayor (piano)\, co-founders of Misti Music & Education\, form the Misti 
+ Peruvian Jazz Duo.\nMisti Music & Teaching combines jazz and Peruvian music 
+ via teaching\, performance\, and innovation.\nSofia and Victor\, jazz 
+ musicians and educators from Jersey City\, New Jersey\, blend Andean and 
+ Afro-Peruvian musical styles with their compositions.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17236155
+URL:https://bccls.libcal.com/event/17236155
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261012T200000Z
 DTEND:20261012T210000Z
 DTSTAMP:20261012T000000Z
@@ -1812,6 +1834,32 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17136422
 URL:https://bccls.libcal.com/event/17136422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261017T170000Z
+DTEND:20261017T180000Z
+DTSTAMP:20261017T000000Z
+SUMMARY:Discover the New Jersey Cranberry
+DESCRIPTION:About the program\n\nThere aren't many fruits that are native 
+ to the United States. Cranberries are one of them. Before Europeans came\, 
+ Native Americans used them for food\, medicine\, and dye.Since the 1800s\, 
+ cranberries have been a big crop in New Jersey. This text discusses the 
+ background\, significance\, and growing of these sour berries in New 
+ Jersey. The text will also look at cranberry-based early American 
+ recipes.\n\nAbout the presenter\n\nJudith Krall-Russo has consistently had 
+ a passion for cuisine\, especially the plentiful farming in her home state 
+ of New Jersey. She commenced her exploration of the customs and rituals 
+ surrounding this prevalent beverage three decades ago and has subsequently 
+ acquired qualifications as a tea expert from The Specialty Tea Institute of 
+ New York and The Tea School in Pomfret\, Connecticut. She is likewise a 
+ specialist and scholar in the field of tea. Krall-Russo is currently 
+ engaged in the Gong Fu Chinese tea ceremony at The Tea Gallery and the 
+ Japanese tea ceremony at the Uresenke Chanoyo Center in New York City.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-16814009
+URL:https://bccls.libcal.com/event/16814009
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261017T180000Z
@@ -6719,6 +6767,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318752
 URL:https://bccls.libcal.com/event/17318752
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270925T190000Z
+DTEND:20270925T203000Z
+DTSTAMP:20270925T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318821
+URL:https://bccls.libcal.com/event/17318821
 END:VEVENT
 
 END:VCALENDAR
