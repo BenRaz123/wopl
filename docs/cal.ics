@@ -8,68 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260826T170000Z
-DTEND:20260826T180000Z
-DTSTAMP:20260826T000000Z
-SUMMARY:English Conversation Class
-DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
- learn English\, improve their English or just listen to others enjoying 
- English conversation\n	Everyone is welcome\, regardless of their location\, 
- educational experience\, or background.\n	The conversation leader will help 
- everyone practice speaking in English through group social 
- interaction\n	Easy-to-read books in English will be introduced to improve 
- vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
- get to know others who want to gain comfort with English 
- conversation.\n\n\nThis program will be held in the Literacy Room.
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:ESL
-UID:LibCal-10341-16094540
-URL:https://bccls.libcal.com/event/16094540
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260826T180000Z
-DTEND:20260826T193000Z
-DTSTAMP:20260826T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094635
-URL:https://bccls.libcal.com/event/16094635
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260826T180000Z
-DTEND:20260826T200000Z
-DTSTAMP:20260826T000000Z
-SUMMARY:Tech Talk
-DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
- NorthStar Digital Literacy class\n	Assistance with your computer\, 
- smartphone\, tablet\, or other device\n	20-minute private sessions with 
- tech instructors\n\n\nPlease call the Reference Desk to make your 
- appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
- the lower level is repaired. Unfortunately\, computer access is limited.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Technology
-UID:LibCal-10341-16034692
-URL:https://bccls.libcal.com/event/16034692
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260826T230000Z
-DTEND:20260827T003000Z
-DTSTAMP:20260826T000000Z
-SUMMARY:Teen Game Night
-DESCRIPTION:Video games\, board games\, and more! Invite your friends- open 
- to anyone in grades 6 - 12.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17382897
-URL:https://bccls.libcal.com/event/17382897
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260827T180000Z
 DTEND:20260827T203000Z
 DTSTAMP:20260827T000000Z
@@ -1376,7 +1314,7 @@ DESCRIPTION:About the program\n\nIf you are just starting out on your path
  She assists people in retracing their family trees by means of DNA 
  testing\, oral histories\, and archival research\; she has been doing this 
  work for over 13 years and has a Certificate in Genealogy Research from 
- Boston University.Irisneri\, who is fluent in both English and Spanish\, 
+ Boston University. Irisneri\, who is fluent in both English and Spanish\, 
  has spoken about Hispanic ancestry at events hosted by museums\, 
  libraries\, and genealogical groups in the United States. Helping people 
  find\, keep\, and celebrate their family history is something she feels 
@@ -6779,6 +6717,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318821
 URL:https://bccls.libcal.com/event/17318821
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270927T220000Z
+DTEND:20270927T230000Z
+DTSTAMP:20270927T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318178
+URL:https://bccls.libcal.com/event/17318178
 END:VEVENT
 
 END:VCALENDAR
