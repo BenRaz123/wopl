@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260901T193000Z
-DTEND:20260901T210000Z
-DTSTAMP:20260901T000000Z
-SUMMARY:Maker Mindset
-DESCRIPTION:Bridge Building Exercise Led by High School Volunteer Liam. 
- Best for ages 8 .
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17066099
-URL:https://bccls.libcal.com/event/17066099
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260902T170000Z
 DTEND:20260902T180000Z
 DTSTAMP:20260902T000000Z
@@ -2555,6 +2542,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048685
 URL:https://bccls.libcal.com/event/17048685
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261112T233000Z
+DTEND:20261113T013000Z
+DTSTAMP:20261112T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board and card games will 
+ be available & feel free to bring your own as well.
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-17626720
+URL:https://bccls.libcal.com/event/17626720
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261114T163000Z
@@ -6888,6 +6889,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318753
 URL:https://bccls.libcal.com/event/17318753
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271002T190000Z
+DTEND:20271002T203000Z
+DTSTAMP:20271002T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318822
+URL:https://bccls.libcal.com/event/17318822
 END:VEVENT
 
 END:VCALENDAR
