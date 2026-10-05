@@ -8,23 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260904T170000Z
-DTEND:20260904T200000Z
-DTSTAMP:20260904T000000Z
-SUMMARY:First Friday Film: Project Hail Mary
-DESCRIPTION:Project Hail Mary (2026)\nPG-13\, 2h 37m\n\nStarring: Ryan 
- Gosling\nDirected by: Phil Lord & Chris Miller\n\nA science teacher wakes 
- up alone on a spaceship. As his memory returns\, he uncovers a mission to 
- stop a mysterious substance killing Earth's sun\, and realizes that an 
- unexpected friendship may be the key. --IMDB\n\nBased on the bestselling 
- novel by Andy Weir.\n\n---\n\nBag lunch provided by Toni's Kitchen
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16200625
-URL:https://bccls.libcal.com/event/16200625
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260905
 DTEND;VALUE=DATE:20260906
 DTSTAMP:20260905T000000Z
