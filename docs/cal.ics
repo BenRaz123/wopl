@@ -8,33 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-DTSTAMP:20260905T000000Z
-SUMMARY:Labor Day-Closed
-DESCRIPTION:
-LOCATION:West Orange - Off-site
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15548593
-URL:https://bccls.libcal.com/event/15548593
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260907T220000Z
-DTEND:20260907T230000Z
-DTSTAMP:20260907T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094970
-URL:https://bccls.libcal.com/event/16094970
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260908T200000Z
 DTEND:20260908T210000Z
 DTSTAMP:20260908T000000Z
@@ -1651,7 +1624,7 @@ BEGIN:VEVENT
 DTSTART:20261017T170000Z
 DTEND:20261017T180000Z
 DTSTAMP:20261017T000000Z
-SUMMARY:Discover the New Jersey Cranberry
+SUMMARY:CANCELLED-Discover the New Jersey Cranberry-CANCELLED
 DESCRIPTION:About the program\n\nThere aren't many fruits that are native 
  to the United States. Cranberries are one of them. Before Europeans came\, 
  Native Americans used them for food\, medicine\, and dye. Since the 1800s\, 
@@ -1758,6 +1731,17 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094976
 URL:https://bccls.libcal.com/event/16094976
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261019T230000Z
+DTEND:20261020T010000Z
+DTSTAMP:20261019T000000Z
+SUMMARY:WOPL Friends Board Meeting
+DESCRIPTION:
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17792598
+URL:https://bccls.libcal.com/event/17792598
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261020T150000Z
@@ -2504,6 +2488,29 @@ UID:LibCal-10341-17689185
 URL:https://bccls.libcal.com/event/17689185
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261114T190000Z
+DTEND:20261114T200000Z
+DTSTAMP:20261114T000000Z
+SUMMARY:John Lennon – Life\, Legend and Legacy.
+DESCRIPTION:About the program \n\nThe real beginning of The Beatles took 
+ place at a summer garden fete at St. Peter's Church in Woolton\, 
+ Liverpool\, on July 6\, 1957\, marking a watershed point in music history. 
+ When John Lennon was 16 years old and performing with his skiffle band The 
+ Quarrymen\, a common acquaintance called Ivan Vaughan\, introduced him to 
+ Paul McCartney\, who was 15 years old at the time. This one-of-a-kind 
+ partnership altered the course of music irrevocably\, and our presenter 
+ will trace its history.\n\nAbout the Artist\n\nJohn Paul Groom\, originally 
+ from Liverpool\, resided in the same city as John Lennon and George 
+ Harrison\, participated in the same Sunday school as John Lennon\, and went 
+ to the same high school as Paul McCartney and George Harrison. Numerous 
+ cherished recollections that I will be presenting in this discourse\n\n
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-17488200
+URL:https://bccls.libcal.com/event/17488200
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261114T200000Z
 DTEND:20261114T213000Z
 DTSTAMP:20261114T000000Z
@@ -2633,6 +2640,23 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048686
 URL:https://bccls.libcal.com/event/17048686
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261120T160000Z
+DTEND:20261120T170000Z
+DTSTAMP:20261120T000000Z
+SUMMARY:November Book Club: Culpability
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\n\nCULPABILITY\nby Bruce Holsinger (2025)\n\nA riveting 
+ family drama about moral responsibility in the age of artificial 
+ intelligence.\n\nCopies will be available at the Circulation Desk starting 
+ October 23.
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-17302632
+URL:https://bccls.libcal.com/event/17302632
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261121T163000Z
