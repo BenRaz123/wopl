@@ -8,45 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260910T180000Z
-DTEND:20260910T203000Z
-DTSTAMP:20260910T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-17048675
-URL:https://bccls.libcal.com/event/17048675
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260910T200000Z
-DTEND:20260910T210000Z
-DTSTAMP:20260910T000000Z
-SUMMARY:Tween Back to School Vision Boards
-DESCRIPTION:Come visit our library to make back-to-school vision boards! 
- For tweens age 8-12.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17409075
-URL:https://bccls.libcal.com/event/17409075
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260910T223000Z
-DTEND:20260911T003000Z
-DTSTAMP:20260910T000000Z
-SUMMARY:Adult Game Night
-DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
- some fun & friendly competition. A selection of board and card games will 
- be available & feel free to bring your own as well.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft, Games
-UID:LibCal-10341-17198475
-URL:https://bccls.libcal.com/event/17198475
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260911T200000Z
 DTEND:20260911T210000Z
 DTSTAMP:20260911T000000Z
@@ -1907,6 +1868,17 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17254487
 URL:https://bccls.libcal.com/event/17254487
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+DTSTAMP:20261026T000000Z
+SUMMARY:Grab and Create - Take Home Craft: 3D Paper Spiders
+DESCRIPTION:Grab & Create 3D paper spiders. For children of all ages.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-17307940
+URL:https://bccls.libcal.com/event/17307940
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261026T220000Z
@@ -6839,6 +6811,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318823
 URL:https://bccls.libcal.com/event/17318823
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271011T220000Z
+DTEND:20271011T230000Z
+DTSTAMP:20271011T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318180
+URL:https://bccls.libcal.com/event/17318180
 END:VEVENT
 
 END:VCALENDAR
