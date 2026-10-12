@@ -8,20 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260911T200000Z
-DTEND:20260911T210000Z
-DTSTAMP:20260911T000000Z
-SUMMARY:Board Games
-DESCRIPTION:A variety of board games and puzzles will be available to use 
- for children in grades K-5 in the youth services programming room. No 
- Registration Required
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-17260410
-URL:https://bccls.libcal.com/event/17260410
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260912T153000Z
 DTEND:20260912T173000Z
 DTSTAMP:20260912T000000Z
@@ -2194,6 +2180,24 @@ UID:LibCal-10341-17048684
 URL:https://bccls.libcal.com/event/17048684
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261106T180000Z
+DTEND:20261106T203000Z
+DTSTAMP:20261106T000000Z
+SUMMARY:First Friday Film: The Sheep Detectives
+DESCRIPTION:The Sheep Detectives (2026)\nPG\, 1h 49m\n\nFeaturing: Hugh 
+ Jackman\, Regina Hall\, Brett Goldstein\, Julia Louis-Dreyfus & many 
+ more!\nDirected by: Kyle Balda\n\nEvery night a shepherd reads aloud a 
+ murder mystery\, pretending his sheep can understand. When he is found 
+ dead\, the sheep realize at once that it was a murder and think they know 
+ everything about how to go about solving it. --IMDB\n\nBased on the novel 
+ Three Bags Full\, the first of a hit mystery series by Leonie Swann
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Movie
+UID:LibCal-10341-16200639
+URL:https://bccls.libcal.com/event/16200639
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261107T163000Z
 DTEND:20261107T183000Z
 DTSTAMP:20261107T000000Z
@@ -2217,6 +2221,34 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094931
 URL:https://bccls.libcal.com/event/16094931
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261108T190000Z
+DTEND:20261108T210000Z
+DTSTAMP:20261108T000000Z
+SUMMARY:Crochet for Beginners: Pt 1
+DESCRIPTION:A two-session workshop for adults with Jessica Pollack\, JFP 
+ Handmade Crafts\n\n**Registration for this program is required and opens on 
+ October 25. Registration and waitlists will remain open until the date of 
+ the initial session.\n**Participants register for the class with the 
+ understanding that they are committing to both sessions\, to be held on 
+ consecutive Sunday afternoons.\n\nLearn from fiber artist Jessica Pollack 
+ in this two-week workshop designed to introduce participants to the 
+ fundamentals of crochet in a relaxed\, beginner-friendly 
+ setting.\n\nSession 1: Nov 8\, 2pm-4pm\nParticipants will learn basic 
+ crochet skills and techniques\, including how to hold a hook and yarn\, 
+ create a slip knot and chain\, and work basic stitches while practicing 
+ tension and consistency.\n\nSession 2: Nov 15\, 2pm-4pm\nParticipants will 
+ apply their new skills to create a simple\, functional project: a crocheted 
+ bookmark. By the end of the workshop\, participants will have gained 
+ foundational crochet skills and completed a project they can use and 
+ enjoy.\n\nAll materials will be provided. This workshop is designed for 
+ adults with no prior experience.
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17302587
+URL:https://bccls.libcal.com/event/17302587
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261108T200000Z
@@ -2388,19 +2420,20 @@ BEGIN:VEVENT
 DTSTART:20261114T190000Z
 DTEND:20261114T200000Z
 DTSTAMP:20261114T000000Z
-SUMMARY:John Lennon – Life\, Legend and Legacy.
-DESCRIPTION:About the program \n\nThe real beginning of The Beatles took 
- place at a summer garden fete at St. Peter's Church in Woolton\, 
- Liverpool\, on July 6\, 1957\, marking a watershed point in music history. 
- When John Lennon was 16 years old and performing with his skiffle band The 
- Quarrymen\, a common acquaintance called Ivan Vaughan\, introduced him to 
- Paul McCartney\, who was 15 years old at the time. This one-of-a-kind 
- partnership altered the course of music irrevocably\, and our presenter 
- will trace its history.\n\nAbout the Artist\n\nJohn Paul Groom\, originally 
- from Liverpool\, resided in the same city as John Lennon and George 
- Harrison\, participated in the same Sunday school as John Lennon\, and went 
- to the same high school as Paul McCartney and George Harrison. Numerous 
- cherished recollections that I will be presenting in this discourse\n\n
+SUMMARY:John Lennon: Life\, Legend\, and Legacy
+DESCRIPTION:A presentation by John Paul Groom\n\nAbout the program \n\nThe 
+ beginning of The Beatles took place at a summer garden fete at St. Peter's 
+ Church in Woolton\, Liverpool\, on July 6\, 1957\, marking a watershed 
+ point in music history. When John Lennon was 16 years old and performing 
+ with his skiffle band The Quarrymen\, a common acquaintance called Ivan 
+ Vaughan\, introduced him to Paul McCartney\, who was 15 years old at the 
+ time. This one-of-a-kind partnership altered the course of music 
+ irrevocably\, and our presenter will trace its history.\n\nAbout the 
+ presenter\n\nJohn Paul Groom gives historical presentations about the 
+ 1960s\, with a particular focus on The Beatles. Originally from Liverpool\, 
+ Groom resided in the same city as John Lennon and George Harrison\, 
+ participated in the same Sunday school as John Lennon\, and went to the 
+ same high school as Paul McCartney and George Harrison.  \n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Lecture
@@ -2418,6 +2451,24 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094932
 URL:https://bccls.libcal.com/event/16094932
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261115T190000Z
+DTEND:20261115T210000Z
+DTSTAMP:20261115T000000Z
+SUMMARY:Crochet for Beginners: Pt 2
+DESCRIPTION:with Jessica Pollock\, JFP Handmade Crafts\n\nSession 2: Nov 
+ 15\, 2pm-4pm\nParticipants will apply their new skills to create a simple\, 
+ functional project: a crocheted bookmark. By the end of the workshop\, they 
+ will have gained foundational crochet skills and completed a project they 
+ can use and enjoy.\n\nLimited to participants who attended the first 
+ session on Nov 8.\n\nRegister here for the two-session workshop: 
+ https://bccls.libcal.com/event/17302587
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-17303273
+URL:https://bccls.libcal.com/event/17303273
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261115T200000Z
@@ -2514,6 +2565,22 @@ UID:LibCal-10341-16034704
 URL:https://bccls.libcal.com/event/16034704
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261118T230000Z
+DTEND:20261119T000000Z
+DTSTAMP:20261118T000000Z
+SUMMARY:Romance Book Club: Tropesick
+DESCRIPTION:Tropesick\nby Lauren Oakie (2026)\n\nTwo childhood neighbors\, 
+ connected by a shared tragedy\, reunite to ghostwrite a love story for a 
+ reclusive author and discover that dozens of classic romance tropes\, 
+ including the ones they’re crafting on page\, are mysteriously playing 
+ out in real life.\n\n
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-17807883
+URL:https://bccls.libcal.com/event/17807883
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261119T160000Z
 DTEND:20261119T163000Z
 DTSTAMP:20261119T000000Z
@@ -2579,6 +2646,27 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094933
 URL:https://bccls.libcal.com/event/16094933
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261122T190000Z
+DTEND:20261122T203000Z
+DTSTAMP:20261122T000000Z
+SUMMARY:Introduction to Spinning Wool
+DESCRIPTION:An America 250 Program\n\nTake a step back in time and learn 
+ how to spin wool with fiber artist Reilly Grant of Clover Folk Studio. 
+ \n\nThis hands-on class will teach you about fiber arts from sheep to 
+ shawl\, including the role that spinning has played in various chapters of 
+ United States history. Join us to learn how to prepare wool for spinning\, 
+ watch a demonstration on a spinning wheel\, and get the chance to try for 
+ yourself.\n\nThis workshop is for adults. No experience necessary\, and all 
+ supplies and tools will be provided. While participants will engage in 
+ hands-on practice\, they will not be creating a project to take home. 
+ \n\nRegistration is required.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-17302649
+URL:https://bccls.libcal.com/event/17302649
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261122T200000Z
@@ -2834,6 +2922,25 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048688
 URL:https://bccls.libcal.com/event/17048688
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261204T180000Z
+DTEND:20261204T203000Z
+DTSTAMP:20261204T000000Z
+SUMMARY:First Friday Film: Blue Heron
+DESCRIPTION:Join us for a movie matinee on the first Friday of the month. 
+ Bag lunch provided by Toni's Kitchen.\n\n***\n\nBlue Heron (2026)\n1h 
+ 31m\nDirected by: Sophy Romvari \n\nWhen an immigrant family moves to 
+ Vancouver Island in the 1990s\, the eldest son's behavior begins to throw 
+ their lives off balance. \n\n \n\nThis Canadian filmmaker's feature debut 
+ was a festival favorite but difficult to catch in local theaters. Here's 
+ your chance to catch a rare and free screening of a movie named by many 
+ critics as one of the year's best.\n\n
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-16200645
+URL:https://bccls.libcal.com/event/16200645
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261205T163000Z
