@@ -8,30 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260913T180000Z
-DTEND:20260913T193000Z
-DTSTAMP:20260913T000000Z
-SUMMARY:Concert: Marc Berger
-DESCRIPTION:Presentation\n\nRIDE currently offers ten cinematic recordings 
- that capture the grandeur and allure of the West while examining its 
- profound origins in the American psyche. Marc and Mike Ricciardi created 
- the album\, which is based on Marc's lifelong love affair with the American 
- West. "Twister" has a melancholy message and beat\, "Take It on the Chin" 
- is about taming a wild horse\, "Time Waits For No Man" is about a sexy\, 
- mind-blowing encounter in the middle of nowhere\, and seven more scenic 
- stops make up RIDE's Great American Frontier tour.\n\n \n\nAbout the 
- artist\n\nMarc's life revolves around two passions: composing and 
- performing original songs and touring the American West. At SXSW Music 
- Festival and Kerrville Folk Festival\, he has opened for big stars like Bob 
- Dylan and sang his antinuclear hymn "The Last One\," a mainstay of Richie 
- Havens' shows.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-16304053
-URL:https://bccls.libcal.com/event/16304053
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260914T200000Z
 DTEND:20260914T210000Z
 DTSTAMP:20260914T000000Z
