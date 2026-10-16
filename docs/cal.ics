@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260915T150000Z
-DTEND:20260915T153000Z
-DTSTAMP:20260915T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
- language development for caregivers & children ages 0-2.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-17112512
-URL:https://bccls.libcal.com/event/17112512
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260915T200000Z
-DTEND:20260915T210000Z
-DTSTAMP:20260915T000000Z
-SUMMARY:Maker Mindset
-DESCRIPTION:\n\nAI – Can a Computer Think? Led by High School Volunteer 
- Liam
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17085643
-URL:https://bccls.libcal.com/event/17085643
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260916T170000Z
 DTEND:20260916T180000Z
 DTSTAMP:20260916T000000Z
@@ -1457,6 +1431,25 @@ BEGIN:VEVENT
 DTSTART:20261018T180000Z
 DTEND:20261018T200000Z
 DTSTAMP:20261018T000000Z
+SUMMARY:NEW DATE: Modern Calligraphy Workshop for Adults
+DESCRIPTION:Join The Spotted Canvas for a fun and relaxing Modern 
+ Calligraphy Workshop designed for beginners. Participants will learn the 
+ fundamentals of modern calligraphy\, including proper pen technique\, basic 
+ strokes\, lettering\, and how to connect letters to create beautiful words 
+ and phrases. Each participant will have the opportunity to practice their 
+ new skills and create their own personalized calligraphy piece to take home 
+ and enjoy.\n\nNo prior experience is necessary. All materials will be 
+ provided.\n\nRegistration required.
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft
+UID:LibCal-10341-17783899
+URL:https://bccls.libcal.com/event/17783899
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261018T180000Z
+DTEND:20261018T200000Z
+DTSTAMP:20261018T000000Z
 SUMMARY:Teens Teach: Pumpkin Water Color Bookmarks presented by WO Reworks
 DESCRIPTION:Learn about the artistic concept value with high school 
  instructors Noah and Anya! Organized by West Orange Reworks\, a student-led 
@@ -1730,16 +1723,8 @@ DTEND:20261025T200000Z
 DTSTAMP:20261025T000000Z
 SUMMARY:MOVED TO OCT 18: Modern Calligraphy Workshop for Adults
 DESCRIPTION:**This program has been rescheduled for October 18. Those 
- already registered will have an opportunity to keep their spots. We will 
- reopen registration for the new date if new spots become available.** 
- \n\nJoin The Spotted Canvas for a fun and relaxing Modern Calligraphy 
- Workshop designed for beginners. Participants will learn the fundamentals 
- of modern calligraphy\, including proper pen technique\, basic strokes\, 
- lettering\, and how to connect letters to create beautiful words and 
- phrases. Each participant will have the opportunity to practice their new 
- skills and create their own personalized calligraphy piece to take home and 
- enjoy.\n\nNo prior experience is necessary. All materials will be 
- provided.\n\nRegistration required.
+ already registered were offered an an opportunity to keep their spots on 
+ the new date. **\n\n
 LOCATION:West Orange - Community Room 1\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
@@ -2353,17 +2338,17 @@ DTSTART:20261114T170000Z
 DTEND:20261114T180000Z
 DTSTAMP:20261114T000000Z
 SUMMARY:Slow Yoga & Meditation
-DESCRIPTION:with Lea Peace & Empty Cloud Monastics\n\nTake a moment to 
- re-center with instructors from the Empty Cloud monastery in this 
- peaceful\, contemplative yoga and meditation practice. While seated in 
- chairs\, participants will engage in breathing control and concentration\, 
- explore the range of motion in their joints\, and strengthen their core 
- muscles\, then stand up and balance for a brief period.\n\nAbout the 
- presenter\n\nLea Peace has been practicing yoga for years and is certified 
- for yoga instruction by the Kripalu Center for Yoga and Health in 
- Massachusetts. She will be joined by fellow members of Empty Cloud\, a 
- gender-inclusive international Buddhist monastery based in West Orange. 
- \n\n
+DESCRIPTION:with Lea Peace & fellow members of Empty Cloud 
+ monastery\n\nTake a moment to re-center with instructors from the Empty 
+ Cloud monastery in this peaceful\, contemplative yoga and meditation 
+ practice. While seated in chairs\, participants will engage in breathing 
+ control and concentration\, explore the range of motion in their joints\, 
+ and strengthen their core muscles\, then stand up and balance for a brief 
+ period.\n\nAbout the presenter\n\nLea Peace has been practicing yoga for 
+ years and is certified for yoga instruction by the Kripalu Center for Yoga 
+ and Health in Massachusetts. She will be joined by fellow members of Empty 
+ Cloud\, a gender-inclusive international Buddhist monastery based in West 
+ Orange. \n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Health & Wellness
@@ -2913,16 +2898,18 @@ BEGIN:VEVENT
 DTSTART:20261205T170000Z
 DTEND:20261205T180000Z
 DTSTAMP:20261205T000000Z
-SUMMARY:Slow Yoga with Lea Peace
-DESCRIPTION:With Lea Peace.\n\nShe is going to perform a peaceful\, 
- contemplative yoga practice. The patrons will be able to discover the world 
- of breathing control and concentration while seated in chairs. In 
- addition\, they will be able to see the range of motion in their joints\, 
- strengthen their core muscles through these activities\, and\, finally\, 
- stand up and balance for a little while.\n\nAbout the presenter.\n\nLea 
- Peace is a member of the gender-inclusive Empty Cloud Monastery in West 
- Orange. She has been practicing for a long time and has been certified by 
- the Kripalu Center for Yoga and Health in MA.\n\n
+SUMMARY:Slow Yoga & Meditation
+DESCRIPTION:\n\nwith Lea Peace & fellow members of Empty Cloud 
+ monastery\n\nTake a moment to re-center with instructors from the Empty 
+ Cloud monastery in this peaceful\, contemplative yoga and meditation 
+ practice. While seated in chairs\, participants will engage in breathing 
+ control and concentration\, explore the range of motion in their joints\, 
+ and strengthen their core muscles\, then stand up and balance for a brief 
+ period.\n\nAbout the presenter\n\nLea Peace has been practicing yoga for 
+ years and is certified for yoga instruction by the Kripalu Center for Yoga 
+ and Health in Massachusetts. She will be joined by fellow members of Empty 
+ Cloud\, a gender-inclusive international Buddhist monastery based in West 
+ Orange. \n\n\n\n
 LOCATION:West Orange - Community Room 1
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Health & Wellness
@@ -2945,7 +2932,7 @@ BEGIN:VEVENT
 DTSTART:20261206T190000Z
 DTEND:20261206T203000Z
 DTSTAMP:20261206T000000Z
-SUMMARY:Folk-blues with Tal Naccarato
+SUMMARY:Folk & Blues with Tal Naccarato
 DESCRIPTION:About the program\n\nA guitarist\, singer-songwriter\, and 
  musician in the Americana\, folk\, and blues styles plays solo acoustic 
  music from his original and traditional repertoire. He also talks about and 
@@ -3193,6 +3180,20 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048690
 URL:https://bccls.libcal.com/event/17048690
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261217T233000Z
+DTEND:20261218T013000Z
+DTSTAMP:20261217T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board and card games will 
+ be available & feel free to bring your own as well.
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-17692060
+URL:https://bccls.libcal.com/event/17692060
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T163000Z
@@ -6960,6 +6961,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318755
 URL:https://bccls.libcal.com/event/17318755
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271016T190000Z
+DTEND:20271016T203000Z
+DTSTAMP:20271016T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318824
+URL:https://bccls.libcal.com/event/17318824
 END:VEVENT
 
 END:VCALENDAR
