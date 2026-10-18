@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260917T150000Z
-DTEND:20260917T153000Z
-DTSTAMP:20260917T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
- language development for caregivers & children ages 2-5.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-17112529
-URL:https://bccls.libcal.com/event/17112529
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260917T180000Z
-DTEND:20260917T203000Z
-DTSTAMP:20260917T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-17048676
-URL:https://bccls.libcal.com/event/17048676
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260918T200000Z
 DTEND:20260918T210000Z
 DTSTAMP:20260918T000000Z
@@ -6878,6 +6853,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318824
 URL:https://bccls.libcal.com/event/17318824
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271018T220000Z
+DTEND:20271018T230000Z
+DTSTAMP:20271018T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318181
+URL:https://bccls.libcal.com/event/17318181
 END:VEVENT
 
 END:VCALENDAR
