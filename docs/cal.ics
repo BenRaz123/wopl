@@ -8,57 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260919T153000Z
-DTEND:20260919T173000Z
-DTSTAMP:20260919T000000Z
-SUMMARY:STEP ESL
-DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
- PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17136418
-URL:https://bccls.libcal.com/event/17136418
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260919T180000Z
-DTEND:20260919T200000Z
-DTSTAMP:20260919T000000Z
-SUMMARY:Buena Vista Social Club: The musical
-DESCRIPTION:Learn about the fascinating history of the Buena Vista Social 
- Club—the band and the musical—in this lecture by Rick 
- Feingold.\n\nProgram\n\nBefore the revolution altered the course of Cuban 
- music\, a band of young musicians in Havana in the 1950s had already begun 
- to shake things up. In a surprising twist\, the band reunited forty years 
- later to record the songs they had left behind\, and the result was the 
- best-selling album in the history of world music. Years later\, the band 
- would become the subject of a Tony-winning Broadway musical. Feingold's 
- presentation will focus on the musical and include clips from the 1999 
- documentary film Son Cubano\, as well as a discussion of life in Cuba in 
- the 1950s before the revolution.\n\nPresenter\n\nRick Feingold oversaw the 
- Latin Jazz series at the Performing Arts Center at Penn State University. 
- In addition to extensive travels throughout Cuba\, Feingold teaches history 
- at Bergen Community College. Mr. Feingold has a Bachelor of Arts in History 
- from Rutgers University and an MBA from Penn State University.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Lecture
-UID:LibCal-10341-16773371
-URL:https://bccls.libcal.com/event/16773371
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260919T190000Z
-DTEND:20260919T203000Z
-DTSTAMP:20260919T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094924
-URL:https://bccls.libcal.com/event/16094924
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260920T190000Z
 DTEND:20260920T200000Z
 DTSTAMP:20260920T000000Z
@@ -1829,28 +1778,6 @@ UID:LibCal-10341-17215055
 URL:https://bccls.libcal.com/event/17215055
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20261101T190000Z
-DTEND:20261101T203000Z
-DTSTAMP:20261101T000000Z
-SUMMARY:Reeds\, Rhythm & All That Brass
-DESCRIPTION: An Afternoon of Big Band Music\n\nDon't miss this glorious 
- tribute to the big band era of the 1930s and 1940s with Reeds\, Rhythm & 
- All That Brass (RRB). Featuring the music America danced and swung to 
- during World War II\, one of the most influential periods in music history. 
- RRB's performance offers a nostalgic journey\, recalling the times when 
- Americans danced in music halls across the country to the greatest 
- bandleaders in history.\n\nAbout the presenters\n\nReeds\, Rhythm\, and All 
- That Brass is a 17-piece big band that plays swing-pop standards by the 
- greats\, including Basie\, Ellington\, Goodman\, Sinatra\, and 
- Darin.\n\nFrank Sole\, Henry Nerenberg\, Jay Wilensky\, Darrell Courtley\, 
- and Jeff Rantzer are the regulars in the band.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17215062
-URL:https://bccls.libcal.com/event/17215062
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261101T200000Z
 DTEND:20261101T210000Z
 DTSTAMP:20261101T000000Z
@@ -2167,7 +2094,7 @@ SUMMARY:Adult Game Night
 DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
  some fun & friendly competition. A selection of board and card games will 
  be available & feel free to bring your own as well.
-LOCATION:Literacy Room\, West Orange Public Library
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft, Games
 UID:LibCal-10341-17626720
@@ -2401,12 +2328,15 @@ BEGIN:VEVENT
 DTSTART:20261120T160000Z
 DTEND:20261120T170000Z
 DTSTAMP:20261120T000000Z
-SUMMARY:November Book Club: Culpability
+SUMMARY:November Book Club: London Falling
 DESCRIPTION:A book club for adults who want to read in community. We meet 
  one Friday morning a month to chat about a title we read in 
- common.\n\n--\n\nCULPABILITY\nby Bruce Holsinger (2025)\n\nA riveting 
- family drama about moral responsibility in the age of artificial 
- intelligence.\n\nCopies will be available at the Circulation Desk starting 
+ common.\n\n--\nNonfiction November\n\nLONDON FALLING: A MYSTERIOUS DEATH IN 
+ A GILDED CITY AND A FAMILY'S SEARCH FOR TRUTH\nby Patrick Radden Keefe 
+ (2026)\n\nA London family devastated by the death of their teen son 
+ discovers that he had been posing as the son of a Russian oligarch\, in 
+ this riveting work of narrative nonfiction by New Yorker reporter Patrick 
+ Radden Keefe.\n\nCopies will be available at the Circulation Desk starting 
  October 23.
 LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -6907,6 +6837,55 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318181
 URL:https://bccls.libcal.com/event/17318181
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271020T170000Z
+DTEND:20271020T180000Z
+DTSTAMP:20271020T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-17318610
+URL:https://bccls.libcal.com/event/17318610
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271020T180000Z
+DTEND:20271020T193000Z
+DTSTAMP:20271020T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318686
+URL:https://bccls.libcal.com/event/17318686
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271020T180000Z
+DTEND:20271020T200000Z
+DTSTAMP:20271020T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-17318756
+URL:https://bccls.libcal.com/event/17318756
 END:VEVENT
 
 END:VCALENDAR
