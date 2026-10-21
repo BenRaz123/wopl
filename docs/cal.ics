@@ -8,37 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260920T190000Z
-DTEND:20260920T200000Z
-DTSTAMP:20260920T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at 
- https://oneinmath.com/register-student/\n\nThis program meets weekly 
- September 20h - November 22nd.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17254482
-URL:https://bccls.libcal.com/event/17254482
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260920T190000Z
-DTEND:20260920T203000Z
-DTSTAMP:20260920T000000Z
-SUMMARY:Adult Craft Workshop: Pet Portraits in Watercolor
-DESCRIPTION:with Sandra Charlap\n\nBring in a full-color photo of your 
- furry\, feathered\, or scaled friend\, and learn to create a portrait in 
- watercolor.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-17302102
-URL:https://bccls.libcal.com/event/17302102
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260921T200000Z
 DTEND:20260921T210000Z
 DTSTAMP:20260921T000000Z
