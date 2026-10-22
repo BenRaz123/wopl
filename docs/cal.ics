@@ -8,33 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260921T200000Z
-DTEND:20260921T210000Z
-DTSTAMP:20260921T000000Z
-SUMMARY:Lego Mania
-DESCRIPTION:Come create something new or old out of Legos. For children 7
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-17307960
-URL:https://bccls.libcal.com/event/17307960
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260921T220000Z
-DTEND:20260921T230000Z
-DTSTAMP:20260921T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094972
-URL:https://bccls.libcal.com/event/16094972
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260922T150000Z
 DTEND:20260922T153000Z
 DTSTAMP:20260922T000000Z
@@ -1792,6 +1765,24 @@ UID:LibCal-10341-17112519
 URL:https://bccls.libcal.com/event/17112519
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261104T150000Z
+DTEND:20261104T173000Z
+DTSTAMP:20261104T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:The Service Corps of Retired Executives\, now known as SCORE\, 
+ offers entrepreneurs free\, confidential drop in business mentoring. SCORE 
+ mentors are experts in entrepreneurship and business operations who 
+ volunteer their time to share their expertise with small business clients. 
+ Whether you’re starting a business\, growing an existing company\, or 
+ planning your next move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17747658
+URL:https://bccls.libcal.com/event/17747658
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261104T180000Z
 DTEND:20261104T190000Z
 DTSTAMP:20261104T000000Z
@@ -1980,6 +1971,24 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-17112520
 URL:https://bccls.libcal.com/event/17112520
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261111T150000Z
+DTEND:20261111T173000Z
+DTSTAMP:20261111T000000Z
+SUMMARY:SCORE Office Hours
+DESCRIPTION:The Service Corps of Retired Executives\, now known as SCORE\, 
+ offers entrepreneurs free\, confidential drop in business mentoring. SCORE 
+ mentors are experts in entrepreneurship and business operations who 
+ volunteer their time to share their expertise with small business clients. 
+ Whether you’re starting a business\, growing an existing company\, or 
+ planning your next move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17747659
+URL:https://bccls.libcal.com/event/17747659
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261111T180000Z
@@ -2204,6 +2213,24 @@ UID:LibCal-10341-17112521
 URL:https://bccls.libcal.com/event/17112521
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261118T150000Z
+DTEND:20261118T173000Z
+DTSTAMP:20261118T000000Z
+SUMMARY:SCORE Office Hours
+DESCRIPTION:The Service Corps of Retired Executives\, now known as SCORE\, 
+ offers entrepreneurs free\, confidential drop in business mentoring. SCORE 
+ mentors are experts in entrepreneurship and business operations who 
+ volunteer their time to share their expertise with small business clients. 
+ Whether you’re starting a business\, growing an existing company\, or 
+ planning your next move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17747660
+URL:https://bccls.libcal.com/event/17747660
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T180000Z
 DTEND:20261118T190000Z
 DTSTAMP:20261118T000000Z
@@ -2416,6 +2443,24 @@ UID:LibCal-10341-15877892
 URL:https://bccls.libcal.com/event/15877892
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261125T150000Z
+DTEND:20261125T173000Z
+DTSTAMP:20261125T000000Z
+SUMMARY:SCORE Office Hours
+DESCRIPTION:The Service Corps of Retired Executives\, now known as SCORE\, 
+ offers entrepreneurs free\, confidential drop in business mentoring. SCORE 
+ mentors are experts in entrepreneurship and business operations who 
+ volunteer their time to share their expertise with small business clients. 
+ Whether you’re starting a business\, growing an existing company\, or 
+ planning your next move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17747661
+URL:https://bccls.libcal.com/event/17747661
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261125T180000Z
 DTEND:20261125T190000Z
 DTSTAMP:20261125T000000Z
@@ -2539,6 +2584,24 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-17112523
 URL:https://bccls.libcal.com/event/17112523
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261202T150000Z
+DTEND:20261202T173000Z
+DTSTAMP:20261202T000000Z
+SUMMARY:SCORE Office Hours
+DESCRIPTION:The Service Corps of Retired Executives\, now known as SCORE\, 
+ offers entrepreneurs free\, confidential drop in business mentoring. SCORE 
+ mentors are experts in entrepreneurship and business operations who 
+ volunteer their time to share their expertise with small business clients. 
+ Whether you’re starting a business\, growing an existing company\, or 
+ planning your next move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17747662
+URL:https://bccls.libcal.com/event/17747662
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261202T180000Z
@@ -2733,6 +2796,24 @@ UID:LibCal-10341-17112524
 URL:https://bccls.libcal.com/event/17112524
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T150000Z
+DTEND:20261209T173000Z
+DTSTAMP:20261209T000000Z
+SUMMARY:SCORE Office Hours
+DESCRIPTION:The Service Corps of Retired Executives\, now known as SCORE\, 
+ offers entrepreneurs free\, confidential drop in business mentoring. SCORE 
+ mentors are experts in entrepreneurship and business operations who 
+ volunteer their time to share their expertise with small business clients. 
+ Whether you’re starting a business\, growing an existing company\, or 
+ planning your next move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17747663
+URL:https://bccls.libcal.com/event/17747663
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261209T180000Z
 DTEND:20261209T190000Z
 DTSTAMP:20261209T000000Z
@@ -2858,6 +2939,24 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-17112525
 URL:https://bccls.libcal.com/event/17112525
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261216T150000Z
+DTEND:20261216T173000Z
+DTSTAMP:20261216T000000Z
+SUMMARY:SCORE Office Hours
+DESCRIPTION:The Service Corps of Retired Executives\, now known as SCORE\, 
+ offers entrepreneurs free\, confidential drop in business mentoring. SCORE 
+ mentors are experts in entrepreneurship and business operations who 
+ volunteer their time to share their expertise with small business clients. 
+ Whether you’re starting a business\, growing an existing company\, or 
+ planning your next move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17747664
+URL:https://bccls.libcal.com/event/17747664
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261216T180000Z
@@ -2988,6 +3087,24 @@ UID:LibCal-10341-16094986
 URL:https://bccls.libcal.com/event/16094986
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261223T150000Z
+DTEND:20261223T173000Z
+DTSTAMP:20261223T000000Z
+SUMMARY:SCORE Office Hours
+DESCRIPTION:The Service Corps of Retired Executives\, now known as SCORE\, 
+ offers entrepreneurs free\, confidential drop in business mentoring. SCORE 
+ mentors are experts in entrepreneurship and business operations who 
+ volunteer their time to share their expertise with small business clients. 
+ Whether you’re starting a business\, growing an existing company\, or 
+ planning your next move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17747665
+URL:https://bccls.libcal.com/event/17747665
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261223T180000Z
 DTEND:20261223T190000Z
 DTSTAMP:20261223T000000Z
@@ -3108,6 +3225,24 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318139
 URL:https://bccls.libcal.com/event/17318139
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261230T150000Z
+DTEND:20261230T173000Z
+DTSTAMP:20261230T000000Z
+SUMMARY:SCORE Office Hours
+DESCRIPTION:The Service Corps of Retired Executives\, now known as SCORE\, 
+ offers entrepreneurs free\, confidential drop in business mentoring. SCORE 
+ mentors are experts in entrepreneurship and business operations who 
+ volunteer their time to share their expertise with small business clients. 
+ Whether you’re starting a business\, growing an existing company\, or 
+ planning your next move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17747666
+URL:https://bccls.libcal.com/event/17747666
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261230T180000Z
