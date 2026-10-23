@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260922T150000Z
-DTEND:20260922T153000Z
-DTSTAMP:20260922T000000Z
-SUMMARY:Babies & Giggles Storytime
-DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
- language development for caregivers & children ages 0-2.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-17112513
-URL:https://bccls.libcal.com/event/17112513
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260922T200000Z
-DTEND:20260922T210000Z
-DTSTAMP:20260922T000000Z
-SUMMARY:Tween Scene: Friendship Bracelets
-DESCRIPTION:Join other tweens to learn\, talk\, and create! September's 
- project is making friendship bracelets. Ages 8 - 12.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-15540754
-URL:https://bccls.libcal.com/event/15540754
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260923T143000Z
 DTEND:20260923T151500Z
 DTSTAMP:20260923T000000Z
@@ -1752,10 +1726,21 @@ UID:LibCal-10341-16094978
 URL:https://bccls.libcal.com/event/16094978
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261103T000000Z
+SUMMARY:CLOSED- Election Day
+DESCRIPTION:Vote!
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17801614
+URL:https://bccls.libcal.com/event/17801614
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261103T160000Z
 DTEND:20261103T163000Z
 DTSTAMP:20261103T000000Z
-SUMMARY:Babies & Giggles Storytime
+SUMMARY:Babies & Giggles Storytime CANCELLED
 DESCRIPTION:A story time filled with rhymes\, music and movement\, early 
  language development for caregivers & children ages 0-2.
 LOCATION:West Orange - Community Room 2
@@ -1832,6 +1817,19 @@ UID:LibCal-10341-16034702
 URL:https://bccls.libcal.com/event/16034702
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261105T000000Z
+DTEND:20261105T010000Z
+DTSTAMP:20261104T000000Z
+SUMMARY:Teen Game Night
+DESCRIPTION:Video games\, board games\, and more! Invite your friends- open 
+ to anyone in grades 6 - 12.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17382969
+URL:https://bccls.libcal.com/event/17382969
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261105T160000Z
 DTEND:20261105T163000Z
 DTSTAMP:20261105T000000Z
@@ -1855,6 +1853,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048684
 URL:https://bccls.libcal.com/event/17048684
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261105T213000Z
+DTEND:20261105T220000Z
+DTSTAMP:20261105T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17659007
+URL:https://bccls.libcal.com/event/17659007
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261106T180000Z
@@ -2040,6 +2050,20 @@ UID:LibCal-10341-16034703
 URL:https://bccls.libcal.com/event/16034703
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261111T233000Z
+DTEND:20261112T003000Z
+DTSTAMP:20261111T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High school students: Be a library star & help shape teen 
+ services at the library. Earn volunteer hours for attending- new members 
+ always welcome! Teen Advisory Group meets in the library teen 
+ space.\n\nEmail teens@westorangelibrary.org \n\n\n
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17828697
+URL:https://bccls.libcal.com/event/17828697
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T160000Z
 DTEND:20261112T163000Z
 DTSTAMP:20261112T000000Z
@@ -2065,6 +2089,18 @@ UID:LibCal-10341-17048685
 URL:https://bccls.libcal.com/event/17048685
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261112T213000Z
+DTEND:20261112T220000Z
+DTSTAMP:20261112T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17659012
+URL:https://bccls.libcal.com/event/17659012
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261112T233000Z
 DTEND:20261113T013000Z
 DTSTAMP:20261112T000000Z
@@ -2072,7 +2108,7 @@ SUMMARY:Adult Game Night
 DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
  some fun & friendly competition. A selection of board and card games will 
  be available & feel free to bring your own as well.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
+LOCATION:West Orange - Community Room 2\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft, Games
 UID:LibCal-10341-17626720
@@ -2280,6 +2316,21 @@ UID:LibCal-10341-16034704
 URL:https://bccls.libcal.com/event/16034704
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261118T223000Z
+DTEND:20261119T003000Z
+DTSTAMP:20261118T000000Z
+SUMMARY:Teen Dungeons & Dragons
+DESCRIPTION:For Grades 7 \n\nDice\, Characters\, and all Materials 
+ provided!\n\nNo prior experience required- beginners to experts 
+ welcome.\n\nA unique and self contained story: no prior or ongoing 
+ attendance necessary!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Club
+UID:LibCal-10341-17881005
+URL:https://bccls.libcal.com/event/17881005
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261118T230000Z
 DTEND:20261119T000000Z
 DTSTAMP:20261118T000000Z
@@ -2319,6 +2370,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048686
 URL:https://bccls.libcal.com/event/17048686
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261119T213000Z
+DTEND:20261119T220000Z
+DTSTAMP:20261119T000000Z
+SUMMARY:Super Science
+DESCRIPTION:Join us for hands on science activities\, learning\, and fun!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17664778
+URL:https://bccls.libcal.com/event/17664778
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261120T160000Z
@@ -2430,6 +2493,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Story Time
 UID:LibCal-10341-17112522
 URL:https://bccls.libcal.com/event/17112522
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261124T210000Z
+DTEND:20261124T220000Z
+DTSTAMP:20261124T000000Z
+SUMMARY:Tween Scene: Zombie Stuffed Animals!
+DESCRIPTION:Ages 9 - 12: Make Fall themed slime! Supplies provided.\n\n 
+ \n\n
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17881059
+URL:https://bccls.libcal.com/event/17881059
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261125
@@ -2651,6 +2727,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034706
 URL:https://bccls.libcal.com/event/16034706
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261203T000000Z
+DTEND:20261203T010000Z
+DTSTAMP:20261202T000000Z
+SUMMARY:Teen Game Night
+DESCRIPTION:Video games\, board games\, and more! Invite your friends- open 
+ to anyone in grades 6 - 12.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17382971
+URL:https://bccls.libcal.com/event/17382971
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261203T160000Z
@@ -6990,6 +7079,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318756
 URL:https://bccls.libcal.com/event/17318756
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271023T190000Z
+DTEND:20271023T203000Z
+DTSTAMP:20271023T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318825
+URL:https://bccls.libcal.com/event/17318825
 END:VEVENT
 
 END:VCALENDAR
