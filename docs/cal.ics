@@ -8,57 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260926T150000Z
-DTEND:20260926T160000Z
-DTSTAMP:20260926T000000Z
-SUMMARY:Teatro Sea NYC Bilingual Children's Theater: Pura Belpre's Tales/Cuentos de Pura Belpre
-DESCRIPTION:THE JOURNEY OF PURA BELPRÉ’S TALES \nPura Belpré was a 
- talented author\, collector of folktales\, puppeteer and storyteller who 
- wrote and\nreinterpreted Puerto Rican folk tales. Our show is a 
- re-enactment of her legendary “Bilingual Story\nHour” in a creative and 
- interactive experience that combines storytelling with puppets!\n\nEl viaje 
- de los cuentos de Pura Belpré\nPura Belpré fue una talentosa escritora\, 
- coleccionista de cuentos tradicionales\, titiritera y cuenta\ncuentos que 
- escribió y re-interpretó las historias populares puertorriqueñas. 
- Nuestro espectáculo\nes una recreación de su tradición de contar cuentos 
- bilingües\, en una experiencia creativa e inter-\nactiva que combina el 
- arte de contar cuentos con títeres\n\n\n\nABOUT 
- SEA\n\n\n\n\n\n\n\n\n\nEstablished in 1985\, SEA (Society of the 
- Educational Arts\, Inc.)\, is the premiere Bilingual Arts-in-Education 
- Organization and Latino Children’s Theatre in the United 
- States.\n\n\n\n\n\n\n\nA REFORMA.ORG Noche de Cuentos grant funded event
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17021329
-URL:https://bccls.libcal.com/event/17021329
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260926T153000Z
-DTEND:20260926T173000Z
-DTSTAMP:20260926T000000Z
-SUMMARY:STEP ESL
-DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
- PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17136419
-URL:https://bccls.libcal.com/event/17136419
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260926T190000Z
-DTEND:20260926T203000Z
-DTSTAMP:20260926T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094925
-URL:https://bccls.libcal.com/event/16094925
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260927T180000Z
 DTEND:20260927T190000Z
 DTSTAMP:20260927T000000Z
@@ -1502,6 +1451,28 @@ UID:LibCal-10341-17215055
 URL:https://bccls.libcal.com/event/17215055
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261101T190000Z
+DTEND:20261101T203000Z
+DTSTAMP:20261101T000000Z
+SUMMARY:Reeds\, Rhythm & All That Brass
+DESCRIPTION: An Afternoon of Big Band Music\n\nDon't miss this glorious 
+ tribute to the big band era of the 1930s and 1940s with Reeds\, Rhythm & 
+ All That Brass (RRB). Featuring the music America danced and swung to 
+ during World War II\, one of the most influential periods in music history. 
+ RRB's performance offers a nostalgic journey\, recalling the times when 
+ Americans danced in music halls across the country to the greatest 
+ bandleaders in history.\n\nAbout the presenters\n\nReeds\, Rhythm\, and All 
+ That Brass is a 17-piece big band that plays swing-pop standards by the 
+ greats\, including Basie\, Ellington\, Goodman\, Sinatra\, and 
+ Darin.\n\nFrank Sole\, Henry Nerenberg\, Jay Wilensky\, Darrell Courtley\, 
+ and Jeff Rantzer are the regulars in the band.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17215062
+URL:https://bccls.libcal.com/event/17215062
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261101T200000Z
 DTEND:20261101T210000Z
 DTSTAMP:20261101T000000Z
@@ -1952,8 +1923,11 @@ BEGIN:VEVENT
 DTSTART:20261112T233000Z
 DTEND:20261113T013000Z
 DTSTAMP:20261112T000000Z
-SUMMARY:Artist Reception
-DESCRIPTION:
+SUMMARY:Artist Reception: Ann Antoshak
+DESCRIPTION:Meet exhibiting artist Ann Antoshak.\n\nViewing will take place 
+ in the gallery. Light refreshments will be available in the Literacy 
+ Room.\n\n"Keeping Company" by Ann Antoshak will be on display at the West 
+ Orange Public Library from November 4 to December 28\, 2026.
 LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Special Event
@@ -2765,30 +2739,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094935
 URL:https://bccls.libcal.com/event/16094935
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261206T190000Z
-DTEND:20261206T203000Z
-DTSTAMP:20261206T000000Z
-SUMMARY:Folk & Blues with Tal Naccarato
-DESCRIPTION:About the program\n\nA guitarist\, singer-songwriter\, and 
- musician in the Americana\, folk\, and blues styles plays solo acoustic 
- music from his original and traditional repertoire. He also talks about and 
- plays examples of the history of this style of music while showing off and 
- playing rare vintage instruments during a live concert.\n\n\n\nAbout the 
- artist\n\nTal Naccarato is a vibrant composer\, songwriter\, and teaching 
- artist whose roots stretch from the medieval mountain village of 
- Fiumefreddo\, Bruzio\, Italy\, to the vibrant community of East Flatbush\, 
- Brooklyn. His original music is a mix of folk\, Americana\, rock\, and 
- blues\, mixed with classical guitar elements and a distinct bluesy swing. 
- Tal was the first-place winner in the Long Island Blues Society Solo/Duo 
- Competition in 2023. He performs solo acoustic shows\, both with original 
- music and traditional songs. Everyone is welcome.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17690175
-URL:https://bccls.libcal.com/event/17690175
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T230000Z
@@ -7040,6 +6990,55 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318182
 URL:https://bccls.libcal.com/event/17318182
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271027T170000Z
+DTEND:20271027T180000Z
+DTSTAMP:20271027T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-17318611
+URL:https://bccls.libcal.com/event/17318611
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271027T180000Z
+DTEND:20271027T193000Z
+DTSTAMP:20271027T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318687
+URL:https://bccls.libcal.com/event/17318687
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271027T180000Z
+DTEND:20271027T200000Z
+DTSTAMP:20271027T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-17318757
+URL:https://bccls.libcal.com/event/17318757
 END:VEVENT
 
 END:VCALENDAR
