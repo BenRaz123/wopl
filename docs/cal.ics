@@ -8,68 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20260927T180000Z
-DTEND:20260927T190000Z
-DTSTAMP:20260927T000000Z
-SUMMARY:Canvas Painting w/ Spotted Canvas
-DESCRIPTION:Join The Spotted Canvas for a fun-filled\, creative afternoon 
- filled with exciting Canvas Painting\, where children can explore their 
- artistic side. Each child 6  will have the opportunity to to paint and 
- personalize their canvas. Please register with the child's name.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-17168773
-URL:https://bccls.libcal.com/event/17168773
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260927T180000Z
-DTEND:20260927T193000Z
-DTSTAMP:20260927T000000Z
-SUMMARY:Lenore Raphael Jazz Trio
-DESCRIPTION:Program\n\nThe Lenore Raphael Trio consists of Lenore on 
- piano\, Hilliard Greene on bass\, and Kahlil Kwame Bell on drums\, creating 
- a world-class ensemble. Their performance will feature jazz classics and 
- selections from the American songbook.\n\n \n\nArtist\n\nLenore Raphael is 
- a jazz pianist\, radio personality\, Steinway artist\, and jazz educator 
- who is widely considered to be among the top pianists working in modern 
- music. Major jazz clubs and festivals have sold out her performances on 
- multiple occasions. New York City's Birdland\, The Blue Note\, and Jazz at 
- Lincoln Center were all stops for Dizzy's\, and among them are the 
- following: the Ottawa International Jazz Festival\, Ronnie Scott's in 
- London\, the S.S. Oosterdam jazz cruise\, the Tel Aviv Jazz Festival\, and 
- multiple others. The Joy Of Jazz event in Johannesburg\, South Africa\, 
- featured three internationally known Steinway pianists\, including Abdullah 
- Ibraham and Ahmad Jamal. She was one of them. Additionally\, in April 
- 2014\, Lenore played to sold-out crowds at the Broward Center for the Arts 
- Amaturo theater in Ft. Lauderdale\, Florida\, and the Casa Da Musica in 
- Porto\, Portugal. England\, Europe\, and Israel have all been stops on her 
- tour. She had a giant tour in South Africa in 2016\, and every place she 
- played there requested her to come back.\n\n
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Performance
-UID:LibCal-10341-16402849
-URL:https://bccls.libcal.com/event/16402849
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260927T190000Z
-DTEND:20260927T200000Z
-DTSTAMP:20260927T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at 
- https://oneinmath.com/register-student/\n\nThis program meets weekly 
- September 20th - November 22nd.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17254483
-URL:https://bccls.libcal.com/event/17254483
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 DTSTAMP:20260928T000000Z
