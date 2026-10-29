@@ -8,32 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-DTSTAMP:20260928T000000Z
-SUMMARY:Grab and Create - Take Home Craft: Bottle Top Castanets
-DESCRIPTION:Grab & Create bottle top castanets. For children of all ages.
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-17166020
-URL:https://bccls.libcal.com/event/17166020
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20260928T220000Z
-DTEND:20260928T230000Z
-DTSTAMP:20260928T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094973
-URL:https://bccls.libcal.com/event/16094973
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20260929T150000Z
 DTEND:20260929T153000Z
 DTSTAMP:20260929T000000Z
