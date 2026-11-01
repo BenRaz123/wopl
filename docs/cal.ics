@@ -6706,5 +6706,20 @@ CATEGORIES:
 UID:LibCal-10341-17318826
 URL:https://bccls.libcal.com/event/17318826
 END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271101T220000Z
+DTEND:20271101T230000Z
+DTSTAMP:20271101T000000Z
+SUMMARY:Rosetta Stone Language Lab
+DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
+ language learning software is available for free with your library card. 
+ Find a program specifically tailored to your learning style and strengthen 
+ your language skills for travel\, work\, or fun.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318183
+URL:https://bccls.libcal.com/event/17318183
+END:VEVENT
 
 END:VCALENDAR
