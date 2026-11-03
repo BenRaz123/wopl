@@ -8,53 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261002T150000Z
-DTEND:20261002T170000Z
-DTSTAMP:20261002T000000Z
-SUMMARY:Reference Solutions: Business Development Lunch & Learn
-DESCRIPTION:Reference Solutions by Data Axle (formerly known as 
- ReferenceUSA) is a comprehensive research and reference database used for 
- finding detailed information on businesses and consumers. This tool is 
- available for free through the West Orange Public Library.\n\nIn this Lunch 
- & Learn session\, you will learn:\n\n\n	To access Data Axle Reference 
- Solutions from home or office through the West Orange Public Library\n	How 
- to identify new sales prospects\n	Create customized business and consumer 
- marketing lists\n	Identify key business contacts\n	Locate home-based 
- businesses\n	Find businesses with web addresses\n	Define delivery 
- routes\n	Gather competitive business intelligence\n	Identify major industry 
- groups\n
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16699378
-URL:https://bccls.libcal.com/event/16699378
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261002T170000Z
-DTEND:20261002T200000Z
-DTSTAMP:20261002T000000Z
-SUMMARY:MANHATTAN SHORT Film Festival
-DESCRIPTION:\nJoin us for the 29th Annual MANHATTAN SHORT Film Festival\, a 
- worldwide event taking place in over 500 venues across six continents 
- between September 24 and October 4\,2026.\n\nMANHATTAN SHORT is the only 
- event of its kind. The Ten Finalists will screen simultaneously across the 
- world during a one-week period\,with the Best Film and Best Actor awards 
- determined by ballots cast by the audiences in each participating 
- venue.\n\nMANHATTAN SHORT 2026 Finalists:\nSmall Talk (USA)\, Mary is 
- Missing (Ireland)\, Candy Bar (Australia)\, Vultures (South Africa)\, Life 
- Goes On (United Kingdom)\, Hai Davai (Moldova)\, Pickup (Russia)\, 
- Norheimsund (Cuba)\, When the Sea was Calm (Georgia)\, Never Give Up 
- (Mexico).\n\n\nhttps://www.manhattanshort.com/\n\n\n\n\nThursday\, October 
- 1\, 6 PM\n\n\n\nFriday\, October 2\, 1 PM\n\n\n\nSunday\, October 4\, 1:30 
- PM\n\n2 hours\, 45 minutes (Intermission at 1:21)\n\nTrailer: 
- https://youtu.be/iOdETuNe6E0?si=39czrCjxf3znychO\n
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17021474
-URL:https://bccls.libcal.com/event/17021474
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261003T153000Z
 DTEND:20261003T173000Z
 DTSTAMP:20261003T000000Z
@@ -2627,6 +2580,22 @@ UID:LibCal-10341-16034708
 URL:https://bccls.libcal.com/event/16034708
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261216T230000Z
+DTEND:20261217T000000Z
+DTSTAMP:20261216T000000Z
+SUMMARY:Romance Book Club: Good Spirits
+DESCRIPTION:GOOD SPIRITS\nby B.K. Borison (2025)\n\nNolan Callahan haunts 
+ Harriet York\, who's not exactly Scrooge\, but as she and Nolan begin to 
+ examine her past\, they discover threads that bind them together -- and 
+ realize there might be more to moving on than expected. --EBSCO 
+ NoveList\n\n
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-17943170
+URL:https://bccls.libcal.com/event/17943170
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261217T160000Z
 DTEND:20261217T163000Z
 DTSTAMP:20261217T000000Z
@@ -2664,6 +2633,30 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft, Games
 UID:LibCal-10341-17692060
 URL:https://bccls.libcal.com/event/17692060
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261218T160000Z
+DTEND:20261218T170000Z
+DTSTAMP:20261218T000000Z
+SUMMARY:December Book Club: Beautyland
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Friday morning a month to chat about a title we read in 
+ common.\n\n--\n\nBEAUTYLAND\nby Marie-Helene Bertino (2024)\n\nA wise\, 
+ tender novel about a woman who doesn't feel at home on Earth: At the moment 
+ when Voyager 1 is launched into space\, a baby of unusual perception is 
+ born to a single mother in Philadelphia. Adina Giorno is tiny and 
+ jaundiced\, but reaches for warmth and light. As a child\, she recognizes 
+ that she is different\; she also possesses knowledge of a faraway planet 
+ and is here to report on the oddities of earthlings. For years\, as she 
+ moves through the world and makes a life for herself among humans\, she 
+ dispatches transmissions on the terrors and surprising joys of their 
+ existence. --publisher\n\nCopies will be available at the Circulation Desk 
+ starting November 20. \n\n
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-17302637
+URL:https://bccls.libcal.com/event/17302637
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261219T163000Z
@@ -6676,6 +6669,55 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318183
 URL:https://bccls.libcal.com/event/17318183
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271103T170000Z
+DTEND:20271103T180000Z
+DTSTAMP:20271103T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-17318612
+URL:https://bccls.libcal.com/event/17318612
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271103T180000Z
+DTEND:20271103T193000Z
+DTSTAMP:20271103T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318688
+URL:https://bccls.libcal.com/event/17318688
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271103T180000Z
+DTEND:20271103T200000Z
+DTSTAMP:20271103T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-17318758
+URL:https://bccls.libcal.com/event/17318758
 END:VEVENT
 
 END:VCALENDAR
