@@ -8,45 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261008T150000Z
-DTEND:20261008T153000Z
-DTSTAMP:20261008T000000Z
-SUMMARY:Tumbling Tots Storytime
-DESCRIPTION: A story time filled with rhymes\, music and movement\, early 
- language development for caregivers & children ages 2-5.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Story Time
-UID:LibCal-10341-17112532
-URL:https://bccls.libcal.com/event/17112532
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T180000Z
-DTEND:20261008T203000Z
-DTSTAMP:20261008T000000Z
-SUMMARY:Drop-in Mahjong
-DESCRIPTION:
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-17048679
-URL:https://bccls.libcal.com/event/17048679
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261008T203000Z
-DTEND:20261008T213000Z
-DTSTAMP:20261008T000000Z
-SUMMARY:Pokemon Class Series- Please Register
-DESCRIPTION:Learn to play the Pokemon card game and play with practice 
- decks with Ed from ChessWired! Please plan to attend all four sessions 
- (October 1\, 8\, 15\, and 22). Grades K - 5.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17583252
-URL:https://bccls.libcal.com/event/17583252
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261009T200000Z
 DTEND:20261009T210000Z
 DTSTAMP:20261009T000000Z
@@ -2090,10 +2051,10 @@ DESCRIPTION:Join us for a movie matinee on the first Friday of the month.
  Bag lunch provided by Toni's Kitchen.\n\n***\n\nBlue Heron (2026)\n1h 
  31m\nDirected by: Sophy Romvari \n\nWhen an immigrant family moves to 
  Vancouver Island in the 1990s\, the eldest son's behavior begins to throw 
- their lives off balance. \n\n \n\nThis Canadian filmmaker's feature debut 
- was a festival favorite but difficult to catch in local theaters. Here's 
- your chance to catch a rare and free screening of a movie named by many 
- critics as one of the year's best.\n\n
+ their lives off balance. \n\nThis Canadian filmmaker's feature debut was a 
+ festival favorite but difficult to catch in local theaters. Here's your 
+ chance to catch a rare and free screening of a movie named by many critics 
+ as one of the year's best.\n\n
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -2146,6 +2107,29 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094935
 URL:https://bccls.libcal.com/event/16094935
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261206T190000Z
+DTEND:20261206T203000Z
+DTSTAMP:20261206T000000Z
+SUMMARY:Folk & Blues with Tal Naccarato
+DESCRIPTION:About the program\n\nA singer-songwriter and guitarist in the 
+ Americana\, folk\, and blues styles\, Tal Naccarato plays solo acoustic 
+ music from his original and traditional repertoire. Mixed into the 
+ performance are discussions of the various music styles and demonstrations 
+ of rare vintage instruments. \n\n \n\nAbout the artist\n\nTal Naccarato is 
+ a vibrant composer\, songwriter\, and teaching artist whose roots stretch 
+ from the medieval mountain village of Fiumefreddo\, Bruzio\, Italy\, to the 
+ vibrant community of East Flatbush\, Brooklyn. His original music is a mix 
+ of folk\, Americana\, rock\, and blues\, mixed with classical guitar 
+ elements and a distinct bluesy swing. Tal was the first-place winner in the 
+ Long Island Blues Society Solo/Duo Competition in 2023. He performs solo 
+ acoustic shows\, both with original music and traditional songs.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Performance
+UID:LibCal-10341-17690175
+URL:https://bccls.libcal.com/event/17690175
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261207T230000Z
@@ -2248,6 +2232,36 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048689
 URL:https://bccls.libcal.com/event/17048689
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T233000Z
+DTEND:20261211T003000Z
+DTSTAMP:20261210T000000Z
+SUMMARY:Washington's Crossing: 1776
+DESCRIPTION:An America 250 Program\n\nHistorian Glenn LeBoeuf explains how 
+ General Washington’s audacious bets at Trenton and Princeton salvaged the 
+ freedom cause.\n\nAbout the program\n\nBy the winter of 1776\, 
+ Washington’s army had shrunk from its high of almost 31\,000 to about 
+ 3\,500 in December. Many politicians were demanding Washington's 
+ replacement\, but those who had stuck by him through the bitter defeats on 
+ Long Island and Manhattan and the swift retreat across New Jersey to the 
+ relative safety of Pennsylvania remained committed to the cause of 
+ independence. Come for the stories of these heroic troops and the numerous 
+ political\, logistical\, topographical\, and tactical problems they faced. 
+ Above all\, come hear about the leader who inspired them: Washington's 
+ soldiers would not quit this cause or this man. If you have never heard 
+ Glenn speak\, strap in for a fantastic experience!\n\nAbout the 
+ presenter\n\nSince 1984\, Glenn LeBoeuf has been lecturing in history and 
+ biography\, with a particular emphasis on the personalities of George 
+ Washington and Abraham Lincoln. His research has contributed to our 
+ understanding of their leadership styles and the historical contexts in 
+ which they operated\, and his teaching methods have inspired many students 
+ to explore the complexities of American history.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Lecture
+UID:LibCal-10341-16936546
+URL:https://bccls.libcal.com/event/16936546
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T163000Z
