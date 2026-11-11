@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261010T153000Z
-DTEND:20261010T173000Z
-DTSTAMP:20261010T000000Z
-SUMMARY:STEP ESL
-DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
- PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17136421
-URL:https://bccls.libcal.com/event/17136421
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261010T190000Z
-DTEND:20261010T203000Z
-DTSTAMP:20261010T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094927
-URL:https://bccls.libcal.com/event/16094927
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261011T173000Z
 DTEND:20261011T181500Z
 DTSTAMP:20261011T000000Z
@@ -2245,15 +2220,14 @@ BEGIN:VEVENT
 DTSTART:20261211T180000Z
 DTEND:20261211T203000Z
 DTSTAMP:20261211T000000Z
-SUMMARY:First Friday Film: Blue Heron
-DESCRIPTION:Join us for a movie matinee on the first Friday of the month. 
- Bag lunch provided by Toni's Kitchen.\n\n***\n\nBlue Heron (2026)\n1h 
- 31m\nDirected by: Sophy Romvari \n\nWhen an immigrant family moves to 
- Vancouver Island in the 1990s\, the eldest son's behavior begins to throw 
- their lives off balance. \n\nThis Canadian filmmaker's feature debut was a 
- festival favorite but difficult to catch in local theaters. Here's your 
- chance to catch a rare and free screening of a movie named by many critics 
- as one of the year's best.\n\n
+SUMMARY:First Friday Film: Blue Heron (NEW DATE)
+DESCRIPTION:Join us for a movie matinee. Bag lunch provided by Toni's 
+ Kitchen.\n\n***\n\nBlue Heron (2026)\n1h 31m\nDirected by: Sophy Romvari 
+ \n\nWhen an immigrant family moves to Vancouver Island in the 1990s\, the 
+ eldest son's behavior begins to throw their lives off balance. This 
+ Canadian filmmaker's feature debut was a festival favorite but difficult to 
+ catch in local theaters. Here's your chance to catch a rare and free 
+ screening of a movie named by many critics as one of the year's best.\n\n
 LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -2565,7 +2539,7 @@ BEGIN:VEVENT
 DTSTART:20261224T190000Z
 DTEND:20261224T213000Z
 DTSTAMP:20261224T000000Z
-SUMMARY:Drop-in Mahjong
+SUMMARY:Drop-in Mahjong CANCELLED
 DESCRIPTION:
 LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
@@ -2682,10 +2656,22 @@ UID:LibCal-10341-15878763
 URL:https://bccls.libcal.com/event/15878763
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261231T160000Z
+DTEND:20261231T173000Z
+DTSTAMP:20261231T000000Z
+SUMMARY:Happy NOON Year!
+DESCRIPTION:Countdown to 12 NOON!
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-18002474
+URL:https://bccls.libcal.com/event/18002474
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261231T190000Z
 DTEND:20261231T213000Z
 DTSTAMP:20261231T000000Z
-SUMMARY:Drop-in Mahjong
+SUMMARY:Drop-in Mahjong CANCELLED
 DESCRIPTION:
 LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
