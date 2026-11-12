@@ -8,57 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261011T173000Z
-DTEND:20261011T181500Z
-DTSTAMP:20261011T000000Z
-SUMMARY:Wiggle & Giggle w/ Ms. Bee
-DESCRIPTION:Join Ms. Bee for an interactive class filled with music & 
- movement for children 0-6 years old.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17307936
-URL:https://bccls.libcal.com/event/17307936
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261011T180000Z
-DTEND:20261011T193000Z
-DTSTAMP:20261011T000000Z
-SUMMARY:Misti Peruvian Jazz Duo
-DESCRIPTION:Program Description\n\nMisti Peruvian Jazz Duo performs unique 
- jazz improvisation with Andean and Afro-Peruvian music and Latin American 
- classics in an intimate concert. The program showcases Peruvian 
- contemporary artists and Latin American musical diversity.\n\nAbout the 
- artists\n\nPeruvian musicians Sofía Carrasco (tenor saxophone) and Victor 
- Sotomayor (piano)\, co-founders of Misti Music & Education\, form the Misti 
- Peruvian Jazz Duo.\nMisti Music & Teaching combines jazz and Peruvian music 
- via teaching\, performance\, and innovation.\nSofia and Victor\, jazz 
- musicians and educators from Jersey City\, New Jersey\, blend Andean and 
- Afro-Peruvian musical styles with their compositions.
-LOCATION:West Orange - Community Room 1
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17236155
-URL:https://bccls.libcal.com/event/17236155
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261011T190000Z
-DTEND:20261011T200000Z
-DTSTAMP:20261011T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at 
- https://oneinmath.com/register-student/\n\nThis program meets weekly 
- September 20th - November 22nd.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17254485
-URL:https://bccls.libcal.com/event/17254485
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261012T200000Z
 DTEND:20261012T210000Z
 DTSTAMP:20261012T000000Z
@@ -2004,11 +1953,19 @@ UID:LibCal-10341-17048688
 URL:https://bccls.libcal.com/event/17048688
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261205
+DTSTART:20261204T180000Z
+DTEND:20261204T203000Z
 DTSTAMP:20261204T000000Z
-SUMMARY:CLOSED- STAFF TRAINING
-DESCRIPTION:
+SUMMARY:First Friday Movie- Blue Heron
+DESCRIPTION:Join us for a movie matinee on the first Friday of the month. 
+ Bag lunch provided by Toni's Kitchen.\n\n***\n\nBlue Heron (2026)\n1h 
+ 31m\nDirected by: Sophy Romvari \n\nWhen an immigrant family moves to 
+ Vancouver Island in the 1990s\, the eldest son's behavior begins to throw 
+ their lives off balance. This Canadian filmmaker's feature debut was a 
+ festival favorite but difficult to catch in local theaters. Here's your 
+ chance to catch a rare and free screening of a movie named by many critics 
+ as one of the year's best.
+LOCATION:West Orange - Community Room 2
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17998295
@@ -2215,24 +2172,6 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Lecture
 UID:LibCal-10341-16936546
 URL:https://bccls.libcal.com/event/16936546
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261211T180000Z
-DTEND:20261211T203000Z
-DTSTAMP:20261211T000000Z
-SUMMARY:First Friday Film: Blue Heron (NEW DATE)
-DESCRIPTION:Join us for a movie matinee. Bag lunch provided by Toni's 
- Kitchen.\n\n***\n\nBlue Heron (2026)\n1h 31m\nDirected by: Sophy Romvari 
- \n\nWhen an immigrant family moves to Vancouver Island in the 1990s\, the 
- eldest son's behavior begins to throw their lives off balance. This 
- Canadian filmmaker's feature debut was a festival favorite but difficult to 
- catch in local theaters. Here's your chance to catch a rare and free 
- screening of a movie named by many critics as one of the year's best.\n\n
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16200645
-URL:https://bccls.libcal.com/event/16200645
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261212T163000Z
@@ -2660,7 +2599,7 @@ DTSTART:20261231T160000Z
 DTEND:20261231T173000Z
 DTSTAMP:20261231T000000Z
 SUMMARY:Happy NOON Year!
-DESCRIPTION:Countdown to 12 NOON!
+DESCRIPTION:Ring in 2027 with music and crafts as we count down to 12 NOON!
 LOCATION:West Orange - Program Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
