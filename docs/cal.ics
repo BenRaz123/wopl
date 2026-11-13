@@ -8,34 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261012T200000Z
-DTEND:20261012T210000Z
-DTSTAMP:20261012T000000Z
-SUMMARY:Drop-in Craft: Paper Plate Lacing Pumpkins
-DESCRIPTION: Join us in for creating paper plate lacing pumpkins. While 
- supplies last.
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-17307918
-URL:https://bccls.libcal.com/event/17307918
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261012T220000Z
-DTEND:20261012T230000Z
-DTSTAMP:20261012T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094975
-URL:https://bccls.libcal.com/event/16094975
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261013T150000Z
 DTEND:20261013T153000Z
 DTSTAMP:20261013T000000Z
@@ -1232,7 +1204,7 @@ SUMMARY:Adult Game Night
 DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
  some fun & friendly competition. A selection of board and card games will 
  be available & feel free to bring your own as well.
-LOCATION:West Orange - Community Room 2\, West Orange Public Library
+LOCATION:West Orange - Community Room 1\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft, Games
 UID:LibCal-10341-17626720
@@ -1831,7 +1803,7 @@ DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 DTSTAMP:20261130T000000Z
 SUMMARY:Grab & Create: Take Home Craft
-DESCRIPTION:Grab & Create a scarecrow. For children of all ages.
+DESCRIPTION:Grab & Create a paper roll scarecrow. For children of all ages.
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Craft
 UID:LibCal-10341-17873219
@@ -6522,6 +6494,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318759
 URL:https://bccls.libcal.com/event/17318759
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271113T200000Z
+DTEND:20271113T213000Z
+DTSTAMP:20271113T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318828
+URL:https://bccls.libcal.com/event/17318828
 END:VEVENT
 
 END:VCALENDAR
