@@ -8,19 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261016T200000Z
-DTEND:20261016T210000Z
-DTSTAMP:20261016T000000Z
-SUMMARY:Read to a Therapy Dog
-DESCRIPTION:Join us for buddy reading that will build confidence\, skill\, 
- and more with a trained therapy dog from Creature Comfort.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Special Event
-UID:LibCal-10341-17450413
-URL:https://bccls.libcal.com/event/17450413
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261017T153000Z
 DTEND:20261017T173000Z
 DTSTAMP:20261017T000000Z
@@ -1466,9 +1453,11 @@ DTSTART:20261122T190000Z
 DTEND:20261122T210000Z
 DTSTAMP:20261122T000000Z
 SUMMARY:Teens Teach: Lava Lamps presented by WO Reworks
-DESCRIPTION:Learn about STEM concepts and make your own lava lamp with high 
- school instructors from West Orange Reworks\, a student-led group dedicated 
- to providing accessible and enjoyable science and art projects to everyone.
+DESCRIPTION:Come to make DIY lava lamps and learn about the artistic 
+ concept of complementary and analogous colors with high schools instructors 
+ Noah and Anya! Organized by West Orange WO Reworks\, a student-led group 
+ dedicated to providing accessible and enjoyable art projects for all. 
+ Please Register at https://tinyurl.com/yudsvzwb
 LOCATION:West Orange - Program Room
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
@@ -1975,6 +1964,33 @@ UID:LibCal-10341-16034707
 URL:https://bccls.libcal.com/event/16034707
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261209T210000Z
+DTEND:20261209T220000Z
+DTSTAMP:20261209T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-18006737
+URL:https://bccls.libcal.com/event/18006737
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261209T233000Z
+DTEND:20261210T003000Z
+DTSTAMP:20261209T000000Z
+SUMMARY:Teen Advisory Group
+DESCRIPTION:High school students: Be a library star & help shape teen 
+ services at the library. Earn volunteer hours for attending- new members 
+ always welcome! Teen Advisory Group meets in the library teen 
+ space.\n\nEmail teens@westorangelibrary.org \n\n\n
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17989792
+URL:https://bccls.libcal.com/event/17989792
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261210T160000Z
 DTEND:20261210T163000Z
 DTSTAMP:20261210T000000Z
@@ -1998,6 +2014,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048689
 URL:https://bccls.libcal.com/event/17048689
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261210T213000Z
+DTEND:20261210T221500Z
+DTSTAMP:20261210T000000Z
+SUMMARY:Media Minds
+DESCRIPTION:Become media literate and explore digital literacy topics with 
+ fun and interactive activities led by Ms. Anusha! Best for anyone in grades 
+ 2-5.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17995712
+URL:https://bccls.libcal.com/event/17995712
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261210T233000Z
@@ -2220,6 +2249,19 @@ UID:LibCal-10341-17048690
 URL:https://bccls.libcal.com/event/17048690
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20261217T213000Z
+DTEND:20261217T221500Z
+DTSTAMP:20261217T000000Z
+SUMMARY:Media Minds
+DESCRIPTION:Become media literate and explore digital literacy topics with 
+ fun and interactive activities led by Ms. Anusha! Best for anyone in grades 
+ 2-5.
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17999823
+URL:https://bccls.libcal.com/event/17999823
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20261218T160000Z
 DTEND:20261218T170000Z
 DTSTAMP:20261218T000000Z
@@ -2280,6 +2322,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-16094937
 URL:https://bccls.libcal.com/event/16094937
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261221T210000Z
+DTEND:20261221T220000Z
+DTSTAMP:20261221T000000Z
+SUMMARY:Lego Mania
+DESCRIPTION:Come create something new or old out of Legos! For children 6
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-18005534
+URL:https://bccls.libcal.com/event/18005534
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261221T230000Z
@@ -2344,6 +2398,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-16034709
 URL:https://bccls.libcal.com/event/16034709
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261223T210000Z
+DTEND:20261223T220000Z
+DTSTAMP:20261223T000000Z
+SUMMARY:Sensory Frenzy Playtime
+DESCRIPTION:Stimulate your child’s mind from newborn - 5 years old 
+ through various sensory activities.
+LOCATION:West Orange - Program Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Games
+UID:LibCal-10341-18005604
+URL:https://bccls.libcal.com/event/18005604
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261224
@@ -2464,6 +2531,21 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318712
 URL:https://bccls.libcal.com/event/17318712
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20261231T000000Z
+DTEND:20261231T013000Z
+DTSTAMP:20261230T000000Z
+SUMMARY:Teen Open Mic Night
+DESCRIPTION:Calling all musicians\, poets\, comedians\, singers\, &  
+ performers in grades 6 - 12!\n\nExpress yourself at the library's open mic 
+ night. Bring your band\, tell your friends and family\, and support your 
+ peers.
+LOCATION:West Orange - Community Room 1
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17989881
+URL:https://bccls.libcal.com/event/17989881
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261231
@@ -6431,6 +6513,55 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318185
 URL:https://bccls.libcal.com/event/17318185
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271117T180000Z
+DTEND:20271117T190000Z
+DTSTAMP:20271117T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-17318614
+URL:https://bccls.libcal.com/event/17318614
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271117T190000Z
+DTEND:20271117T203000Z
+DTSTAMP:20271117T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318690
+URL:https://bccls.libcal.com/event/17318690
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271117T190000Z
+DTEND:20271117T210000Z
+DTSTAMP:20271117T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-17318760
+URL:https://bccls.libcal.com/event/17318760
 END:VEVENT
 
 END:VCALENDAR
