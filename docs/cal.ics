@@ -8,57 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261018T180000Z
-DTEND:20261018T200000Z
-DTSTAMP:20261018T000000Z
-SUMMARY:NEW DATE: Modern Calligraphy Workshop for Adults
-DESCRIPTION:Join The Spotted Canvas for a fun and relaxing Modern 
- Calligraphy Workshop designed for beginners. Participants will learn the 
- fundamentals of modern calligraphy\, including proper pen technique\, basic 
- strokes\, lettering\, and how to connect letters to create beautiful words 
- and phrases. Each participant will have the opportunity to practice their 
- new skills and create their own personalized calligraphy piece to take home 
- and enjoy.\n\nNo prior experience is necessary. All materials will be 
- provided.\n\nRegistration required.
-LOCATION:West Orange - Community Room 1\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Craft
-UID:LibCal-10341-17783899
-URL:https://bccls.libcal.com/event/17783899
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T180000Z
-DTEND:20261018T200000Z
-DTSTAMP:20261018T000000Z
-SUMMARY:Teens Teach: Pumpkin Water Color Bookmarks presented by WO Reworks
-DESCRIPTION:Learn about the artistic concept value with high school 
- instructors Noah and Anya! Organized by West Orange Reworks\, a student-led 
- group dedicated to providing accessible and enjoyable art projects to 
- everyone.
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17580426
-URL:https://bccls.libcal.com/event/17580426
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261018T190000Z
-DTEND:20261018T200000Z
-DTSTAMP:20261018T000000Z
-SUMMARY:One in Math
-DESCRIPTION:Free K-3rd Math Program\n\nUtilizes self-paced\, structured 
- curriculum\n\nDesigned to overcome math anxiety and build 
- self-confidence\n\nTaught by trained high school students.\n\nPlease 
- register for the West Orange Class at 
- https://oneinmath.com/register-student/\n\nThis program meets weekly 
- September 20th - November 22nd.
-LOCATION:West Orange - Community Room 2
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17254486
-URL:https://bccls.libcal.com/event/17254486
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261019T200000Z
 DTEND:20261019T210000Z
 DTSTAMP:20261019T000000Z
@@ -1313,7 +1262,7 @@ BEGIN:VEVENT
 DTSTART:20261120T210000Z
 DTEND:20261120T220000Z
 DTSTAMP:20261120T000000Z
-SUMMARY:Read to a Therapy Dog
+SUMMARY:CANCELLED Read to a Therapy Dog
 DESCRIPTION:All ages can come read to a therapy dog and build reading 
  skills & confidence.
 LOCATION:West Orange - Program Room
@@ -2740,6 +2689,19 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318142
 URL:https://bccls.libcal.com/event/17318142
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270120T110000Z
+DTEND:20270120T120000Z
+DTSTAMP:20270120T000000Z
+SUMMARY:January Romance Book Club
+DESCRIPTION:A book club for adults who want to read in community. We meet 
+ one Wednesday Evening a month\n\n--\n\n
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Book Club
+UID:LibCal-10341-18052453
+URL:https://bccls.libcal.com/event/18052453
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270120T180000Z
