@@ -8,44 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261019T200000Z
-DTEND:20261019T210000Z
-DTSTAMP:20261019T000000Z
-SUMMARY:Lego Mania
-DESCRIPTION:Come create something new or old out of Legos. For children 7
-LOCATION:West Orange - Program Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Club
-UID:LibCal-10341-17633279
-URL:https://bccls.libcal.com/event/17633279
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T220000Z
-DTEND:20261019T230000Z
-DTSTAMP:20261019T000000Z
-SUMMARY:Rosetta Stone Language Lab
-DESCRIPTION:Learn a new language with Rosetta Stone! \n\nThis award-winning 
- language learning software is available for free with your library card. 
- Find a program specifically tailored to your learning style and strengthen 
- your language skills for travel\, work\, or fun.
-LOCATION:West Orange - Computer Lab
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094976
-URL:https://bccls.libcal.com/event/16094976
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261019T230000Z
-DTEND:20261020T010000Z
-DTSTAMP:20261019T000000Z
-SUMMARY:WOPL Friends Board Meeting
-DESCRIPTION:
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17792598
-URL:https://bccls.libcal.com/event/17792598
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261020T150000Z
 DTEND:20261020T153000Z
 DTSTAMP:20261020T000000Z
@@ -2151,17 +2113,12 @@ DTSTAMP:20261218T000000Z
 SUMMARY:December Book Club: Beautyland
 DESCRIPTION:A book club for adults who want to read in community. We meet 
  one Friday morning a month to chat about a title we read in 
- common.\n\n--\n\nBEAUTYLAND\nby Marie-Helene Bertino (2024)\n\nA wise\, 
- tender novel about a woman who doesn't feel at home on Earth: At the moment 
- when Voyager 1 is launched into space\, a baby of unusual perception is 
- born to a single mother in Philadelphia. Adina Giorno is tiny and 
- jaundiced\, but reaches for warmth and light. As a child\, she recognizes 
- that she is different\; she also possesses knowledge of a faraway planet 
- and is here to report on the oddities of earthlings. For years\, as she 
- moves through the world and makes a life for herself among humans\, she 
- dispatches transmissions on the terrors and surprising joys of their 
- existence. --publisher\n\nCopies will be available at the Circulation Desk 
- starting November 20. \n\n
+ common.\n\n--\n\nBEAUTYLAND\nby Marie-Helene Bertino (2024)\n\nAt the 
+ moment when Voyager 1 is launched into space\, a baby of unusual perception 
+ is born to a single mother in Philly in this gorgeously original 
+ coming-of-age novel about a woman who doesn't feel at home on 
+ Earth.\n\nCopies will be available at the Circulation Desk starting 
+ November 20. \n\n
 LOCATION:Literacy Room\, West Orange Public Library
 ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Book Club
@@ -6458,6 +6415,18 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318760
 URL:https://bccls.libcal.com/event/17318760
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271120T200000Z
+DTEND:20271120T213000Z
+DTSTAMP:20271120T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:West Orange - Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318829
+URL:https://bccls.libcal.com/event/17318829
 END:VEVENT
 
 END:VCALENDAR
