@@ -8,39 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261023T150000Z
-DTEND:20261023T160000Z
-DTSTAMP:20261023T000000Z
-SUMMARY:October Book Club: Is This a Cry for Help?
-DESCRIPTION:A book club for adults who want to read in community. We meet 
- one Friday morning a month to chat about a title we read in 
- common.\n\n--\n\nIS THIS A CRY FOR HELP?\nby Emily Austin (2026)\n\nA 
- librarian recovering from a mental health crisis triggered by grief and 
- loss returns to work...only to be met by a community in crisis over 
- book-banning. Austin brings her trademark heart and humor to this 
- empowering story of love\, new adulthood\, queer identity\, and the fight 
- for intellectual freedom.
-LOCATION:Literacy Room\, West Orange Public Library
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Book Club
-UID:LibCal-10341-17302613
-URL:https://bccls.libcal.com/event/17302613
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261023T200000Z
-DTEND:20261023T210000Z
-DTSTAMP:20261023T000000Z
-SUMMARY:Board Games
-DESCRIPTION:A variety of board games and puzzles will be available to use 
- for children in grades K-5 in the youth services programming room. No 
- Registration Required
-LOCATION:West Orange - Program Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:Games
-UID:LibCal-10341-17307934
-URL:https://bccls.libcal.com/event/17307934
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261024T153000Z
 DTEND:20261024T173000Z
 DTSTAMP:20261024T000000Z
@@ -2413,6 +2380,38 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Games
 UID:LibCal-10341-17048693
 URL:https://bccls.libcal.com/event/17048693
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270107T233000Z
+DTEND:20270108T013000Z
+DTSTAMP:20270107T000000Z
+SUMMARY:Adult Game Night
+DESCRIPTION:Looking for a place to play or people to play with? Drop by for 
+ some fun & friendly competition. A selection of board and card games will 
+ be available & feel free to bring your own as well.
+LOCATION:Literacy Room\, West Orange Public Library
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Craft, Games
+UID:LibCal-10341-18029493
+URL:https://bccls.libcal.com/event/18029493
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270108T180000Z
+DTEND:20270108T203000Z
+DTSTAMP:20270108T000000Z
+SUMMARY:First Friday Film: Sense and Sensibility (2026)
+DESCRIPTION:Join us for a movie matinee on our first open Friday of the 
+ month. Bag lunch provided by Toni's Kitchen.\n\n***\n\nSense and 
+ Sensibility (2026)\nPG\, 2h 13m\n\nFeaturing: Daisy Edgar-Jones\, Esmé 
+ Creed-Miles\, Caitríona Balfe \nDirected by: Georgia Oakley\n\nSisters 
+ Elinor and Marianne Dashwood must leave their Sussex estate to live with a 
+ distant relative\, while facing both romantic and financial struggles. 
+ --IMDB\n\nBased on the classic novel by Jane Austen.
+LOCATION:West Orange - Community Room 2
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-18027339
+URL:https://bccls.libcal.com/event/18027339
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270109T200000Z
@@ -6335,6 +6334,66 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318186
 URL:https://bccls.libcal.com/event/17318186
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271124
+DTEND;VALUE=DATE:20271125
+DTSTAMP:20271124T000000Z
+SUMMARY:CLOSE @ 5:30
+DESCRIPTION:
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17846098
+URL:https://bccls.libcal.com/event/17846098
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271124T180000Z
+DTEND:20271124T190000Z
+DTSTAMP:20271124T000000Z
+SUMMARY:English Conversation Class
+DESCRIPTION:\n	Join this informal get-together for anyone who wants to 
+ learn English\, improve their English or just listen to others enjoying 
+ English conversation\n	Everyone is welcome\, regardless of their location\, 
+ educational experience\, or background.\n	The conversation leader will help 
+ everyone practice speaking in English through group social 
+ interaction\n	Easy-to-read books in English will be introduced to improve 
+ vocabulary and comprehension\n	Come for a friendly\, lively atmosphere and 
+ get to know others who want to gain comfort with English 
+ conversation.\n\n\nThis program will be held in the Literacy Room.
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:ESL
+UID:LibCal-10341-17318615
+URL:https://bccls.libcal.com/event/17318615
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271124T190000Z
+DTEND:20271124T203000Z
+DTSTAMP:20271124T000000Z
+SUMMARY:Learn English
+DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
+LOCATION:Literacy Room
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17318691
+URL:https://bccls.libcal.com/event/17318691
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271124T190000Z
+DTEND:20271124T210000Z
+DTSTAMP:20271124T000000Z
+SUMMARY:Tech Talk
+DESCRIPTION:Welcome to Tech Talk. We offer the following:\n\n\n	2-hour 
+ NorthStar Digital Literacy class\n	Assistance with your computer\, 
+ smartphone\, tablet\, or other device\n	20-minute private sessions with 
+ tech instructors\n\n\nPlease call the Reference Desk to make your 
+ appointment: (973) 736-0196\n\nThis class meets in the Community Room while 
+ the lower level is repaired. Unfortunately\, computer access is limited.
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:Technology
+UID:LibCal-10341-17318761
+URL:https://bccls.libcal.com/event/17318761
 END:VEVENT
 
 END:VCALENDAR
