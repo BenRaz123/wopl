@@ -8,31 +8,6 @@ X-WR-CALDESC:
 X-WR-TIMEZONE:America/New_York
 X-PUBLISHED-TTL:PT15M
 BEGIN:VEVENT
-DTSTART:20261024T153000Z
-DTEND:20261024T173000Z
-DTSTAMP:20261024T000000Z
-SUMMARY:STEP ESL
-DESCRIPTION:STEP ( Statewide Training of English Proficiency) ESL 
- PROGRAM\n\nCall the Reference Desk at 973-736-0196 for more information\n
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-17136423
-URL:https://bccls.libcal.com/event/17136423
-END:VEVENT
-BEGIN:VEVENT
-DTSTART:20261024T190000Z
-DTEND:20261024T203000Z
-DTSTAMP:20261024T000000Z
-SUMMARY:Learn English
-DESCRIPTION:Drop in ESL Class with Instructor Jason Graves
-LOCATION:Literacy Room
-ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
-CATEGORIES:
-UID:LibCal-10341-16094929
-URL:https://bccls.libcal.com/event/16094929
-END:VEVENT
-BEGIN:VEVENT
 DTSTART:20261025T190000Z
 DTEND:20261025T200000Z
 DTSTAMP:20261025T000000Z
@@ -2321,6 +2296,28 @@ UID:LibCal-10341-17318140
 URL:https://bccls.libcal.com/event/17318140
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270106T150000Z
+DTEND:20270106T180000Z
+DTSTAMP:20270106T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931721
+URL:https://bccls.libcal.com/event/17931721
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270106T180000Z
 DTEND:20270106T190000Z
 DTSTAMP:20270106T000000Z
@@ -2441,6 +2438,28 @@ UID:LibCal-10341-17318141
 URL:https://bccls.libcal.com/event/17318141
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270113T150000Z
+DTEND:20270113T180000Z
+DTSTAMP:20270113T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931722
+URL:https://bccls.libcal.com/event/17931722
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270113T180000Z
 DTEND:20270113T190000Z
 DTSTAMP:20270113T000000Z
@@ -2553,6 +2572,28 @@ UID:LibCal-10341-18052453
 URL:https://bccls.libcal.com/event/18052453
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270120T150000Z
+DTEND:20270120T180000Z
+DTSTAMP:20270120T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931723
+URL:https://bccls.libcal.com/event/17931723
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270120T180000Z
 DTEND:20270120T190000Z
 DTSTAMP:20270120T000000Z
@@ -2639,6 +2680,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318143
 URL:https://bccls.libcal.com/event/17318143
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270127T150000Z
+DTEND:20270127T180000Z
+DTSTAMP:20270127T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931724
+URL:https://bccls.libcal.com/event/17931724
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270127T180000Z
@@ -2729,6 +2792,28 @@ UID:LibCal-10341-17318144
 URL:https://bccls.libcal.com/event/17318144
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270203T150000Z
+DTEND:20270203T180000Z
+DTSTAMP:20270203T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931725
+URL:https://bccls.libcal.com/event/17931725
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270203T180000Z
 DTEND:20270203T190000Z
 DTSTAMP:20270203T000000Z
@@ -2815,6 +2900,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318145
 URL:https://bccls.libcal.com/event/17318145
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270210T150000Z
+DTEND:20270210T180000Z
+DTSTAMP:20270210T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931726
+URL:https://bccls.libcal.com/event/17931726
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270210T180000Z
@@ -2916,6 +3023,28 @@ UID:LibCal-10341-17318146
 URL:https://bccls.libcal.com/event/17318146
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270217T150000Z
+DTEND:20270217T180000Z
+DTSTAMP:20270217T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931727
+URL:https://bccls.libcal.com/event/17931727
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270217T180000Z
 DTEND:20270217T190000Z
 DTSTAMP:20270217T000000Z
@@ -3002,6 +3131,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318147
 URL:https://bccls.libcal.com/event/17318147
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270224T150000Z
+DTEND:20270224T180000Z
+DTSTAMP:20270224T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931728
+URL:https://bccls.libcal.com/event/17931728
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270224T180000Z
@@ -3092,6 +3243,28 @@ UID:LibCal-10341-17318148
 URL:https://bccls.libcal.com/event/17318148
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270303T150000Z
+DTEND:20270303T180000Z
+DTSTAMP:20270303T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931729
+URL:https://bccls.libcal.com/event/17931729
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270303T180000Z
 DTEND:20270303T190000Z
 DTSTAMP:20270303T000000Z
@@ -3178,6 +3351,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318149
 URL:https://bccls.libcal.com/event/17318149
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270310T150000Z
+DTEND:20270310T180000Z
+DTSTAMP:20270310T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931730
+URL:https://bccls.libcal.com/event/17931730
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270310T180000Z
@@ -3268,6 +3463,28 @@ UID:LibCal-10341-17318150
 URL:https://bccls.libcal.com/event/17318150
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270317T140000Z
+DTEND:20270317T170000Z
+DTSTAMP:20270317T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931731
+URL:https://bccls.libcal.com/event/17931731
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270317T170000Z
 DTEND:20270317T180000Z
 DTSTAMP:20270317T000000Z
@@ -3354,6 +3571,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318151
 URL:https://bccls.libcal.com/event/17318151
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270324T140000Z
+DTEND:20270324T170000Z
+DTSTAMP:20270324T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931732
+URL:https://bccls.libcal.com/event/17931732
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270324T170000Z
@@ -3455,6 +3694,28 @@ UID:LibCal-10341-17318152
 URL:https://bccls.libcal.com/event/17318152
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270331T140000Z
+DTEND:20270331T170000Z
+DTSTAMP:20270331T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931733
+URL:https://bccls.libcal.com/event/17931733
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270331T170000Z
 DTEND:20270331T180000Z
 DTSTAMP:20270331T000000Z
@@ -3541,6 +3802,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318153
 URL:https://bccls.libcal.com/event/17318153
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270407T140000Z
+DTEND:20270407T170000Z
+DTSTAMP:20270407T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931734
+URL:https://bccls.libcal.com/event/17931734
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270407T170000Z
@@ -3631,6 +3914,28 @@ UID:LibCal-10341-17318154
 URL:https://bccls.libcal.com/event/17318154
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270414T140000Z
+DTEND:20270414T170000Z
+DTSTAMP:20270414T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931735
+URL:https://bccls.libcal.com/event/17931735
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270414T170000Z
 DTEND:20270414T180000Z
 DTSTAMP:20270414T000000Z
@@ -3717,6 +4022,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318155
 URL:https://bccls.libcal.com/event/17318155
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270421T140000Z
+DTEND:20270421T170000Z
+DTSTAMP:20270421T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931736
+URL:https://bccls.libcal.com/event/17931736
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270421T170000Z
@@ -3807,6 +4134,28 @@ UID:LibCal-10341-17318156
 URL:https://bccls.libcal.com/event/17318156
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270428T140000Z
+DTEND:20270428T170000Z
+DTSTAMP:20270428T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931737
+URL:https://bccls.libcal.com/event/17931737
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270428T170000Z
 DTEND:20270428T180000Z
 DTSTAMP:20270428T000000Z
@@ -3893,6 +4242,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318157
 URL:https://bccls.libcal.com/event/17318157
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270505T140000Z
+DTEND:20270505T170000Z
+DTSTAMP:20270505T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931738
+URL:https://bccls.libcal.com/event/17931738
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270505T170000Z
@@ -3983,6 +4354,28 @@ UID:LibCal-10341-17318158
 URL:https://bccls.libcal.com/event/17318158
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270512T140000Z
+DTEND:20270512T170000Z
+DTSTAMP:20270512T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931739
+URL:https://bccls.libcal.com/event/17931739
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270512T170000Z
 DTEND:20270512T180000Z
 DTSTAMP:20270512T000000Z
@@ -4071,6 +4464,28 @@ UID:LibCal-10341-17318159
 URL:https://bccls.libcal.com/event/17318159
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270519T140000Z
+DTEND:20270519T170000Z
+DTSTAMP:20270519T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931740
+URL:https://bccls.libcal.com/event/17931740
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270519T170000Z
 DTEND:20270519T180000Z
 DTSTAMP:20270519T000000Z
@@ -4157,6 +4572,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318160
 URL:https://bccls.libcal.com/event/17318160
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270526T140000Z
+DTEND:20270526T170000Z
+DTSTAMP:20270526T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931741
+URL:https://bccls.libcal.com/event/17931741
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270526T170000Z
@@ -4258,6 +4695,28 @@ UID:LibCal-10341-17318161
 URL:https://bccls.libcal.com/event/17318161
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270602T140000Z
+DTEND:20270602T170000Z
+DTSTAMP:20270602T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931742
+URL:https://bccls.libcal.com/event/17931742
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270602T170000Z
 DTEND:20270602T180000Z
 DTSTAMP:20270602T000000Z
@@ -4344,6 +4803,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318162
 URL:https://bccls.libcal.com/event/17318162
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270609T140000Z
+DTEND:20270609T170000Z
+DTSTAMP:20270609T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931743
+URL:https://bccls.libcal.com/event/17931743
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270609T170000Z
@@ -4434,6 +4915,28 @@ UID:LibCal-10341-17318163
 URL:https://bccls.libcal.com/event/17318163
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270616T140000Z
+DTEND:20270616T170000Z
+DTSTAMP:20270616T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931744
+URL:https://bccls.libcal.com/event/17931744
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270616T170000Z
 DTEND:20270616T180000Z
 DTSTAMP:20270616T000000Z
@@ -4522,6 +5025,28 @@ UID:LibCal-10341-17318164
 URL:https://bccls.libcal.com/event/17318164
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270623T140000Z
+DTEND:20270623T170000Z
+DTSTAMP:20270623T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931745
+URL:https://bccls.libcal.com/event/17931745
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270623T170000Z
 DTEND:20270623T180000Z
 DTSTAMP:20270623T000000Z
@@ -4608,6 +5133,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318165
 URL:https://bccls.libcal.com/event/17318165
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270630T140000Z
+DTEND:20270630T170000Z
+DTSTAMP:20270630T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931746
+URL:https://bccls.libcal.com/event/17931746
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270630T170000Z
@@ -4709,6 +5256,28 @@ UID:LibCal-10341-17318166
 URL:https://bccls.libcal.com/event/17318166
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270707T140000Z
+DTEND:20270707T170000Z
+DTSTAMP:20270707T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931747
+URL:https://bccls.libcal.com/event/17931747
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270707T170000Z
 DTEND:20270707T180000Z
 DTSTAMP:20270707T000000Z
@@ -4795,6 +5364,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318167
 URL:https://bccls.libcal.com/event/17318167
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270714T140000Z
+DTEND:20270714T170000Z
+DTSTAMP:20270714T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931748
+URL:https://bccls.libcal.com/event/17931748
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270714T170000Z
@@ -4885,6 +5476,28 @@ UID:LibCal-10341-17318168
 URL:https://bccls.libcal.com/event/17318168
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270721T140000Z
+DTEND:20270721T170000Z
+DTSTAMP:20270721T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931749
+URL:https://bccls.libcal.com/event/17931749
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270721T170000Z
 DTEND:20270721T180000Z
 DTSTAMP:20270721T000000Z
@@ -4971,6 +5584,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318169
 URL:https://bccls.libcal.com/event/17318169
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270728T140000Z
+DTEND:20270728T170000Z
+DTSTAMP:20270728T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931750
+URL:https://bccls.libcal.com/event/17931750
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270728T170000Z
@@ -5061,6 +5696,28 @@ UID:LibCal-10341-17318170
 URL:https://bccls.libcal.com/event/17318170
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270804T140000Z
+DTEND:20270804T170000Z
+DTSTAMP:20270804T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931751
+URL:https://bccls.libcal.com/event/17931751
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270804T170000Z
 DTEND:20270804T180000Z
 DTSTAMP:20270804T000000Z
@@ -5147,6 +5804,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318171
 URL:https://bccls.libcal.com/event/17318171
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270811T140000Z
+DTEND:20270811T170000Z
+DTSTAMP:20270811T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931752
+URL:https://bccls.libcal.com/event/17931752
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270811T170000Z
@@ -5237,6 +5916,28 @@ UID:LibCal-10341-17318172
 URL:https://bccls.libcal.com/event/17318172
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270818T140000Z
+DTEND:20270818T170000Z
+DTSTAMP:20270818T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931753
+URL:https://bccls.libcal.com/event/17931753
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270818T170000Z
 DTEND:20270818T180000Z
 DTSTAMP:20270818T000000Z
@@ -5323,6 +6024,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318173
 URL:https://bccls.libcal.com/event/17318173
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270825T140000Z
+DTEND:20270825T170000Z
+DTSTAMP:20270825T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931754
+URL:https://bccls.libcal.com/event/17931754
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270825T170000Z
@@ -5413,6 +6136,28 @@ UID:LibCal-10341-17318174
 URL:https://bccls.libcal.com/event/17318174
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270901T140000Z
+DTEND:20270901T170000Z
+DTSTAMP:20270901T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931755
+URL:https://bccls.libcal.com/event/17931755
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270901T170000Z
 DTEND:20270901T180000Z
 DTSTAMP:20270901T000000Z
@@ -5500,6 +6245,28 @@ UID:LibCal-10341-17318175
 URL:https://bccls.libcal.com/event/17318175
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270908T140000Z
+DTEND:20270908T170000Z
+DTSTAMP:20270908T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931756
+URL:https://bccls.libcal.com/event/17931756
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270908T170000Z
 DTEND:20270908T180000Z
 DTSTAMP:20270908T000000Z
@@ -5574,6 +6341,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318176
 URL:https://bccls.libcal.com/event/17318176
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270915T140000Z
+DTEND:20270915T170000Z
+DTSTAMP:20270915T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931757
+URL:https://bccls.libcal.com/event/17931757
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270915T170000Z
@@ -5652,6 +6441,28 @@ UID:LibCal-10341-17318177
 URL:https://bccls.libcal.com/event/17318177
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20270922T140000Z
+DTEND:20270922T170000Z
+DTSTAMP:20270922T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931758
+URL:https://bccls.libcal.com/event/17931758
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20270922T170000Z
 DTEND:20270922T180000Z
 DTSTAMP:20270922T000000Z
@@ -5726,6 +6537,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318178
 URL:https://bccls.libcal.com/event/17318178
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20270929T140000Z
+DTEND:20270929T170000Z
+DTSTAMP:20270929T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931759
+URL:https://bccls.libcal.com/event/17931759
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20270929T170000Z
@@ -5804,6 +6637,28 @@ UID:LibCal-10341-17318179
 URL:https://bccls.libcal.com/event/17318179
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20271006T140000Z
+DTEND:20271006T170000Z
+DTSTAMP:20271006T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931760
+URL:https://bccls.libcal.com/event/17931760
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20271006T170000Z
 DTEND:20271006T180000Z
 DTSTAMP:20271006T000000Z
@@ -5878,6 +6733,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318180
 URL:https://bccls.libcal.com/event/17318180
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271013T140000Z
+DTEND:20271013T170000Z
+DTSTAMP:20271013T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931761
+URL:https://bccls.libcal.com/event/17931761
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20271013T170000Z
@@ -5956,6 +6833,28 @@ UID:LibCal-10341-17318181
 URL:https://bccls.libcal.com/event/17318181
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20271020T140000Z
+DTEND:20271020T170000Z
+DTSTAMP:20271020T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931762
+URL:https://bccls.libcal.com/event/17931762
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20271020T170000Z
 DTEND:20271020T180000Z
 DTSTAMP:20271020T000000Z
@@ -6030,6 +6929,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318182
 URL:https://bccls.libcal.com/event/17318182
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271027T140000Z
+DTEND:20271027T170000Z
+DTSTAMP:20271027T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931763
+URL:https://bccls.libcal.com/event/17931763
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20271027T170000Z
@@ -6108,6 +7029,28 @@ UID:LibCal-10341-17318183
 URL:https://bccls.libcal.com/event/17318183
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20271103T140000Z
+DTEND:20271103T170000Z
+DTSTAMP:20271103T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931764
+URL:https://bccls.libcal.com/event/17931764
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20271103T170000Z
 DTEND:20271103T180000Z
 DTSTAMP:20271103T000000Z
@@ -6184,6 +7127,28 @@ UID:LibCal-10341-17318184
 URL:https://bccls.libcal.com/event/17318184
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20271110T150000Z
+DTEND:20271110T180000Z
+DTSTAMP:20271110T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931765
+URL:https://bccls.libcal.com/event/17931765
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20271110T180000Z
 DTEND:20271110T190000Z
 DTSTAMP:20271110T000000Z
@@ -6258,6 +7223,28 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:
 UID:LibCal-10341-17318185
 URL:https://bccls.libcal.com/event/17318185
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20271117T150000Z
+DTEND:20271117T180000Z
+DTSTAMP:20271117T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931766
+URL:https://bccls.libcal.com/event/17931766
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20271117T180000Z
@@ -6347,6 +7334,28 @@ UID:LibCal-10341-17846098
 URL:https://bccls.libcal.com/event/17846098
 END:VEVENT
 BEGIN:VEVENT
+DTSTART:20271124T150000Z
+DTEND:20271124T180000Z
+DTSTAMP:20271124T000000Z
+SUMMARY:SCORE Business Mentoring
+DESCRIPTION:\n\n\n\n\n\n\n5 Steps for Mentoring\n\n\n\n\nFollow five simple 
+ steps to connect with a SCORE mentor and move your business forward with 
+ expert 
+ guidance.\n\nhttps://www.score.org/how-mentoring-works/\n\n\n\n\n\nThe 
+ Service Corps of Retired Executives\, now known as SCORE\, offers 
+ entrepreneurs free\, confidential drop in business mentoring. SCORE mentors 
+ are experts in entrepreneurship and business operations who volunteer their 
+ time to share their expertise with small business clients. Whether you’re 
+ starting a business\, growing an existing company\, or planning your next 
+ move\, SCORE provides the guidance and tools to help you 
+ succeed.\n\nhttps://www.score.org/nj/metro-nj/\n
+LOCATION:West Orange - Computer Lab
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17931767
+URL:https://bccls.libcal.com/event/17931767
+END:VEVENT
+BEGIN:VEVENT
 DTSTART:20271124T180000Z
 DTEND:20271124T190000Z
 DTSTAMP:20271124T000000Z
@@ -6394,6 +7403,17 @@ ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
 CATEGORIES:Technology
 UID:LibCal-10341-17318761
 URL:https://bccls.libcal.com/event/17318761
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+DTSTAMP:20271125T000000Z
+SUMMARY:CLOSED-THANKS
+DESCRIPTION:
+ORGANIZER;CN="West Orange Library":MAILTO:events@westorange.bccls.org
+CATEGORIES:
+UID:LibCal-10341-17846096
+URL:https://bccls.libcal.com/event/17846096
 END:VEVENT
 
 END:VCALENDAR
